@@ -4,13 +4,12 @@ Lists daily rates for major currencies since 1971 as HTML tables.
 
 You can view the snapshot here:
 
-http://wgetsnaps.github.io/federalreserve.gov--foreign-exchange-rates-h10/releases/h10/hist/
+https://wgetsnaps.github.io/federalreserve.gov--foreign-exchange-rates-h10/releases/h10/hist/default.htm
 
 
 Original landing page:
 
-https://www.federalreserve.gov/releases/h10/hist/
-
+https://www.federalreserve.gov/releases/h10/hist/default.htm
 
 
 # Bash script and wget code
@@ -48,6 +47,9 @@ wget --page-requisites \
      https://www.federalreserve.gov/releases/h10/hist/default1989.htm |
      tee -a ./wget.log
 
+# remove clutter
+rm *.orig 
+rm *.htm
 
 ```
 

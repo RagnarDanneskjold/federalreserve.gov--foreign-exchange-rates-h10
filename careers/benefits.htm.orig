@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/careers.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Federal Reserve Board:  Career Opportunities</title>
+<!-- InstanceEndEditable -->
+
+<!-- InstanceBeginEditable name="head" -->
+
+<!-- InstanceEndEditable -->
+
+<style type="text/css" media="screen">
+		@import url(styles/careers.css);
+    </style>
+<style type="text/css" media="print">
+		@import url(styles/print.css);
+    </style>
+    
+<script language="JavaScript">
+ <!-- hide javascript
+
+function popUp(pPage, winw, winh)
+{  var winOpts = 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1,width=' + winw + ',height=' + winh;
+   popUpWin = window.open(pPage,'popWin',winOpts);
+   if (parseInt(navigator.appVersion) >= 4)
+     { popUpWin.window.focus();
+     }
+}
+
+//-->
+
+var now = new Date();
+
+var months = new Array(
+"January","February","March","April","May","June","July","August","September","October","November","December");
+
+var monthname= months[now.getMonth()];
+var date= now.getDate();
+var year= now.getYear();
+if (year < 2000) year = 1900 + year;
+
+</script>
+<script language="JavaScript" src="/exit_new.js"></script>   
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+<body>
+
+<!-- Begin Top LInks -->
+<div id="toplinks">
+<h1>Careers at the Federal Reserve</h1>
+<div class="right"><a href="javascript:exitWindow('https://twitter.com/fed_careers','ext')"><img src="gifjpg/twitter-icon.png" alt="Visit our Twitter page" border="0" width="29" height="29" align="absmiddle" /></a><a href="javascript:exitWindow('http://www.linkedin.com/company/federal-reserve-board/careers?trk=top_nav_careers','ext')"><img src="gifjpg/linkedin-icon.png" alt="Visit our LinkedIn page" border="0" width="29" height="29" align="absmiddle" /></a> <a href="/">Federal Reserve Board</a></div>
+<div class="brclear"></div>
+</div>
+<a class="skip" href="#content">Skip to content</a>
+<!--Begin Header-->
+
+<div id="headerContainer"><a name="top"></a><noscript><p>Some links on this page require Javascript.</p></noscript>
+
+<div id="headerBackground"><a href="default.htm">
+
+<!-- InstanceBeginEditable name="headerImage" -->
+<img src="gifjpg/header2.jpg" border="0" alt="Guiding the Nation's Economy: Careers at the Federal Reserve Board of Governors, home page. "/>
+<!-- InstanceEndEditable -->
+<div class="printText">Guiding the Nation's Economy</div>
+</a>
+
+  <!-- #BeginLibraryItem "/navigation.lbi" -->
+  <table class="menu">
+    <tr>
+      <td width="8%"><a href="benefits.htm">Benefits</a></td>
+      <td width="10%"><a href="salary.htm">Salary</a></td>
+      <td width="20%"><a href="diversity.htm">Commitment to Diversity</a></td>
+      <td width="26%"><a href="faq.htm">Frequently Asked Questions (FAQs)</a></td>
+      <td width="17%"><a href="directions.htm">Getting to the Board</a></td>
+      <td width="19%" class="last"><a href="addInfo.htm">Additional Information</a></td>
+    </tr>
+  </table>
+  <!-- #EndLibraryItem --></div>
+</div>
+<a class="skip" href="#content">Skip to content</a>
+<!--End Header-->
+
+<!--Begin Main Section-->
+
+<div id="MainContentContainer"><!--Contains all three columns - LeftCenter Container and RightContainer-->
+
+<div id="LeftCenterContainer"><!--Holds the left navigation and center content-->
+		<!--Divs for Left Menu Items-->
+		
+		<div id="leftContent">
+		<!--<div class="quickLinkTitle">Quick Links</div>-->
+		<!-- InstanceBeginEditable name="leftLinks" -->
+        <div id="menu">
+		<ul class="mainLinks">
+        <a name="links"></a>
+	<li><a href="#health">Health, Dental, and Vision</a></li>
+    <li><a href="#other">Other Insurance</a></li>
+		<li><a href="#retirement">Pension Plan</a></li>
+	<li><a href="#thrift">Thrift Plan</a></li>
+    <li><a href="#alternative">Alternative Work Arrangements</a></li>
+    <li><a href="#transportation">Transportation Subsidy</a></li>
+    <li><a href="#academic">Academic Assistance</a></li>
+    <li><a href="#leave">Leave</a></li>
+    <li><a href="#career">Career Development</a></li>
+    <li><a href="#benefits">Other Benefits</a></li>
+		</ul>
+		</div>
+		<!-- InstanceEndEditable -->
+		</div>
+		
+		<!--End Left Menu Items-->
+      <!--Begin Center Column-->
+	
+		<div id="centerContent">
+		<a name="content"></a>
+        
+        <!-- InstanceBeginEditable name="centerContent" -->
+		
+		
+		
+		
+		<h1>Benefits</h1>
+		
+		<a name="health"></a><h2>Health, Dental, and Vision Benefits</h2>
+		<p>Comprehensive health, dental, and vision insurance is offered to Board employees and their families. The Board pays a portion of the premiums for these insurance plans and provides a health care stipend to further offset the cost of health insurance premiums. Premium payments are automatically paid on a pre-tax basis.  The Board also provides limited health, dental, and vision benefits to domestic partners.</p> 
+<p>You may also elect to participate in the Board's Flexible Spending Account, which allows you to set aside pre-tax dollars to pay for eligible health and dependent care expenses.</p>
+
+		<a name="other"></a><h2>Other Insurance</h2>
+		<p>Short- and long-term disability income protection and business travel insurance are provided to you at no cost.    Also offered, for a small premium, are accidental death and dismemberment insurance, group legal insurance, and auto and homeowners insurance. You may also select group term life insurance and long term care insurance benefits.</p>
+		<a name="retirement"></a>
+		<h2>Pension Plan </h2>
+		<p>Most employees are eligible to participate in the Federal Reserve System Retirement Plan--the Board's pension plan. After completing five years of service, you are vested and entitled to a monthly retirement benefit that can begin as early as age 55. If you leave the Federal Reserve, you may elect to receive your benefit as a Portable Cash Option (PCO), an alternate payment option under the retirement plan. </p>	
+	
+		<a name="thrift"></a><h2>Thrift Plan</h2>
+		<p>In addition to your pension benefits, you may also save for your retirement by participating in the Federal Reserve’s Thrift Plan. The Plan allows you to save on a pre-tax and/or after-tax basis. A Thrift Plan account is established for you regardless of whether you contribute to the plan. </p>
+		<p>The Board provides a 100 percent employer matching contribution of up to the first 7 percent of your salary that you contribute to your Thrift Plan. If you choose not to contribute to the plan, the Board automatically contributes 1 percent of your stated salary per pay period to your Thrift Plan account. </p>
+			<p>The plan offers you several investment options, including a Roth account and life style funds. Funds from qualified plans of previous employers can be rolled over to your Thrift Plan account.</p>
+<p class="ReturnToTop"><a href="#links">Return to links</a></p>
+		
+		
+		<a name="alternative"></a><h2>Alternative Work Arrangements</h2>
+		<p>To help balance work, family, and personal needs the Board offers alternative work arrangements. Compressed work schedules, flextime, job sharing, voluntary part-time employment, and telecommuting programs are available options.  (Because of the nature of the duties of some Board positions, not all employees may be eligible to take advantage of this benefit.)</p>
+		
+		<a name="transportation"></a><h2>Transportation Subsidy</h2>
+		<p>To decrease city traffic and encourage ride sharing, the Board offers a monthly subsidy to employees who commute to work on public transportation or in a vanpool. In addition, employees who carpool can park free at the Board.</p>
+		
+		<a name="academic"></a><h2>Academic Assistance</h2>
+		<p>The Board will contribute to your continuing education by offering assistance with tuition, required books, and certain academic fees. </p>
+		
+		<a name="leave"></a><h2>Leave</h2>
+		<p>Annual leave is granted each year according to your length of service: A limited amount of excess annual leave may be carried over to the following year. The Board also offers two floating holidays each year. Sick leave is granted each year at a constant rate and may be carried over without any limit. </p>
+		
+		<a name="career"></a><h2>Career Development</h2>
+		<p>The Federal Reserve Board strives to create an environment in which all employees can be effective and continue to grow in their careers. The Board offers extensive opportunities for training and development, including internal and external workshops. In addition, the Board's technical training program provides excellent training in computer applications used at the Board. </p>
+	
+   	
+		<a name="benefits"></a><h2>Other Benefits</h2>
+		<p>The Board also provides these on-site benefits:
+		<ul>
+		<li>credit union offices for your banking needs, </li>
+		<li>fitness centers that encourage a healthy lifestyle through exercise and indoor and outdoor sports,</li>
+		<li> health service centers with qualified health professionals to assist with urgent healthcare needs,</li>
+		<li>a convenient cafeteria offering delicious health conscious meals,</li>
+		<li>lifestyle seminars on finance, health, and life transitions that assist employees with major life decisions,</li>
+		<li>and a Fine Arts program for appreciation of the cultural arts. </li>
+		</ul></p>
+		
+	
+	
+<!--End Right Column-->
+        
+        <!-- InstanceEndEditable -->
+	</div> <!--Closes Center Content Div-->
+	</div> <!--Closes LeftCenter Container Div-->
+	
+	
+	
+<!-- InstanceBeginEditable name="rightContent" -->
+
+<!-- InstanceEndEditable -->
+	 
+
+<br class="brclear"/>
+<!--The following Div adds the bottom image and quote to the page-->
+<!-- InstanceBeginEditable name="footerImage" -->
+
+
+<!--End Image Container-->
+<!-- InstanceEndEditable -->
+</div>
+<!--Closes MainContentContainer--> 
+
+<!--Begin Footer-->
+
+<div id="FooterContainer">
+	<div id="footer">
+	<div class="lastUpdate"><a href="/">Home</a> | <a href="/careers/default.htm">Career Opportunities</a><br /><a href="/aboutthefed/contact-us-topics.htm">Contact us</a> | <a href="/accessibility.htm">Accessibility</a><br />
+	<strong>Last Update: 
+	<!-- #BeginDate format:Am1 -->February 23, 2016<!-- #EndDate -->
+	</strong></div>
+	</div>
+</div>
+
+<!--End Footer--> 
+        
+        
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+<!-- InstanceEnd --></html>

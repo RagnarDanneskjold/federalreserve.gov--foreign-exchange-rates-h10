@@ -1,0 +1,193 @@
+/*-------CREDIT CARD SITE STYLES-----*/
+body#cg {margin:0 0 0 0; padding:0 0 0 0; font-family:Arial, Helvetica, sans-serif; font-size:0.80em; color:#333; background-color:#FFF;}
+#cg #cgwrapper {margin:0 0 0 0; padding:0 0 0 0; font-size:0.95em; width:80em; }
+
+a:link {text-decoration: underline; color:#314732;}
+a:visited {text-decoration: underline; color:#666600;}
+a:hover {text-decoration: underline;}
+
+
+img {border: 0;}
+
+.clear {
+ clear: both;
+ display: block;
+ height: 1px;
+ margin: 0;
+ padding: 0; 
+ overflow: hidden;}
+ 
+
+#skip2 {position:absolute; left:-100em; width:1em;}
+
+.titlebar {text-align:left; float:left; margin:0 0 0 0; padding:0 0 0 0;}
+
+.cgleft {float:left; width:47px; margin:0 0 0 0; padding:0 0 0 0; clear:both;}
+
+.cgleft2 {float:left; margin:0 0 0 0; padding:1em 0 0 1em; width:45em; border-left:1px solid #3c5104; color:#333;}
+.cgleft2 h1 {font-family:Tahoma, Geneva, sans-serif; font-size:1.85em; margin:0 0 0 0; color:#3c5104; font-weight:normal;}
+.cgleft2 h2 {font-family:Tahoma, Geneva, sans-serif; font-size:1.5em; margin:0 0 0 0; color:#4c4c4c; font-weight:normal;}
+.cgleft2 h3 {font-family:Tahoma, Geneva, sans-serif; font-weight:normal; font-size:1.4em; color:#3c5104; margin:1em 0 0 0; padding:0 0 0 0;}
+.cgleft2 h3.space {margin-top:2em;}
+.cgleft2 a:link {color:#527101; text-decoration:underline;}
+.cgleft a:hover {text-decoration:underline;}
+.cgleft2 a:visited {color:#527101;}
+
+.cginfobar {float:right; margin:2.5em 0 0 0; width:21em; padding:0 0 0 0; font-size:0.90em; border-right:1px solid #3c5104;}
+.cginfobar a:link {color:#4c4c4c; text-decoration:underline;}
+.cginfobar a:visited {color:#4c4c4c; text-decoration:underline;}
+
+ul.infobarcg {background-image:url(../../creditcard/gifjpg/nav_back.gif); background-position:top right; background-repeat:no-repeat; border-top:1px solid #3c5104; font-size:1.1em; margin:0 0 2em 0; list-style-image:url(../../creditcard/gifjpg/menu_link.gif); padding:1em 1em 1em 2em;}
+ul.infobarcg li {margin:0 0 0.5em 0;}
+
+
+
+/*------------FOOTER STYLES --------------*/
+#cgfooter {background-color:#3c5104; margin:0 0 0 0; height:15px; padding:0.5em 0.5em 0.5em 15em; font-size:0.90em; color:#fff;}
+#cgfooter .leftlinks {text-align:left;}
+#cgfooter .rightlinks {text-align:right; margin:0 0.5em 0 0;}
+#cgfooter a:link {color:#fff;}
+#cgfooter a:visited {color:#fff;}
+
+#homeFooterLinks {font-size: 0.95em; padding:0 0 0; margin:0 0 0 0; width: 80em;}
+#homeFooterLinks a {font-weight: bold; margin:0 0 0 6px; text-decoration:none; font-size:.9em;}
+
+.homeFooterLinksLeft{float:left; margin-top:.4em;}
+.homeFooterLinksRight{float:right;}
+
+
+/*#homeFooter{background-color:#5D6F5D; width: 100%; height:2em; color:#FFFFFF; padding: 5px 0 0 0; text-indent: .5em; font-size: .9em; border-top: 6px solid #D0C16E; margin-left: 0em; margin-right: .3em; margin-bottom:.5em;}*/
+
+
+/*------------CONTENT STYLES--------------*/
+
+/*-------homepage-----*/
+#hp_new_rules{ width:548px;}
+#hp_new_rules a{font-size:0.9em;}
+
+.left_box{float:left;width:240px;min-height:130px;}
+.left_box h3, .right_box h3{margin:0;}
+span.kicker h3{font-size:0.90em; !important}
+.right_box{float:right;width:240px;min-height:130px; margin:2em 0 1em 0; padding:1em;}
+
+.left_box ul, .right_box ul{list-style-image:url(../../consumerinfo/gifjpg/wyntk_bullet.gif);margin-left: 10px;padding-left:10px;}
+
+#spanish  {background-color:#cccccc; color: #ffffff; font-size:1em; font-weight:bold; text-decoration: none;}
+#spanish:link  {background-color:#cccccc; color: #ffffff; font-size:1em; font-weight:bold; text-decoration: none;}
+#spanish:visited {background-color:#cccccc; color: #666600; font-size:1em; font-weight:bold; text-decoration: none;} 
+
+a.spanish  {background-color:#cccccc; color: #ffffff; font-size:1em; font-weight:bold; text-decoration: none;}
+a.spanish:link  {background-color:#cccccc; color: #ffffff; font-size:1em; font-weight:bold; text-decoration: none;}
+a.spanish:visited {background-color:#cccccc; color: #666600; font-size:1em; font-weight:bold; text-decoration: none;} 
+
+ul.cgnone {margin:0 1em 2em 0; padding:0 0 0 1em; list-style:none;}
+ul.cgnone li {margin:1em 0;}
+
+ul.cgnone li.wyntk a:link {color:#4c4c4c;}
+ul.cgnone li.wyntk a:visited {color:#4c4c4c;}
+
+ul.cgbullets {margin:0 0 0 0; list-style-image:url(../../creditcard/gifjpg/cg_bullet_small.gif); padding:0 0 0 3em;}
+ul.cgbullets li {margin:1em 0; vertical-align:middle;}
+
+.box {border:1px dotted #4C6135; margin:2em 0 1em 0; padding:1em;}
+.box_green{padding:1em; margin:1em 0; background-color:#eaf6c6; }
+.box_white {border-top:1px dotted #4C6135;margin:2em 0 1em 0; padding:1em;}
+
+
+.box1 {padding:1em; margin:1em; background-color:#eaf6c6; float:right; width:250px; font-size:0.90em;}
+.box2 {padding:1em; margin:0 0.5em; background-color:#fdf6da; float:left; font-size:0.90em;}
+
+.picleft {float:left; margin:1em 2em 0 0;}
+.picright {float:right; margin:0 0 0 0; padding:0 0 0 0;}
+.seal {margin:1.5em 0 0 2em; padding:0 0 0 0;}
+.icon {float:left; margin:1em 1em 0.75em 0;}
+.icon2 {float:left; margin:0 1.75em 0 0;}
+.float2 {margin:1em 0 0 0; padding:0 0 0 0;}
+.av {font-size:0.90em;}
+.rotatingcontent {margin-top:2em;}
+p.updatedate {font-weight:bold; margin:2em 0 1em 0; padding:0 0 0 0; }
+.bottomright {display:inline; margin-top:0; margin-left:0;}
+.button {text-align:right; margin-top:0.35em;}
+.more {margin-top:3em;}
+
+ul.glossarynav {list-style:none; padding:0 0 0 0; margin:1em 0;}
+ul.glossarynav li {display:inline; padding-right:1em;}
+
+
+
+
+/*------------SURVEY PAGE STYLES--------------*/
+table.survey {font-size:0.90em; font-family:Verdana, Geneva, sans-serif; margin:0 0 0 0; padding:1em; font-weight:normal; text-align:left; border-collapse:collapse; }
+table.survey th {border-bottom:1px solid #fff; background-color:#4f7538; color:#FFF; border-right:1px solid #fff; margin:0 0 0 0; padding:.3em; text-align:center; font-weight:normal; border-top:5px solid #325900;}
+table.survey td {padding:0 0 0 0; text-align:center; padding:.2em; width:10em;} 
+table.survey td.left {font-weight:normal; padding:.2em; text-align:left;}
+table.survey tr.shade {background-color:#fff6da;}
+tr.alt td {background-color:#fff6da;}
+
+/*------------END CREDIT CARD SITE STYLES------------------------------------------------------------------------------------*/
+
+/*------------PURPLE BEGIN--------------*/
+
+.other_guides_box {background:url(../gifjpg/otherconsumerguide_box_bk.gif) no-repeat top left; display:block; float:right; height:108px; width:229px;}
+.other_guides_box h4{margin:1em 0 0.25em 1em; padding:0; color:#3c5104; font-family:Tahoma,Geneva,sans-serif; font-size:1.5em; font-weight:normal;}
+.other_guides_box p{margin:0 6em 0 1.5em; padding:0;}
+
+div.cginfobar .other_guides_box a{display:block; height:108px; width:229px; cursor:pointer;}
+div.cginfobar .other_guides_box a:link{text-decoration:none;cursor:pointer;}
+div.cginfobar .other_guides_box a:visited{text-decoration:none;cursor:pointer;}
+div.cginfobar .other_guides_box a:hover{text-decoration:none;cursor:pointer;}
+
+#cg_creditreport .titlebar {text-align:left; float:left; margin:1em 0 0 0; padding:0 0 0 0;}
+
+#cg_cr_footer {background-color:#4a3254; margin:0 0 0 0; height:15px; padding:0.5em 0.5em 0.5em 15em; font-size:0.90em; color:#fff;}
+#cg_cr_footer .leftlinks {text-align:left;}
+#cg_cr_footer .rightlinks {text-align:right; margin:0 0.5em 0 0;}
+#cg_cr_footer a:link {color:#fff;}
+#cg_cr_footer a:visited {color:#fff;}
+
+#cg_creditreport .cgleft2 {float:left; margin:0 0 0 0; padding:1em 0 0 1em; width:45em; border-left:1px solid #4a3254; color:#333;}
+#cg_creditreport .cgleft2 h1 {font-family:Tahoma, Geneva, sans-serif; font-size:1.85em; margin:0 0 0 0; color:#4a3254; font-weight:normal;}
+#cg_creditreport .cgleft2 h2 {font-family:Tahoma, Geneva, sans-serif; font-weight:normal; font-size:1.75em; color:#4a3254; margin:1em 0 0 0; padding:0;}
+#cg_creditreport .cgleft2 h3 {color:#4C4C4C; font-family:Tahoma,Geneva,sans-serif; font-size:1.4em; font-weight:normal; padding:0.5em 0; margin:0;}
+#cg_creditreport .cgleft2 h4 {font-family:Tahoma, Geneva, sans-serif; font-weight:normal; font-size:1em; color:#4a3254; margin:1em 0 0 0; padding:0;}
+
+.qa_answer{color:#4C4C4C; font-family:Tahoma,Geneva,sans-serif; font-size:1.4em; font-weight:normal; padding:0.5em 0; margin:0;}
+#cg_creditreport .cgleft2 p{padding:0.5em 0; margin:0;}
+
+#cg_creditreport .cginfobar {float:right; margin:2.5em 0 0 0; width:21em; padding:0 0 0 0; font-size:0.90em; border-right:1px solid #4a3254;}
+
+ul.cg_cr_bullets {margin:0 0 0 0; list-style-image:url(../gifjpg/cg_creditreport_bullet.gif); padding:0 0 0 3em;}
+ul.cg_cr_bullets li {margin:1em 0; vertical-align:middle;}
+
+
+#highlightnav { background-color:#FDF1E3; margin:0.5em 0 1.5em; padding:1em 0.25em;}
+
+#cg_creditreport #highlightnav {background-color:#fff; /*background-color:#ffebff;*/}
+
+ul.anchor_nav {list-style:none; padding:0; margin:0;}
+ul.anchor_nav li {display:inline; padding:0 1em; border-right: #4C4C4C 1px solid;}
+ul.anchor_nav li.last {border:none;}
+
+.border_dash{border-bottom: #4c4c4c 1px dashed;}
+
+.line {border-top: 1px solid #4a3254; }
+
+.wyntkbutton {
+  background-image: url(../../gifjpg/wyntk_pdfbutton.gif);
+  background-position: left top;
+  background-repeat: no-repeat;
+  font-family: Tahoma,Geneva,sans-serif;
+  font-size: 1.15em;
+  font-weight: bold;
+  height: 37px;
+  margin: 0;
+  padding: 0.75em 0 0 1em;
+}
+.wyntkbutton a:link {
+  color: #4C6135;
+}
+.wyntkbutton a:visited {
+  color: #4C6135;
+}
+
+/*------------PURPLE END --------------*/

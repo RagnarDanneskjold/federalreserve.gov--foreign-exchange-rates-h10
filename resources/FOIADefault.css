@@ -1,0 +1,112 @@
+
+.default_UL
+{
+   list-style-type:none;
+   list-style:none;
+   padding:0;
+   margin:0;
+   display:block;
+   width:75em;
+
+}
+.default_UL li
+{
+    margin:0;
+    padding:0;
+    display:block;
+    width:80em;
+    height:2em; 
+    float:left;
+}
+li.extraTopPadding
+{
+    padding-top:0.5em;
+}
+li.extraBottomPadding
+{
+    padding-bottom:0.5em;
+}
+li.centerText
+{
+    text-align:center;
+    width:20em;
+}
+.default_Label
+{
+    display:block;
+    float:left;
+    width:14.5em;
+    margin-right:0.5em;/*Recently Added*/
+    text-align:right;
+}
+#progressbar
+{
+    margin-left:20em;
+}
+default_TextBox
+{
+  
+}
+.default_Watermark
+{
+   color:Silver;
+   text-align:left; 
+}
+.default_Submit
+{
+   margin-top:0em;
+   width:5em;
+}
+.default_Reset
+{
+   margin-top:0em;
+   width:5em;
+}
+.default_Feedback_Success
+{
+   font-size: 1.2em;
+   color:Green;
+   margin-top:1em;
+}
+.default_Feedback_Failure
+{
+   font-size: 1.2em;
+   color:Red;
+   margin-top:1em;
+}
+
+.clear
+{
+    clear:both;
+}
+.floatLeft
+{
+    float:left;
+}
+.default_EventEndedMsg
+{
+   font-size: 1.2em;
+   color:Red;
+}
+li.buttonArea
+{
+    display:block;
+    width:11em;
+    padding-left:28em;
+}
+
+.accessibility_label
+{
+    position:absolute;
+    left:-9999px;
+    color:Aqua;
+}
+.default_Notice
+{
+    font-style:italic;
+}
+
+.forms_bottomSpace
+{
+    padding-bottom:3px;
+}

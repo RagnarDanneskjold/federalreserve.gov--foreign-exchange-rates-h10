@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+
+
+
+
+    <channel rdf:about="http://www.federalreserve.gov/feeds/s_t_tarullo.xml">
+        <title>FRB: Governor Tarullo: Speeches and Testimony</title>
+        <link>http://www.federalreserve.gov/feeds/default.htm</link>
+        <description>Speeches and Testimony of Governor Daniel K. Tarullo</description> 
+        <items>
+            <rdf:Seq>
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20160712a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20160520a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20151202a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20151117a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20151105a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20150928a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20150504.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20150430a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/testimony/tarullo20150319a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20150130a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/testimony/tarullo20141121a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20141120a .htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20141107a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20141020a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/testimony/tarullo20140909a.htm" />
+            
+            </rdf:Seq>
+        </items>
+    </channel>
+
+    
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20160712a.htm">
+<title>Tarullo, Opening Remarks</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20160712a.htm</link>
+<description>Speech at the Center for American Progress and Americans for Financial Reform Conference, Washington, D.C., </description> 
+<dc:date>2016-07-12T09:15:00-04:00</dc:date> 
+<dcterms:audience>Center for American Progress and Americans for Financial Reform Conference</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Opening Remarks</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-07-12T09:15:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Center for American Progress and Americans for Financial Reform Conference</cb:venue>
+    <cb:locationAsWritten>Washington, D.C., </cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState></cb:locationState>
+    <cb:locationCity>Washington, D.C.</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20160520a.htm">
+<title>Tarullo, Insurance Companies and the Role of the Federal Reserve</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20160520a.htm</link>
+<description>Speech at the National Association of Insurance Commissioner's International Insurance Forum, Washington, D.C.</description> 
+<dc:date>2016-05-20T09:00:00-04:00</dc:date> 
+<dcterms:audience>National Association of Insurance Commissioner's International Insurance Forum</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Insurance Companies and the Role of the Federal Reserve</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-05-20T09:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>National Association of Insurance Commissioner's International Insurance Forum</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20151202a.htm">
+<title>Tarullo, Opening Remarks</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20151202a.htm</link>
+<description>Speech at the Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting, Arlington, Virginia</description> 
+<dc:date>2015-12-02T09:00:00-05:00</dc:date> 
+<dcterms:audience>Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Opening Remarks</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-12-02T09:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting</cb:venue>
+    <cb:locationAsWritten>Arlington, Virginia</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>VA</cb:locationState>
+    <cb:locationCity>Arlington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20151117a.htm">
+<title>Tarullo, Thinking Critically about Nonbank Financial Intermediation</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20151117a.htm</link>
+<description>Speech at the Brookings Institution, Washington, District of Columbia</description> 
+<dc:date>2015-11-17T15:30:00-05:00</dc:date> 
+<dcterms:audience>Brookings Institution</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Thinking Critically about Nonbank Financial Intermediation</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-11-17T15:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Brookings Institution</cb:venue>
+    <cb:locationAsWritten>Washington, District of Columbia</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20151105a.htm">
+<title>Tarullo, Shared Responsibility for the Regulation of International Banks</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20151105a.htm</link>
+<description>Speech at the "The Future of Large and Internationally Active Banks" 18th Annual International Banking Conference, sponsored by the Federal Reserve Bank of Chicago and the World Bank, Chicago, Illinois</description> 
+<dc:date>2015-11-05T13:25:00-05:00</dc:date> 
+<dcterms:audience>"The Future of Large and Internationally Active Banks" 18th Annual International Banking Conference, sponsored by the Federal Reserve Bank of Chicago and the World Bank</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Shared Responsibility for the Regulation of International Banks</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-11-05T12:25:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>"The Future of Large and Internationally Active Banks" 18th Annual International Banking Conference, sponsored by the Federal Reserve Bank of Chicago and the World Bank</cb:venue>
+    <cb:locationAsWritten>Chicago, Illinois</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>IL</cb:locationState>
+    <cb:locationCity>Chicago</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20150928a.htm">
+<title>Tarullo, Capital Regulation Across Financial Intermediaries</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20150928a.htm</link>
+<description>Speech at the Banque de France Conference: Financial Regulation--Stability versus Uniformity; A Focus on Non-bank Actors, Paris, France</description> 
+<dc:date>2015-09-28T05:15:00-04:00</dc:date> 
+<dcterms:audience>Banque de France Conference: Financial Regulation--Stability versus Uniformity; A Focus on Non-bank Actors</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Capital Regulation Across Financial Intermediaries</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-09-28T11:15:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Banque de France Conference: Financial Regulation--Stability versus Uniformity; A Focus on Non-bank Actors</cb:venue>
+    <cb:locationAsWritten>Paris, France</cb:locationAsWritten>
+    <cb:locationCountry>FR</cb:locationCountry>
+     
+    <cb:locationCity>Paris</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20150504.htm">
+<title>Tarullo, Opening Remarks at the Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20150504.htm</link>
+<description>Speech at the Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting, Boston, Massachusetts</description> 
+<dc:date>2015-05-04T09:00:00-04:00</dc:date> 
+<dcterms:audience>Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Opening Remarks</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-05-04T09:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting</cb:venue>
+    <cb:locationAsWritten>Boston, Massachusetts</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>MA</cb:locationState>
+    <cb:locationCity>Boston</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20150430a.htm">
+<title>Tarullo, Tailoring Community Bank Regulation and Supervision</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20150430a.htm</link>
+<description>Speech at the Independent Community Bankers of America 2015 Washington Policy Summit, Washington, D.C.</description> 
+<dc:date>2015-04-30T08:30:00-04:00</dc:date> 
+<dcterms:audience>Independent Community Bankers of America 2015 Washington Policy Summit</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Tailoring Community Bank Regulation and Supervision</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-04-30T08:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Independent Community Bankers of America 2015 Washington Policy Summit</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/testimony/tarullo20150319a.htm">
+<title>Tarullo, Application of Enhanced Prudential Standards to Bank Holding Companies</title>
+<link>http://www.federalreserve.gov/newsevents/testimony/tarullo20150319a.htm</link>
+<description>Testimony before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.</description> 
+<dc:date>2015-03-19T10:00:00-04:00</dc:date> 
+<dcterms:audience>Committee on Banking, Housing, and Urban Affairs, U.S. Senate</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Application of Enhanced Prudential Standards to Bank Holding Companies</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-03-19T10:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Committee on Banking, Housing, and Urban Affairs, U.S. Senate</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20150130a.htm">
+<title>Tarullo, Advancing Macroprudential Policy Objectives</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20150130a.htm</link>
+<description>Speech at the Office of Financial Research and Financial Stability Oversight Council's 4th Annual Conference on Evaluating Macroprudential Tools: Complementarities and Conflicts, Arlington, Virginia</description> 
+<dc:date>2015-01-30T12:45:00-05:00</dc:date> 
+<dcterms:audience>Office of Financial Research and Financial Stability Oversight Council's 4th Annual Conference on Evaluating Macroprudential Tools: Complementarities and Conflicts</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Advancing Macroprudential Policy Objectives</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-01-30T12:45:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Office of Financial Research and Financial Stability Oversight Council's 4th Annual Conference on Evaluating Macroprudential Tools: Complementarities and Conflicts</cb:venue>
+    <cb:locationAsWritten>Arlington, Virginia</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>VA</cb:locationState>
+    <cb:locationCity>Arlington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/testimony/tarullo20141121a.htm">
+<title>Tarullo, Physical Commodities</title>
+<link>http://www.federalreserve.gov/newsevents/testimony/tarullo20141121a.htm</link>
+<description>Testimony before the Permanent Subcommitee on Investigations, U.S. Senate, Washington, D.C.</description> 
+<dc:date>2014-11-21T09:30:00-05:00</dc:date> 
+<dcterms:audience>Permanent Subcommitee on Investigations, U.S. Senate</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Physical Commodities</cb:simpleTitle> 
+  <cb:occurrenceDate>2014-11-21T09:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Permanent Subcommitee on Investigations, U.S. Senate</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20141120a .htm">
+<title>Tarullo, Liquidity Regulation</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20141120a .htm</link>
+<description>Speech at the The Clearing House 2014 Annual Conference, New York, New York</description> 
+<dc:date>2014-11-20T07:45:00-05:00</dc:date> 
+<dcterms:audience>The Clearing House 2014 Annual Conference</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Liquidity Regulation</cb:simpleTitle> 
+  <cb:occurrenceDate>2014-11-20T07:45:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>The Clearing House 2014 Annual Conference</cb:venue>
+    <cb:locationAsWritten>New York, New York</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>NY</cb:locationState>
+    <cb:locationCity>New York</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20141107a.htm">
+<title>Tarullo, A Tiered Approach to Regulation and Supervision of Community Banks</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20141107a.htm</link>
+<description>Speech at the Community Bankers Symposium, Chicago, Illinois</description> 
+<dc:date>2014-11-07T14:30:00-05:00</dc:date> 
+<dcterms:audience>Community Bankers Symposium</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>A Tiered Approach to Regulation and Supervision of Community Banks</cb:simpleTitle> 
+  <cb:occurrenceDate>2014-11-07T13:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Community Bankers Symposium</cb:venue>
+    <cb:locationAsWritten>Chicago, Illinois</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>IL</cb:locationState>
+    <cb:locationCity>Chicago</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20141020a.htm">
+<title>Tarullo, Good Compliance, Not Mere Compliance</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20141020a.htm</link>
+<description>Speech at the Federal Reserve Bank of New York Conference, "Reforming Culture and Behavior in the Financial Services Industry", New York, New York</description> 
+<dc:date>2014-10-20T12:00:00-04:00</dc:date> 
+<dcterms:audience>Federal Reserve Bank of New York Conference, "Reforming Culture and Behavior in the Financial Services Industry"</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Good Compliance, Not Mere Compliance</cb:simpleTitle> 
+  <cb:occurrenceDate>2014-10-20T12:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Federal Reserve Bank of New York Conference, "Reforming Culture and Behavior in the Financial Services Industry"</cb:venue>
+    <cb:locationAsWritten>New York, New York</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>NY</cb:locationState>
+    <cb:locationCity>New York</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/testimony/tarullo20140909a.htm">
+<title>Tarullo, Dodd-Frank Implementation</title>
+<link>http://www.federalreserve.gov/newsevents/testimony/tarullo20140909a.htm</link>
+<description>Testimony before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.</description> 
+<dc:date>2014-09-08T17:10:00-04:00</dc:date> 
+<dcterms:audience>Committee on Banking, Housing, and Urban Affairs, U.S. Senate</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Dodd-Frank Implementation</cb:simpleTitle> 
+  <cb:occurrenceDate>2014-09-09T10:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Committee on Banking, Housing, and Urban Affairs, U.S. Senate</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+</rdf:RDF>

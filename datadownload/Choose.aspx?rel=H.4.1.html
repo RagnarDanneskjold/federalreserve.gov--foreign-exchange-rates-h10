@@ -1,0 +1,197 @@
+
+<DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" />
+ 
+<!--Common javascript functions -->
+
+<script>
+function setHourglass(intTime) 
+{
+	document.body.style.cursor = 'wait';
+	setTimeout("setHourglassOff()", intTime)
+}
+
+function setHourglassOn() 
+{
+	document.body.style.cursor = 'wait';
+}
+
+function setHourglassOff() 
+{
+	document.body.style.cursor = 'default';
+}
+
+function LoadWaitDialog(vFlag) 
+{
+	setHourglassOn();
+    window.showModelessDialog('includes/Wait.html', vFlag, 'dialogHeight: 200px; dialogWidth: 420px; status:no; center:yes;');
+}
+
+</script>
+<html xmlns="http://www.w3.org/1999/xhtml" >
+	<head>
+		<title id="pageTitle">FRB H41: Data Download Program - Choose</title>
+		<meta content="Microsoft Visual Studio .NET 7.1" name="GENERATOR" />
+		<meta content="Visual Basic .NET 7.1" name="CODE_LANGUAGE" />
+		<meta content="JavaScript" name="vs_defaultClientScript" />
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema" />
+		<!--script language="JavaScript" src="/exit_new.js" type="text/javascript"></script-->
+		<!--<link href="Styles.css" type="text/css" rel="stylesheet" />-->
+		<link href="../resources/pubweb.css" type="text/css" rel="stylesheet" />
+		<link href="../resources/secondary.css" type="text/css" rel="stylesheet" />
+		<link href="../resources/economic.css" type="text/css" rel="stylesheet" />
+	<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+	
+	<body>
+		<form method="post" action="Choose.aspx%3Frel=H.4.1.html" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjk4NzExNTU0D2QWBAIDDxYCHglpbm5lcmh0bWwFJ0ZSQiBINDE6IERhdGEgRG93bmxvYWQgUHJvZ3JhbSAtIENob29zZWQCBQ9kFgwCAw8PFgIeBFRleHQFezxhIGhyZWY9Jy9yZWxlYXNlcy9INDEvZGVmYXVsdC5odG0nPkZhY3RvcnMgQWZmZWN0aW5nIFJlc2VydmUgQmFsYW5jZXMgKEguNC4xKTwvYT4gLSBsYXN0IHJlbGVhc2VkIFRodXJzZGF5LCBBdWd1c3QgNCwgMjAxNmRkAgYPDxYCHwFlZGQCCg8PZBYCHgdvbmNsaWNrBRFzZXRIb3VyZ2xhc3NPbigpO2QCDA9kFggCAQ8QDxYGHg1EYXRhVGV4dEZpZWxkBRBTaG9ydERlc2NyaXB0aW9uHg5EYXRhVmFsdWVGaWVsZAUDdXJsHgtfIURhdGFCb3VuZGdkEBUIQUguNC4xIFN0YXRpc3RpY2FsIFJlbGVhc2UgIC0gIFRhYmxlIDEgW2NzdiwgTGFzdCAxIE9icywgMzAuNSBLQiBdQkguNC4xIFN0YXRpc3RpY2FsIFJlbGVhc2UgIC0gIFRhYmxlIDEuQSBbY3N2LCBMYXN0IDEgT2JzLCA2LjMgS0IgXUFILjQuMSBTdGF0aXN0aWNhbCBSZWxlYXNlICAtICBUYWJsZSAyIFtjc3YsIExhc3QgMSBPYnMsIDEzLjEgS0IgXUFILjQuMSBTdGF0aXN0aWNhbCBSZWxlYXNlICAtICBUYWJsZSAzIFtjc3YsIExhc3QgMSBPYnMsIDAuOTIgS0IgXUBILjQuMSBTdGF0aXN0aWNhbCBSZWxlYXNlICAtICBUYWJsZSA0IFtjc3YsIExhc3QgMSBPYnMsIDEuMSBLQiBdQUguNC4xIFN0YXRpc3RpY2FsIFJlbGVhc2UgIC0gIFRhYmxlIDUgW2NzdiwgTGFzdCAxIE9icywgMjIuOSBLQiBdQUguNC4xIFN0YXRpc3RpY2FsIFJlbGVhc2UgIC0gIFRhYmxlIDYgW2NzdiwgTGFzdCAxIE9icywgOTIuOSBLQiBdQEguNC4xIFN0YXRpc3RpY2FsIFJlbGVhc2UgIC0gIFRhYmxlIDcgW2NzdiwgTGFzdCAxIE9icywgMi42IEtCIF0VCH9yZWw9SDQxJnNlcmllcz1jYzczZGM1NDkwNDY3OGE0ODVhYTdkODdhODFjNzg2ZiZsYXN0b2JzPTEmZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlf3JlbD1INDEmc2VyaWVzPTAzZGQxZWViMWYwNzZhM2EwM2IwZTRhNWUxYmUyYWRjJmxhc3RvYnM9MSZmcm9tPSZ0bz0mZmlsZXR5cGU9Y3N2JmxhYmVsPWluY2x1ZGUmbGF5b3V0PXNlcmllc2NvbHVtbiZ0eXBlPXBhY2thZ2V/cmVsPUg0MSZzZXJpZXM9YmRiZmEwZTY3ZDkyMGMwYWY3ZTc5NzliZTk0Zjg1NzkmbGFzdG9icz0xJmZyb209JnRvPSZmaWxldHlwZT1jc3YmbGFiZWw9aW5jbHVkZSZsYXlvdXQ9c2VyaWVzY29sdW1uJnR5cGU9cGFja2FnZX9yZWw9SDQxJnNlcmllcz1kZDgyYjhkNTkwM2RiYTAxYjNhOTllNGQ4YjNkYTJkZSZsYXN0b2JzPTEmZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlf3JlbD1INDEmc2VyaWVzPThhY2NhYTMyYjRhOTBiZTczOTg5YmY0OGIzMTExYzI1Jmxhc3RvYnM9MSZmcm9tPSZ0bz0mZmlsZXR5cGU9Y3N2JmxhYmVsPWluY2x1ZGUmbGF5b3V0PXNlcmllc2NvbHVtbiZ0eXBlPXBhY2thZ2V/cmVsPUg0MSZzZXJpZXM9ZTZhYmNjNTlkZDcxYTJjMzQyN2Q3ODYyZDJkZjI3MTUmbGFzdG9icz0xJmZyb209JnRvPSZmaWxldHlwZT1jc3YmbGFiZWw9aW5jbHVkZSZsYXlvdXQ9c2VyaWVzY29sdW1uJnR5cGU9cGFja2FnZX9yZWw9SDQxJnNlcmllcz0xZWM2ODQ3OGY4MDQyMGI1MjUzMmY3OWFhNDM1OGQ5MyZsYXN0b2JzPTEmZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlf3JlbD1INDEmc2VyaWVzPTk3ODFjNWQxZmQ5NjljOWI2ZGFlYWYxOGIwYjEyODczJmxhc3RvYnM9MSZmcm9tPSZ0bz0mZmlsZXR5cGU9Y3N2JmxhYmVsPWluY2x1ZGUmbGF5b3V0PXNlcmllc2NvbHVtbiZ0eXBlPXBhY2thZ2UUKwMIZ2dnZ2dnZ2dkZAICDxAPFgIeB1Zpc2libGVoZGQWAGQCBA8PZBYCHwIFEXNldEhvdXJnbGFzc09uKCk7ZAIGDw9kFgIfAgURc2V0SG91cmdsYXNzT24oKTtkAg4PDxYEHwEFPURvd25sb2FkIGFsbCBINDEgZGF0YSBhcyBhIHNpbmdsZSBYTUwgZmlsZSBbU0RNWC9aSVAsIDQuMCBNQl0eC05hdmlnYXRlVXJsBSBPdXRwdXQuYXNweD9yZWw9SDQxJmZpbGV0eXBlPXppcBYCHwIFE3NldEhvdXJnbGFzcygxMDAwKTtkAhAPDxYCHwEFxAo8Yj48QSBocmVmPSdodHRwOi8vd3d3LmZlZGVyYWxyZXNlcnZlLmdvdi9mZWVkcy9oNDEuaHRtbCMxMTkyJz5DaGFuZ2UgdG8gSC40LjEgdG8gcmVmbGVjdCB0aGUgcGFzc2FnZSBvZiB0aGUgRkFTVCBBY3Q8L0E+PC9iPjxicj48Yj48ST4yMDE1LTEyLTMxPC9iPjwvST48YnI+PGJyPlRoZSBCb2FyZCdzIEguNC4xIHN0YXRpc3RpY2FsIHJlbGVhc2UsICJGYWN0b3JzIEFmZmVjdGluZyBSZXNlcnZlIEJhbGFuY2VzIG9mIERlcG9zaXRvcnkgSW5zdGl0dXRpb25zIGFuZCBDb25kaXRpb24gU3RhdGVtZW50IG9mIEZlZGVyYWwgUmVzZXJ2ZSBCYW5rcywiIGhhcyBiZWVuIG1vZGlmaWVkIHRvIHJlZmxlY3QgdGhlIHBvbGljaWVzIHVuZGVyIHdoaWNoIEZlZGVyYWwgUmVzZXJ2ZSBCYW5rcyBtYWtlIHBheW1lbnRzIG9mIHRoZWlyIHJlc2lkdWFsIG5ldCBlYXJuaW5ncyB0byB0aGUgVS5TLiBUcmVhc3VyeS4gIFRoZSBGaXhpbmcgQW1lcmljYSdzIFN1cmZhY2UgVHJhbnNwb3J0YXRpb24gQWN0IChGQVNUKSwgd2hpY2ggd2FzIGVuYWN0ZWQgb24gRGVjZW1iZXIgNCwgMjAxNSwgcmVxdWlyZXMgdGhhdCBhZ2dyZWdhdGUgRmVkZXJhbCBSZXNlcnZlIEJhbmsgc3VycGx1cyBub3QgZXhjZWVkICQxMCBiaWxsaW9uLiAgVGhlcmVmb3JlLCBhbnkgYW1vdW50IG9mIGFnZ3JlZ2F0ZSBSZXNlcnZlIEJhbmsgc3VycGx1cyB0aGF0IGV4Y2VlZHMgdGhpcyBsaW1pdCB3aWxsIGJlIHJlbWl0dGVkIHRvIHRoZSBVLlMuIFRyZWFzdXJ5LiAgVGhlIGxpbmUgIkludGVyZXN0IG9uIEZlZGVyYWwgUmVzZXJ2ZSBOb3RlcyBkdWUgdG8gVS5TLiBUcmVhc3VyeSIgb24gdGFibGUgNiBoYXMgYmVlbiByZXBsYWNlZCB3aXRoICJFYXJuaW5ncyByZW1pdHRhbmNlcyBkdWUgdG8gdGhlIFUuUy4gVHJlYXN1cnkiIGFuZCBmb290bm90ZXMgdG8gdGFibGVzIDEsIDUsIGFuZCA2IGhhdmUgYmVlbiBzaW1pbGFybHkgbW9kaWZpZWQuICBUaGUgYW1vdW50cyBvZiB0aGUgbGluZSBpdGVtcyAiT3RoZXIgbGlhYmlsaXRpZXMgYW5kIGNhcGl0YWwiIG9uIHRhYmxlIDEsIGFuZCAiU3VycGx1cyIgb24gdGFibGVzIDUgYW5kIDYgcmVmbGVjdCB0aGUgcGF5bWVudCBvZiBhcHByb3hpbWF0ZWx5ICQxOS4zIGJpbGxpb24gdG8gVHJlYXN1cnkgb24gRGVjZW1iZXIgMjgsIDIwMTUsIHdoaWNoIHdhcyBuZWNlc3NhcnkgdG8gcmVkdWNlIGFnZ3JlZ2F0ZSBSZXNlcnZlIEJhbmsgc3VycGx1cyB0byB0aGUgJDEwIGJpbGxpb24gbGltaXRhdGlvbiBpbiB0aGUgRkFTVCBBY3QuPGJyPjxicj48QSBocmVmPSdodHRwOi8vd3d3LmZlZGVyYWxyZXNlcnZlLmdvdi9mZWVkcy9oNDEuaHRtbCc+QWxsIEFubm91bmNlbWVudHM8L0E+ZGRk7CQZi2TyAo0eua4Vx9mcJEZ5soz7vhxrxQV8ZDhZFbU=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1416AF91" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA7JnNSHUsMqbO6XtHYPAQmB0bHgaFv6zA3gOYRyg/p1cIowXcBRSsc2Q8dcJuMuO2cxDPlJpLTgd9Z+buZkY6ydeG8dKUGbgW0QnDPK+w1YaHkQQsTOegE0Ps4iMX+IE9qxpsV2on9OD6WVXX44rTvLAt7P/L1GGCeDGkm2wKwwzsHcMIacOsNuEzH3qEvT/0QKijZHUKbcvJaklmpHCuCId+uALTLiloirF6nM4r8ulzVV9W7MY86tbJhYlGAis1s6ap60qz6tF4uJays6T5xUv7LS/jUANdsuyH6FqmNPPC+pnofKNWjTL4L50QSZ/aJIod/pmNKJjxvRlo4pB3+J" />
+			
+ <div id="top">
+ <div id="headerMasthead"><a href="../default.htm"><img src="../econresdata/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System" border="0" /></a></div>
+</div>
+<div id="BreadCrumbContainer">
+
+<a href="../default.htm">Home</a>
+
+ &gt; <a href="../econresdata/default.htm">Economic Research & Data</a>
+
+</div> 
+
+			
+			<div class="generalContentTextDDP" id="printThis">
+
+            <div id="printIcon">
+                <div class="subtitletd"><span id="ReleaseLabel"><a href='https://www.federalreserve.gov/releases/H41/default.htm'>Factors Affecting Reserve Balances (H.4.1)</a> - last released Thursday, August 4, 2016</span><span id="ReleaseDateLabel"></span></div>
+			</div>	
+	
+			<div class="pageTitle">
+			<h1 class="all"><img src="gifjpg/ddpIcon.jpg" alt="Data Download Icon"/>Data Download Program</h1>
+			
+			<div class="navigate"><a href="../releases/index.html">All Statistical Releases</a>&nbsp;&gt; <a href="default.htm">
+							Data Download Program home</a>&nbsp;&gt; <strong>Choose</strong></div>
+			</div>
+           
+			<div id="printIcon2">
+                <div id="helptest"><li class="rss"><a href="https://www.federalreserve.gov/feeds/">RSS</a></li><li class="hlp"><a href="javascript:var w=window.open('help/default.htm','','width=700,height=550,menubar=1,resizable=1,scrollbars=1');">Help</a></li>
+                    <noscript><a href="https://www.federalreserve.gov/feeds/">RSS</a>&nbsp;&nbsp;<span class="help"><a href="help/default.htm" target="_blank">Help</a></span></noscript>
+                </div>
+            </div>			
+						
+			<div><span id="Message"><font color="Red"></font></span></div>
+		
+			<table class="sectionTitle">				
+                <tr>
+                <td class="tab"><h2 class="ddp1">Choose a package</h2></td>
+                <td class="name"><span id="lblPackageDescription"></span></td>
+                <td class="learn"><a href="javascript:var w=window.open('help/default.htm#chooseData','','width=700,height=550,menubar=1,resizable=1,scrollbars=1');">
+									                Learn&nbsp;more</A><noscript><a href="help/default.htm#chooseData" target="_blank">Learn more</a></noscript></td>
+                </tr>
+            </table>
+		
+			<div class="instruct">Either build your own custom data package <strong>OR</strong> select a preformatted data package.</div>
+											
+			<table cellspacing="5" cellpadding="5">
+				<tr>
+					<td valign="top" style="width: 400px">
+						<div class="canSection">
+							<div class="packageTitle"><img src="gifjpg/circleA.jpg" alt="A" /><span class="text">Build your package</span></div>
+							<ul class="choose">
+								<li>
+								<img src="gifjpg/selectIcon.jpg" alt="Select your data"/>Select your data</li>
+								<li class="arrow"><img src="gifjpg/arrowIcon.jpg" alt="Arrow"/></li>
+								<li>
+								<img src="gifjpg/formatIcon.jpg" alt="Choose format and date range"/>Choose format and date range</li>
+								<li class="arrow"><img src="gifjpg/arrowIcon.jpg" alt="Arrow"/></li>
+								<li>
+								<img src="gifjpg/downloadIcon.jpg" alt="Download file"/>Download file
+								</li>
+							</ul>
+							<p><input type="submit" name="btnToSelect" value="Build package" onclick="setHourglassOn();" id="btnToSelect" /></p>
+						</div>
+					</td>
+					<td align="left" valign="top">
+						<div id="PackageList" class="canSection"><div class="packageTitle"><img src="gifjpg/circleB.jpg" alt="B" /><span class="text">Select 
+								a&nbsp;preformatted data package</span></div>
+							<div class="cans"><span id="FreqRequest" class="cansList"><input id="FreqRequest_0" type="radio" name="FreqRequest" value="rel=H41&amp;series=cc73dc54904678a485aa7d87a81c786f&amp;lastobs=1&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package" checked="checked" /><label for="FreqRequest_0">H.4.1 Statistical Release  -  Table 1 [csv, Last 1 Obs, 30.5 KB ]</label><br /><input id="FreqRequest_1" type="radio" name="FreqRequest" value="rel=H41&amp;series=03dd1eeb1f076a3a03b0e4a5e1be2adc&amp;lastobs=1&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package" /><label for="FreqRequest_1">H.4.1 Statistical Release  -  Table 1.A [csv, Last 1 Obs, 6.3 KB ]</label><br /><input id="FreqRequest_2" type="radio" name="FreqRequest" value="rel=H41&amp;series=bdbfa0e67d920c0af7e7979be94f8579&amp;lastobs=1&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package" /><label for="FreqRequest_2">H.4.1 Statistical Release  -  Table 2 [csv, Last 1 Obs, 13.1 KB ]</label><br /><input id="FreqRequest_3" type="radio" name="FreqRequest" value="rel=H41&amp;series=dd82b8d5903dba01b3a99e4d8b3da2de&amp;lastobs=1&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package" /><label for="FreqRequest_3">H.4.1 Statistical Release  -  Table 3 [csv, Last 1 Obs, 0.92 KB ]</label><br /><input id="FreqRequest_4" type="radio" name="FreqRequest" value="rel=H41&amp;series=8accaa32b4a90be73989bf48b3111c25&amp;lastobs=1&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package" /><label for="FreqRequest_4">H.4.1 Statistical Release  -  Table 4 [csv, Last 1 Obs, 1.1 KB ]</label><br /><input id="FreqRequest_5" type="radio" name="FreqRequest" value="rel=H41&amp;series=e6abcc59dd71a2c3427d7862d2df2715&amp;lastobs=1&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package" /><label for="FreqRequest_5">H.4.1 Statistical Release  -  Table 5 [csv, Last 1 Obs, 22.9 KB ]</label><br /><input id="FreqRequest_6" type="radio" name="FreqRequest" value="rel=H41&amp;series=1ec68478f80420b52532f79aa4358d93&amp;lastobs=1&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package" /><label for="FreqRequest_6">H.4.1 Statistical Release  -  Table 6 [csv, Last 1 Obs, 92.9 KB ]</label><br /><input id="FreqRequest_7" type="radio" name="FreqRequest" value="rel=H41&amp;series=9781c5d1fd969c9b6daeaf18b0b12873&amp;lastobs=1&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package" /><label for="FreqRequest_7">H.4.1 Statistical Release  -  Table 7 [csv, Last 1 Obs, 2.6 KB ]</label></span></div>
+							<input type="submit" name="btnToDownload" value="Go to download" onclick="setHourglassOn();" id="btnToDownload" />
+							<input type="submit" name="btnToFormat" value="Format package" onclick="setHourglassOn();" id="btnToFormat" />&nbsp;
+						</div>
+						<a id="AllData" onclick="setHourglass(1000);" href="https://www.federalreserve.gov/datadownload/Output.aspx?rel=H41&amp;filetype=zip" style="display:inline-block;">Download all H41 data as a single XML file [SDMX/ZIP, 4.0 MB]</a>
+						<p>Obtain <a href="javascript:exitalert('http://www.pkware.com/')">PKZip software</a></p>
+					</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>
+					   </td>
+					<td>
+					</td>
+				</tr>
+			</table>
+			
+			<h2 class="ddp2"><span class="tab">Announcements</span></h2>
+            <span id="lblLastRSS"><b><A href='http://www.federalreserve.gov/feeds/h41.html#1192'>Change to H.4.1 to reflect the passage of the FAST Act</A></b><br><b><I>2015-12-31</b></I><br><br>The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to reflect the policies under which Federal Reserve Banks make payments of their residual net earnings to the U.S. Treasury.  The Fixing America's Surface Transportation Act (FAST), which was enacted on December 4, 2015, requires that aggregate Federal Reserve Bank surplus not exceed $10 billion.  Therefore, any amount of aggregate Reserve Bank surplus that exceeds this limit will be remitted to the U.S. Treasury.  The line "Interest on Federal Reserve Notes due to U.S. Treasury" on table 6 has been replaced with "Earnings remittances due to the U.S. Treasury" and footnotes to tables 1, 5, and 6 have been similarly modified.  The amounts of the line items "Other liabilities and capital" on table 1, and "Surplus" on tables 5 and 6 reflect the payment of approximately $19.3 billion to Treasury on December 28, 2015, which was necessary to reduce aggregate Reserve Bank surplus to the $10 billion limitation in the FAST Act.<br><br><A href='http://www.federalreserve.gov/feeds/h41.html'>All Announcements</A></span>
+			</div>
+			
+
+<div id="lastUpdate"><span id="Footer_ReleaseLabel"></span>
+
+</div>
+
+
+<!-- The "Not in SmartEdit mode"-"SmartEdit mode" tags cancel each other, so list is hidden -->
+
+
+
+<!-- The "Not in SmartEdit mode"-"SmartEdit mode" tags cancel each other, so list is hidden -->
+
+
+<div id="FooterLinks">
+
+
+    <div class="footer"><a href="https://www.federalreserve.gov/">Home</a> | <a href="../rnd.htm">Economic research and data</a></div>
+    
+
+</div> <!-- CLOSES FooterLinks -->
+
+
+
+ 
+<div id="secondaryFooterLinks">
+<div class="secondaryFooterLinksLeft">
+
+<a href="../accessibility.htm">Accessibility</a> | <a id="Footer_btnContactUs" href="javascript:__doPostBack(&#39;Footer$btnContactUs&#39;,&#39;&#39;)">Contact Us</a>
+
+
+   </div> <!-- CLOSES content -->
+<div class="clear"></div>
+</div> <!-- CLOSES contentContainer -->
+
+<div id="footer">
+<div id="Footer2"></div>
+</div> <!-- CLOSES footer -->
+    
+
+
+
+
+
+<div class="clear"></div>
+
+
+
+
+		</form>
+	<script type="text/javascript" src="../resources/track_downloads.js"></script>
+</body>
+</html>

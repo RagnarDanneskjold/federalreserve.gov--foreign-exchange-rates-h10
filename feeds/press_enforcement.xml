@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+
+
+
+
+    <channel rdf:about="http://www.federalreserve.gov/feeds/press_enforcement.xml">
+        <title>FRB: Press Release - Enforcement Actions</title>
+        <link>http://www.federalreserve.gov/feeds/default.htm</link>
+        <description>Press releases about enforcement actions by the Federal Reserve Board</description> 
+        <items>
+            <rdf:Seq>
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160803a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160802a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160728b.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160728a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160719a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160714a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160628a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160616a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160614a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160609a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160531a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160524a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160517a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160503a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160426a.htm" />
+            
+            </rdf:Seq>
+        </items>
+    </channel>
+
+
+    
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160803a.htm">
+        <title>Federal Reserve Board orders Goldman Sachs Group to pay $36.3 million civil money penalty and announces it is instituting enforcement proceedings against former Goldman Sachs managing director</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160803a.htm</link>
+        <description>Federal Reserve Board orders Goldman Sachs Group to pay $36.3 million civil money penalty and announces it is instituting enforcement proceedings against former Goldman Sachs managing director</description>
+        <dc:date>2016-08-03T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board orders Goldman Sachs Group to pay $36.3 million civil money penalty and announces it is instituting enforcement proceedings against former Goldman Sachs managing director</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-03T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160802a.htm">
+        <title>Federal Reserve Board announces termination of enforcement actions with Calwest Bancorp, Elgin Bancshares, Inc., FEB Bancshares, Inc., and Village Bank and Trust Financial Corp</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160802a.htm</link>
+        <description>Federal Reserve Board announces termination of enforcement actions with Calwest Bancorp, Elgin Bancshares, Inc., FEB Bancshares, Inc., and Village Bank and Trust Financial Corp</description>
+        <dc:date>2016-08-02T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces termination of enforcement actions with Calwest Bancorp, Elgin Bancshares, Inc., FEB Bancshares, Inc., and Village Bank and Trust Financial Corp</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-02T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160728b.htm">
+        <title>Federal Reserve Board permanently bars Thomas H. Huston and T. Mark Huston from participating in the banking industry</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160728b.htm</link>
+        <description>Federal Reserve Board permanently bars Thomas H. Huston and T. Mark Huston from participating in the banking industry</description>
+        <dc:date>2016-07-28T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board permanently bars Thomas H. Huston and T. Mark Huston from participating in the banking industry</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-28T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160728a.htm">
+        <title>Federal Reserve Board announces termination of enforcement action with CCF Holding Company</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160728a.htm</link>
+        <description>Federal Reserve Board announces termination of enforcement action with CCF Holding Company</description>
+        <dc:date>2016-07-28T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces termination of enforcement action with CCF Holding Company</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-28T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160719a.htm">
+        <title>Federal Reserve Board prohibits former foreign exchange (FX) trader from participating in banking industry for his manipulation of FX pricing benchmarks</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160719a.htm</link>
+        <description>Federal Reserve Board prohibits former foreign exchange (FX) trader from participating in banking industry for his manipulation of FX pricing benchmarks</description>
+        <dc:date>2016-07-19T15:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board prohibits former foreign exchange (FX) trader from participating in banking industry for his manipulation of FX pricing benchmarks</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-19T15:30:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160714a.htm">
+        <title>Federal Reserve Board announces termination of enforcement action with Northpointe Bancshares, Inc.</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160714a.htm</link>
+        <description>Federal Reserve Board announces termination of enforcement action with Northpointe Bancshares, Inc.</description>
+        <dc:date>2016-07-14T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces termination of enforcement action with Northpointe Bancshares, Inc.</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-14T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160628a.htm">
+        <title>Federal Reserve Board announces termination of enforcement actions with Century Bank of Florida, Pilot Bancshares, Inc., and Pilot Bank</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160628a.htm</link>
+        <description>Federal Reserve Board announces termination of enforcement actions with Century Bank of Florida, Pilot Bancshares, Inc., and Pilot Bank</description>
+        <dc:date>2016-06-28T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces termination of enforcement actions with Century Bank of Florida, Pilot Bancshares, Inc., and Pilot Bank</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-28T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160616a.htm">
+        <title>Federal Reserve Board issues enforcement action with Affinity Financial Corporation and Waterfield Financial Services, Inc.</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160616a.htm</link>
+        <description>Federal Reserve Board issues enforcement action with Affinity Financial Corporation and Waterfield Financial Services, Inc.</description>
+        <dc:date>2016-06-16T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board issues enforcement action with Affinity Financial Corporation and Waterfield Financial Services, Inc.</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-16T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160614a.htm">
+        <title>Federal Reserve Board announces termination of enforcement action with First National Bancshares, Inc.</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160614a.htm</link>
+        <description>Federal Reserve Board announces termination of enforcement action with First National Bancshares, Inc.</description>
+        <dc:date>2016-06-14T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces termination of enforcement action with First National Bancshares, Inc.</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-14T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160609a.htm">
+        <title>Federal Reserve Board announces termination of enforcement action with First State Bank of Warner</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160609a.htm</link>
+        <description>Federal Reserve Board announces termination of enforcement action with First State Bank of Warner</description>
+        <dc:date>2016-06-09T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces termination of enforcement action with First State Bank of Warner</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-09T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160531a.htm">
+        <title>Federal Reserve Board announces termination of enforcement action with Broadway Financial Corporation</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160531a.htm</link>
+        <description>Federal Reserve Board announces termination of enforcement action with Broadway Financial Corporation</description>
+        <dc:date>2016-05-31T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces termination of enforcement action with Broadway Financial Corporation</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-31T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160524a.htm">
+        <title>Federal Reserve Board announces termination of enforcement action with American Bancorporation of Minnesota, Inc.</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160524a.htm</link>
+        <description>Federal Reserve Board announces termination of enforcement action with American Bancorporation of Minnesota, Inc.</description>
+        <dc:date>2016-05-24T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces termination of enforcement action with American Bancorporation of Minnesota, Inc.</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-24T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160517a.htm">
+        <title>Federal Reserve Board issues enforcement action with First Community Bank</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160517a.htm</link>
+        <description>Federal Reserve Board issues enforcement action with First Community Bank</description>
+        <dc:date>2016-05-17T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board issues enforcement action with First Community Bank</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-17T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160503a.htm">
+        <title>Federal Reserve Board issues enforcement action with Farmers &amp; Merchants Bank of Ashland and termination of enforcement action with First Mutual of Richmond, Inc. and Richmond Mutual Bancorporation, Inc.</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160503a.htm</link>
+        <description>Federal Reserve Board issues enforcement action with Farmers &amp; Merchants Bank of Ashland and termination of enforcement action with First Mutual of Richmond, Inc. and Richmond Mutual Bancorporation, Inc.</description>
+        <dc:date>2016-05-03T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board issues enforcement action with Farmers &amp; Merchants Bank of Ashland and termination of enforcement action with First Mutual of Richmond, Inc. and Richmond Mutual Bancorporation, Inc.</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-03T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160426a.htm">
+        <title>Federal Reserve Board announces termination of enforcement action with Jack Henry &amp; Associates, Inc.</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160426a.htm</link>
+        <description>Federal Reserve Board announces termination of enforcement action with Jack Henry &amp; Associates, Inc.</description>
+        <dc:date>2016-04-26T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces termination of enforcement action with Jack Henry &amp; Associates, Inc.</cb:simpleTitle>
+        <cb:occurrenceDate>2016-04-26T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+</rdf:RDF>

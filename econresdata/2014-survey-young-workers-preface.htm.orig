@@ -1,0 +1,250 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/older-adult-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head><!-- PageID 18316 - published by RedDot 7.5 - 7.5.2.17 - 18957 -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="Board of Governors of the Federal Reserve System, Federal Reserve Board of Governors, Federal Reserve Board, Federal Reserve" />
+<meta name="description" content="The Federal Reserve Board of Governors in Washington DC." />
+
+<!-- InstanceBeginEditable name="PageTitle" -->
+<title>FRB: In the Shadow of the Great Recession: Experiences and Perspectives of Young Workers</title><!-- InstanceEndEditable -->
+
+<link href="/resources/main.css" rel="stylesheet" type="text/css" />
+<link href="/resources/print2.css" rel="stylesheet" type="text/css" media="print"/>
+
+
+<script language="JavaScript" type="text/javascript" src="/resources/jquery-1.7.1.min.js "></script>
+<script language="JavaScript" type="text/javascript" src="/resources/exit_new.js"></script>
+<script language="JavaScript" type="text/javascript" src="/resources/swfLink.js"></script>
+
+<!-- InstanceBeginEditable name="head" -->
+<script type="text/javascript">
+    <!-- FOR ALTERNATING TABLE ROWS//-->
+    $(document).ready(function() {
+						   
+							   $(".pubtables tr:even").addClass("alt"); 
+							 
+});
+</script>
+<script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
+                               
+ <script type="text/javascript">
+$(document).ready(function(){
+
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+</script>                                   
+    <!-- InstanceEndEditable -->
+
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<span class="skip2">
+<a href="#mainNav">skip to main navigation</a>
+<a href="#secondNav">skip to secondary navigation</a>
+<a href="#content">skip to content</a>
+</span>
+<!-- HEADER STARTS -->
+<table id="headerTopLinks" cellpadding="0" cellspacing="0">
+  <tr>
+<td class="headerTopLinksLeft">
+<a href="/whatsnew.htm">What's New</a> &middot; 
+<a href="/whatsnext.htm">What's Next</a> &middot; 
+<a href="/sitemap.htm">Site Map</a> &middot; 
+<a href="/azindex.htm">A-Z Index</a> &middot; 
+<a href="/careers/default.htm">Careers</a> &middot; 
+<a href="/feeds/default.htm">RSS</a> &middot; 
+<a href="/mediacenter/media.htm">All Videos</a> &middot; 
+<a href="/faqs/faq.htm">Current FAQs</a> &middot; 
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a></td>
+<td class="curve1"></td>
+    <td class="headerTopLinksRight"><form action="http://search.newyorkfed.org/board_public/search" method="get">
+        <label for="searchbox" class="skip2">Search</label>
+        <input type="text" name="text" size="12" maxlength="100" id="searchbox" /> <input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search"/> <a href="http://search.newyorkfed.org/board_public" class="search">Advanced Search</a>
+      </form></td>
+    <td class="curve2"></td>
+  </tr>
+</table>
+<div id="top">
+<div id="headerMasthead"><a href="/default.htm"><img src="/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"/></a>
+</div>
+<a name="mainNav"></a>
+  <div class="navMenuBack">
+    <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><div class="navItem"><a href="/aboutthefed/default.htm">About<br/>
+            the Fed</a></div></td>
+        <td><div class="navItem"><a href="/newsevents/default.htm">News<br/>
+            &amp; Events</a></div></td>
+        <td><div class="navItem"><a href="/monetarypolicy/default.htm">Monetary<br/>
+            Policy</a></div></td>
+        <td><div class="navItem"><a href="/bankinforeg/default.htm">Banking<br/>
+            Information<br/>
+            &amp; Regulation</a></div></td>
+        <td><div class="navItem"><a href="/paymentsystems/default.htm">Payment<br/>
+            Systems</a></div></td>
+        <td id="selected"><div class="navItem"><a href="/econresdata/default.htm">Economic<br/>
+            Research<br/>
+            &amp; Data</a></div></td>
+        <td><div class="navItem"><a href="/consumerinfo/default.htm">Consumer<br/>
+            Information</a></div></td>
+        <td><div class="navItem"><a href="/communitydev/default.htm">Community<br/>
+            Development</a></div></td>
+        <td><div class="navItem"><a href="/apps/reportforms/default.aspx">Reporting<br/>
+            Forms</a></div></td>
+        <td><div class="navItem"><a href="/publications/default.htm">Publications</a></div></td>
+      </tr>
+    </table>
+    <!-- HEADER ENDS -->
+
+ 
+ 
+</div>
+</div>
+<div id="contentwrapper">
+<a name="secondNav"></a><span id="skip2"><a href="#content">skip to content</a></span>
+        
+
+
+<div id="breadcrumbwrapper"><!-- InstanceBeginEditable name="BreadCrumbs" -->
+  <div id="BreadCrumbContainer"> <a href="/default.htm">Home</a> &gt; <a href="/econresdata/default.htm">Economic Research &amp; Data</a> </div>
+<!-- InstanceEndEditable --></div>
+
+<div id="content"> <a name="contetype="nt"></a>
+  <link href="" rel="stylesheet" text/css" />
+
+  <A NAME="pagetop"></A>
+  <div id="pagetitle"><!-- InstanceBeginEditable name="Report Title" -->
+    <h2>In the Shadow of the Great Recession: Experiences and Perspectives of<br />
+      Young Workers</h2>
+  <!-- InstanceEndEditable -->
+    <div id="printIcon"><a href="javascript:window.print()"><img src="/econresdata/gifjpg/printIcon.gif" />Print</a></div>
+    <div class="clear"></div>
+  </div>
+  <!--closes pagetitle-->
+  <div id="layout">
+    <div id="main">
+      <!-- <div class="skinny"> -->
+      <a name="top" id="top"></a>
+      
+      <!--- TopNavArea --->
+	  <!-- InstanceBeginEditable name="TopNav" -->
+      <div class="contentNav">
+        <ul class="column"> 
+<li class="selected">Preface</li> 
+<li><a href="2014-survey-young-workers-executive-summary.htm">Executive Summary</a></li> 
+<li><a href="2014-survey-young-workers-introduction.htm">Introduction</a></li>
+<li><a href="2014-survey-young-workers-connecting-education-and-the-labor-market.htm">Connecting Education and the Labor Market</a></li> 
+        </ul> 
+<ul class="column"> 
+<li><a href="2014-survey-young-workers-job-fit.htm">Job Fit</a></li> 
+<li><a href="2014-survey-young-workers-upward-mobility.htm">Upward Mobility</a></li>
+<li><a href="2014-survey-young-workers-young-workers-unemployment.htm">Young Workers' Unemployment</a></li>
+<li><a href="2014-survey-young-workers-young-workers-outlook.htm">Young Workers' Outlook</a></li> 
+</ul> 
+<ul class="column"> 
+<li><a href="2014-survey-young-workers-policy-and-research-implications.htm">Policy and Research Implications</a></li>
+<li><a href="2014-survey-young-workers-appendix-A-methodology.htm">Appendix A: Methodology</a></li>
+<li><a href="2014-survey-young-workers-appendix-B-responses-to-the-survey-of-young-workers.htm">Appendix B: Responses to the Survey of Young Workers</a></li>
+</ul> 
+      </div>
+      <!-- InstanceEndEditable -->
+      <!--- End: TopNavArea --->
+      
+      <!-- InstanceBeginEditable name="MainContent" -->
+      <!--- START: mainContent --->
+      <a name="top"></a><h2 class="borderdash">Preface</h2> 
+<p>The Federal Reserve Board's Division of Consumer and Community Affairs (DCCA) conducted the Survey of Young Workers and prepared this report.</p> 
+<p>DCCA directs consumer- and community-related functions performed by the Board, including conducting research on labor market and financial services policies and practices and their implications for consumer financial stability, community development, and neighborhood stabilization.</p> 
+<p>DCCA staff members Alexandra Brown, Nuha Elmaghrabi, Lindsey Holthaus, and Heidi Kaplan prepared this report. Extensive comments, feedback, and technical assistance were provided by the following DCCA staff members: Mario Arthur-Bentil, Sam Dodini, Marysol McGee, Barbara Robles, Maximilian Schmeiser, and Howard Williams. Feedback on the Survey of Young Workers and report was provided by the following Federal Reserve Bank (FRB) staff: Jen Giovanitti (FRB Richmond), Todd Greene (FRB Atlanta), Karen Leon de Nie (FRB Atlanta), Francisca Richter (FRB Cleveland), Keith Rolland (FRB Philadelphia), Alicia Sasser (FRB Boston), and Steven Shepelwich (FRB Kansas City). Support and guidance from Federal Reserve Board staff members Anna Alvarez Boyd, Joseph Firschein, David Kaufmann, Nancy Riley, and Susan Stawick are gratefully acknowledged. The Federal Reserve also would like to thank the following organizations that provided insights on issues affecting young workers: Georgetown University Center on Education and the Workforce, Institute for Higher Education Policy, Hitachi Foundation, John J. Heldrich Center for Workforce Development, Progressive Policy Institute, and Young Invincibles.</p> 
+<p>Mention or display of a trademark, proprietary product, or firm in this report does not constitute an endorsement or criticism by the Federal Reserve System and does not imply approval to the exclusion of other suitable products or firms.</p> 
+      <!-- InstanceEndEditable -->
+
+    </div>
+
+    <!-- InstanceBeginEditable name="otherFormats" -->
+    <div id="relatedInfo">
+      <ul class="classic clearfix">
+        <li class="heading">
+          <h3>Other Formats</h3>
+        </li>
+        <li><a href="/econresdata/2013-experiences-and-perspectives-of-young-workers-201411.pdf">Full report (PDF)</a></li>
+      </ul>
+      <ul class="socialBox clearfix">
+        <li class="heading">
+          <h3>Stay Connected</h3>
+        </li>
+        <li style="float:left"> <span class="twitter"> <a href="javascript:exitWindow('https://twitter.com/federalreserve','ext')">Twitter</a></span></li>
+        <li> <span class="medCon youtube"> <a href="javascript:exitWindow('http://www.youtube.com/FedReserveBoard','ext')">YouTube</a></span></li>
+        <li> <span class="medCon flickr"><a href="javascript:exitWindow('http://www.flickr.com/photos/federalreserve/','ext')">Flickr</a></span></li>
+        <li> <span class="medCon rss"> <a href="/feeds/default.htm">RSS Feeds</a></span></li>
+        <li> <span class="medCon email"> <a href="/newsevents/subscribe.htm">Subscribe</a></span></li>
+      </ul>
+      <br/>
+    </div>
+    <!-- InstanceEndEditable -->
+    <div class="clear"></div>
+  </div>
+  <!--closes layout--><!-- InstanceBeginEditable name="LastUpdate" -->
+  <div id="lastUpdate">Last update: November 18, 2014</div>
+  <!-- InstanceEndEditable -->
+  <p id="back-top" style="display: block;"> <a href="#pagetop"><span></span>Back to Top</a></p>
+
+  <div id="FooterLinks"> <a href="/default.htm">Home</a> | <a href="/publications/default.htm">Publications</a> </div>
+  <!-- CLOSES FooterLinks -->
+  <div id="secondaryFooterLinks">
+    <div class="secondaryFooterLinksLeft">
+<a href="/accessibility.htm">Accessibility</a>
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+<a href="/disclaimer.htm">Disclaimer</a>
+<a href="/policies.htm">Website Policies</a>
+<a href="/foia/about_foia.htm">FOIA</a>
+</div>
+
+    <div class="secondaryFooterLinksRight"> <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon" /> </div>
+    <div class="clear"></div>
+  </div>
+  <!-- CLOSES secondaryFooterLinks -->
+</div>
+<!-- CLOSES mainContent -->
+
+<div class="clear"></div>
+</div> <!-- CLOSES contentwrapper -->
+
+<div id="footer">
+<div id="Footer2"></div>
+</div><!-- CLOSES footer -->
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+
+<!-- InstanceEnd --></html>

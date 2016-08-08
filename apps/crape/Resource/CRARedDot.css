@@ -1,0 +1,79 @@
+﻿
+/*BANK RATING STYLES*/
+
+#content.CRA
+{
+background-color: #FFFFFF;
+margin-left: 0;
+margin-top: 0;
+padding-top: 0;
+}
+
+#titleBar
+{
+border: none;
+position: relative; /* peekaboo bug fix for IE6 */
+min-width: 0; /* peekaboo bug fix for IE7 */
+}
+
+#bankRatingIntroText
+{
+   border: none;
+}
+
+#bankRatingSearch
+{
+   border: none;
+}
+
+#bankRatingResult
+{
+   border: none;
+}
+
+/*DISTRICT SCHEDULES STYLES*/
+
+#scheduleSearch
+{
+   margin-left: 15px;
+}
+
+#districtJump
+{
+   border: none;
+}
+
+#scheduleResult
+{
+   border: none;
+   margin-left: 10px;
+}
+
+#banklistcolleft {
+    line-height: 1.4em;
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    font-weight: normal;
+    margin-top: .5em;
+    margin-bottom: 1.2em;
+    float: left;
+    width: 120px;
+}
+#banklistcolright {
+    line-height: 1.4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    font-weight: normal;
+    margin-top: .5em;
+    margin-bottom: 1.2em;
+    padding-bottom: 2em;
+    float: left;
+}
+
+.LoadingPanelImage
+{
+text-align: center;
+}

@@ -1,0 +1,136 @@
+/*COMMUNITY STYLES*/
+#floatwrapper {margin-bottom:1em;}
+.left {float:left; width:7.25em; margin:0 0 0 0;}
+.purple a {color:#460661;}
+
+/*HMDA PAGE*/
+
+#hmda a:link {text-decoration: none; margin: 0 0 0 0;}
+#hmda a:visited {text-decoration: none; margin: 0 0 0 0;}
+
+table.agenda {border:1px solid white; margin:0 0 0 0; padding:0 0 0 0; border-collapse:collapse; font-size:0.90em;}
+table.agenda th {text-align:center; font-weight:bold; color:white; background-color:#3F523E; padding:0.55em; border:2px solid white;}
+table.agenda th a:link {color:white;}
+table.agenda th a:visited {color:white;}
+table.agenda td {text-align:center; padding:0.25em; }
+table.agenda td.left3 {text-align:left; background-color:#fdfaec; color:#043502; width:12em; font-weight:bold; padding:0.5em; border:2px solid white; vertical-align:top;}
+table.agenda td.left2 {text-align:left; background-color:#fdfaec; color:#043502; width:15em; font-weight:bold; padding:0.5em; border:2px solid white; vertical-align:top;}
+table.agenda td.data {text-align:center; background-color:#f7fbf7; color:#043502; border:2px solid white;}
+table.agenda td.data2 {text-align:left; padding:0.5em; background-color:#f7fbf7; color:#043502; border:2px solid white; vertical-align:top;}
+table.agenda td.data3 {text-align:right; padding:0.5em; background-color:#f7fbf7; color:#043502; border:2px solid white; vertical-align:top;}
+table.agenda td.shade {text-align:left; padding:0.5em; background-color:#ccc; color:#043502; border:2px solid white; vertical-align:top; }
+
+img.icons {vertical-align: middle;}
+span.smalltxtagenda {font-size: 0.95em; }
+
+h3.agenda {font-family: Arial, Helvetica, sans-serif; font-size: 1.3em; }
+
+/*------------------- NEW SUB-NAV SILVER LOOK COLUMN STYLE LIKE BST -----------------------*/
+#navwrapperSilvercol.cra{height:110px; border: 1px solid #DDD; background-image: url(<img src="/gifjpg/nav_background.gif">); background-position:bottom; background-repeat: repeat-x;}
+#navleftSilvercol1.cra{float:left; padding:15px 10px 10px 10px; width:18em;}
+#navleftSilvercol2.cra{float:left; padding:15px 10px 10px 10px; width:17em; margin-left:4em;}
+#navleftSilvercol3.cra{float:left; padding:15px 10px 10px 10px; width:13em; margin-left:2em;}
+
+/*-------------------------CRA TABLE -------------------*/
+
+table.craBanks {border-top:1px solid #999999; border-left:1px solid #999999; empty-cells:show; font-family: Verdana, Geneva, sans-serif; font-size: .85em; margin-bottom: 1em;}
+table.craBanks td {padding:5px; text-align:right; border-bottom:1px solid #999999; border-right: 1px solid #999999;}
+table.craBanks td.text{text-align:left;}
+table.craBanks td.right {text-align:right;}
+table.craBanks th {padding:5px; text-align:left; border-bottom: 1px solid #999999; border-right: 1px solid #999999; background-color:#3e5d3d; color:white;}
+table.craBanks th.center{padding:5px; text-align:center; border-bottom: 1px solid #999999; border-right: 1px solid #999999; background-color:#74aeb7; color:white;}
+table.craBanks th.left {text-align: left;}
+table.craBanks th a:link {color:white;}
+table.craBanks th a:visited {color:white;}
+table.craBanks th.subhead{background-color: #74aeb7; color: #000;}
+table.craBanks th.subhead2{background-color: #74aeb7; color: #000; text-align: left;}
+table.craBanks td.left{text-align:left; font-weight:none; color: #3e5d3d; border-right:1px solid #999999;}
+table.craBanks td.left2{text-align:left; border-right:1px solid #999999;}
+table.craBanks td.left3{text-align:center; font-weight:none; border-right:1px solid #999999;}
+table.craBanks td.left4{text-align:left; font-weight:none; border-right:1px solid #999999; font-weight: bold; background-color:#3e5d3d; color:white;}
+table.craBanks td.left4noborder{text-align:right; font-weight:none; font-weight: bold; border: none; }
+table.craBanks td.left4nobottomborder{text-align:right; font-weight:none; font-weight: bold; border-bottom: none; }
+table.craBanks td.left4norightborder{text-align:right; font-weight:none; font-weight: bold; border-right: none; }
+table.craBanks td.center{text-align:center;}
+table.craBanks td.right{text-align:right;}
+table.craBanks tr.shade1 {background-color:#f7f6f0;}
+table.craBanks tr.shade2 {background-color: #f7f6f0;}
+table.craBanks .subhead{text-align: left; border-bottom: 1px solid #fff; font-weight: bold;}
+table.craBanks tr.header {background-color: #999999; }
+span.crasmalltextTable {font-size:9px;}
+
+/*-------------------------NEW STYLES FOR VIDEOS - RESOURCES FOR STABILIZING COMMUNITY PAGES-------------------*/
+#vidwrapper {margin:0 0 1em 0; padding:0 0 0 0;}
+.vidleft {float:left; width:250px; margin:0 1em 0 0; padding:0 0 0 0;}
+.vidright {float:left; margin:0 0 0 0; width:42em; padding:0 0 0 0; font-size:0.85em;}
+h4.community {color:#fff; background-color:#003300; font-size:1.65em; background-image:url(../gifjpg/header_back.gif); background-position:top left; background-repeat:repeat-x; padding:0.5em; margin:0 0 10px 0;}
+/*-------------------------END NEW STYLES-------------------*/
+
+
+/*For related materials at the bottom of each page*/
+#relatedItems {background-color: #EFEFEF; padding-top: 15px; padding-bottom: 15px; margin-top: -15px; }
+#relatedItems ul {list-style:none; padding: 10px 0 0 0; margin: -10px 0 0 0;}
+#relatedItems ul li {font-family:Arial, Helvetica, sans-serif; font-size:12px; margin-left: 10px;}
+#relatedItems ul.relatedbox {list-style:none; padding: 10px 0 20px; 0; margin: 5px 0 0 15px;}
+#relatedItems ul li.relatedbox {font-family:Arial, Helvetica, sans-serif; font-size:12px; margin-left: 10px;}
+p.type {font-family: Arial, Helvetica, sans-serif; font-size:11px; color:#999; padding: 0 0 0 0;  margin: 0 0 0 10px; text-transform:uppercase;}
+p.date {font-family: Arial, Helvetica, sans-serif; font-size:12px;padding: 0 0 0 0; margin: 0 0 0 10px;}
+p.link {font-family: Arial, Helvetica, sans-serif; font-size:13px;padding: 0 0 0 0;  margin: 0 0 10px 10px;}
+hr.whiteLine {border: 1px solid #fff; height: 0.03em; width: 475px; padding: 0 0 0 0; margin-bottom: 20px;}
+
+/*----------------------------Stabalizing Communities--*/
+.session {margin: 1em 0; border-bottom: 1px solid #999999;}
+.session .time { float: left; }
+.session .time p {font-weight: bold; margin: 0.1em 0 0 0; padding: 0;}
+.session .details {margin-left: 6em; margin-bottom: 0.5em;}
+.session .details p { margin: 0.5em 0; }
+.session .details h3 {border: none; font-size: 1.385em; margin: 0 0 0.1em 0; padding: 0;}
+.session .details div.presentations {background-color: #EFEFEF; margin: 1em 0; padding: 1em; font-family: Arial, Helvetica, sans-serif; font-size: 0.85em;}
+.session .details div.presentations ul {margin: 0; padding: 0; text-align:left; padding-bottom: 5px; padding-top:5px;}
+.session .details div.presentations ul li {border-left: 1px solid #666666; display: inline; list-style: none; margin: 0; padding: 0 1em 0 1.5em;}
+.session .details div.presentations ul li a.audio {background-image: url('../gifjpg/audio.png'); background-repeat: no-repeat; display: inline-block; height: 16px; padding: 0 0 0.1em 1.5em;}
+.session .details div.presentations ul li a.transcript {background-image: url('../gifjpg/transcript.png'); background-repeat: no-repeat; display: inline-block; height: 16px; padding: 0 0 0.1em 2em;}
+.session .details div.presentations ul li a.video_youtube {background-image: url('../gifjpg/youtube.png'); background-repeat: no-repeat; display: inline-block; height: 16px; padding: 0 0 0.1em 2em;}
+.session .details div.presentations ul li.first { border-left: none; }
+ul.panelists {margin: 0 0 0 1.5em; padding: 0 0 0 1em;}
+ul.panelists li {list-style-position: outside; margin: 0; padding: 0 0 0 0.2em;}
+
+ /*----------------------------END --*/
+
+/*for right boxes that have subheadings within the ul lists*/
+#stayconnectedrightSidebar ul.stayconnected2 li h4.category {
+color: #000; 
+list-style: none;
+margin: 0;
+padding: 0;
+font-size: 1.2em;}
+
+#stayconnectedrightSidebar ul.stayconnected2 li.heading {
+color: #000; 
+list-style: none;
+margin: 0 0 5px -10px;
+padding: 0;}
+ 
+/*----------------------------ADDED BY WENDY 022414 FOR COMM DEV INTERIM FIX --*/
+#commdevfloat {margin-bottom:1em; margin-left:20px; border-bottom:1px dotted #CCC;}
+.commdevleft {float:left; width:10em; margin:0 1em 0 0;}
+.commdevright {float:left; width:22em; margin:0 0 0 2em; }
+#leftContainerCommDev2014 {
+                width: 385px;
+                float: left;
+                margin-bottom: 15px;    
+}
+/*----------------------------ADDED 20140312 PER LAURA/LINDSAY FOR COMM DEV INTERIM FIX --*/
+#rightContainerCommDev2014 {
+    float: right;
+    margin: 41px -13px 0 0;
+    width: 300px;
+}
+--------------------------------------------------------------------------
+#leftContainer img {
+                padding-right: 10px;
+} 
+#rightContainer img {
+                padding-right: 10px;
+                margin-top: 10px;
+}

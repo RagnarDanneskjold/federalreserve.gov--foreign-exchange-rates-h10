@@ -20,9 +20,9 @@ wget --page-requisites \
      --adjust-extension \
      --convert-links \
      --backup-converted \
-     --recursive --level 1 \
-     --no-parent \
+     --recursive --level 2 \
      --no-host-directories \
+     --timestamp \
      https://www.federalreserve.gov/releases/h10/hist/default.htm |
      tee ./wget.log
 
@@ -31,9 +31,9 @@ wget --page-requisites \
      --adjust-extension \
      --convert-links \
      --backup-converted \
-     --recursive --level 1 \
-     --no-parent \
+     --recursive --level 2 \
      --no-host-directories \
+     --timestamp \
      https://www.federalreserve.gov/releases/h10/hist/default1999.htm |
      tee -a ./wget.log
 
@@ -42,11 +42,13 @@ wget --page-requisites \
      --adjust-extension \
      --convert-links \
      --backup-converted \
-     --recursive --level 1 \
-     --no-parent \
+     --recursive --level 2 \
      --no-host-directories \
+     --timestamp \
      https://www.federalreserve.gov/releases/h10/hist/default1989.htm |
      tee -a ./wget.log
+
+
 ```
 
 

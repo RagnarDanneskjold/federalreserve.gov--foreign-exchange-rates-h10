@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+
+
+
+
+    <channel rdf:about="http://www.federalreserve.gov/feeds/press_bcreg.xml">
+        <title>FRB: Press Release - Banking/Consumer Reg Policy</title>
+        <link>http://www.federalreserve.gov/feeds/default.htm</link>
+        <description>Press releases about banking and consumer regulatory policy from the Federal Reserve Board</description> 
+        <items>
+            <rdf:Seq>
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160802b.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160802a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160801b.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160801a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160729a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160725a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160722a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160722b.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160715a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160707a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160630a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160629a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160623a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160617c.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160617b.htm" />
+            
+            </rdf:Seq>
+        </items>
+    </channel>
+
+
+    
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160802b.htm">
+        <title>Regulated institutions to submit self-assessments of diversity policies and practices</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160802b.htm</link>
+        <description>Regulated institutions to submit self-assessments of diversity policies and practices</description>
+        <dc:date>2016-08-02T16:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Regulated institutions to submit self-assessments of diversity policies and practices</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-02T16:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160802a.htm">
+        <title>Agencies extend deadline for 38 resolution plan submissions</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160802a.htm</link>
+        <description>Agencies extend deadline for 38 resolution plan submissions</description>
+        <dc:date>2016-08-02T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Agencies extend deadline for 38 resolution plan submissions</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-02T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160801b.htm">
+        <title>Agencies finalize rule exempting certain commercial and financial end users from initial and variation margin requirements</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160801b.htm</link>
+        <description>Agencies finalize rule exempting certain commercial and financial end users from initial and variation margin requirements</description>
+        <dc:date>2016-08-01T16:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Agencies finalize rule exempting certain commercial and financial end users from initial and variation margin requirements</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-01T16:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160801a.htm">
+        <title>Federal Reserve Board invites comment on interim final rule adjusting the Board's maximum civil money penalties</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160801a.htm</link>
+        <description>Federal Reserve Board invites comment on interim final rule adjusting the Board's maximum civil money penalties</description>
+        <dc:date>2016-08-01T15:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board invites comment on interim final rule adjusting the Board's maximum civil money penalties</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-01T15:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160729a.htm">
+        <title>Shared National Credit review finds risk remains high, but underwriting and risk management improve</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160729a.htm</link>
+        <description>Shared National Credit review finds risk remains high, but underwriting and risk management improve</description>
+        <dc:date>2016-07-29T09:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Shared National Credit review finds risk remains high, but underwriting and risk management improve</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-29T09:30:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160725a.htm">
+        <title>Federal Reserve Board extends comment period for advanced notice of proposed rulemaking detailing conceptual frameworks for capital standards until September 16, 2016</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160725a.htm</link>
+        <description>Federal Reserve Board extends comment period for advanced notice of proposed rulemaking detailing conceptual frameworks for capital standards until September 16, 2016</description>
+        <dc:date>2016-07-25T11:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board extends comment period for advanced notice of proposed rulemaking detailing conceptual frameworks for capital standards until September 16, 2016</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-25T11:30:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160722a.htm">
+        <title>Agencies issue proposal on method to adjust thresholds for exempting certain consumer credit and lease transactions</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160722a.htm</link>
+        <description>Agencies issue proposal on method to adjust thresholds for exempting certain consumer credit and lease transactions</description>
+        <dc:date>2016-07-22T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Agencies issue proposal on method to adjust thresholds for exempting certain consumer credit and lease transactions</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-22T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160722b.htm">
+        <title>Agencies propose method to adjust threshold for exempting small loans from special appraisal requirements</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160722b.htm</link>
+        <description>Agencies propose method to adjust threshold for exempting small loans from special appraisal requirements</description>
+        <dc:date>2016-07-22T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Agencies propose method to adjust threshold for exempting small loans from special appraisal requirements</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-22T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160715a.htm">
+        <title>Agencies release final revisions to interagency questions and answers regarding community reinvestment</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160715a.htm</link>
+        <description>Agencies release final revisions to interagency questions and answers regarding community reinvestment</description>
+        <dc:date>2016-07-15T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Agencies release final revisions to interagency questions and answers regarding community reinvestment</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-15T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160707a.htm">
+        <title>Federal Reserve Board formalizes previously announced one-year conformance period extension for certain Volcker rule legacy fund investments</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160707a.htm</link>
+        <description>Federal Reserve Board formalizes previously announced one-year conformance period extension for certain Volcker rule legacy fund investments</description>
+        <dc:date>2016-07-07T14:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board formalizes previously announced one-year conformance period extension for certain Volcker rule legacy fund investments</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-07T14:30:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160630a.htm">
+        <title>Federal Reserve Board releases annual determination of aggregate consolidated liabilities of financial companies</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160630a.htm</link>
+        <description>Federal Reserve Board releases annual determination of aggregate consolidated liabilities of financial companies</description>
+        <dc:date>2016-06-30T14:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board releases annual determination of aggregate consolidated liabilities of financial companies</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-30T14:30:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160629a.htm">
+        <title>Federal Reserve releases results of Comprehensive Capital Analysis and Review (CCAR)</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160629a.htm</link>
+        <description>Federal Reserve releases results of Comprehensive Capital Analysis and Review (CCAR)</description>
+        <dc:date>2016-06-29T16:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve releases results of Comprehensive Capital Analysis and Review (CCAR)</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-29T16:30:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160623a.htm">
+        <title>Federal Reserve releases results of supervisory bank stress tests</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160623a.htm</link>
+        <description>Federal Reserve releases results of supervisory bank stress tests</description>
+        <dc:date>2016-06-23T16:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve releases results of supervisory bank stress tests</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-23T16:30:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160617c.htm">
+        <title>Agencies issue host state loan-to-deposit ratios</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160617c.htm</link>
+        <description>Agencies issue host state loan-to-deposit ratios</description>
+        <dc:date>2016-06-17T12:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Agencies issue host state loan-to-deposit ratios</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-17T12:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160617b.htm">
+        <title>Agencies issue joint statement on new accounting standard on financial instruments-credit losses</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160617b.htm</link>
+        <description>Agencies issue joint statement on new accounting standard on financial instruments-credit losses</description>
+        <dc:date>2016-06-17T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Agencies issue joint statement on new accounting standard on financial instruments-credit losses</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-17T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+</rdf:RDF>

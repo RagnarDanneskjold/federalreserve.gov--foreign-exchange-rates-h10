@@ -1,0 +1,36 @@
+﻿/*h2a search tables*/
+
+#h2acallout {margin: 7px -160px 0 0px; width:275px; float:right; padding:0 0 0 0; background-color:#f7f6f0; border-bottom: 4px solid #3f523e;  border-right: 1px solid #96b795;}
+#h2acallout h1 {margin:0 -0.51em 0.75em 0; padding:0.15em 0.15em 0.15em 0.25em; width: 380px; font-size:1.4em; color: #3f523e; background-color:#266ea9;}
+#h2acallout a {color:#314732;}
+#h2acallout ul {list-style:none; margin:0 0 0 0; padding:0 0 0 0; background-color: #e4eef0; border-top: 1px solid #96b795;}
+#h2acallout li.title {background:url(http://www.federalreserve.gov/GIFJPG/gradient.gif); font-family: "Times New Roman", Times, serif; color: #fff; margin-top: 0px; font-size: 16px; list-style: none; padding-left: 10px; margin-right: 25px; border-right: 1px solid #3f523e; border-left: none; border-top: none; width: 45px;}
+#h2acallout ul li {float: left; padding-right: 10px; list-style: none; padding-bottom: 5px; padding-top: 5px; margin-top: 2px;}
+img.logo {padding-right: 20px; }
+table.h2asearch{font-family:Verdana, Geneva, sans-serif; font-size:0.90em; border-left: 1px solid #999999; border-top: 1px solid #999999;}
+table.h2asearch th {text-align:center; font-weight:bold; color:white; background-color:#3e5d3d; border-bottom:1px solid #999999; border-right: 1px solid #999999; padding: .5em; }
+table.h2asearch th.nocolor {text-align:left; background-color:#fdfaec; color:#043502; font-weight:bold; border-right: 1px solid #999999; border-bottom: 1px solid #999999; padding: .5em;}
+table.h2asearch th a:link {color:white;}
+table.h2asearch th a:visited {color:white;}
+table.h2asearch td {border-right: 1px solid #999999; border-bottom: 1px solid #999999; }
+table.h2asearch td.left {text-align:left; background-color:#f7f6f0; color:#043502; font-weight:normal; border-right: 1px solid #999999; border-bottom: 1px solid #999999; padding: .5em; }
+table.h2asearch td.left2 {text-align:left; background-color:#fdfaec; color:#043502; font-weight:normal; border-right: 1px solid #999999; border-bottom: 1px solid #999999; }
+table.h2asearch td.left3 {vertical-align:top; text-align:left; background-color:#fff; color:#043502; font-weight:normal; border-right: 1px solid #999999; border-bottom: 1px solid #999999; }
+table.h2asearch td.left4 {vertical-align:top; text-align:left; background-color:#f7f6f0; color:#043502; font-weight:normal; border-right: 1px solid #999999; border-bottom: 1px solid #999999; }
+table.h2asearch td.left5 {text-align:right; background-color:#f7f6f0; color:#043502; font-weight:normal; border-bottom: 1px solid #999999; border-right: none; padding: .5em; }
+table.h2asearch td.left5v2 {text-align:right; background-color:#f7f6f0; color:#043502; font-weight:normal; border-bottom: none; border-right:none; padding: .5em; }
+table.h2asearch td.left6 {text-align:right; background-color:#f7f6f0; color:#043502; font-weight:normal; border-bottom: 1px solid #999999; border-right: none; border-left:none; padding: .5em; }
+table.h2asearch td.leftnoline {text-align:left; background-color:#f7f6f0; color:#043502; font-weight:normal; border-bottom: 1px solid #999999; border-left: none;padding: .5em; }
+table.h2asearch td.leftnolinev2 {text-align:left; background-color:#f7f6f0; color:#043502; font-weight:normal; border-bottom: none; border-left: none; padding: .5em;}
+table.h2asearch td.leftnolinev3 {text-align:left; background-color:#f7f6f0; color:#043502; font-weight:normal; border-bottom: none; border-left: none;  border-right: none; padding: .5em; }
+table.h2asearch td.data {text-align:center; background-color:#f7fbf7; color:#043502; border:2px solid white;}
+table.h2asearch td.data2 {text-align:center; background-color:#f7f6f0; color:#043502; border-right: 1px solid #999999; border-bottom: 1px solid #999999; border-top: none; padding-top: 8px; padding-bottom: 10px;}
+table.h2asearch td.data2a {text-align:left; background-color:#f7fbf7; color:#043502; border-right: 1px solid #999999; border-bottom: 1px solid #999999;}
+table.h2asearch td.data3 {text-align:right; padding:0.5em; background-color:#f7fbf7; color:#043502; border:2px solid white; vertical-align:top;}
+table.h2asearch td.shade {text-align:right; background-color:#ccc; color:#043502; border-right: 1px solid #999999; border-bottom: 1px solid #999999;  }
+table.h2asearch td.center3 {vertical-align:top; text-align:center; background-color:#fff; color:#043502; font-weight:normal; border-right: 1px solid #999999; border-bottom: 1px solid #999999; }
+table.h2asearch td.center4 {vertical-align:top; text-align:center; background-color:#f7f6f0; color:#043502; font-weight:normal; border-right: 1px solid #999999; border-bottom: 1px solid #999999; }
+
+
+span.smalltext {font-size:0.80em;}
+span.smalltext2 {font-size:0.90em; font-weight:bold;}

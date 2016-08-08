@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+
+
+
+
+    <channel rdf:about="http://www.federalreserve.gov/feeds/s_t_yellen.xml">
+        <title>FRB: Chair Yellen: Speeches and Testimony</title>
+        <link>http://www.federalreserve.gov/feeds/default.htm</link>
+        <description>Speeches and Testimony of Chair Janet L. Yellen</description> 
+        <items>
+            <rdf:Seq>
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/testimony/yellen20160621a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/yellen20160606a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/yellen20160329a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/testimony/yellen20160210a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/testimony/yellen20151203a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/yellen20151202a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/testimony/yellen20151104a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/yellen20151020a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/yellen20150930a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/yellen20150924a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/testimony/yellen20150715a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/yellen20150710a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/yellen20150522a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/yellen20150506a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/yellen20150402a.htm" />
+            
+            </rdf:Seq>
+        </items>
+    </channel>
+
+    
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/testimony/yellen20160621a.htm">
+<title>Yellen, Semiannual Monetary Policy Report to the Congress</title>
+<link>http://www.federalreserve.gov/newsevents/testimony/yellen20160621a.htm</link>
+<description>Testimony before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, District of Columbia. Chair Yellen submitted identical remarks to the Committee on Financial Services, U.S. House of Representatives, on June 22, 2016.</description> 
+<dc:date>2016-06-21T10:00:00-04:00</dc:date> 
+<dcterms:audience>Committee on Banking, Housing, and Urban Affairs, U.S. Senate</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Semiannual Monetary Policy Report to the Congress</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-06-21T10:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Committee on Banking, Housing, and Urban Affairs, U.S. Senate</cb:venue>
+    <cb:locationAsWritten>Washington, District of Columbia</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/yellen20160606a.htm">
+<title>Yellen, Current Conditions and the Outlook for the U.S. Economy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/yellen20160606a.htm</link>
+<description>Speech at the The World Affairs Council of Philadelphia, Philadelphia, Pennsylvania</description> 
+<dc:date>2016-06-06T12:30:00-04:00</dc:date> 
+<dcterms:audience>The World Affairs Council of Philadelphia</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Current Conditions and the Outlook for the U.S. Economy</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-06-06T12:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>The World Affairs Council of Philadelphia</cb:venue>
+    <cb:locationAsWritten>Philadelphia, Pennsylvania</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>PA</cb:locationState>
+    <cb:locationCity>Philadelphia</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/yellen20160329a.htm">
+<title>Yellen, The Outlook, Uncertainty, and Monetary Policy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/yellen20160329a.htm</link>
+<description>Speech at the Economic Club of New York, New York, New York</description> 
+<dc:date>2016-03-29T12:20:00-04:00</dc:date> 
+<dcterms:audience>Economic Club of New York</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>The Outlook, Uncertainty, and Monetary Policy</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-03-29T12:20:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Economic Club of New York</cb:venue>
+    <cb:locationAsWritten>New York, New York</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>NY</cb:locationState>
+    <cb:locationCity>New York</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/testimony/yellen20160210a.htm">
+<title>Yellen, Semiannual Monetary Policy Report to the Congress</title>
+<link>http://www.federalreserve.gov/newsevents/testimony/yellen20160210a.htm</link>
+<description>Testimony before the Committee on Financial Services, U.S. House of Representatives, Washington, District of Columbia. Chair Yellen submitted identical remarks to the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, on February 11, 2016.</description> 
+<dc:date>2016-02-10T08:30:00-05:00</dc:date> 
+<dcterms:audience>Committee on Financial Services, U.S. House of Representatives</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Semiannual Monetary Policy Report to the Congress</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-02-10T08:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Committee on Financial Services, U.S. House of Representatives</cb:venue>
+    <cb:locationAsWritten>Washington, District of Columbia</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/testimony/yellen20151203a.htm">
+<title>Yellen, Economic Outlook</title>
+<link>http://www.federalreserve.gov/newsevents/testimony/yellen20151203a.htm</link>
+<description>Testimony before the Joint Economic Committee, U.S. Congress, Washington, District of Columbia</description> 
+<dc:date>2015-12-03T10:00:00-05:00</dc:date> 
+<dcterms:audience>Joint Economic Committee, U.S. Congress</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Economic Outlook</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-12-03T10:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Joint Economic Committee, U.S. Congress</cb:venue>
+    <cb:locationAsWritten>Washington, District of Columbia</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/yellen20151202a.htm">
+<title>Yellen, The Economic Outlook and Monetary Policy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/yellen20151202a.htm</link>
+<description>Speech at the Economic Club of Washington, Washington, D.C.</description> 
+<dc:date>2015-12-02T12:25:00-05:00</dc:date> 
+<dcterms:audience>Economic Club of Washington</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>The Economic Outlook and Monetary Policy</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-12-02T12:25:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Economic Club of Washington</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/testimony/yellen20151104a.htm">
+<title>Yellen, Supervision and Regulation</title>
+<link>http://www.federalreserve.gov/newsevents/testimony/yellen20151104a.htm</link>
+<description>Testimony before the Committee on Financial Services, U.S. House of Representatives, Washington, District of Columbia</description> 
+<dc:date>2015-11-04T10:00:00-05:00</dc:date> 
+<dcterms:audience>Committee on Financial Services, U.S. House of Representatives</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Supervision and Regulation</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-11-04T10:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Committee on Financial Services, U.S. House of Representatives</cb:venue>
+    <cb:locationAsWritten>Washington, District of Columbia</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/yellen20151020a.htm">
+<title>Yellen, Brief Remarks</title>
+<link>http://www.federalreserve.gov/newsevents/speech/yellen20151020a.htm</link>
+<description>Speech at the Induction of Carroll D. Wright and Janet L. Norwood into the Department of Labor's Hall of Honor, U.S. Department of Labor, Washington, D.C.</description> 
+<dc:date>2015-10-20T11:00:00-04:00</dc:date> 
+<dcterms:audience>Induction of Carroll D. Wright and Janet L. Norwood into the Department of Labor's Hall of Honor, U.S. Department of Labor</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Brief Remarks</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-10-20T11:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Induction of Carroll D. Wright and Janet L. Norwood into the Department of Labor's Hall of Honor, U.S. Department of Labor</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/yellen20150930a.htm">
+<title>Yellen, Welcoming Remarks</title>
+<link>http://www.federalreserve.gov/newsevents/speech/yellen20150930a.htm</link>
+<description>Speech at the Community Banking in the 21st Century, The Third Annual Community Banking Research and Policy Conference, Cosponsored by the Federal Reserve System and Conference of State Bank Supervisors, Federal Reserve Bank of St. Louis, St. Louis, Missouri</description> 
+<dc:date>2015-09-30T15:00:00-04:00</dc:date> 
+<dcterms:audience>Community Banking in the 21st Century, The Third Annual Community Banking Research and Policy Conference, Cosponsored by the Federal Reserve System and Conference of State Bank Supervisors, Federal Reserve Bank of St. Louis</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Welcoming Remarks</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-09-30T14:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Community Banking in the 21st Century, The Third Annual Community Banking Research and Policy Conference, Cosponsored by the Federal Reserve System and Conference of State Bank Supervisors, Federal Reserve Bank of St. Louis</cb:venue>
+    <cb:locationAsWritten>St. Louis, Missouri</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>MO</cb:locationState>
+    <cb:locationCity>St. Louis</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/yellen20150924a.htm">
+<title>Yellen, Inflation Dynamics and Monetary Policy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/yellen20150924a.htm</link>
+<description>Speech at the Philip Gamble Memorial Lecture, University of Massachusetts, Amherst, Amherst, Massachusetts</description> 
+<dc:date>2015-09-24T17:00:00-04:00</dc:date> 
+<dcterms:audience>Philip Gamble Memorial Lecture, University of Massachusetts, Amherst</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Inflation Dynamics and Monetary Policy</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-09-24T17:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Philip Gamble Memorial Lecture, University of Massachusetts, Amherst</cb:venue>
+    <cb:locationAsWritten>Amherst, Massachusetts</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>MA</cb:locationState>
+    <cb:locationCity>Amherst</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/testimony/yellen20150715a.htm">
+<title>Yellen, Semiannual Monetary Policy Report to the Congress</title>
+<link>http://www.federalreserve.gov/newsevents/testimony/yellen20150715a.htm</link>
+<description>Testimony before the Committee on Financial Services, U.S. House of Representatives, Washington, D.C.. Chair Yellen submitted identical remarks to the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, on July 16, 2015.</description> 
+<dc:date>2015-07-15T08:30:00-04:00</dc:date> 
+<dcterms:audience>Committee on Financial Services, U.S. House of Representatives</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Semiannual Monetary Policy Report to the Congress</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-07-15T10:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Committee on Financial Services, U.S. House of Representatives</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/yellen20150710a.htm">
+<title>Yellen, Recent Developments and the Outlook for the Economy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/yellen20150710a.htm</link>
+<description>Speech at the City Club of Cleveland, Cleveland, Ohio</description> 
+<dc:date>2015-07-10T12:30:00-04:00</dc:date> 
+<dcterms:audience>City Club of Cleveland</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Recent Developments and the Outlook for the Economy</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-07-10T12:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>City Club of Cleveland</cb:venue>
+    <cb:locationAsWritten>Cleveland, Ohio</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>OH</cb:locationState>
+    <cb:locationCity>Cleveland</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/yellen20150522a.htm">
+<title>Yellen, The Outlook for the Economy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/yellen20150522a.htm</link>
+<description>Speech at the Providence Chamber of Commerce, Providence, Rhode Island</description> 
+<dc:date>2015-05-22T13:00:00-04:00</dc:date> 
+<dcterms:audience>Providence Chamber of Commerce</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>The Outlook for the Economy</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-05-22T13:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Providence Chamber of Commerce</cb:venue>
+    <cb:locationAsWritten>Providence, Rhode Island</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>RI</cb:locationState>
+    <cb:locationCity>Providence</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/yellen20150506a.htm">
+<title>Yellen, Finance and Society</title>
+<link>http://www.federalreserve.gov/newsevents/speech/yellen20150506a.htm</link>
+<description>Speech at the "Finance and Society," a conference sponsored by  Institute for New Economic Thinking, Washington, D.C.</description> 
+<dc:date>2015-05-06T09:15:00-04:00</dc:date> 
+<dcterms:audience>"Finance and Society," a conference sponsored by  Institute for New Economic Thinking</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Finance and Society</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-05-06T09:15:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>"Finance and Society," a conference sponsored by  Institute for New Economic Thinking</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/yellen20150402a.htm">
+<title>Yellen, Opening Remarks</title>
+<link>http://www.federalreserve.gov/newsevents/speech/yellen20150402a.htm</link>
+<description>Statement provided to the "Economic Mobility:  Research and Ideas on Strengthening Families,  Communities, and the Economy," a community development research conference sponsored by the Federal Reserve System, Washington, D.C.</description> 
+<dc:date>2015-04-02T08:40:00-04:00</dc:date> 
+<dcterms:audience>"Economic Mobility:  Research and Ideas on Strengthening Families,  Communities, and the Economy," a community development research conference sponsored by the Federal Reserve System</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Opening Remarks</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-04-02T08:40:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>"Economic Mobility:  Research and Ideas on Strengthening Families,  Communities, and the Economy," a community development research conference sponsored by the Federal Reserve System</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+</rdf:RDF>

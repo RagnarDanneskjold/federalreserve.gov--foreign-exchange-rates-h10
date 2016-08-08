@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+  <channel rdf:about="http://www.federalreserve.gov/releases/CP">
+    <title>FRB:Data:Commercial Paper</title>
+    <link>http://www.federalreserve.gov/releases/CP/about.htm</link>
+    <description>FRB:Data:Commercial Paper</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#1"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#2"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#3"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#4"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#5"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#6"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#7"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#8"/>
+      </rdf:Seq>
+    </items>
+    <dc:language>en</dc:language>
+    <dc:date>2016-08-08T09:45:00-05:00</dc:date>
+    <dc:publisher>Board of Governors of the Federal Reserve</dc:publisher>
+  </channel>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#1">
+    <title>US: CP 0.35 2016-08-05 FRB Overnight AA nonfinancial commercial paper rate</title>
+    <link>http://www.federalreserve.gov/releases/CP#1</link>
+    <description>Overnight AA nonfinancial commercial paper rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.35</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>Overnight AA nonfinancial commercial paper rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#2">
+    <title>US: CP 0.36 2016-08-05 FRB 30-day AA nonfinancial commercial paper rate</title>
+    <link>http://www.federalreserve.gov/releases/CP#2</link>
+    <description>30-day AA nonfinancial commercial paper rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.36</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>30-day AA nonfinancial commercial paper rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#3">
+    <title>US: CP 0.58 2016-08-05 FRB Overnight A2/P2 nonfinancial commercial paper rate</title>
+    <link>http://www.federalreserve.gov/releases/CP#3</link>
+    <description>Overnight A2/P2 nonfinancial commercial paper rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.58</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>Overnight A2/P2 nonfinancial commercial paper rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#4">
+    <title>US: CP 0.71 2016-08-05 FRB 30-day A2/P2 nonfinancial commercial paper rate</title>
+    <link>http://www.federalreserve.gov/releases/CP#4</link>
+    <description>30-day A2/P2 nonfinancial commercial paper rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.71</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>30-day A2/P2 nonfinancial commercial paper rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#5">
+    <title>US: CP 0.40 2016-08-05 FRB Overnight AA financial commercial paper rate</title>
+    <link>http://www.federalreserve.gov/releases/CP#5</link>
+    <description>Overnight AA financial commercial paper rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.40</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>Overnight AA financial commercial paper rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#6">
+    <title>US: CP 0.40 2016-08-05 FRB 30-day AA financial commercial paper rate</title>
+    <link>http://www.federalreserve.gov/releases/CP#6</link>
+    <description>30-day AA financial commercial paper rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.40</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>30-day AA financial commercial paper rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#7">
+    <title>US: CP 0.45 2016-08-05 FRB Overnight AA asset-backed commercial paper rate</title>
+    <link>http://www.federalreserve.gov/releases/CP#7</link>
+    <description>Overnight AA asset-backed commercial paper rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.45</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>Overnight AA asset-backed commercial paper rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#8">
+    <title>US: CP 0.53 2016-08-05 FRB 30-day AA asset-backed commercial paper rate</title>
+    <link>http://www.federalreserve.gov/releases/CP#8</link>
+    <description>30-day AA asset-backed commercial paper rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.53</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>30-day AA asset-backed commercial paper rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+</rdf:RDF>

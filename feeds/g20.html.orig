@@ -1,0 +1,179 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1- transitional.dtd">
+<html xmlns:ms="urn:schemas-microsoft-com:xslt" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rss="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:frb="http://www.federalreserve.gov/feeds/" xmlns:cb="http://www.centralbanks.org/rss-cb/1.0/" xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>FRB: DDP: Finance Companies (G.20)</title>
+    <link href="/resources/pubweb.css" rel="stylesheet" type="text/css">
+    <link href="/resources/secondary.css" rel="stylesheet" type="text/css">
+    <link href="/resources/print.css" rel="stylesheet" type="text/css" media="print">
+    <link href="/resources/economic.css" rel="stylesheet" type="text/css">
+    <link href="/resources/statistics.css" rel="stylesheet" type="text/css">
+    <base target="_top"><script language="javascript" type="text/javascript" src="/exit_new.js"></script><script language="javascript" type="text/javascript">
+          var cnt = 0;
+        </script><script language="javascript" type="text/javascript">
+          window.onload = function() {
+            if(document.implementation && document.implementation.createDocument) {
+              for(var i=0; i < cnt; i++) {
+                document.getElementById("divContent" + (i+1)).innerHTML = document.getElementById("div2Content" + (i+1)).innerHTML;
+              }
+            }
+          }
+        </script><script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+  <body><a href="#mainNav" class="invisible">skip to main navigation</a><a href="#secondNav" class="invisible">skip to secondary navigation</a><a href="#content" class="invisible">skip to content</a><table id="headerTopLinks" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="headerTopLinksLeft"><a href="/whatsnew.htm">What's New</a> ·
+              <a href="/whatsnext.htm">What's Next</a> ·
+              <a href="/sitemap.htm">Site Map</a> ·
+              <a href="/azindex.htm">A-Z Index</a> ·
+              <a href="/careers/default.htm">Careers</a> ·
+              <a href="/feeds/default.htm">RSS</a> ·
+              <a href="/mediacenter/media.htm">All Videos</a> ·
+              <a href="/faqs.htm">Current FAQs</a></td>
+        <td class="curve1"></td>
+        <td class="headerTopLinksRight">
+          <form action="http://search.newyorkfed.org/search/search.jsp" method="GET"><label><span class="invisible">Search</span><input type="text" name="text" size="12" maxlength="100"></label><input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search" border="0"><input type="hidden" name="template" value="BOARD"><input type="hidden" name="type" value="adv"><input type="hidden" name="who" value="patx">  <a href="http://search.newyorkfed.org/search/search.jsp?who=patx&amp;template=BOARD" class="search">Advanced Search</a></form>
+        </td>
+        <td class="curve2"></td>
+      </tr>
+    </table>
+    <div id="top">
+      <div id="headerMasthead"><a href="/default.htm"><img src="/econresdata/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"></a></div><a name="mainNav"></a><div class="navMenuBack">
+        <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td>
+              <div class="navItem"><a href="/aboutthefed/default.htm">
+                      About<br>the Fed</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/newsevents/default.htm">
+                      News<br>&amp; Events</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/monetarypolicy/default.htm">
+                      Monetary<BR>Policy</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/bankinforeg/default.htm">
+                      Banking<BR>
+                        Information<BR>&amp; Regulation</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/paymentsystems/default.htm">
+                      Payment<BR>Systems</a></div>
+            </td>
+            <td id="selected">
+              <div class="navItem"><a href="/econresdata/default.htm">
+                      Economic<BR>
+                        Research<BR>&amp; Data</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/consumerinfo/default.htm">
+                      Consumer<BR> Information</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/communitydev/default.htm">
+                      Community<BR>Development</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/reportforms/default.cfm">
+                      Reporting<BR>Forms</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/publications/default.htm">Publications</a></div>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <div id="contentContainer">
+      <div id="content">
+        <div id="BreadCrumbContainer"><a href="/default.htm">Home</a> &gt; <a href="/econresdata/releases/statisticsdata.htm">Statistical Releases and Historical Data</a></div>
+        <div class="generalContentText" id="printThis">
+          <div id="printIcon"><a href="http://www.federalreserve.gov/feeds"><img src="../../GIFJPG/rssIcon.gif" border="0"></a><a href="http://www.federalreserve.gov/datadownload/"><img src="../../GIFJPG/ddpIcon_smallest.gif" border="0"></a><a href="javascript:printable('../../resources/print_news.css');"><img src="../../gifjpg/printIcon.gif">Print</a></div><a name="content"></a><A NAME="pagetop"></A><h1 class="border"><span style="font-size:larger; font-weight:bold;"> Finance Companies (G.20)</span></h1>
+          <div id="TwoColumns">
+            <h2 class="border">Announcements</h2><span style="font-size:normal; font-weight:normal;">This feed provides information about finance companies data from the Federal Reserve Board's G.20 release available through the Data Download Program (DDP).</span><br><ul><br><li><span style="font-style:italic;">May 03, 2016</span><br><span style="font-weight:bold;"><A NAME="1387">Revisions to the G.20</A></span><br><DIV ID="&#xA;                          divContent1">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The February G.20, released on May 2nd, 2016, was reposted to correct a data error. On and off-book business equipment leases were revised back to 2014, and no other data were changed.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 1;
+                      </script></li><br><li><span style="font-style:italic;">May 19, 2015</span><br><span style="font-weight:bold;"><A NAME="927">Changes to the Finance Companies (G.20) Release</A></span><br><DIV ID="&#xA;                          divContent2">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Starting in May 2015, publication of finance company auto loan terms of credit series will resume using a new source. The new series will be produced on a quarterly basis and will extend back to 2008Q1. The replaced finance company terms of credit series shown on prior G.20 releases will continue to be made available in the G.20 Data Download. The release will also contain revisions extending back to January 2006 that are primarily caused by updated seasonal factors.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 2;
+                      </script></li><br><li><span style="font-style:italic;">March 21, 2013</span><br><span style="font-weight:bold;"><A NAME="637">Revisions to finance company Assets and Liabilities estimates released</A></span><br><DIV ID="&#xA;                          divContent3">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The Board is publishing revisions to the finance company Assets and Liabilities estimates shown on the G.20 page. Revisions to the quarterly finance company Assets and Liabilities estimates begin in 2006 Q1 and are due to idiosyncratic methodology changes and the incorporation of 2010 finance companies survey data. Methodology changes include improved adjustments for panel attrition, panel growth, and loan sales and purchases by panel members. For more details on the survey and the revisions, see the documentation posted to the G.19 Consumer Credit revisions page on September 10, 2012, at <a temp_href="http://www.federalreserve.gov/releases/g19/revisions/ " href="http://www.federalreserve.gov/releases/g19/revisions/ ">http://www.federalreserve.gov/releases/g19/revisions/</a>.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 3;
+                      </script></li><br><li><span style="font-style:italic;">September 21, 2012</span><br><span style="font-weight:bold;"><A NAME="574">G20 Announcement to be released on Friday, September 21st</A></span><br><DIV ID="&#xA;                          divContent4">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Finance companies data were revised back to December 2010 to incorporate the statistical results from the 2010 finance companies survey.  For more details on the survey and the revisions, see the documentation posted on September 10, 2012 at http://www.federalreserve.gov/releases/g19/revisions/.  <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 4;
+                      </script></li><br><li><span style="font-style:italic;">June 28, 2012</span><br><span style="font-weight:bold;"><A NAME="541">Upcoming changes to the Finance Companies (G.20) release</A></span><br><DIV ID="&#xA;                          divContent5">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Finance Companies (G.20) release, in addition to the data currently reported on level of receivables outstanding, will now report data on the flow of receivables. The revised data will be made available in the April report, which will be released in the next several days. <br />
+                    <br />The new flow data represent changes in the level of receivables due to economic and financial activity, rather than breaks in the data series due to changes in methodology, source data, and other technical aspects of the estimation that affect the level of receivables. Access to flow data allows users to calculate a growth rate for finance company receivables that excludes such breaks. <br />
+                    <br />These changes will be accompanied by revisions to the estimates of receivables outstanding back to January 2006 and reflect improvements in methodology and a comprehensive review of the source data. New data will be available at: <a href="http://www.federalreserve.gov/releases/g20/current/">http://www.federalreserve.gov/releases/g20/current/</a> <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 5;
+                      </script></li><br><li><span style="font-style:italic;">November 08, 2011</span><br><span style="font-weight:bold;"><A NAME="462">New graphics options are now available from the Data Download Program (DDP)</A></span><br><DIV ID="&#xA;                          divContent6">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Users can now view plotted data as column charts, and add U.S. recession shading, while using the "View chart" function of the Data Download Program (DDP). <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 6;
+                      </script></li><br><li><span style="font-style:italic;">December 22, 2010</span><br><span style="font-weight:bold;"><A NAME="348">DDP data for Finance Companies are incomplete</A></span><br><DIV ID="&#xA;                          divContent7">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Data in the Data Download Program (DDP) for the December 21, 2010 release of Finance Companies (G.20) are currently incomplete. The PDF and HTML versions of the release are not affected and all data published are correct. We are working to update the DDP to include the missing variables as soon as possible. <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 7;
+                      </script></li><br><li><span style="font-style:italic;">December 02, 2010</span><br><span style="font-weight:bold;"><A NAME="341">New interactive graphics feature of Data Download Program (DDP)</A></span><br><DIV ID="&#xA;                          divContent8">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Users will now be able to create and view interactive graphics of data packages from the program before downloading the underlying data and charts. The charting feature allows users to view multiple data series on a single chart as well as to display individual data points. The charts can be saved as PDFs or in a standard image file format (PNG) for publication and redistribution.<br />
+                    <br />"Graphics play an important role in identifying data trends and relationships," said Federal Reserve Vice Chair Janet L. Yellen. "With the help of this intuitive new user interface, it's now possible to create customized charts directly from Federal Reserve statistical data."<br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 8;
+                      </script></li><br><li><span style="font-style:italic;">September 15, 2010</span><br><span style="font-weight:bold;"><A NAME="316">Publication of Finance Company data in the Data Download Program delayed</A></span><br><DIV ID="&#xA;                          divContent9">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Data from the July 20 G.20 Finance Company release, published on September 15, will be available in the Data Download Program (DDP) on September 16. <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 9;
+                      </script></li><br><li><span style="font-style:italic;">November 20, 2008</span><br><span style="font-weight:bold;"><A NAME="95">G.20 data updated in the Data Download Program</A></span><br><DIV ID="&#xA;                          divContent10">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Data from the October 30 release of the G.20 Finance Companies release were added to the Data Download program on November 20, 2008.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 10;
+                      </script></li><br><li><span style="font-style:italic;">December 10, 2007</span><br><span style="font-weight:bold;"><A NAME="70">Finance company data are now available from the Data Download Program</A></span><br><DIV ID="&#xA;                          divContent11">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Data from the Finance Company release (G.20) are now available for customizable download through the Federal Reserve Board's <a href="http://www.federalreserve.gov/datadownload/Choose.aspx?rel=G.20">Data Download Program (DDP)</a>. These data will updated monthly with the G.20.<br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 11;
+                      </script></li>
+            </ul><br></div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="lastUpdate">
+              Last update: May 03, 2016</div>
+      <div id="FooterLinks"><a href="/default.htm">Home</a> | <a href="/econresdata/default.htm">Economic research and data</a></div>
+      <div id="secondaryFooterLinks">
+        <div class="secondaryFooterLinksLeft"><a href="/accessibility.htm">Accessibility</a><a href="/disclaimer.htm">Disclaimer</a><a href="/feedback.cfm">Contact us</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon"><a href="/linkingpolicy.htm">Linking Policy</a><a href="/generalinfo/foia/default.cfm">FOIA</a></div>
+        <div class="secondaryFooterLinksRight"><a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon"></div>
+        <div class="clear"></div>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <div id="footer">
+      <div id="Footer2"></div>
+    </div>
+  <script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

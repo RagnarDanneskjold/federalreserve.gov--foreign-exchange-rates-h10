@@ -1,0 +1,459 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1"><title>
+	FRB: Report Forms, Activities monitoring
+</title><meta name="robots" content="index, nofollow" /><link type="text/css" href="/resources/pubweb.css" rel="Stylesheet" /><link type="text/css" href="/resources/secondary.css" rel="Stylesheet" /><link type="text/css" href="/resources/reportforms.css" rel="stylesheet" /><link type="text/css" href="/resources/print.css" rel="Stylesheet" media="print" /><link type="text/css" href="/resources/print_reportforms.css" rel="Stylesheet" media="print" />
+
+   <script language="JavaScript" type="text/javascript" src="/resources/exit_new.js"></script>
+   <script language="JavaScript" type="text/javascript" src="/resources/swfLink.js"></script>    
+
+    <style type="text/css">
+        .secondaryContentLeftNav  li.menuHighlightRF a { color: #336633; text-decoration: none; }
+    </style> 
+
+    
+    <script type="text/javascript">
+        function lbtn_GetForm_Click(v) {
+            document.getElementById('HiddenField1').value = v;
+        }
+</script>
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+   <noscript><p>This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</p></noscript>
+   <span class="globalskip">
+      <a href="#mainNav">skip to main navigation</a>
+      <a href="#secondNav">skip to secondary navigation</a>
+      <a href="#content">skip to content</a>
+   </span>
+   <!-- HEADER STARTS -->
+   <table id="headerTopLinks" cellpadding="0" cellspacing="0">
+      <tr>
+         <td class="headerTopLinksLeft">
+            <a href="/whatsnew.htm">What's New</a> &middot; 
+            <a href="/whatsnext.htm">What's Next</a> &middot; 
+            <a href="/sitemap.htm">Site Map</a> &middot; 
+            <a href="/azindex.htm">A-Z Index</a> &middot; 
+            <a href="/careers/default.htm">Careers</a> &middot; 
+            <a href="/feeds/default.htm">RSS</a> &middot; 
+            <a href="/mediacenter/media.htm">All Videos</a> &middot; 
+            <a href="/faqs/faq.htm">Current FAQs</a>  &middot;
+            <a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+         </td>
+         <td class="curve1"></td>
+        <td class="headerTopLinksRight">
+            <form method="GET" action="http://search.newyorkfed.org/board_public/search"><label for="searchbox"></label><div id="skip2">Search</div><input type="text" id="searchbox" maxlength="100" 
+            size="12" name="text">&nbsp;<input border="0" type="image" alt="Search" name="Search" src="/gifjpg/searchbutton.gif" id="headerTopLinksSearchFormSubmit">&nbsp;<a class="search" 
+            href="http://search.newyorkfed.org/board_public"><a class="search" href="http://search.newyorkfed.org/board_public">Advanced Search</a></a></form>
+        </td> 
+         <td class="curve2"></td>
+      </tr>
+   </table>
+   <div id="top">
+      <div id="headerMasthead">
+         <a href="/default.htm"><img src="/GIFJPG/masthead2.jpg" alt="Board of Governors of the Federal Reserve System" /></a>
+      </div>
+      <a name="mainNav"></a>
+         <div class="navMenuBack">
+            <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+               <tr>
+                  <td>
+                     <div class="navItem">
+                        <a href="/aboutthefed/default.htm">About<br />the Fed</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/newsevents/default.htm">News<br />&amp; Events</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/monetarypolicy/default.htm">Monetary<br />Policy</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/bankinforeg/default.htm">Banking<br />Information<br />&amp; Regulation</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/paymentsystems/default.htm">Payment<br />Systems</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/econresdata/default.htm">Economic<br />Research<br />&amp; Data</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/consumerinfo/default.htm">Consumer<br /> Information</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/communitydev/default.htm">Community<br />Development</a>
+                     </div>
+                  </td>
+               <td id="selected">
+                  <div class="navItem">
+                     <a href="/apps/reportforms/default.aspx">Reporting<br />Forms</a>
+                  </div>
+               </td>
+               <td>
+                  <div class="navItem">
+                     <a href="/publications/default.htm">Publications</a>
+                  </div>
+               </td>
+            </tr>
+         </table>
+         <!-- HEADER ENDS -->
+      </div>
+   </div>
+   <div id="contentContainer">
+      <span class="globalskip">
+         <a name="secondNav"></a><a href="#content">skip secondary navigation</a>
+      </span>
+      <form method="post" action="./categoryindex.aspx?KZ9MpP8mEQY=" id="formSiteMaster">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3NTcxMzk5NzcPZBYCZg9kFgQCAw9kFgYCAw8WAh4LXyFJdGVtQ291bnQCCRYSZg9kFgICAQ8WAh4FY2xhc3NlFgICAQ8PFgQeBFRleHQFFEZpbmFuY2lhbCBzdGF0ZW1lbnRzHgtOYXZpZ2F0ZVVybAUfY2F0ZWdvcnlpbmRleC5hc3B4P3hUZFRhK0ZhU2xJPWRkAgEPZBYCAgEPFgIfAWUWAgIBDw8WBB8CBR1BcHBsaWNhdGlvbnMvc3RydWN0dXJlIGNoYW5nZR8DBR9jYXRlZ29yeWluZGV4LmFzcHg/K1Boa0p3aUJqYkE9ZGQCAg9kFgICAQ8WAh8BZRYCAgEPDxYEHwIFBUZGSUVDHwMFH2NhdGVnb3J5aW5kZXguYXNweD8xL1JJWE8vVWR1ST1kZAIDD2QWAgIBDxYCHwFlFgICAQ8PFgQfAgUPTW9uZXRhcnkgcG9saWN5HwMFH2NhdGVnb3J5aW5kZXguYXNweD9MS1pSY1ZlOGdzWT1kZAIED2QWAgIBDxYCHwFlFgICAQ8PFgQfAgUIUmVzZWFyY2gfAwUfY2F0ZWdvcnlpbmRleC5hc3B4P2RFYXBxMjJlQkk4PWRkAgUPZBYCAgEPFgIfAWUWAgIBDw8WBB8CBRhCdXNpbmVzcy9jb25zdW1lciBjcmVkaXQfAwUfY2F0ZWdvcnlpbmRleC5hc3B4PzBaNVMxcEpiU0dnPWRkAgYPZBYCAgEPFgIfAWUWAgIBDw8WBB8CBR9TZWN1cml0aWVzIEV4Y2hhbmdlIEFjdCBvZiAxOTM0HwMFH2NhdGVnb3J5aW5kZXguYXNweD9taTQxTHZvcGI5bz1kZAIHD2QWAgIBDxYCHwFlFgICAQ8PFgQfAgUjTXVuaWNpcGFsIGFuZCBnb3Zlcm5tZW50IHNlY3VyaXRpZXMfAwUfY2F0ZWdvcnlpbmRleC5hc3B4P0w4NzdWd0VqOVNzPWRkAggPZBYCAgEPFgIfAQUPbWVudUhpZ2hsaWdodFJGFgICAQ8PFgQfAgUVQWN0aXZpdGllcyBtb25pdG9yaW5nHwMFH2NhdGVnb3J5aW5kZXguYXNweD9LWjlNcFA4bUVRWT1kZAIFD2QWAgIBDw8WAh8DBQ1+L3Jldmlldy5hc3B4ZGQCDQ9kFgQCAQ8PFgIfAgUVQWN0aXZpdGllcyBtb25pdG9yaW5nZGQCBQ8WAh8AAgwWGAIBD2QWBgIBDw8WAh8DBSpyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEWmZLZ2o3SjArRDVRPT1kFgJmDxUBB0ZSIDEzNzlkAgIPFQGXAQkgCUNvbnN1bWVyIFNhdGlzZmFjdGlvbiBRdWVzdGlvbm5haXJlOyBGZWRlcmFsIFJlc2VydmUgQ29uc3VtZXIgSGVscC0tQ29uc3VtZXIgU3VydmV5LCBDb25zdW1lciBPbmxpbmUgQ29tcGxhaW50IEZvcm0sIGFuZCBBcHByYWlzYWwgQ29tcGxhaW50IEZvcm0NCglkAgUPFQGoBgkgCVRoZSBDb25zdW1lciBTYXRpc2ZhY3Rpb24gUXVlc3Rpb25uYWlyZSAoRlIgMTM3OWEpIGlzIHNlbnQgdG8gY29uc3VtZXJzIHdobyBoYXZlIGZpbGVkIGNvbXBsYWludHMgd2l0aCB0aGUgRmVkZXJhbCBSZXNlcnZlIGFnYWluc3Qgc3RhdGUgbWVtYmVyIGJhbmtzLiBUaGUgRmVkZXJhbCBSZXNlcnZlIENvbnN1bWVyIEhlbHAtLUNvbnN1bWVyIFN1cnZleSAoRlIgMTM3OWIpIGlzIHNlbnQgYXMgbmVlZGVkIHRvIGNvbnN1bWVycyB3aG8gY29udGFjdCB0aGUgRmVkZXJhbCBSZXNlcnZlIENvbnN1bWVyIEhlbHAgKEZSQ0gpIHRvIGZpbGUgYSBjb21wbGFpbnQgb3IgaW5xdWlyeS4gVGhlIENvbnN1bWVyIE9ubGluZSBDb21wbGFpbnQgRm9ybSAoRlIgMTM3OWMpIGFsbG93cyBjb25zdW1lcnMgdG8gZWxlY3Ryb25pY2FsbHkgc3VibWl0IGEgY29tcGxhaW50IGFnYWluc3QgYSBmaW5hbmNpYWwgaW5zdGl0dXRpb24gdG8gdGhlIEZSQ0guIFRoZSBBcHByYWlzYWwgQ29tcGxhaW50IEZvcm0gKEZSIDEzNzlkKSBjb2xsZWN0cyBpbmZvcm1hdGlvbiBhYm91dCBjb21wbGFpbnRzIHJlZ2FyZGluZyBhIHJlZ3VsYXRlZCBpbnN0aXR1dGlvbidzIG5vbmNvbXBsaWFuY2Ugd2l0aCB0aGUgYXBwcmFpc2FsIGluZGVwZW5kZW5jZSBzdGFuZGFyZHMgYW5kIHRoZSBVbmlmb3JtIFN0YW5kYXJkcyBvZiBQcm9mZXNzaW9uYWwgQXBwcmFpc2FsIFByYWN0aWNlLCBpbmNsdWRpbmcgY29tcGxhaW50cyBmcm9tIGFwcHJhaXNlcnMsIGluZGl2aWR1YWxzLCBmaW5hbmNpYWwgaW5zdGl0dXRpb25zLCBhbmQgb3RoZXIgZW50aXRpZXMuDQoJICBkAgIPZBYGAgEPDxYCHwMFMnJlcG9ydGRldGFpbC5hc3B4P3NPb1lKKzVCekRicHFia2xSZTMvMXpkR2Z5Tm4vU2VWZBYCZg8VAQhGUiAyMDUyYWQCAg8VATUJIAlDb21wbGV4IEluc3RpdHV0aW9uIExpcXVpZGl0eSBNb25pdG9yaW5nIFJlcG9ydA0KCWQCBQ8VAdkCCSAJVGhlIEZSIDIwNTJhIHJlcG9ydCBjb2xsZWN0cyBxdWFudGl0YXRpdmUgaW5mb3JtYXRpb24gb24gc2VsZWN0ZWQgYXNzZXRzLCBsaWFiaWxpdGllcywgZnVuZGluZyBhY3Rpdml0aWVzLCBhbmQgY29udGluZ2VudCBsaWFiaWxpdGllcyBvbiBhIGNvbnNvbGlkYXRlZCBiYXNpcyBhbmQgYnkgbWF0ZXJpYWwgZW50aXR5IHN1YnNpZGlhcnkuICBUaGUgRlIgMjA1MmEgY29tcHJpc2VzIHNlY3Rpb25zIGNvdmVyaW5nIGJyb2FkIGZ1bmRpbmcgY2xhc3NpZmljYXRpb25zIGJ5IHByb2R1Y3QsIG91dHN0YW5kaW5nIGJhbGFuY2UgYW5kIHB1cnBvc2UsIHNlZ21lbnRlZCBieSBtYXR1cml0eSBkYXRlLg0KCSAgZAIDD2QWBgIBDw8WAh8DBTJyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEWU1rZFJQdVdkVmxJdVZvN3VOL1hZcmQWAmYPFQEIRlIgMjA1MmJkAgIPFQEbTGlxdWlkaXR5IE1vbml0b3JpbmcgUmVwb3J0ZAIFDxUB0AJUaGUgRlIgMjA1MmIgcmVwb3J0IGNvbGxlY3RzIHF1YW50aXRhdGl2ZSBpbmZvcm1hdGlvbiBvbiBzZWxlY3RlZCBhc3NldHMsIGxpYWJpbGl0aWVzLCBmdW5kaW5nIGFjdGl2aXRpZXMsIGFuZCBjb250aW5nZW50IGxpYWJpbGl0aWVzIG9uIGEgY29uc29saWRhdGVkIGJhc2lzIGFuZCBieSBtYXRlcmlhbCBzdWJzaWRpYXJ5IGVudGl0eS4gIFRoZSBGUiAyMDUyYiBpbmNsdWRlcyBzZWN0aW9ucyBjb3ZlcmluZyBicm9hZCBmdW5kaW5nIGNsYXNzaWZpY2F0aW9ucyBieSBwcm9kdWN0LCBvdXRzdGFuZGluZyBiYWxhbmNlLCBhbmQgcHVycG9zZSBzZWdtZW50ZWQgYnkgbWF0dXJpdHkgZGF0ZS5kAgQPZBYGAgEPDxYCHwMFKnJlcG9ydGRldGFpbC5hc3B4P3NPb1lKKzVCekRaMWtMWVRjK1pwRVE9PWQWAmYPFQEHRlIgMjIyNWQCAg8VAV4JIAlBbm51YWwgRGF5bGlnaHQgT3ZlcmRyYWZ0IENhcGl0YWwgUmVwb3J0IGZvciBVLlMuIEJyYW5jaGVzIGFuZCBBZ2VuY2llcyBvZiBGb3JlaWduIEJhbmtzDQoJZAIFDxUBjQQJIAlUaGUgRlIgMjIyNSByZXBvcnQgcmVxdWVzdHMgaW5mb3JtYXRpb24gbmVlZGVkIHRvIGlkZW50aWZ5IHRoZSBmb3JlaWduIGJhbmsgcmVzcG9uZGVudCBhbmQgaXRzIGZpc2NhbCB5ZWFyLWVuZCBhbmQgdG8gZGV0ZXJtaW5lIGl0cyBjYXBpdGFsIGFuZCBhc3NldHMgZm9yIHB1cnBvc2VzIG9mIGRheWxpZ2h0IG92ZXJkcmFmdCBtb25pdG9yaW5nLiBUaGUgY2FwaXRhbCBhbmQgYXNzZXRzIGl0ZW1zIGluY2x1ZGUgdGhlIGZvbGxvd2luZzogY2FwaXRhbCBmb3IgdGhlIGZvcmVpZ24gYmFuayBwYXJlbnQsIGNhcGl0YWwgdXNlZCBieSBhbnkgZGlyZWN0IG9yIGluZGlyZWN0IHN1YnNpZGlhcnkgb2YgdGhlIHJlc3BvbmRlbnQgdGhhdCBoYXMgaXRzIG93biBuZXQgZGViaXQgY2FwLCB0aGUgZm9yZWlnbiBiYW5rJ3Mgd29ybGR3aWRlIGNhcGl0YWwgYmFzZSBjYWxjdWxhdGlvbiwgdGhlIGJhbmsncyB3b3JsZHdpZGUgYXNzZXRzLCBhbmQgdGhlIGV4Y2hhbmdlIHJhdGUgdXNlZCBpbiB0aGUgY2FsY3VsYXRpb24uDQoJICBkAgUPZBYGAgEPDxYCHwMFKnJlcG9ydGRldGFpbC5hc3B4P3NPb1lKKzVCekRiMGVPbGVUM09NYmc9PWQWAmYPFQEHRlIgMjIzMGQCAg8VASAJIAlTdXNwaWNpb3VzIEFjdGl2aXR5IFJlcG9ydA0KCWQCBQ8VAcIHCSAJVGhpcyByZXBvcnQgbXVzdCBiZSBjb21wbGV0ZWQgYnkgYSBmaW5hbmNpYWwgaW5zdGl0dXRpb24sIGluY2x1ZGluZyBhIHN0YXRlIG1lbWJlciBiYW5rLCBhIGJhbmsgaG9sZGluZyBjb21wYW55IGFuZCBpdHMgbm9uYmFuayBzdWJzaWRpYXJpZXMsIGFuIEVkZ2Ugb3IgYW4gYWdyZWVtZW50IGNvcnBvcmF0aW9uIGFuZCBhIGRvbWVzdGljIGJyYW5jaCBvciBhZ2VuY3kgb2YgYSBmb3JlaWduIGJhbmssIHdoZW4gaXQga25vd3Mgb2Ygb3Igc3VzcGVjdHMgY3JpbWluYWwgYWN0aXZpdHkgdGhhdCB2aW9sYXRlcyBhIGZlZGVyYWwgY3JpbWluYWwgc3RhdHV0ZSBpbnZvbHZpbmcsIGFtb25nIG90aGVyIHRoaW5ncywgZmluYW5jaWFsIGNyaW1lcywgbW9uZXkgbGF1bmRlcmluZywgYW5kIHZpb2xhdGlvbnMgb2YgdGhlIEJhbmsgU2VjcmVjeSBBY3Qgb3Igd2hlbiBpdCBpZGVudGlmaWVzIGFueSBzdXNwaWNpb3VzIGZpbmFuY2lhbCB0cmFuc2FjdGlvbnMuICBTdXNwaWNpb3VzIGZpbmFuY2lhbCB0cmFuc2FjdGlvbnMgaW5jbHVkZSB0cmFuc2FjdGlvbnMgdGhhdCB0aGUgZmluYW5jaWFsIGluc3RpdHV0aW9uIHN1c3BlY3RzIGludm9sdmUgZnVuZHMgZGVyaXZlZCBmcm9tIGlsbGVnYWwgYWN0aXZpdGllczsgdGhhdCB3ZXJlIGNvbmR1Y3RlZCBmb3IgdGhlIHB1cnBvc2Ugb2YgaGlkaW5nIG9yIGRpc2d1aXNpbmcgZnVuZHMgZnJvbSBpbGxlZ2FsIGFjdGl2aXRpZXM7IG9yIHRoYXQgd2VyZSBkZXNpZ25lZCB0byBldmFkZSB0aGUgcmVjb3Jka2VlcGluZyBvciByZXBvcnRpbmcgcmVxdWlyZW1lbnQgb2YgdGhlIEJhbmsgU2VjcmVjeSBBY3QuICBTdXNwaWNpb3VzIGZpbmFuY2lhbCB0cmFuc2FjdGlvbnMgYWxzbyBpbmNsdWRlIHRyYW5zYWN0aW9ucyB0aGF0IHRoZSBmaW5hbmNpYWwgaW5zdGl0dXRpb24gYmVsaWV2ZXMgYXJlIHN1c3BpY2lvdXMgZm9yIGFueSBvdGhlciByZWFzb24uDQoJICBkAgYPZBYGAgEPDxYCHwMFMnJlcG9ydGRldGFpbC5hc3B4P3NPb1lKKzVCekRZbDlnZ3R3OEhHYjd0UmxrbDZSeVM0ZBYCZg8VAQtGUiBITURBLUxBUmQCAg8VAUAJIAlUaGUgSG9tZSBNb3J0Z2FnZSBEaXNjbG9zdXJlIEFjdC9Mb2FuIEFwcGxpY2F0aW9uIFJlZ2lzdGVyDQoJZAIFDxUBkQEJIAlUaGlzIHJlcG9ydCB0YWtlcyB0aGUgZm9ybSBvZiBhIHJlZ2lzdGVyIG9mIG1vcnRnYWdlIGFuZCBob21lIGltcHJvdmVtZW50IGxvYW4gYXBwbGljYXRpb25zIGFuZCB0aGVpciBkaXNwb3NpdGlvbiBkdXJpbmcgYSBjYWxlbmRhciB5ZWFyLg0KCSAgZAIHD2QWBgIBDw8WAh8DBSpyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEYXpWdVFmSTRDakhRPT1kFgJmDxUBBkZSIEgtNmQCAg8VAZYBCSAJTm90aWZpY2F0aW9ucyBSZWxhdGVkIHRvIENvbW11bml0eSBEZXZlbG9wbWVudCBhbmQgUHVibGljIFdlbGZhcmUgSW52ZXN0bWVudHMgb2YgDQpTdGF0ZSBNZW1iZXIgQmFua3MgUHVyc3VhbnQgdG8gU2VjdGlvbiAyMDguMjIgb2YgUmVndWxhdGlvbiBIDQoJZAIFDxUB8gUJIAlSZWd1bGF0aW9uIEggcmVxdWlyZXMgc3RhdGUgbWVtYmVyIGJhbmtzIChTTUJzKSBlbmdhZ2luZyBpbiBwZXJtaXNzaWJsZSBjb21tdW5pdHkgZGV2ZWxvcG1lbnQgYW5kIHB1YmxpYyB3ZWxmYXJlIGludmVzdG1lbnRzIHByb3ZpZGUgbm90aWNlIG9mIHN1Y2ggaW52ZXN0bWVudHMgdG8gdGhlIEZlZGVyYWwgUmVzZXJ2ZSBCYW5rIGluIHRoZWlyIERpc3RyaWN0LiBUaGUgc3RhdHV0b3J5IHByb3Zpc2lvbiBhdXRob3JpemVzIFNNQnMgdG8gbWFrZSBpbnZlc3RtZW50cyBkZXNpZ25lZCBwcmltYXJpbHkgdG8gcHJvbW90ZSB0aGUgcHVibGljIHdlbGZhcmUgdG8gdGhlIGV4dGVudCBwZXJtaXNzaWJsZSB1bmRlciBzdGF0ZSBsYXcgYW5kIHN1YmplY3QgdG8gcmVndWxhdGlvbiBieSB0aGUgQm9hcmQuICBSZWd1bGF0aW9uIEggcGVybWl0cyBTTUJzIHRvIG1ha2UgY2VydGFpbiBwdWJsaWMgd2VsZmFyZSBpbnZlc3RtZW50cyB3aXRob3V0IHByaW9yIGFwcHJvdmFsIHNvIGxvbmcgYXMgdGhlIGFnZ3JlZ2F0ZSBvZiBzdWNoIGludmVzdG1lbnRzIGRvZXMgbm90IGV4Y2VlZCA1IHBlcmNlbnQgb2YgdGhlIGNhcGl0YWwgc3RvY2sgYW5kIHN1cnBsdXMgb2YgdGhlIFNNQiwgdGhlIGJhbmsgaXMgd2VsbCBjYXBpdGFsaXplZCBhbmQgd2VsbCBtYW5hZ2VkLCBhbmQgdGhlIGludmVzdG1lbnQgZG9lcyBub3QgZXhwb3NlIHRoZSBTTUIgdG8gbGlhYmlsaXR5IGJleW9uZCB0aGUgYW1vdW50IG9mIHRoZSBpbnZlc3RtZW50Lg0KCSAgZAIID2QWBgIBDw8WAh8DBTJyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEYTJBd0xSL2dMZTVEUGhRRnR0dXEvNGQWAmYPFQEIRlIgWS0xNEFkAgIPFQErCSBDYXBpdGFsIEFzc2Vzc21lbnRzIGFuZCBTdHJlc3MgVGVzdGluZw0KCWQCBQ8VAYQKCSAJVGhlIEZSIFktMTRBIHJlcG9ydCBjb2xsZWN0cyBkZXRhaWxlZCBkYXRhIG9uIGJhbmsgaG9sZGluZyBjb21wYW5pZXMnIChCSENzKSBhbmQgaW50ZXJtZWRpYXRlIGhvbGRpbmcgY29tcGFuaWVzJyAoSUhDcykgcXVhbnRpdGF0aXZlIHByb2plY3Rpb25zIG9mIGJhbGFuY2Ugc2hlZXQgYXNzZXRzIGFuZCBsaWFiaWxpdGllcywgaW5jb21lLCBsb3NzZXMsIGFuZCBjYXBpdGFsIGFjcm9zcyBhIHJhbmdlIG9mIG1hY3JvZWNvbm9taWMgc2NlbmFyaW9zIGFuZCBxdWFsaXRhdGl2ZSBpbmZvcm1hdGlvbiBvbiBtZXRob2RvbG9naWVzIHVzZWQgdG8gZGV2ZWxvcCBpbnRlcm5hbCBwcm9qZWN0aW9ucyBvZiBjYXBpdGFsIGFjcm9zcyBzY2VuYXJpb3MuIFRoZSByZXBvcnQgaXMgY29tcHJpc2VkIG9mIFN1bW1hcnksIE1hY3JvIFNjZW5hcmlvLCBSZWd1bGF0b3J5IENhcGl0YWwgSW5zdHJ1bWVudHMsIFJlZ3VsYXRvcnkgQ2FwaXRhbCBUcmFuc2l0aW9ucywgT3BlcmF0aW9uYWwgUmlzaywgQnVzaW5lc3MgUGxhbiBDaGFuZ2VzLCBhbmQgUmV0YWlsIFJlcHVyY2hhc2UgRXhwb3N1cmVzIHNjaGVkdWxlcywgZWFjaCB3aXRoIG11bHRpcGxlIHN1cHBvcnRpbmcgc3ViLXNjaGVkdWxlcy4gVGhlIG51bWJlciBvZiBzY2hlZHVsZXMgYSByZXNwb25kZW50IG11c3QgY29tcGxldGUgaXMgc3ViamVjdCB0byBtYXRlcmlhbGl0eSB0aHJlc2hvbGRzIGFuZCBjZXJ0YWluIG90aGVyIGNyaXRlcmlhLiBSZXNwb25kZW50cyByZXBvcnQgcHJvamVjdGlvbnMgb24gdGhlIEZSIFktMTRBIHNjaGVkdWxlcyBhY3Jvc3Mgc3VwZXJ2aXNvcnkgc2NlbmFyaW9zIGFzIHdlbGwgYXMgZmlybS1kZWZpbmVkIHNjZW5hcmlvcy4gT25lIG9yIG1vcmUgb2YgdGhlIG1hY3JvZWNvbm9taWMgc2NlbmFyaW9zIGluY2x1ZGVzIGEgbWFya2V0IHJpc2sgc2hvY2sgdGhhdCB0aGUgZmlybSB3aWxsIGFzc3VtZSB3aGVuIG1ha2luZyB0cmFkaW5nIGFuZCBjb3VudGVycGFydHkgbG9zcyBwcm9qZWN0aW9ucy4gUmVzcG9uZGVudHMgYXJlIGFsc28gcmVxdWlyZWQgdG8gc3VibWl0IHF1YWxpdGF0aXZlIGluZm9ybWF0aW9uIHN1cHBvcnRpbmcgdGhlaXIgcHJvamVjdGlvbnMsIGluY2x1ZGluZyBkZXNjcmlwdGlvbnMgb2YgdGhlIG1ldGhvZG9sb2dpZXMgdXNlZCB0byBkZXZlbG9wIHRoZSBpbnRlcm5hbCBwcm9qZWN0aW9ucyBvZiBjYXBpdGFsIGFjcm9zcyBzY2VuYXJpb3MgYW5kIG90aGVyIGFuYWx5c2VzIHRoYXQgc3VwcG9ydCB0aGVpciBjb21wcmVoZW5zaXZlIGNhcGl0YWwgcGxhbnMuIA0KCSAgZAIJD2QWBgIBDw8WAh8DBTJyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEWW5iSXcrVTlwa2Ezc010Q01vcHpvVmQWAmYPFQEIRlIgWS0xNE1kAgIPFQEsCSAJQ2FwaXRhbCBBc3Nlc3NtZW50cyBhbmQgU3RyZXNzIFRlc3RpbmcNCglkAgUPFQGYBFRoZSBGUiBZLTE0TSByZXBvcnQgY29sbGVjdHMgbW9udGhseSBkZXRhaWxlZCBkYXRhIG9uIGJhbmsgaG9sZGluZyBjb21wYW5pZXMnIChCSENzKSBhbmQgaW50ZXJtZWRpYXRlIGhvbGRpbmcgY29tcGFuaWVzJyAoSUhDcykgbG9hbiBwb3J0Zm9saW9zLiBUaGUgcmVwb3J0IGlzIGNvbXByaXNlZCBvZiB0aHJlZSBsb2FuLSBhbmQgcG9ydGZvbGlvLWxldmVsIGNvbGxlY3Rpb25zIGFuZCBvbmUgZGV0YWlsZWQgYWRkcmVzcyBtYXRjaGluZyBjb2xsZWN0aW9uLiBUaGVzZSBjb25zaXN0IG9mIERvbWVzdGljIEZpcnN0IExpZW4gQ2xvc2VkLWVuZCAxLTQgRmFtaWx5IFJlc2lkZW50aWFsIExvYW4sIERvbWVzdGljIEhvbWUgRXF1aXR5IExvYW4sIEFkZHJlc3MgTWF0Y2hpbmcsIGFuZCBEb21lc3RpYyBDcmVkaXQgQ2FyZCBkYXRhIGNvbGxlY3Rpb25zLiBUaGUgbnVtYmVyIG9mIHNjaGVkdWxlcyBhIEJIQyBtdXN0IGNvbXBsZXRlIGlzIHN1YmplY3QgdG8gbWF0ZXJpYWxpdHkgdGhyZXNob2xkcyBhbmQgY2VydGFpbiBvdGhlciBjcml0ZXJpYS4gZAIKD2QWBgIBDw8WAh8DBTJyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEWkdXbnNTalJKS0R3UnhPYjVLYjFoTGQWAmYPFQEIRlIgWS0xNFFkAgIPFQEsCSAJQ2FwaXRhbCBBc3Nlc3NtZW50cyBhbmQgU3RyZXNzIFRlc3RpbmcNCglkAgUPFQGRBVRoZSBGUiBZLTE0USBjb2xsZWN0cyBkZXRhaWxlZCBkYXRhIG9uIGJhbmsgaG9sZGluZyBjb21wYW5pZXMnIChCSEMpIGFuZCBpbnRlcm1lZGlhdGUgaG9sZGluZyBjb21wYW5pZXMnIChJSEMpIHZhcmlvdXMgYXNzZXQgY2xhc3NlcywgY2FwaXRhbCBjb21wb25lbnRzLCBhbmQgY2F0ZWdvcmllcyBvZiBwcmUtcHJvdmlzaW9uIG5ldCByZXZlbnVlIChQUE5SKSBvbiBhIHF1YXJ0ZXJseSBiYXNpcy4gVGhlIEZSIFktMTRRIHJlcG9ydCBpcyBjb21wcmlzZWQgb2YgUmV0YWlsLCBTZWN1cml0aWVzLCBSZWd1bGF0b3J5IENhcGl0YWwgSW5zdHJ1bWVudHMsIFJlZ3VsYXRvcnkgQ2FwaXRhbCBUcmFuc2l0aW9ucywgT3BlcmF0aW9uYWwsIFRyYWRpbmcsIFBQTlIsIFdob2xlc2FsZSwgTVNSIFZhbHVhdGlvbiBTY2hlZHVsZSwgUmV0YWlsIEZhaXIgVmFsdWUgT3B0aW9uL0hlbGQgZm9yIFNhbGUsIENvdW50ZXJwYXJ0eSwgQmFsYW5jZXMsIGFuZCBTdXBwbGVtZW50YWwgc2NoZWR1bGVzLCBlYWNoIHdpdGggbXVsdGlwbGUgc3VwcG9ydGluZyB3b3Jrc2hlZXRzLiBBbGwgb2YgdGhlIGRhdGEgc2NoZWR1bGVzIGFyZSB0byBiZSBzdWJtaXR0ZWQgZm9yIGVhY2ggcmVwb3J0aW5nIHBlcmlvZCB1bmxlc3MgbWF0ZXJpYWxpdHkgdGhyZXNob2xkcyBhcHBseS4NCgkgIGQCCw9kFgYCAQ8PFgIfAwUqcmVwb3J0ZGV0YWlsLmFzcHg/c09vWUorNUJ6RGJ6SzJPMFIzek5Kdz09ZBYCZg8VAQdGUiBZLTE2ZAICDxUBKwkgCUFubnVhbCBDb21wYW55LVJ1biBTdHJlc3MgVGVzdCBSZXBvcnQNCglkAgUPFQGDBgkgCVRoZSBhbm51YWwgRlIgWS0xNiBjb2xsZWN0cyBxdWFudGl0YXRpdmUgcHJvamVjdGlvbnMgb2YgYmFsYW5jZSBzaGVldCBhc3NldHMsIGxpYWJpbGl0aWVzLCBpbmNvbWUsIGxvc3NlcywgYW5kIGNhcGl0YWwgYWNyb3NzIHRocmVlIHNjZW5hcmlvcyBwcm92aWRlZCBieSB0aGUgQm9hcmQgKGJhc2VsaW5lLCBhZHZlcnNlLCBhbmQgc2V2ZXJlbHkgYWR2ZXJzZSkgYW5kIHF1YWxpdGF0aXZlIGluZm9ybWF0aW9uIG9uIG1ldGhvZG9sb2dpZXMgdXNlZCB0byBkZXZlbG9wIHRoZXNlIGludGVybmFsIHByb2plY3Rpb25zLiBUaGUgRlIgWS0xNiBjb21wcmlzZXMgdHdvIHByaW1hcnkgc2NoZWR1bGVzOiAoMSkgUmVzdWx0cyBTY2hlZHVsZSwgd2hpY2ggaW5jbHVkZXMgdGhlIHF1YW50aXRhdGl2ZSByZXN1bHRzIG9mIHRoZSBzdHJlc3MgdGVzdHMgdW5kZXIgdGhlIGJhc2VsaW5lLCBhZHZlcnNlLCBhbmQgc2V2ZXJlbHkgYWR2ZXJzZSBzY2VuYXJpb3MgZm9yIGVhY2ggcXVhcnRlciBvZiB0aGUgcGxhbm5pbmcgaG9yaXpvbi0tdGhhdCBpcywgYWdncmVnYXRlIGxvc3NlcywgcHJlLXByb3Zpc2lvbiBuZXQgcmV2ZW51ZSwgcHJvdmlzaW9uIGZvciBsb2FuIGFuZCBsZWFzZSBsb3NzZXMsIG5ldCBpbmNvbWUsIGFuZCBwcm8gZm9ybWEgY2FwaXRhbCByYXRpb3MgKGluY2x1ZGluZyByZWd1bGF0b3J5IGFuZCBhbnkgb3RoZXIgY2FwaXRhbCByYXRpb3Mgc3BlY2lmaWVkIGJ5IHRoZSBCb2FyZCk7IGFuZCAoMikgU2NlbmFyaW8gVmFyaWFibGVzIFNjaGVkdWxlLmQCDA9kFgYCAQ8PFgIfAwUqcmVwb3J0ZGV0YWlsLmFzcHg/c09vWUorNUJ6RGFEc096aFhJMGJIdz09ZBYCZg8VAQZSZWcgSDJkAgIPFQGbAQkgCVJlY29yZGtlZXBpbmcgYW5kIERpc2Nsb3N1cmUgUmVxdWlyZW1lbnRzIEFzc29jaWF0ZWQgd2l0aCBMb2Fucw0KU2VjdXJlZCBieSBSZWFsIEVzdGF0ZSBMb2NhdGVkIGluIEZsb29kIEhhemFyZCBBcmVhcyBQdXJzdWFudCB0byAyMDguMjUgUmVndWxhdGlvbiBIDQoJZAIFDxUBpgYJIAlSZWd1bGF0aW9uIEggcmVxdWlyZXMgc3RhdGUgbWVtYmVyIGJhbmtzIHRvIG5vdGlmeSBhIGJvcnJvd2VyIGFuZCBzZXJ2aWNlciAocGVyc29uIHJlc3BvbnNpYmxlIGZvciByZWNlaXZpbmcgc2NoZWR1bGVkIHBheW1lbnRzIGZyb20gYSBib3Jyb3dlciBvciBtYWtpbmcgcGF5bWVudHMgb2YgcHJpbmNpcGFsIGFuZCBpbnRlcmVzdCBhbmQgb3RoZXIgcGF5bWVudHMgZnJvbSB0aGUgYW1vdW50cyByZWNlaXZlZCBmcm9tIHRoZSBib3Jyb3dlcikgd2hlbiBhIGxvYW4gaXMgc2VjdXJlZCBieSByZWFsIGVzdGF0ZSB0aGF0IGlzIGRldGVybWluZWQgdG8gYmUgaW4gYSBkZXNpZ25hdGVkIGZsb29kIGhhemFyZCBhcmVhLiAgRm9yIHN1Y2ggbG9hbnMsIHRoZSBzdGF0ZSBtZW1iZXIgYmFuayBtdXN0IHRoZW4gbm90aWZ5IHRoZSBib3Jyb3dlciBhbmQgc2VydmljZXIgd2hldGhlciBmbG9vZCBpbnN1cmFuY2UgaXMgYXZhaWxhYmxlLiAgVGhlIHN0YXRlIG1lbWJlciBiYW5rIG11c3QgYWxzbyBub3RpZnkgdGhlIEZlZGVyYWwgRW1lcmdlbmN5IE1hbmFnZW1lbnQgQWdlbmN5IChGRU1BKSBvZiB0aGUgaWRlbnRpdHkgb2YsIGFuZCBhbnkgY2hhbmdlIG9mLCB0aGUgc2VydmljZXIgb2YgdGhlIGxvYW4uICBMYXN0LCB0aGUgYmFuayBtdXN0IHJldGFpbiBhIGNvcHkgb2YgdGhlIFN0YW5kYXJkIEZsb29kIEhhemFyZCBEZXRlcm1pbmF0aW9uIEZvcm0gdXNlZCB0byBkZXRlcm1pbmUgd2hldGhlciB0aGUgcHJvcGVydHkgc2VjdXJpbmcgYSBsb2FuIGlzIGluIGEgZGVzaWduYXRlZCBmbG9vZCBoYXphcmQgYXJlYS4NCgkgIGQCBQ8WAh8CBe0EPGRpdiBjbGFzcz0ic2Vjb25kYXJ5Rm9vdGVyTGlua3NMZWZ0Ij4KICAgICAgICAgICAgICAgPGEgaHJlZj0iL2FjY2Vzc2liaWxpdHkuaHRtIj5BY2Nlc3NpYmlsaXR5PC9hPgogICAgICAgICAgICAgICA8YSBocmVmPSIvYWJvdXR0aGVmZWQvY29udGFjdC11cy10b3BpY3MuaHRtIj5Db250YWN0IHVzPC9hPgogICAgICAgICAgICAgICA8YSBocmVmPSIvZGlzY2xhaW1lci5odG0iPkRpc2NsYWltZXI8L2E+CiAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9wb2xpY2llcy5odG0iPldlYnNpdGUgcG9saWNpZXM8L2E+CiAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9mb2lhL2Fib3V0X2ZvaWEuaHRtIj5GT0lBPC9hPgo8L2Rpdj4KPGRpdiBjbGFzcz0ic2Vjb25kYXJ5Rm9vdGVyTGlua3NSaWdodCI+CiAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHA6Ly93d3cuYWRvYmUuY29tL3Byb2R1Y3RzL2Fjcm9iYXQvcmVhZHN0ZXAyLmh0bWwiPlBERiBSZWFkZXI8L2E+PGltZyBzcmM9Jy9HSUZKUEcvZXhpdEljb24uZ2lmJyBhbHQ9IkxlYXZpbmcgdGhlIEJvYXJkIiBib3JkZXI9IjAiIGNsYXNzPSJleGl0SWNvbiIgLz4KICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2xlYXIiPjwvZGl2Pgo8L2Rpdj4KZGR67ZDbvXCaJVfsEZI1qddsfuzq3G3vT4JdqOMgNmKnkA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0482D1E9" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALfYiN2bRUKlHrlEkw0V0Y8YdYxf6gfAOYEwyV4iVhUgJagztLbRCipwRdo7Th79TOasefcLZ4lt5si6pr/cz+f" />
+      <div id="leftnav">
+        <!-- Insert the Left Navigation Begins here -->
+         <div class="secondaryContentLeftNav">
+            <!---->
+            <a id="menuFirstLevelHeading">Forms by Category</a>
+            <ul>
+             
+
+                    <li id="rptr_ReportFormsCategories_li_Style_0" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_0" href="categoryindex.aspx?xTdTa+FaSlI=">Financial statements</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_1" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_1" href="categoryindex.aspx?+PhkJwiBjbA=">Applications/structure change</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_2" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_2" href="categoryindex.aspx?1/RIXO/UduI=">FFIEC</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_3" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_3" href="categoryindex.aspx?LKZRcVe8gsY=">Monetary policy</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_4" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_4" href="categoryindex.aspx?dEapq22eBI8=">Research</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_5" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_5" href="categoryindex.aspx?0Z5S1pJbSGg=">Business/consumer credit</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_6" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_6" href="categoryindex.aspx?mi41Lvopb9o=">Securities Exchange Act of 1934</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_7" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_7" href="categoryindex.aspx?L877VwEj9Ss=">Municipal and government securities</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_8" class="menuHighlightRF">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_8" href="categoryindex.aspx?KZ9MpP8mEQY=">Activities monitoring</a>
+                    </li>
+                
+            </ul>
+            <br/>
+            <a id="menuFirstLevelHeading1">Review and Updates</a>
+            <ul>
+                <li id="li_review">
+                    
+                   <a id="lnk_rfreview" href="review.aspx">Information collections under review</a>
+                </li>
+                <li>
+                	<a href="/reportforms/whats-new.htm">Recent Reporting Form Updates</a>
+                </li>
+            </ul>
+            
+            <script language="javascript" type="text/javascript">
+              <!--
+                //buildMenu();
+              -->
+            </script>
+
+         </div>
+         <img src="/GIFJPG/spacer.gif" alt=" " /> 
+      </div>
+      <div id="content">
+         <div id="BreadCrumbContainer">
+            <a href="/default.htm">Home</a>&nbsp;&gt;&nbsp;<a href="default.aspx" id="rfhome">Reporting Forms</a>
+            
+         </div>
+         <div class="generalContentText" id="printThis">
+
+            <a name="content"></a>
+            <img src="/GIFJPG/masthead2.jpg" id="defaultPrintImage" alt="Federal Reserve Board of Governors" />
+
+            <div id="TwoColumns">
+            
+            <a name="content"></a>
+
+            <div id="leftText3">
+               <div class="mainContentContainer">
+                
+    <h1 class="all">
+    <span id="MainContent_lbl_CategoryName">Activities monitoring</span>
+</h1>
+      <input type="hidden" name="ctl00$MainContent$HiddenField1" id="HiddenField1" />
+      
+            <div id="TwoColumns">
+            <div id="leftText">
+            <br />
+        
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_0" href="reportdetail.aspx?sOoYJ+5BzDZfKgj7J0+D5Q==">FR 1379</a></div>
+
+            <br/>
+		    <em>	 	Consumer Satisfaction Questionnaire; Federal Reserve Consumer Help--Consumer Survey, Consumer Online Complaint Form, and Appraisal Complaint Form
+	</em><br/>
+                
+			 	 	The Consumer Satisfaction Questionnaire (FR 1379a) is sent to consumers who have filed complaints with the Federal Reserve against state member banks. The Federal Reserve Consumer Help--Consumer Survey (FR 1379b) is sent as needed to consumers who contact the Federal Reserve Consumer Help (FRCH) to file a complaint or inquiry. The Consumer Online Complaint Form (FR 1379c) allows consumers to electronically submit a complaint against a financial institution to the FRCH. The Appraisal Complaint Form (FR 1379d) collects information about complaints regarding a regulated institution's noncompliance with the appraisal independence standards and the Uniform Standards of Professional Appraisal Practice, including complaints from appraisers, individuals, financial institutions, and other entities.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_1" href="reportdetail.aspx?sOoYJ+5BzDbpqbklRe3/1zdGfyNn/SeV">FR 2052a</a></div>
+
+            <br/>
+		    <em>	 	Complex Institution Liquidity Monitoring Report
+	</em><br/>
+                
+			 	 	The FR 2052a report collects quantitative information on selected assets, liabilities, funding activities, and contingent liabilities on a consolidated basis and by material entity subsidiary.  The FR 2052a comprises sections covering broad funding classifications by product, outstanding balance and purpose, segmented by maturity date.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_2" href="reportdetail.aspx?sOoYJ+5BzDYMkdRPuWdVlIuVo7uN/XYr">FR 2052b</a></div>
+
+            <br/>
+		    <em>Liquidity Monitoring Report</em><br/>
+                
+			 The FR 2052b report collects quantitative information on selected assets, liabilities, funding activities, and contingent liabilities on a consolidated basis and by material subsidiary entity.  The FR 2052b includes sections covering broad funding classifications by product, outstanding balance, and purpose segmented by maturity date.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_3" href="reportdetail.aspx?sOoYJ+5BzDZ1kLYTc+ZpEQ==">FR 2225</a></div>
+
+            <br/>
+		    <em>	 	Annual Daylight Overdraft Capital Report for U.S. Branches and Agencies of Foreign Banks
+	</em><br/>
+                
+			 	 	The FR 2225 report requests information needed to identify the foreign bank respondent and its fiscal year-end and to determine its capital and assets for purposes of daylight overdraft monitoring. The capital and assets items include the following: capital for the foreign bank parent, capital used by any direct or indirect subsidiary of the respondent that has its own net debit cap, the foreign bank's worldwide capital base calculation, the bank's worldwide assets, and the exchange rate used in the calculation.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_4" href="reportdetail.aspx?sOoYJ+5BzDb0eOleT3OMbg==">FR 2230</a></div>
+
+            <br/>
+		    <em>	 	Suspicious Activity Report
+	</em><br/>
+                
+			 	 	This report must be completed by a financial institution, including a state member bank, a bank holding company and its nonbank subsidiaries, an Edge or an agreement corporation and a domestic branch or agency of a foreign bank, when it knows of or suspects criminal activity that violates a federal criminal statute involving, among other things, financial crimes, money laundering, and violations of the Bank Secrecy Act or when it identifies any suspicious financial transactions.  Suspicious financial transactions include transactions that the financial institution suspects involve funds derived from illegal activities; that were conducted for the purpose of hiding or disguising funds from illegal activities; or that were designed to evade the recordkeeping or reporting requirement of the Bank Secrecy Act.  Suspicious financial transactions also include transactions that the financial institution believes are suspicious for any other reason.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_5" href="reportdetail.aspx?sOoYJ+5BzDYl9ggtw8HGb7tRlkl6RyS4">FR HMDA-LAR</a></div>
+
+            <br/>
+		    <em>	 	The Home Mortgage Disclosure Act/Loan Application Register
+	</em><br/>
+                
+			 	 	This report takes the form of a register of mortgage and home improvement loan applications and their disposition during a calendar year.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_6" href="reportdetail.aspx?sOoYJ+5BzDazVuQfI4CjHQ==">FR H-6</a></div>
+
+            <br/>
+		    <em>	 	Notifications Related to Community Development and Public Welfare Investments of 
+State Member Banks Pursuant to Section 208.22 of Regulation H
+	</em><br/>
+                
+			 	 	Regulation H requires state member banks (SMBs) engaging in permissible community development and public welfare investments provide notice of such investments to the Federal Reserve Bank in their District. The statutory provision authorizes SMBs to make investments designed primarily to promote the public welfare to the extent permissible under state law and subject to regulation by the Board.  Regulation H permits SMBs to make certain public welfare investments without prior approval so long as the aggregate of such investments does not exceed 5 percent of the capital stock and surplus of the SMB, the bank is well capitalized and well managed, and the investment does not expose the SMB to liability beyond the amount of the investment.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_7" href="reportdetail.aspx?sOoYJ+5BzDa2AwLR/gLe5DPhQFttuq/4">FR Y-14A</a></div>
+
+            <br/>
+		    <em>	 Capital Assessments and Stress Testing
+	</em><br/>
+                
+			 	 	The FR Y-14A report collects detailed data on bank holding companies' (BHCs) and intermediate holding companies' (IHCs) quantitative projections of balance sheet assets and liabilities, income, losses, and capital across a range of macroeconomic scenarios and qualitative information on methodologies used to develop internal projections of capital across scenarios. The report is comprised of Summary, Macro Scenario, Regulatory Capital Instruments, Regulatory Capital Transitions, Operational Risk, Business Plan Changes, and Retail Repurchase Exposures schedules, each with multiple supporting sub-schedules. The number of schedules a respondent must complete is subject to materiality thresholds and certain other criteria. Respondents report projections on the FR Y-14A schedules across supervisory scenarios as well as firm-defined scenarios. One or more of the macroeconomic scenarios includes a market risk shock that the firm will assume when making trading and counterparty loss projections. Respondents are also required to submit qualitative information supporting their projections, including descriptions of the methodologies used to develop the internal projections of capital across scenarios and other analyses that support their comprehensive capital plans. 
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_8" href="reportdetail.aspx?sOoYJ+5BzDYnbIw+U9pka3sMtCMopzoV">FR Y-14M</a></div>
+
+            <br/>
+		    <em>	 	Capital Assessments and Stress Testing
+	</em><br/>
+                
+			 The FR Y-14M report collects monthly detailed data on bank holding companies' (BHCs) and intermediate holding companies' (IHCs) loan portfolios. The report is comprised of three loan- and portfolio-level collections and one detailed address matching collection. These consist of Domestic First Lien Closed-end 1-4 Family Residential Loan, Domestic Home Equity Loan, Address Matching, and Domestic Credit Card data collections. The number of schedules a BHC must complete is subject to materiality thresholds and certain other criteria. 
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_9" href="reportdetail.aspx?sOoYJ+5BzDZGWnsSjRJKDwRxOb5Kb1hL">FR Y-14Q</a></div>
+
+            <br/>
+		    <em>	 	Capital Assessments and Stress Testing
+	</em><br/>
+                
+			 The FR Y-14Q collects detailed data on bank holding companies' (BHC) and intermediate holding companies' (IHC) various asset classes, capital components, and categories of pre-provision net revenue (PPNR) on a quarterly basis. The FR Y-14Q report is comprised of Retail, Securities, Regulatory Capital Instruments, Regulatory Capital Transitions, Operational, Trading, PPNR, Wholesale, MSR Valuation Schedule, Retail Fair Value Option/Held for Sale, Counterparty, Balances, and Supplemental schedules, each with multiple supporting worksheets. All of the data schedules are to be submitted for each reporting period unless materiality thresholds apply.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_10" href="reportdetail.aspx?sOoYJ+5BzDbzK2O0R3zNJw==">FR Y-16</a></div>
+
+            <br/>
+		    <em>	 	Annual Company-Run Stress Test Report
+	</em><br/>
+                
+			 	 	The annual FR Y-16 collects quantitative projections of balance sheet assets, liabilities, income, losses, and capital across three scenarios provided by the Board (baseline, adverse, and severely adverse) and qualitative information on methodologies used to develop these internal projections. The FR Y-16 comprises two primary schedules: (1) Results Schedule, which includes the quantitative results of the stress tests under the baseline, adverse, and severely adverse scenarios for each quarter of the planning horizon--that is, aggregate losses, pre-provision net revenue, provision for loan and lease losses, net income, and pro forma capital ratios (including regulatory and any other capital ratios specified by the Board); and (2) Scenario Variables Schedule.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_11" href="reportdetail.aspx?sOoYJ+5BzDaDsOzhXI0bHw==">Reg H2</a></div>
+
+            <br/>
+		    <em>	 	Recordkeeping and Disclosure Requirements Associated with Loans
+Secured by Real Estate Located in Flood Hazard Areas Pursuant to 208.25 Regulation H
+	</em><br/>
+                
+			 	 	Regulation H requires state member banks to notify a borrower and servicer (person responsible for receiving scheduled payments from a borrower or making payments of principal and interest and other payments from the amounts received from the borrower) when a loan is secured by real estate that is determined to be in a designated flood hazard area.  For such loans, the state member bank must then notify the borrower and servicer whether flood insurance is available.  The state member bank must also notify the Federal Emergency Management Agency (FEMA) of the identity of, and any change of, the servicer of the loan.  Last, the bank must retain a copy of the Standard Flood Hazard Determination Form used to determine whether the property securing a loan is in a designated flood hazard area.
+	  
+		    </p>
+       
+            </div>
+            </div>
+       
+
+
+                </div>
+            </div><!--closes Left-->
+
+            <div id="stayconnectedrightSidebar">
+                
+
+	    		<h4>Related</h4>
+	    		<div class="ulbackground">
+	    		<ul class="stayconnected2">
+	    		<li class="stayconnected2"><a href="/reportforms/whats-new.htm">Recent Reporting Form Updates</a></li>
+	    		</ul>
+
+
+            </div><!--closes Right-->
+
+            </div><!--closes 2 columns-->
+<!-- Changes Made 12-4-12 -->
+         <div class="clear"></div>
+         <!--</div>-->
+<!-- 12-4-12-->
+
+         <div id="lastUpdate">
+            
+Last Update: July 6, 2012
+    </div>
+
+            
+         </div>
+
+        </form>
+
+         <div id="FooterLinks">
+            <a href="/default.htm">Home</a> | <a href="/apps/reportforms/default.aspx">Reporting Forms</a>
+         </div>
+         <!-- CLOSES FooterLinks -->
+         <div id="secondaryFooterLinks">
+            <div class="secondaryFooterLinksLeft">
+               <a href="/accessibility.htm">Accessibility</a>
+               <a href="/aboutthefed/contact-us-topics.htm">Contact us</a>
+               <a href="/disclaimer.htm">Disclaimer</a>
+               <a href="/policies.htm">Website policies</a>
+               <a href="/foia/about_foia.htm">FOIA</a>
+</div>
+<div class="secondaryFooterLinksRight">
+               <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src='/GIFJPG/exitIcon.gif' alt="Leaving the Board" border="0" class="exitIcon" />
+               <div class="clear"></div>
+</div>
+
+
+         </div> 
+         <div class="clear"></div>
+      </div>
+</div>
+
+   </div>
+   
+   <div id="footer">
+      <div id="Footer2"></div>               
+   </div>
+   
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,96 @@
+body    {color:black;
+         background-color: #FFFFFF;
+	     font-family: Arial, Helvetica, sans-serif;
+	     margin-top: 0.1em;
+	     margin-right: 0.1em;
+	     margin-bottom: 0.1em;
+	     margin-left: 1.0em;
+		 font-size : .8em;
+		   	}
+
+a:link          {color: #006666;}	
+	
+a:visited 		{color: #800080;}
+
+a:hover         {color: #006666;}	
+				
+		
+/* 508, skip navigation, for invisible */
+                                                                
+a.skip:link    {color: #ffffff;}
+		   
+a.skip:hover    {color: #ffffff;}
+		   
+a.skip:visited    {color: #ffffff;}	
+		   
+/* heading levels */
+
+h1	{font-size: 1.6em;
+		font-weight: bold;
+		color: #000000;
+		width: 600px;}
+
+	
+/* text */
+		
+p	{	font-weight: normal;
+        color: #000000;
+		width: 600px;}
+		
+p.indent	{
+		font-weight: normal;
+		color: #000000;
+		width: 540px;
+		margin-left: 3em;
+		}
+		
+div	{	width: 600px;}
+		
+/* Rules, put align left on page code */
+		
+hr	{width: 600px;
+     color: #000000;
+	 text-align: left;}
+		
+	/* bottom of page */	
+
+.footer	{color: #000000; 
+         width: 600px;
+		 }
+                              
+.pagedate	{font-weight: bold;}
+
+.title {
+	background-color: #eff0c8;
+	font-size: 1.3em;
+	text-indent: 0.1em;
+	font-weight: bold;
+	vertical-align: middle;
+	text-align: left;
+	width: 600px;
+	color: #000000;
+	line-height: normal;
+}
+.subtitle {
+	font-size: 1.0em;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	text-indent: 0em;
+	text-align: left;
+	width: 600px;
+	color: #000000;
+}
+.subtitle2 {
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	text-indent: 1em;
+	vertical-align: middle;
+	text-align: left;
+	color: #000000;
+	text-decoration: none;
+}
+	
+a.mainLinks{font-size: 1.0em;}	
+                            

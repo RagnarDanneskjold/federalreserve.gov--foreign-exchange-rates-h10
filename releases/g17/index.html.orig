@@ -1,0 +1,352 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="Board of Governors of the Federal Reserve System, Federal Reserve Board of Governors, Federal Reserve Board, Federal Reserve" />
+<meta name="description" content="The Federal Reserve Board of Governors in Washington DC." />
+
+<title>Industrial Production and Capacity Utilization</title>
+
+<link href="https://www.federalreserve.gov/resources/pubweb.css" rel="stylesheet" type="text/css" />
+<link href="https://www.federalreserve.gov/resources/secondary.css" rel="stylesheet" type="text/css" />
+<link href="https://www.federalreserve.gov/resources/print.css" rel="stylesheet" type="text/css" media="print"/>
+<link href="https://www.federalreserve.gov/resources/economic.css" rel="stylesheet" type="text/css" />
+<link href="https://www.federalreserve.gov/resources/statistics.css" rel="stylesheet" type="text/css" />
+
+<script language="JavaScript" type="text/javascript" src="https://www.federalreserve.gov/resources/economicLeftNav.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://www.federalreserve.gov/resources/exit_new.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://www.federalreserve.gov/resources/swfLink.js"></script>
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+		
+		$(".statsCalendar tr:even").addClass("alt");
+						   });
+
+</script>
+
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head><body>
+
+<a href="#mainNav" class="invisible">skip to main navigation</a>
+<a href="#secondNav" class="invisible">skip to secondary navigation</a>
+<a href="#content" class="invisible">skip to content</a>
+
+<!-- HEADER STARTS -->
+<table id="headerTopLinks" cellpadding="0" cellspacing="0">
+<tr>
+
+  <td class="headerTopLinksLeft">
+   <a href="/whatsnew.htm">What's New</a> &middot; 
+   <a href="/whatsnext.htm">What's Next</a> &middot; 
+   <a href="/sitemap.htm">Site Map</a> &middot; 
+   <a href="/azindex.htm">A-Z Index</a> &middot;
+   <a href="/careers/default.htm">Careers</a> &middot;
+   <a href="/feeds/default.htm">RSS</a> &middot;
+   <a href="/mediacenter/media.htm">All Videos</a> &middot;
+   <a href="/faqs.htm">Current FAQs</a> &middot;
+   <a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+ </td>
+
+ <td class="curve1"></td>
+<td class="headerTopLinksRight">
+
+<form action="http://search.newyorkfed.org/board_public/search" method="get"><label for="searchbox"><div id="skip2">Search</div></label><input type="text" name="text" size="12" maxlength="100" id="searchbox" />&nbsp;<input id="headerTopLinksSearchFormSubmit" type="image" src="https://www.federalreserve.gov/gifjpg/searchbutton.gif" name="Search" alt="Search" border="0" />&nbsp;<a href="http://search.newyorkfed.org/board_public" class="search">Advanced Search</a></form>
+
+</td>
+
+ <td class="curve2"></td>
+
+</tr>
+</table>
+
+<div id="top">
+
+  <div id="headerMasthead">
+  <a href="/default.htm"><img src="https://www.federalreserve.gov/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"></img></a>
+  </div>
+
+  <a name="mainNav"></a>
+  <div class="navMenuBack">
+
+  <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><div class="navItem"><a href="/aboutthefed/default.htm">About<BR>the Fed</a></div></td>
+    <td><div class="navItem"><a href="/newsevents/default.htm">News<BR>&amp; Events</a></div></td>
+    <td><div class="navItem"><a href="/monetarypolicy/default.htm">Monetary<BR>Policy</a></div></td>
+    <td><div class="navItem"><a href="/bankinforeg/default.htm">Banking<BR>Information<BR>&amp; Regulation</a></div></td>
+    <td><div class="navItem"><a href="/paymentsystems/default.htm">Payment<BR>Systems</a></div></td>
+    <td id="selected"><div class="navItem"><a href="/econresdata/default.htm">Economic<BR>Research<BR>&amp; Data</a></div></td>
+    <td><div class="navItem"><a href="/consumerinfo/default.htm">Consumer<BR> Information</a></div></td>
+    <td><div class="navItem"><a href="/communitydev/default.htm">Community<BR>Development</a></div></td>
+    <td><div class="navItem"><a href="/reportforms/default.cfm">Reporting<BR>Forms</a></div></td>
+    <td><div class="navItem"><a href="/publications/default.htm">Publications</a></div></td>
+  </tr>
+
+  </table>
+
+  </div> <!-- HEADER ENDS -->
+
+</div> <!-- CLOSES top -->
+
+<div id="contentContainer">
+
+<a name="secondNav"></a><a href="#content" class="invisible">skip to content</a>
+        
+<div id="leftnav">
+    <!-- Insert the Left Navigation Begins here -->
+    <div class="secondaryContentLeftNav">
+
+    <script language="javascript" type="text/javascript">
+    <!--
+      buildMenu();
+    -->
+    </script>
+
+    <noscript>
+    <a href="/resources/economicLeftNav.htm">Menu</a>
+    </noscript>
+       
+    </div><!-- closes 'secondaryContentLeftNav' div -->
+          
+</div> <!-- CLOSES leftnav -->
+
+<!-- Left Navigation ENDS -->
+
+<div id="content">
+<div id="BreadCrumbContainer">
+<a href="/default.htm">Home</a> &gt; <a href="/econresdata/">Economic Research &amp; Data</a> &gt; <a href="/econresdata/releases/statisticsdata.htm">Statistical Releases and Historical Data</a>
+</div> <!-- CLOSES BreadCrumbContainer -->
+
+
+<div class="generalContentText" id="printThis">
+<div id="printIcon">
+<a href="https://www.federalreserve.gov/feeds/g17.html"><img src="https://www.federalreserve.gov/gifjpg/rssIcon.gif" border="0" /></a>
+<a href="https://www.federalreserve.gov/datadownload/Choose.aspx?rel=G17"> <img src="https://www.federalreserve.gov/gifjpg/ddpIcon_smallest.gif" border="0"/> DDP</a> 
+<a href="javascript:printable('https://www.federalreserve.gov/resources/print_statistics.css');"><img src="https://www.federalreserve.gov/gifjpg/printIcon.gif">Print</a>
+</div>
+
+<a name="content"></a>
+<a name="pagetop"></a>
+  
+<h1 class="border">Industrial Production and Capacity Utilization - G.17</h1>
+
+<div id="TwoColumns">
+<div class="statsNav">
+<ul>
+
+  <li><a href="./Current/default.htm">Current Release</a></li>
+  <li class="selected"><a href="default.htm">Release Dates</a></li>
+  <li><a href="./Current/default_sup.htm">Monthly Supplement</a></li>
+  <li><a href="./revisions/Current/DefaultRev.htm">Annual Revision</a></li>
+  <li><a href="download.htm">Data Download</a></li>
+  <li><a href="About.htm">About</a></li>
+  <li><a href="/feeds/g17.html">Announcements</a></li>
+  <li><a href="https://www.federalreserve.gov/releases/g17/g17_technical_qa.htm">Technical Q&amp;As</a></li>
+
+</ul>
+</div>
+
+
+<div id="leftText3">
+
+<span id="skip2"><a href="#content">Skip to Content</a></span>
+  
+   
+<a name="content"></a>
+
+ 
+<h2 class="border">Release Dates</h2>
+
+
+<h3>The G.17 will be released at 9:15 a.m. on these dates:</h3>
+
+
+<p><strong>2016:</strong>
+    January 15,
+    February 17,
+    March 16,
+    April 1 <a href = "revisions/Current/DefaultRev.htm"> (Annual Revision)</a>,
+    April 15,
+    May 17,
+    June 15,
+    July 15 <a href = "Current/default.htm"> (Current)</a>,
+    August 16,
+    September 15,
+    October 17,
+    November 16, 
+    and December 14.
+</p>
+
+
+<h3> Historical Release Dates</h3>
+<p><a href="release_dates.htm"> Historical release dates</a> are also available.</p>
+
+<h2 class="border"> Previous Releases </h2>
+<p>
+</p><form class="srdropdown" name="yearselect">
+<select name="srletter">
+<option selected="selected" value="default.htm">2016</option>
+<option value="releases_2015.htm">2015</option>
+<option value="releases_2014.htm">2014</option>
+<option value="releases_2013.htm">2013</option>
+<option value="releases_2012.htm">2012</option>
+<option value="releases_2011.htm">2011</option>    
+<option value="releases_2010.htm">2010</option>
+<option value="releases_2009.htm">2009</option>
+<option value="releases_2008.htm">2008</option>
+<option value="releases_2007.htm">2007</option>
+<option value="releases_2006.htm">2006</option>
+<option value="releases_2005.htm">2005</option>
+<option value="releases_2004.htm">2004</option>
+<option value="releases_2003.htm">2003</option>
+<option value="releases_2002.htm">2002</option>
+<option value="releases_2001.htm">2001</option>
+<option value="releases_2000.htm">2000</option>
+<option value="releases_1999.htm">1999</option>
+<option value="releases_1998.htm">1998</option>
+<option value="releases_1997.htm">1997</option>
+
+</select>
+<input name="button" value="Change year" onclick="document.location = document.yearselect.srletter.options [document.yearselect.srletter.selectedIndex].value;" type="button">
+</form>
+
+<table class="statsCalendar" summary="This table is for formatting purposes only." cellspacing="0" style="width:100%">
+<thead>
+<tr>
+  <th colspan="5" id="year">2016</th>
+</tr>
+<tr>
+    <th class="subhead1">&nbsp;</th>
+    <th class="subhead1">Monthly Release</th>
+    <th class="subhead1">Monthly Supplement</th>
+    <th class="subhead1">Annual Revision</th>
+    <th class="subhead1">Text Data File Downloads</th>
+</tr>
+
+</thead>
+
+
+<tbody>
+
+<tr>
+  <td class="month">July 15</td>
+  <td><a href="Current/">HTML</a> | <a href="Current/g17.pdf">274 KB PDF</a> | <a href="Current/g17.txt">ASCII</a></td>
+  <td><a href="Current/default_sup.htm">HTML</a> | <a href="Current/g17_sup.pdf">142 KB PDF</a> | <a href="Current/g17_sup.txt">ASCII</a></td>
+  <td>&nbsp;</td>
+  <td><a href="Current/ipdisk/alltables.htm">Data and Documentation</a></td>
+</tr>
+
+
+<tr>
+  <td class="month">June 15</td>
+  <td><a href="20160615/">HTML</a> | <a href="20160615/g17.pdf">274 KB PDF</a> | <a href="20160615/g17.txt">ASCII</a></td>
+  <td><a href="20160615/default_sup.htm">HTML</a> | <a href="20160615/g17_sup.pdf">142 KB PDF</a> | <a href="20160615/g17_sup.txt">ASCII</a></td>
+  <td>&nbsp;</td>
+  <td><a href="20160615/ipdisk/alltables.htm">Data and Documentation</a></td>
+</tr>
+
+<tr>
+  <td class="month">May 17</td>
+  <td><a href="20160517/">HTML</a> | <a href="20160517/g17.pdf">274 KB PDF</a> | <a href="20160517/g17.txt">ASCII</a></td>
+  <td><a href="20160517/default_sup.htm">HTML</a> | <a href="20160517/g17_sup.pdf">142 KB PDF</a> | <a href="20160517/g17_sup.txt">ASCII</a></td>
+  <td>&nbsp;</td>
+  <td><a href="20160517/ipdisk/alltables.htm">Data and Documentation</a></td>
+</tr>
+
+
+<tr>
+  <td class="month">April 15</td>
+  <td><a href="20160415/">HTML</a> | <a href="20160415/g17.pdf">274 KB PDF</a> | <a href="20160415/g17.txt">ASCII</a></td>
+  <td><a href="20160415/default_sup.htm">HTML</a> | <a href="20160415/g17_sup.pdf">142 KB PDF</a> | <a href="20160415/g17_sup.txt">ASCII</a></td>
+  <td>&nbsp;</td>
+  <td><a href="20160415/ipdisk/alltables.htm">Data and Documentation</a></td>
+</tr>
+
+<tr>
+  <td class="month">April 1</td>
+  <td></td>
+  <td></td>
+  <td><a href="Revisions/20160401/DefaultRev.htm">HTML</a> | <a href="Revisions/20160401/g17rev.pdf">388 KB PDF</a> | <a href="Revisions/20160401/g17rev.txt">ASCII</a></td>
+  <td>&nbsp;</td>
+</tr> 
+
+<tr>
+  <td class="month">March 16</td>
+  <td><a href="20160316/">HTML</a> | <a href="20160316/g17.pdf">273 KB PDF</a> | <a href="20160316/g17.txt">ASCII</a></td>
+  <td><a href="20160316/default_sup.htm">HTML</a> | <a href="20160316/g17_sup.pdf">142 KB PDF</a> | <a href="20160316/g17_sup.txt">ASCII</a></td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+</tr>
+
+
+<tr>
+  <td class="month">February 17</td>
+  <td><a href="20160217/">HTML</a> | <a href="20160217/g17.pdf">273 KB PDF</a> | <a href="20160217/g17.txt">ASCII</a></td>
+  <td><a href="20160217/default_sup.htm">HTML</a> | <a href="20160217/g17_sup.pdf">142 KB PDF</a> | <a href="20160217/g17_sup.txt">ASCII</a></td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+</tr>
+
+<tr>
+  <td class="month">January 15</td>
+  <td><a href="20160115/">HTML</a> | <a href="20160115/g17.pdf">272 KB PDF</a> | <a href="20160115/g17.txt">ASCII</a></td>
+  <td><a href="20160115/default_sup.htm">HTML</a> | <a href="20160115/g17_sup.pdf">141 KB PDF</a> | <a href="20160115/g17_sup.txt">ASCII</a></td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+</tr>
+
+
+</tbody></table>
+
+<p><a href="#top">Return to top</a></p>
+
+</div> <!-- CLOSES leftText3 -->
+</div> <!-- CLOSES TwoColumns -->
+</div> <!-- CLOSES generalContentText -->
+
+<div class="clear"></div>
+
+<div id="lastUpdate">Last update: July 15, 2016</div>
+<div id="FooterLinks">
+  <a href="/default.htm">Home</a> | <a href="/econresdata/default.htm">Economic research and data</a>
+</div> <!-- CLOSES FooterLinks -->
+          
+<div id="secondaryFooterLinks">
+<div class="secondaryFooterLinksLeft">
+  <a href="/accessibility.htm">Accessibility</a>
+  <a href="/apps/contactus/feedback.aspx">Contact Us</a>
+  <a href="/disclaimer.htm">Disclaimer</a>
+  <img src="https://www.federalreserve.gov/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon"/>
+  <a href="/linkingpolicy.htm">Linking Policy</a>
+  <a href="/generalinfo/foia/default.cfm">FOIA</a>
+</div>
+<div class="secondaryFooterLinksRight">
+  <a href="http://www.adobe.con/products/acrobat/readstep2.html">PDF Reader</a>
+  <img src="https://www.federalreserve.gov/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon"/>
+</div>
+
+<div class="clear"></div>
+
+</div> <!-- CLOSES secondaryFooterLinks -->
+</div> <!-- CLOSES content -->
+<div class="clear"></div>
+</div> <!-- CLOSES contentContainer -->
+<div id="footer">
+  <div id="Footer2"></div>
+</div> <!-- CLOSES footer -->
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>
+

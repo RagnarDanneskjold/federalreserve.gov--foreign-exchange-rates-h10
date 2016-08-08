@@ -1,0 +1,522 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1- transitional.dtd">
+<html xmlns:ms="urn:schemas-microsoft-com:xslt" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rss="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:frb="http://www.federalreserve.gov/feeds/" xmlns:cb="http://www.centralbanks.org/rss-cb/1.0/" xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>FRB: DDP: Assets and Liabilities of Commercial Banks in the United States (Weekly) (H.8)</title>
+    <link href="/resources/pubweb.css" rel="stylesheet" type="text/css">
+    <link href="/resources/secondary.css" rel="stylesheet" type="text/css">
+    <link href="/resources/print.css" rel="stylesheet" type="text/css" media="print">
+    <link href="/resources/economic.css" rel="stylesheet" type="text/css">
+    <link href="/resources/statistics.css" rel="stylesheet" type="text/css">
+    <base target="_top"><script language="javascript" type="text/javascript" src="/exit_new.js"></script><script language="javascript" type="text/javascript">
+          var cnt = 0;
+        </script><script language="javascript" type="text/javascript">
+          window.onload = function() {
+            if(document.implementation && document.implementation.createDocument) {
+              for(var i=0; i < cnt; i++) {
+                document.getElementById("divContent" + (i+1)).innerHTML = document.getElementById("div2Content" + (i+1)).innerHTML;
+              }
+            }
+          }
+        </script><script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+  <body><a href="#mainNav" class="invisible">skip to main navigation</a><a href="#secondNav" class="invisible">skip to secondary navigation</a><a href="#content" class="invisible">skip to content</a><table id="headerTopLinks" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="headerTopLinksLeft"><a href="/whatsnew.htm">What's New</a> ·
+              <a href="/whatsnext.htm">What's Next</a> ·
+              <a href="/sitemap.htm">Site Map</a> ·
+              <a href="/azindex.htm">A-Z Index</a> ·
+              <a href="/careers/default.htm">Careers</a> ·
+              <a href="/feeds/default.htm">RSS</a> ·
+              <a href="/mediacenter/media.htm">All Videos</a> ·
+              <a href="/faqs.htm">Current FAQs</a></td>
+        <td class="curve1"></td>
+        <td class="headerTopLinksRight">
+          <form action="http://search.newyorkfed.org/search/search.jsp" method="GET"><label><span class="invisible">Search</span><input type="text" name="text" size="12" maxlength="100"></label><input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search" border="0"><input type="hidden" name="template" value="BOARD"><input type="hidden" name="type" value="adv"><input type="hidden" name="who" value="patx">  <a href="http://search.newyorkfed.org/search/search.jsp?who=patx&amp;template=BOARD" class="search">Advanced Search</a></form>
+        </td>
+        <td class="curve2"></td>
+      </tr>
+    </table>
+    <div id="top">
+      <div id="headerMasthead"><a href="/default.htm"><img src="/econresdata/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"></a></div><a name="mainNav"></a><div class="navMenuBack">
+        <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td>
+              <div class="navItem"><a href="/aboutthefed/default.htm">
+                      About<br>the Fed</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/newsevents/default.htm">
+                      News<br>&amp; Events</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/monetarypolicy/default.htm">
+                      Monetary<BR>Policy</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/bankinforeg/default.htm">
+                      Banking<BR>
+                        Information<BR>&amp; Regulation</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/paymentsystems/default.htm">
+                      Payment<BR>Systems</a></div>
+            </td>
+            <td id="selected">
+              <div class="navItem"><a href="/econresdata/default.htm">
+                      Economic<BR>
+                        Research<BR>&amp; Data</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/consumerinfo/default.htm">
+                      Consumer<BR> Information</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/communitydev/default.htm">
+                      Community<BR>Development</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/reportforms/default.cfm">
+                      Reporting<BR>Forms</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/publications/default.htm">Publications</a></div>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <div id="contentContainer">
+      <div id="content">
+        <div id="BreadCrumbContainer"><a href="/default.htm">Home</a> &gt; <a href="/econresdata/releases/statisticsdata.htm">Statistical Releases and Historical Data</a></div>
+        <div class="generalContentText" id="printThis">
+          <div id="printIcon"><a href="http://www.federalreserve.gov/feeds"><img src="../../GIFJPG/rssIcon.gif" border="0"></a><a href="http://www.federalreserve.gov/datadownload/"><img src="../../GIFJPG/ddpIcon_smallest.gif" border="0"></a><a href="javascript:printable('../../resources/print_news.css');"><img src="../../gifjpg/printIcon.gif">Print</a></div><a name="content"></a><A NAME="pagetop"></A><h1 class="border"><span style="font-size:larger; font-weight:bold;"> Assets and Liabilities of Commercial Banks in the United States (Weekly) (H.8)</span></h1>
+          <div id="TwoColumns">
+            <h2 class="border">Announcements</h2><span style="font-size:normal; font-weight:normal;">Assets and Liabilities of Commercial Banks in the U.S.</span><br><ul><br><li><span style="font-style:italic;">January 16, 2015</span><br><span style="font-weight:bold;"><A NAME="885"> Changes to Items Reported on the H.8 Release as of January 7, 2015</A></span><br><DIV ID="&#xA;                          divContent1">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>Effective with this release, several changes have been made to line items shown on the H.8 release. These changes relate to the Federal Reserve Board's notice published in the <i>Federal</i> <i>Register</i>, 79 FR 57101 on September 24, 2014. </p>
+<p>The following line items have been added to the release:</p>
+<p>1. Current line item 14, Commercial real estate loans, has been disaggregated into four components: (a) Construction and land development loans; (b) Loans secured by farmland; (c) Loans secured by multifamily properties; and (d) Loans secured by nonfarm nonresidential properties.</p>
+<p>2. Current line item 17, Other consumer loans, has been subdivided into two items: (a) Automobile loans; and (b) All other consumer loans.</p>
+<p>3. Current line item 20, All other loans and leases, has been split into two items: (a) Loans to nondepository financial institutions; and (b) Other loans not elsewhere classified.</p>
+<p>4. A subcomponent of Memoranda line item 44, Net unrealized gains (losses) on available-for-sale securities, covering net unrealized gains (losses) on U.S. Treasury and agency securities, mortgage-backed securities, has been added.</p>
+<p>5. Two Memoranda line items covering loans to businesses with original amounts of $1,000,000 or less have been added: (a) Loans secured by nonfarm nonresidential properties; and (b) Commercial and industrial loans to U.S. addressees.</p>
+<p>The following line items have been discontinued:</p>
+<p>1. Former line items 27 and 38, Derivatives with positive and negative fair values, are no longer being published. The amount of derivatives with positive and negative fair values are now reported as part of line item 26 and line item 37, respectively.</p>
+<p>2. Memoranda line items 45, 46, 47, and 48, covering securitized consumer and real estate loans, have also been dropped.</p>
+<p>The historical data for the discontinued items will remain available for download through the Federal Reserve Board's Data Download Program (DDP).</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 1;
+                      </script></li><br><li><span style="font-style:italic;">January 09, 2015</span><br><span style="font-weight:bold;"><A NAME="883">Upcoming Changes to Items Reported on the H.8 Release as of January 7, 2015</A></span><br><DIV ID="&#xA;                          divContent2">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>Effective with the release dated January 16, 2015, several changes will be made to line items shown on the H.8 release.</p>
+<p>These changes relate to the Federal Reserve Board's notice published in the Federal Register, 79 FR 57101 on September 24, 2014.</p>
+<p>The following line items will be added to the release:</p>
+<p>1. Current line item 14, Commercial real estate loans, will be disaggregated into four components: (a) Construction and land development loans; (b) Loans secured by farmland; (c) Loans secured by multifamily properties; and (d) Loans secured by nonfarm nonresidential properties.</p>
+<p>2. Current line item 17, Other consumer loans, will be subdivided into two items: (a) Automobile loans; and (b) All other consumer loans.</p>
+<p>3. Current line item 20, All other loans and leases, will be split into two items: (a) Loans to nondepository financial institutions; and (b) Other loans not elsewhere classified.</p>
+<p>4. A subcomponent of Memoranda line item 44, Net unrealized gains (losses) on available-for-sale securities, covering net unrealized gains (losses) on U.S. Treasury and agency securities, mortgage-backed securities, will be added.</p>
+<p>5. Two Memoranda line items covering loans to businesses with original amounts of $1,000,000 or less will be added: (a) Loans secured by nonfarm nonresidential properties; and (a) Commercial and industrial loans to U.S. addressees.</p>
+<p>The following line items will be discontinued:</p>
+<p>1. Current line items 27 and 38, Derivatives with positive and negative fair values, will no longer be published.  The amount of derivatives with positive and negative fair values will be reported as part of line item 26 and line item 37, respectively.<br />
+                    </p>
+<p>2. Memoranda line items 45, 46, 47, and 48, covering securitized consumer and real estate loans, will also be dropped.</p>
+<p>The historical data for the discontinued items will remain available for download through the Federal Reserve Board's Data Download Program (DDP).</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 2;
+                      </script></li><br><li><span style="font-style:italic;">December 23, 2014</span><br><span style="font-weight:bold;"><A NAME="880">Holiday - December 25, and December 26, 2014.</A></span><br><DIV ID="&#xA;                          divContent3">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The daily and weekly statistical releases scheduled for Thursday, December 25 and Friday, December 26 will be published on Monday, December 29, 2014, because the federal government is closed. </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 3;
+                      </script></li><br><li><span style="font-style:italic;">July 01, 2014</span><br><span style="font-weight:bold;"><A NAME="822">This week's H.8 release will be published July 3 </A></span><br><DIV ID="&#xA;                          divContent4">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The weekly H.8 release scheduled for Friday, July 4 will be released on Thursday, July 3.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 4;
+                      </script></li><br><li><span style="font-style:italic;">January 11, 2013</span><br><span style="font-weight:bold;"><A NAME="614">Updated DDP data now available</A></span><br><DIV ID="&#xA;                          divContent5">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>The data for January 11, 2013, from the Board's H.8 statistical release are now available in the Data Download Program (DDP). <br />
+                      <a href="http://www.federalreserve.gov/datadownload/Choose.aspx?rel=H8">http://www.federalreserve.gov/datadownload/Choose.aspx?rel=H8</a>
+                    </p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 5;
+                      </script></li><br><li><span style="font-style:italic;">September 21, 2012</span><br><span style="font-weight:bold;"><A NAME="575">Technical Q&amp;As page</A></span><br><DIV ID="&#xA;                          divContent6">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">A new <a href="http://www.federalreserve.gov/releases/h8/h8_technical_qa.htm">Technical Q&amp;As</a> page has been added to the H.8 release page on the Board's website. The first entry describes a change in the use of the Census Bureau's X-12-ARIMA program to seasonally adjust data on the H.8 Statistical Release.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 6;
+                      </script></li><br><li><span style="font-style:italic;">November 08, 2011</span><br><span style="font-weight:bold;"><A NAME="462">New graphics options are now available from the Data Download Program (DDP)</A></span><br><DIV ID="&#xA;                          divContent7">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Users can now view plotted data as column charts, and add U.S. recession shading, while using the "View chart" function of the Data Download Program (DDP). <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 7;
+                      </script></li><br><li><span style="font-style:italic;">September 28, 2011</span><br><span style="font-weight:bold;"><A NAME="445">Corrections to historical data</A></span><br><DIV ID="&#xA;                          divContent8">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Previously published data for the period October 30, 1996, through July 19, 2000, were incorrect for seasonally adjusted series on borrowings, total liabilities and the residual. The error has been corrected and updated values are now available for download. <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 8;
+                      </script></li><br><li><span style="font-style:italic;">December 02, 2010</span><br><span style="font-weight:bold;"><A NAME="341">New interactive graphics feature of Data Download Program (DDP)</A></span><br><DIV ID="&#xA;                          divContent9">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Users will now be able to create and view interactive graphics of data packages from the program before downloading the underlying data and charts. The charting feature allows users to view multiple data series on a single chart as well as to display individual data points. The charts can be saved as PDFs or in a standard image file format (PNG) for publication and redistribution.<br />
+                    <br />"Graphics play an important role in identifying data trends and relationships," said Federal Reserve Vice Chair Janet L. Yellen. "With the help of this intuitive new user interface, it's now possible to create customized charts directly from Federal Reserve statistical data."<br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 9;
+                      </script></li><br><li><span style="font-style:italic;">April 09, 2010</span><br><span style="font-weight:bold;"><A NAME="261">Publication of Percent Changes on the H.8 Release</A></span><br><DIV ID="&#xA;                          divContent10">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Effective with this release, break adjusted, seasonally adjusted percent changes at an annual rate will be published on the H.8 release each week.  The percent changes in selected asset and liability items are shown on page 1 of the release; percent changes for other series shown on the release are available for customizable download through the Federal Reserve Board's <a href="http://www.federalreserve.gov/datadownload">Data Download Program (DDP)</a>.  The percent changes will be updated weekly.  Data for a new month, quarter, or year will be published simultaneously with complete weekly data for the new month, quarter, or year.  Except for being renumbered, all other pages of the H.8 release are unchanged.<br />
+                    <br />The percent changes have been adjusted to remove the effects of nonbank structure activity of $5 billion or more, as well as the estimated effects of the initial consolidation of certain variable interest entities (FIN 46) and off-balance-sheet vehicles (FAS 166/167).  The adjustments are generally made using the figures reported in the H.8 Notes on the Data.  A ratio procedure is used to adjust past levels to make them comparable with current levels.  For more information on how the H.8 release data are constructed, see <a href="http://www.federalreserve.gov/releases/h8/about.htm">About the Release</a>.<br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 10;
+                      </script></li><br><li><span style="font-style:italic;">January 15, 2010</span><br><span style="font-weight:bold;"><A NAME="230">Supplementary Information Regarding Banks' Adoption of FAS 166 and 167</A></span><br><DIV ID="&#xA;                          divContent11">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>The effects of banks' adoption of FASB's Financial Accounting Statements No. 166 (FAS 166), <i>Accounting for Transfers of Financial Assets, </i>and No. 167 (FAS 167), <i>Amendments to FASB Interpretation No. 46(R), </i>will be incorporated in the H.8 commercial bank balance sheet data for March 31, 2010 (to be published on April 9, 2010). </p>
+<p>For more information on FAS 166 and 167, please see the Financial Accounting Standards Board's <a href="http://www.fasb.org/cs/ContentServer?c=FASBContent_C&amp;pagename=FASB/FASBContent_C/NewsPage&amp;cid=1176156240834">news release</a>.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 11;
+                      </script></li><br><li><span style="font-style:italic;">December 18, 2009</span><br><span style="font-weight:bold;"><A NAME="222">No Update on December 24 and December 25</A></span><br><DIV ID="&#xA;                          divContent12">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Owing to the closure of the Federal Reserve Board on the afternoon of Thursday, December 24, and on Friday, December 25, 2009, the H.8 release that would normally be published on Friday, December 25, 2009, will be published on Monday, December 28, 2009.<br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 12;
+                      </script></li><br><li><span style="font-style:italic;">July 10, 2009</span><br><span style="font-weight:bold;"><A NAME="159">Changes to Data and Items Reported on the Release for July 1, 2009</A></span><br><DIV ID="&#xA;                          divContent13">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>Effective with this release, several changes, summarized below, have 
+been made to the data and the line items shown on the H.8 release. These 
+changes relate to the adoption, as of July 1, 2009, of a single reporting 
+form for all weekly reporters (see the Federal Reserve Board's notice 
+published in the <i>Federal Register</i>, 74 FR 10739). Historical data 
+have been revised to reflect these changes. In addition, data from the H.8 
+release are now available for customizable download through the Federal 
+Reserve Board's <a href="http://www.federalreserve.gov/datadownload/Choose.aspx?rel=H.8">Data 
+Download Program (DDP)</a>. These data will be updated weekly with the H.8 
+release. </p>
+<OL>
+<li>The line items on loans now include the loans that banks hold in 
+trading accounts. Previously, loans that banks held in trading accounts 
+were included in trading account securities. </li>
+<li>Derivatives with a positive fair value and other trading assets are 
+now shown as trading assets not included in bank credit. Previously, 
+derivatives with a positive fair value and other trading assets were 
+included in securities in bank credit. </li>
+<li>The set of line items shown on the release has been changed.
+<uL>
+<li>The set of line items shown on the release is now identical for each 
+bank group (all commercial banks; domestically chartered commercial banks; 
+large domestically chartered commercial banks; small domestically 
+chartered commercial banks; and foreign-related institutions in the U.S.). 
+As a result, more line items are now shown on the release for small 
+domestically chartered banks and foreign-related institutions. Data values 
+that had not previously been reported by a bank group are denoted "--". 
+Previously, the set of balance sheet items shown on the release differed 
+substantially by bank group. </li>
+<li>The line items on securities are now shown by issuer (Treasury and 
+agency or other) and type of security (mortgage-backed securities (MBS) or 
+non-MBS). Previously, securities were shown by account type (investment 
+account versus trading account) for large domestically chartered 
+commercial banks and foreign-related institutions, and detail on 
+mortgage-backed securities was shown only for large domestically chartered 
+commercial banks that held such securities in investment accounts. </li>
+<li>Banks' allowance for loan and lease losses is now shown. </li>
+<li>Some line items are no longer shown separately: security loans are now 
+included in all other loans and leases; state and local government loans 
+held in investment accounts by large banks are now included in other 
+securities, non-MBS; transaction deposits are now included in deposits, 
+other deposits; and nontransaction deposits are now included in deposits, 
+large time deposits or in deposits, other deposits, as appropriate.</li> 
+<li>Some memoranda items that were previously shown for large domestically 
+chartered commercial banks have been eliminated: pass-thru mortgage-backed 
+securities; CMO, REMIC, and other mortgage-backed securities. </li>
+</uL> </li>
+<li>The definitions of large and small domestically chartered commercial 
+banks have been revised. 
+<uL>
+<li>Large domestically chartered commercial banks are now defined as the 
+top 25 domestically chartered commercial banks, ranked by domestic assets 
+as of the previous commercial bank Call Report to which the H.8 release 
+data have been benchmarked. Previously, large domestically chartered 
+commercial banks were defined as banks that reported the FR 2416 form 
+(that form was discontinued as of July 1, 2009). </li>
+<uL>
+<li>If a large domestically chartered bank is acquired by a commercial 
+bank or if a large bank leaves the commercial bank universe, then it is 
+replaced with the bank next in line, typically the bank ranked number 26. </li>
+<li>If a nonbank converts to a commercial bank charter, or if a small bank 
+becomes large in size, it is not considered for the large bank panel 
+(regardless of size) until the data are benchmarked to the subsequent Call 
+Report. </li>
+                          </uL>
+<li>Small domestically chartered commercial banks are now defined as all 
+domestically chartered commercial banks not included in the top 25. 
+Previously, small domestically chartered commercial banks were defined as 
+all domestically chartered banks that did not report the FR 2416 form. 
+</li>
+                        </uL>
+                      </li>
+<li>To the extent possible, the information available via the historical 
+H.8 "Notes on the Data" link has been revised to incorporate the changes 
+to the line items shown on the release. </li>
+                    </OL>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 13;
+                      </script></li><br><li><span style="font-style:italic;">February 27, 2009</span><br><span style="font-weight:bold;"><A NAME="150">Link to Previously Published "Notes on the Data" Now Available  </A></span><br><DIV ID="&#xA;                          divContent14">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Effective with this release, information included in the "Notes on the Data" section of each H.8 release, if any, will also be available on the Federal Reserve Board's H.8 web pages via a new "Notes on the Data" link (<a href="./h8notes.htm">www.federalreserve.gov/releases/h8/h8notes.htm</a>).  Previously published "Notes on the Data" back to December 16, 2005, are available via that link.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 14;
+                      </script></li><br><li><span style="font-style:italic;">July 18, 2008</span><br><span style="font-weight:bold;"><A NAME="149">Changes to Items Reported on the Release for July 9, 2008</A></span><br><DIV ID="&#xA;                          divContent15">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Effective with this release, several changes have been made to the layout of the balance sheet items reported on the H.8:<p />
+
+<ol>
+
+<li>The balance sheet items on the seasonally adjusted and not seasonally adjusted pages are now identical.
+</li>
+
+<p>
+
+</p>
+                      <li>
+For large domestically chartered banks, former item 4d, "Other securities, Investment account, Other," has been disaggregated into items 4b2 and 4b3, "Mortgage-backed" and "Other." Historical data beginning October 2, 1996, are available on the Federal Reserves web site.
+</li>
+<p>
+
+</p>
+                      <li>
+
+For foreign-related institutions, former item 7, "Real estate loans," has been renumbered as item 10 and renamed "Commercial real estate," which reflects the loan category more accurately.
+</li>
+<p>
+
+</p>
+                      <li>
+For small domestically chartered banks, former item 9, "Real estate loans, other,"  has been disaggregated into items 9 and 10, "Other residential" and "Commercial."  Historical data beginning June 2, 2004, are available on the web site.
+
+</li>
+<p>
+
+</p>
+                      <li>
+For seasonally adjusted assets of large and small domestically chartered banks, former item 10, "Consumer loans," has been renumbered as item 11 and disaggregated into items 12 and 13, "Credit cards and other revolving plans" and "Other." Historical data beginning June 28, 2000, are available on the web site.
+</li>
+<p>
+
+</p>
+                      <li>
+For domestically chartered commercial banks and foreign-related institutions, former item 11, "Security loans," has been renumbered as item 14 and disaggregated into items 15 and 16, "Fed funds and RPs with brokers" and "Other." Historical data beginning January 3, 1973, are available on the web site.
+</li>
+<p>
+
+</p>
+                      <li>
+For foreign-related institutions, former item 12, "Other loans and leases," has been renumbered as item 17 and disaggregated into items 17a and 17b, "Fed funds and RPs with others" and "Other." Historical data beginning January 3, 1973, are available on the web site.
+
+</li>
+<p>
+
+</p>
+                      <li>
+For small domestically chartered banks and foreign-related institutions, former item 13, "Interbank loans," has been renumbered as item 18 and disaggregated into items 19 and 20, "Fed funds and RPs with banks" and "Other." Historical data are available on the web site beginning January 6, 1988, for small domestically chartered banks and January 3, 1973, for foreign-related institutions.  
+</li>
+<p>
+
+</p>
+                      <li>
+For foreign-related institutions, former item 19, "Nontransaction deposits," has been renumbered as item 26 and a component, "Large time" has been added (item 27). Historical data beginning January 3, 1973, are available on the web site.
+</li>
+<p>
+
+</p>
+                      <li>
+For large domestically chartered banks and foreign-related institutions, former memo items 29 and 30, "Reval. gains (losses) on off-bal. sheet items," have been renamed as "Derivatives with a positive (negative) fair value" and moved onto the balance sheet as items 4a1 and 33a. The remaining memo items have been moved to the end of the balance sheet pages. Historical data beginning October 2, 1996, are available on the web site.
+
+</li>
+
+</ol>
+<p />
+</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 15;
+                      </script></li><br><li><span style="font-style:italic;">April 11, 2008</span><br><span style="font-weight:bold;"><A NAME="148">Supplementary Information Regarding Balance Sheet Data for April 2, 2008</A></span><br><DIV ID="&#xA;                          divContent16">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>The adoption by some banks of FAS 159, The Fair Value Option for
+Financial Assets and Financial Liabilities (FVO), affected commercial
+bank balance sheet data for April 2, 2008. The "Notes on the Data"
+section on page 14 of the H.8 Statistical Release contains information
+on the affected balance sheet items.</p>
+                    <p>For more information on FAS 159, please refer to <a href="http://www.fasb.org/st/summary/stsum159.shtml">www.fasb.org/st/summary/stsum159.shtml</a>.<br />
+                    </p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 16;
+                      </script></li><br><li><span style="font-style:italic;">November 02, 2007</span><br><span style="font-weight:bold;"><A NAME="147">Supplementary Information Regarding Balance Sheet Data for October 24, 2007</A></span><br><DIV ID="&#xA;                          divContent17">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>
+Effective with this release of data for October 24, 2007, a change has
+been made to the memo items for small domestically chartered banks
+(page 13). Former item 33a, securitized consumer loans consisting of
+"Credit cards and related plans," and former item 33b, securitized
+consumer loans consisting of "Other" types of consumer loans, have been
+discontinued.
+</p>
+<p>Also effective with this release, the "Notes on the Data" section at
+the end of the release will describe nonbank structure activity only
+when the net effect on bank assets is $5.0 billion or more. Detail will
+be provided for components with a net effect of $0.5 billion or more. </p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 17;
+                      </script></li><br><li><span style="font-style:italic;">July 20, 2007</span><br><span style="font-weight:bold;"><A NAME="146">Supplementary Information Regarding Balance Sheet Data for July 11, 2007</A></span><br><DIV ID="&#xA;                          divContent18">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>
+The seasonally adjusted data released on July 13, 2007--both the H.8
+statistical release and the associated historical data--were based
+inadvertently on a set of newly estimated seasonal factors. These
+seasonal factors did not represent our final estimates and should not
+have been published. <br />
+                    </p>
+                    <p>
+In today's H.8 statistical release and in the associated historical
+data, we have restored the previous set of seasonal factors. In
+addition, we have corrected the H.8 statistical release of July 13,
+2007, by restoring the previous set of seasonal factors to those data.
+We will publish newly estimated seasonal factors when they have been
+finalized. </p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 18;
+                      </script></li><br><li><span style="font-style:italic;">July 13, 2007</span><br><span style="font-weight:bold;"><A NAME="145">Changes to Items Reported on the Release for July 4, 2007</A></span><br><DIV ID="&#xA;                          divContent19">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Effective with this release of data for July 4, 2007, several changes have been made to the balance sheet items reported for large and small domestically chartered commercial banks:
+<ul>
+<li>
+For seasonally adjusted and not seasonally adjusted assets and liabilities of large domestically chartered banks (pages 5 and 7), former item 12a, "State and local government" loans, and former item 12b, "Agricultural" loans, have been discontinued and the remaining three items under item 12 have been renumbered as 12a through 12c.  Data for the two discontinued items have been aggregated into renumbered item 12b, "All other loans."  
+</li>  
+<li>
+For seasonally adjusted and not seasonally adjusted assets and liabilities of small domestically chartered banks (pages 9 and 10), former item 11, "Security" loans, has been discontinued and data for this item have been aggregated into existing item 12, "Other loans and leases."
+
+</li>
+<li>
+For memo items of large domestically chartered banks (page 13), former item 34, "Securitized business loans," has been discontinued.  On the same page, new item 34, "Securitized real estate loans," has been added to the memo items for both large and small domestically chartered banks.  
+</li> 
+</ul>
+The data also reflect shifts in reporters between the large and small domestic bank reporting panels. </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 19;
+                      </script></li><br><li><span style="font-style:italic;">April 13, 2007</span><br><span style="font-weight:bold;"><A NAME="144">Supplementary Information Regarding Balance Sheet Data for April 4, 2007</A></span><br><DIV ID="&#xA;                          divContent20">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The adoption by some banks of FAS 159, <em>Fair Value Option for Financial Assets and Liabilities</em> (FVO), affected commercial bank balance sheet data for April 4, 2007. The "Notes on the Data" section on page 14 of the H.8 Statistical Release contains information on the affected balance sheet items.<br />
+                    <br />Under FVO, banks generally have an irrevocable option to elect a fair value measurement for most financial assets and liabilities at their inception.  In addition, at the time of FVO adoption, banks have a one-time option to convert a broad array of existing asset and liability items to a fair value measurement basis. A bank that elects to adopt FVO must also adopt FAS 157, <em>Fair Value Measurements.</em> For more information on FAS 159 and FAS 157, refer to <a href="http://www.fasb.org/st/summary/stsum159.shtml">www.fasb.org/st/summary/stsum159.shtml</a> and <a href="http://www.fasb.org/st/summary/stsum157.shtml">www.fasb.org/st/summary/stsum157.shtml</a>, respectively.
+</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 20;
+                      </script></li><br><li><span style="font-style:italic;">June 14, 2004</span><br><span style="font-weight:bold;"><A NAME="141">Changes to Items Reported on the Release for June 2, 2004 </A></span><br><DIV ID="&#xA;                          divContent21">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Effective with this release, several changes are being made to the balance sheet items reported for large and small domestically chartered banks. <br />
+<uL>
+<li>For not seasonally adjusted assets and liabilities of all domestically chartered banks (page 4) and of small banks (page 10), item 9, "Real estate loans, other," has been disaggregated into item 9a, "Real estate loans, other residential," and item 9b, "Real estate loans, commercial," effective with the week of June 2, 2004. </li>
+<li>For seasonally adjusted assets and liabilities of large banks (page 5), item 3b, "Treasury and Agency securities, investment account," has been disaggregated into item 3c, "Mortgage-backed," and item 3d, "Other." Similarly, item 9, "Real estate loans, other," has been disaggregated into item 9a, "Real estate loans, other residential," and item 9b, "Real estate loans, commercial." This additional detail has been available for large banks on a not seasonally adjusted basis (page 7) since October 2, 1996. </li>
+<li>For not seasonally adjusted assets of large banks (page 7), items 3e, 3f, and 3g, non-mortgage-backed Treasury and Agency investment account securities having remaining maturities of, respectively, 1 year or less, between 1 and 5 years, and more than 5 years, have been discontinued effective with the week of June 2, 2004. </li>
+<li>For memo items of large banks (page 13), formerly item 33, "Offshore credit to U.S. residents," has been discontinued effective with the week of June 2, 2004. </li>
+                    </uL>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 21;
+                      </script></li><br><li><span style="font-style:italic;">January 16, 2004</span><br><span style="font-weight:bold;"><A NAME="142">Revised Supplementary Information Regarding Balance Sheet Data for December 17, 2003</A></span><br><DIV ID="&#xA;                          divContent22">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Commercial bank balance sheet data back to December 17, 2003, have been revised to reflect further information on consolidations of the assets and liabilities of variable interest entities onto the balance sheets of the banks that sponsor them. Variable interest entities encompass many entities that have been commonly referred to as special purpose entities. For more information on these consolidations, please see Financial Accounting Standards Board Interpretation No. 46, Consolidation of Variable Interest Entities, available at <a href="http://www.fasb.org">http://www.fasb.org</a>. The original amounts of these consolidations reported for December 17 on the H.8 release dated December 29, 2003, have been revised as follows: H.8 balance sheet item 4, other securities, from $6 billion to about $7 billion, balance sheet item 6, commercial and industrial loans, from $9 billion to about $17 billion, and balance sheet item 12, other loans and leases, from $13 billion to about $47 billion. </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 22;
+                      </script></li><br><li><span style="font-style:italic;">October 17, 2003</span><br><span style="font-weight:bold;"><A NAME="140">Supplementary Information Regarding Balance Sheet Data for October 8, 2003</A></span><br><DIV ID="&#xA;                          divContent23">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">A number of balance sheet items have changed as a result of declines in some banks' reported consolidations of variable interest entities (VIEs). Most of these declines reflect some banks' decisions to stop consolidating their VIEs in response to the announcement by the Financial Accounting Standards Board on October 9 that it had decided to defer the implementation of its Interpretation No. 46, Consolidation of Variable Interest Entities from the first reporting period beginning after June 15, 2003 to the first reporting period ending after December 15, 2003. For further information, please see the FASB website, <a href="http://www.fasb.org">www.fasb.org</a>. In addition, a small part of the decline reflects a restructuring of some VIEs so that they no longer need to be consolidated on bank balance sheets. <br />
+                    <p>The balance sheet items affected are other securities, item 4, other loans and leases, item 12, and borrowings from others, item 24. Some of these changes extend back to July 2. Revised data for the H.8 statistical release are available on the Board's website, <a href="../default.htm">www.federalreserve.gov/releases</a>.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 23;
+                      </script></li><br><li><span style="font-style:italic;">October 10, 2003</span><br><span style="font-weight:bold;"><A NAME="139">Supplementary Information Regarding Balance Sheet Data for October 1, 2003</A></span><br><DIV ID="&#xA;                          divContent24">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Commercial bank balance sheet data for October 1, 2003, have been affected by consolidations of the assets and liabilities of several variable interest entities onto the balance sheets of the banks that sponsor them. Variable interest entities encompass many entities that have been commonly referred to as special purpose entities. These consolidations were implemented in accordance with Financial Accounting Standards Board Interpretation No. 46. For more information on these consolidations, please see Financial Accounting Standards Board Interpretation No. 46, <em>Consolidation of Variable Interest Entities</em>, available at <a href="http://www.fasb.org">www.fasb.org.</a> Preliminary information suggests that these consolidations have increased H.8 balance sheet item 4, other securities, by about $9 billion, balance sheet item 12, other loans and leases, by about $6 billion, and balance sheet item 24, borrowings from others, by about $15 billion.
+</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 24;
+                      </script></li><br><li><span style="font-style:italic;">July 11, 2003</span><br><span style="font-weight:bold;"><A NAME="138">Supplementary Information Regarding Balance Sheet Data for July 2, 2003</A></span><br><DIV ID="&#xA;                          divContent25">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Commercial bank balance sheet data for July 2, 2003, have been affected by 
+  consolidations of the assets and liabilities of several variable interest entities 
+  onto the balance sheets of the banks that sponsor them. Variable interest entities 
+  encompass many entities that have been commonly referred to as special purpose 
+  entities. These consolidations were implemented in accordance with Financial 
+  Accounting Standards Board Interpretation No. 46. For more information on these 
+  consolidations, please see Financial Accounting Standards Board Interpretation 
+  No. 46, <em>Consolidation of Variable Interest Entities</em>, available at <a href="http://www.fasb.org/int46.shtml">www.fasb.org/int46.shtml</a>. 
+  Preliminary information suggests that these consolidations have increased H.8 
+  balance sheet item 4, other securities, by about $3 billion, balance sheet item 
+  6, commercial and industrial loans, by about $17 billion, balance sheet item 
+  12, other loans and leases, by about $40 billion, and balance sheet item 24, 
+  borrowings from others, by about $60 billion.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 25;
+                      </script></li><br><li><span style="font-style:italic;">July 29, 2002</span><br><span style="font-weight:bold;"><A NAME="137">Extension of Major Bank Credit Series to 1947</A></span><br><DIV ID="&#xA;                          divContent26">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>
+Monthly estimates of total bank credit and its major components,
+seasonally adjusted and not seasonally adjusted, have been extended
+back from January 1973, the former start date for all the bank credit
+series, to January 1947. The components that have been extended are
+holdings of U.S. government securities, holdings of other securities,
+and the following loan categories: commercial and industrial, real
+estate, consumer, security, and "all other."</p>
+
+<p>Data in the H.8 are for all commercial banks in the United States,
+which consist of domestically chartered banks and foreign-related
+institutions (mainly U.S. branches and agencies of foreign banks). The
+data for 1973 through 1987 report totals for all institutions as well
+as subtotals for domestically chartered banks and for foreign-related
+institutions; beginning in 1988, the data are further disaggregated
+between large and small domestically chartered banks. The extended data
+(1947-72) show only all-institution totals.</p>
+
+<p>As with the current data, the extended monthly data are prorated
+averages of Wednesday values. The weekly Wednesday data underlying the
+monthly averages mix actual historical observations with estimates that
+are based on linear interpolations of semimonthly, monthly, and, in a
+few cases, lower-frequency observations.</p>  
+
+<p>Several bank credit series received generally minor revisions for
+the 1973-87 period when the longer time series were introduced.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 26;
+                      </script></li><br><li><span style="font-style:italic;">July 29, 2002</span><br><span style="font-weight:bold;"><A NAME="136">Discontinuation of District-specific balance sheet data</A></span><br><DIV ID="&#xA;                          divContent27">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>Effective with this edition of the H.8 statistical release, the Federal Reserve is discontinuing the publication of the District-specific balance sheet data of large, domestically chartered banks that appeared on pages 11 through 14 of the release. </p>
+<p>The reason for the change is that, with the ability of banks to establish branches virtually nationwide as of June 1, 1997, a number of large bank holding companies have converted banks located across several Federal Reserve Districts into branches of a single bank. These consolidations have significantly shifted bank balance sheet items among Federal Reserve Districts, further weakening the connection between banking data reported separately by Federal Reserve District and actual banking activities in each District. </p>
+<p>However, the item coverage of the aggregate balance sheets of large banks in the H.8 has been expanded to retain the national totals of some of the items in the District tables that had not appeared in the national tables. As a result, the H.8 now reports the large bank data on four pages rather than two. <br />
+                    </p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 27;
+                      </script></li>
+            </ul><br></div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="lastUpdate">
+              Last update: January 16, 2015</div>
+      <div id="FooterLinks"><a href="/default.htm">Home</a> | <a href="/econresdata/default.htm">Economic research and data</a></div>
+      <div id="secondaryFooterLinks">
+        <div class="secondaryFooterLinksLeft"><a href="/accessibility.htm">Accessibility</a><a href="/disclaimer.htm">Disclaimer</a><a href="/feedback.cfm">Contact us</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon"><a href="/linkingpolicy.htm">Linking Policy</a><a href="/generalinfo/foia/default.cfm">FOIA</a></div>
+        <div class="secondaryFooterLinksRight"><a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon"></div>
+        <div class="clear"></div>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <div id="footer">
+      <div id="Footer2"></div>
+    </div>
+  <script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

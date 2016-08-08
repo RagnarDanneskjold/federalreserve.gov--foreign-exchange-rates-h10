@@ -1,0 +1,418 @@
+<html>
+<head>
+<title>FRB: Electronic Check Conversion</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<style type="text/css">
+<!--
+
+body    {color: black;
+		background-color: #ffffff;}
+		
+a:link          {color: #006666;}	
+	
+a:visited 		{color: #800080;}
+
+
+
+
+a.page:link          {color:  #6666cc;}	
+	
+a.page:visited 		{color: #800080;}
+
+
+a.spanish:link		{font-family:  Arial, Helvetica, sans-serif;
+                        font-size: .7em;
+                        line-height: 1em;
+                        margin-bottom: .5em; 
+                        text-align: right;
+						color:  #6666cc;
+                        }
+						
+a.spanish:visited 		{color: #800080;}
+
+
+
+/* 508, skip navigation, for invisible */
+                                                                
+a.skip:link    {font-size: 1pt;
+           font-weight: normal;
+           text-decoration: none;
+           color: #ffffff;}
+		   
+a.skip:hover    {font-size: 1pt;
+           font-weight: normal;
+           text-decoration: none;
+           color: #ffffff;}
+		   
+a.skip:visited    {font-size: 1pt;
+           font-weight: normal;
+           text-decoration: none;
+           color: #ffffff;}	
+
+                
+.introfirst     {font-family:  Arial, Helvetica, sans-serif;;
+                font-size: 1em; 
+                font-weight: 400; 
+                color: #6666cc;
+                margin-left: .75em;
+				text-align: left;
+                }
+                
+.introsecond    {font-family:  Arial, Helvetica, sans-serif;;
+                font-size: 1em; 
+                font-weight: 400; 
+                color: #6666cc;
+                margin-left: 4.8em;
+                }
+                
+.intro  {font-family:  Arial, Helvetica, sans-serif;
+                font-size: 1em; 
+                font-weight: 400; 
+                color: #6666cc; 
+                margin-top: 1em;
+                margin-left: 4.8em;
+                }
+                
+.conthead       {font-family: "Times New Roman", Times, serif;
+                        font-size: .9em; 
+                        font-weight: 400; 
+                        margin-bottom: .5em; 
+                        margin-left: 1.5em;
+                        }
+                        
+.contents       {font-family:  Arial, Helvetica, sans-serif;
+                        font-size: .8em;
+                        line-height: 1em;
+                        margin-bottom: .5em; 
+                        margin-left: 1.5em;
+                        }
+						
+.spanish		{font-family:  Arial, Helvetica, sans-serif;
+                        font-size: .7em;
+                        line-height: 1.2em;
+                        margin-bottom: .5em; 
+                        text-align: right;
+                        }
+
+.question       {color: #009999;
+                        font-family: "Times New Roman", Times, serif;
+                        font-size: 1em;
+                        font-weight: bold; 
+                        margin-top: 1.25em; 
+                        }
+                        
+.answer         {font-family: Arial, Helvetica, sans-serif;
+                        font-size: .9em; 
+                        margin-top: .5em; 
+                        margin-left: 3em;
+                        }
+                        
+.answersub      {font-family:  Arial, Helvetica, sans-serif;
+                        font-size: .9em; 
+                        margin-top: .5em; 
+                        margin-left: 6em;
+                        }
+                        
+.boxhead        {color: #9400d3;
+                        font-family: "Times New Roman", Times, serif;
+                        font-size: 1em;
+                        font-weight: bold; 
+                        margin-top: 1.25em; 
+                        }
+                        
+.boxtext        {font-family:  Arial, Helvetica, sans-serif;
+                        font-size: .9em; 
+                        margin-top: .5em; 
+                        margin-left: 2.5em;
+                        }
+                        
+.boxsub         {font-family:  Arial, Helvetica, sans-serif;
+                        font-size: .9em; 
+                        margin-top: .5em; 
+                        margin-left: 5em;
+                        }
+                        
+.runin          {font-weight: bold; 
+                        color: #ff6666;
+                        }
+
+.address        {font-family:  Arial, Helvetica, sans-serif;
+                        font-size: .8em; 
+                        margin-left: 7em;
+                        margin-top: .5em;
+                        }
+                        
+.phone  {font-family:  Arial, Helvetica, sans-serif;
+                        font-size: .8em; 
+                        margin-left: 7em;
+                        margin-top: .5em;
+                        }
+                        
+.web    {font-family:  Arial, Helvetica, sans-serif;
+                        font-size: .8em; 
+                        margin-left: 7em;
+                        margin-top: .5em;
+                        }
+                        
+
+.sidebar	{font-family: Arial, Helvetica, sans-serif;
+                        font-size: .8em; 
+                        margin-top: .5em; 
+                        margin-left: .7em;
+                        }
+.reader	{font-size: .7em;
+		font-weight: normal;
+		font-family: Arial, Helvetica, sans-serif;
+		text-align="right"}
+		
+/* back to top */
+
+.back {font-family: verdana, arial, sans-serif;
+				font-size: .7em;
+				text-align: right;
+				margin-top: 0em;
+				margin-bottom: -1em;}	
+
+				
+/* bottom of page */	
+
+.footer	{font-size: .8em;
+		font-weight: normal;
+		font-family: 'Times New Roman', Times, serif;
+		width: 600px;}
+                              
+.pagedate	{font-weight: bold;}
+              
+-->
+</style>
+
+<script language="JavaScript" src="https://www.federalreserve.gov/exit_new.js"></script>
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+<body>
+<a name="top"></a>
+<a href="https://www.federalreserve.gov/"> <img src="https://www.federalreserve.gov/gifjpg/sm_head2.gif" width="275" height="73" border="0" alt="The Federal Reserve Board eagle logo links to home page"></a><br>
+<hr noshade width="600" align="left">
+
+<table width="578" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td rowspan="3" valign="top" align="left">
+<p><strong>On July 21, 2011, rulewriting authority for consumer protection laws related to mortgages, credit cards, bank accounts and other consumer financial products transferred from the Federal Reserve Board to the Consumer Financial Protection Bureau (CFPB).  For information on recent regulatory changes, as well as additional information about shopping for and using consumer financial products, please visit the <a href="http://www.consumerfinance.gov">CFPB's website</a>.</strong></p>
+          </td>
+         </tr>
+</table>
+<br /><br />
+<!-- ImageReady Slices (check_hand_flyingcode_drop.psd) -->
+
+<table width="578" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+                <td rowspan="3" valign="top" align="left">
+                        <img src="images/handslices_01.gif.html" width="280" height="162" alt="When Is Your Check Not a Check? Electronic Check Conversion. Drawing of a hand holding a check with routing code expanding and floating away from the check."></td>
+                <td valign="top">
+                        <img src="images/handslices_02.gif.html" width="298" height="85" alt=""></td>
+        </tr>
+        <tr>
+
+<div class="introfirst">Suppose you're at a store making a purchase and decide to pay by check--at least, that's what you believe you're doing.</div> 
+<br>
+          </td>
+        </tr>
+</table>
+<!-- End ImageReady Slices -->
+
+<table width="600" border="0" cellspacing="0" cellpadding="0"><tr><td valign="top">
+<div class="introsecond">
+But then the clerk runs your check through a machine and hands the voided check back to you with your receipt. Later, when you get your bank statement, that check isn't listed with your other check transactions. Instead, you notice an electronic debit to the store for the amount of the transaction.</div>
+
+<div class="intro">What happened? Did you pay by check or not? Why did the clerk return the check to you? The answer is, you just experienced electronic check conversion.</div>
+
+
+<p>
+<a class="skip" href="default.htm#content">Skip to content</a></p>
+</td></tr></table>
+
+<!-- ImageReady Slices (checkmachine3.psd) -->
+<!-- CONTENT LIST -->
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+                <td valign="top">
+
+<div class="contents"><a class="page" href="default.htm#what">
+What is electronic check conversion?</a></div>
+<div class="contents"><a class="page" href="default.htm#how">
+How will I know that my check is being used for electronic check conversion?</a></div>
+
+                        </td>
+                <td valign="top" align="right">
+                        <img src="images/checkslices_02.gif.html" width="70" height="51" alt="Drawing of an electronic check terminal with routing code flowing into a check inseted in the terminal"></td>
+                <td rowspan="2" valign="top">
+                        <img src="images/checkslices_03.gif.html" width="111" height="191"></td>
+        </tr>
+        <tr>
+                <td colspan="2">
+<div class="contents"><a class="page" href="default.htm#differ">
+What are some of the differences between electronic check conversion and using my check as payment?</a></div>
+
+<div class="contents"><a class="page" href="default.htm#rights">
+What are my rights in electronic check conversion transactions?</a></div>
+
+<div class="contents"><a class="page" href="default.htm#problem">               
+What should I do if I have a problem with an electronic check conversion transaction?</a></div>
+
+<div class="contents"><a class="page" href="default.htm#reuse">
+Does electronic check conversion allow me to use the same check more than once?</a></div>
+
+<div class="contents"><a class="page" href="default.htm#mail">
+Can electronic check conversion occur if I mail a check to pay a bill?</a></div>
+
+<div class="contents"><a class="page" href="default.htm#want">
+What if I don't want my check to be used for electronic check conversion?</a></div>
+<div class="contents"><a class="page" href="default.htm#info">
+</a></div>
+
+<div class="contents"><a class="page" href="default.htm#record">What if I need a record of my check as proof of a payment I made?</a></div>
+
+<div class="contents"><a class="page" href="default.htm#info">What if I have a question or problem with an electronic check conversion?</a></div>
+
+<div class="contents"><a class="page" href="default.htm#complaint">
+Where can I file a complaint about a merchant or someone else I paid by electronic check conversion?</a></div>
+<div class="contents"><a class="page" href="default.htm#remember">
+Reminders for consumers</a></div>
+                        
+          </td>
+        </tr>
+</table>
+<!-- End ImageReady Slices -->
+
+<table width="600" border="0" cellspacing="5" cellpadding="0"><tr><td>
+<a name="content"></a>
+<a name="what"></a>
+<div class="question">What is electronic check conversion?</div>
+<div class="answer">Electronic check conversion is a process in which your check is used as a source of information--for the check number, your account number, and the number that identifies your financial institution. The information is then used to make a one-time electronic payment from your account--an electronic fund transfer. The check itself is not the method of payment.</div>
+
+<p class="back"><a href="default.htm#top">Back to top</a></p>
+
+<a name="how"></a>
+<div class="question">
+How will I know that my check is being used for electronic check conversion?</div>
+<div class="answer">When you provide your check, you must be given notice that information from your check may be used to make an electronic payment from your account. The notice is required by the federal law that applies to electronic fund transfers, the Electronic Fund Transfer Act, and by the Federal Reserve Board's Regulation E.</div>
+<div class="answer">You may receive notice in different ways. For example, a utility or credit card company might put a notice in your bill stating that if you pay by check, your check may be used to make an electronic fund transfer from your account.</div>
+<div class="answer">If you pay with a check at a store or other place of business, you will receive notice in two different ways. First, a merchant must post a sign--typically at the register--notifying you that if you pay by check, you are agreeing to let the merchant make an electronic fund transfer from your account. Second, you will be given a copy of the posted notice (or a similar notice) that you can keep for your records. This notice usually appears on your sales receipt.</div>
+
+
+<a name="differ"></a>
+<div class="question">
+What are some of the differences between electronic check conversion and using my check as payment?</div>
+<div class="answer">
+<img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">Your electronic transaction may be processed faster than a check. Be sure you have enough money in your account at the time you make a purchase.<br> 
+<img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">Your financial institution will not return any checks that are converted, even if you normally receive your original checks or images of those checks with your statement.
+<br> 
+<img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">You have different consumer rights in an electronic check conversion transaction than you do when you use your check as payment. For example, in an electronic check conversion, you have the right to an investigation by your financial institution when an error occurs.</div>
+
+
+
+<a name="rights"></a>
+<div class="question">What are my rights in electronic check conversion transactions?</div>
+
+<div class="answer"><img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">You have the right to receive notice that if you provide a check as payment, information from the check may be used to make an electronic payment from your account.<br>
+<img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">When you provide your check, you have the right to receive notice of any fee that the merchant will collect from your account electronically. For example, if you do not have enough money in your account to cover the transaction, your check may be returned to the merchant for nonsufficient funds (NSF), and the merchant may charge you a fee. This fee is similar to a bounced-check fee.<br>
+<img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">You have the right to receive a receipt when you make a purchase at a store. The receipt will contain information about the transaction, including the</div>
+<div class="answersub"><img src="gif/box2.gif.html" width="22" height="9" border="0" alt="item">Date<br>
+<img src="gif/box2.gif.html" width="22" height="9" border="0" alt="item">Amount<br>
+<img src="gif/box2.gif.html" width="22" height="9" border="0" alt="item">Location<br>
+<img src="gif/box2.gif.html" width="22" height="9" border="0" alt="item">Name of the merchant</div>
+<div class="answer"><img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">You have the right to have this same transaction information included as part of the regular account statement from your financial institution.<br>
+<img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">You have the right to ask your financial institution to investigate any electronic fund transfers from your account that you believe are unauthorized or incorrect.</div>
+
+<a name="problem"></a>
+<div class="question">What should I do if I have a problem with an electronic check conversion transaction?</div>
+<div class="answer">Always review your regular account statement from your financial institution. You should immediately contact your financial institution if you see a problem. Were you charged the wrong amount? Were you charged twice for the same transaction? You have only 60 days (from the date your statement was sent) to tell the financial institution about a problem. Depending on the circumstances, the financial institution may take up to 45 days from the time you notify it to complete its investigation.</div>
+
+<p class="back"><a href="default.htm#top">Back to top</a></p>
+<a name="reuse"></a>
+<div class="question">Does electronic check conversion allow me to use the same check more than once?</div>
+<div class="answer">No. An electronic check conversion transaction is a one-time electronic payment from your account. If you were to use the same check for more than one transaction and you had a problem with one of the transactions, your financial institution might have difficulty investigating the problem because the same check number would appear more than once on your statement.</div>
+
+<a name="mail"></a>
+<div class="question">Can electronic check conversion occur if I mail a check to pay a bill?</div>
+<div class="answer">Yes. For example, let's assume that each time you get your insurance bill, it includes a notice. The notice tells you that if you mail a check, you authorize your insurance company to use information from that check to make an electronic payment from your account. If you then send a check, you have agreed to electronic check conversion. Unlike what happens when you make a purchase at a store, however, you won't receive a receipt. Your check won't be returned to you with your account statement from your financial institution because the transaction was processed as an electronic fund transfer, not as a check transaction.</div>
+<div class="answer">For bill payments, you should take the same precautions as you do with electronic check conversions in stores. Be sure you have enough money in your account when you mail your check, keep records of your payments, and check your account statements from your financial institution to make sure the amounts charged are correct.</div>
+
+<a name="want"></a>
+<div class="question">What if I don't want my check to be used for electronic check conversion?</div>
+<div class="answer">If you don't want your check to be used for electronic check conversion, you may have to provide another form of payment (for example, cash, debit card, or credit card). Under federal law, billers (such as a utility or credit card company) are <i>not</i> required to provide you with an opportunity to opt out of electronic check conversion. However, you may try to contact billers directly at the address they provide and ask them not to convert your check.</div>
+
+<a name="record"></a>
+<div class="question">What if I need a record of my check as proof of a payment I made?</div>
+<div class="answer">Your checking account statement will contain information about your payment, including the date, the check number, the name of the person or company you have paid, and the amount of the payment. The statement is generally accepted as proof of payment.</div>
+
+
+<a name="info"></a>
+<div class="question">What if I have a question or problem with an electronic check conversion?</div>
+<div class="answer">Contact your financial institution. For information on state laws that may apply to electronic check conversion, contact your state's consumer protection agency or attorney general's office.</div>
+
+<p class="back"><a href="default.htm#top">Back to top</a></p>
+<a name="complaint"></a>
+<div class="question">Where can I file a complaint about a merchant or someone else I paid by electronic check conversion?</div>
+<div class="answer">Contact:</div>
+<div class="address">Federal Trade Commission<br>
+Consumer Response Center - 240<br>
+600 Pennsylvania Ave., NW<br>
+Washington, DC 20580</div>
+<div class="phone">877-FTC-HELP (877-382-4357)</div>
+<div class="web"><a class="page" href="javascript:exitalert('http://www.ftc.gov')">www.ftc.gov</a></div>
+
+<div class="answer">
+  Or
+</div>
+<div class="address">Federal Reserve Consumer Help<br>
+
+PO Box 1200<br>
+
+Minneapolis, MN 55480<br>
+
+888-851-1920 (Phone)<br>
+
+877-766-8533 (TTY)<br>
+
+877-888-2520 (Fax)<br>
+
+	<a href="http://www.FederalReserveConsumerHelp.gov?District=13">www.FederalReserveConsumerHelp.gov</a>
+</div>
+
+<a name="remember"></a>
+<div class="boxhead">Remember . . .</div>
+<div class="boxtext">Before you agree to electronic check conversion, you should first ask yourself</div>
+<div class="boxsub"><img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">Do I understand that the information from my check will be used to make an electronic payment from my account?</div>
+<div class="boxsub"><img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">Do I have enough money in my account to cover the payment?</div>
+<div class="boxtext">Before you leave the store, you should ask yourself</div>
+<div class="boxsub"><img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">Did I receive a receipt?</div>
+<div class="boxsub"><img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">Does the amount on the receipt match the amount of my purchase?</div>
+
+<div class="boxtext">When you receive your statement from your financial institution, you should</div>
+<div class="boxsub"><img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">Make sure that the charges on your statement match your records.</div>
+<div class="boxsub"><img src="gif/box.gif.html" width="22" height="9" border="0" alt="item">Contact your financial institution right away if you notice a problem.</div>
+        <p></p> 
+   
+
+<hr noshade>
+<div class="footer">
+<a href="https://www.federalreserve.gov/">Home</a> | <a href="../../consumers.htm">Consumer Information</a><br>
+<a href="https://www.federalreserve.gov/accessibility.htm">Accessibility</a> | <a href="https://www.federalreserve.gov/feedback.cfm">Contact us</a><br>
+<span class="pagedate">Last update: April 8, 2008</span>
+</div>
+</td></tr></table>
+
+<script type="text/javascript" src="https://www.federalreserve.gov/resources/track_downloads.js"></script>
+</body>
+</html>

@@ -1,0 +1,559 @@
+/*---------------- PRINT BANKING INFO/GENERAL LAYOUT STYLES -------------------*/
+
+body {font-family: "Times New Roman", Times, serif; font-size:1em; color: #000000; margin-left: .25em;}
+
+#top{display: none;}
+
+#footer
+{display: none;}
+
+a:link { text-decoration: underline; color: #314732; }
+a:visited { text-decoration: underline; color: #BCA346; }
+
+img{border: 0;}
+
+.clear {
+    clear: both;
+    display: block;
+    height: 1px;
+    margin: 0;
+    padding: 0; 
+    overflow: hidden;}
+
+.greentext2 {color:#03430d; font-size:0.85em; margin-top:-0.5em;}
+
+
+/*----------- PAGE HEADER STYLES FOR ALL PAGES -----------------*/
+
+table#headerTopLinks {display:none;}
+#headerTopLinksSearchFormSubmit {display: none;}
+#headerMasthead {display: none;}
+
+/*---------- TOP HORIZONTAL NAVIGATION STYLES FOR ALL PAGES -------------*/
+
+#navMenu {display: none;}
+
+/*------------- ALL HEADLINE STYLES --------------*/
+
+/*h1 { border-bottom: 1px solid #999999; font-family: "Times New Roman", Times, serif; font-size: 1.6em; padding: 8px 0 5px 4px; margin: 0 5px 0 0; font-weight: normal;}*/
+h1.secondary{border-bottom: 1px solid #999999; font-family: "Times New Roman", Times, serif; font-size: 1.6em; padding: 0 0 3px 4px; margin: 0 0 0 5px; font-weight:normal;}
+h1.all{border-bottom: 1px solid #999999; font-family: "Times New Roman", Times, serif; font-size: 1.3em; padding: 10px 0 2px 0px; margin: 0 0 0 0em; font-weight:normal; margin-bottom: .2em;}
+h1.homeFeature{font-family: "Times New Roman", Times, serif; font-size: 1.2em; padding: .3em 0px .3em .3em;  margin: 0 0px 0 0px;     background-image: url(../gifjpg/homeFeatureBack.jpg); background-repeat: repeat-x; font-weight:bold; border-bottom: 0; color: #FFFFFF;}
+h1.stats {font-family: "Times New Roman", Times, serif; font-size: 1.2em; padding: .3em 0px .3em .3em;  margin: 0 0px 0 0px;     background-image: url(../gifjpg/statBack.jpg); background-repeat:repeat-x; font-weight:bold; border-bottom: 0; color: #FFFFFF;}
+
+/*h2{font-family: "Times New Roman", Times, serif; font-size: 1.4em; padding: 5px 0px 0px 0px; margin: 0; font-weight:normal;}*/
+h2.stats{font-family: "Times New Roman", Times, serif; font-size: 1.4em; padding: 5px 0px 3px 0px; margin: 0; font-weight:normal; border-bottom: 1px dashed #999999; margin-right: .7em;}
+h2.pr{font-family: "Times New Roman", Times, serif; font-size: 1.4em; padding-left: 5px; margin: 0; font-weight:normal; border-bottom: 1px dashed #999999; margin-right: .7em; margin-bottom: 3px;}
+h2.sitemap{font-family: "Times New Roman", Times, serif; font-size: 1.4em; padding: 1.8em 0px 3px 0px; font-weight:normal; border-bottom: 1px dashed #999999; margin-right: .7em; margin-bottom: .5em;}
+h2.whatsnext{font-family: "Times New Roman", Times, serif; font-size: 1.4em; padding: 1em 0px 3px 0px; font-weight:normal; border-bottom: 1px dashed #999999; margin-right: .7em; margin-bottom: .5em;}
+h2.border{font-family: "Times New Roman", Times, serif; font-size: 1.1em; padding: 5px 0px 0px 0px; font-weight:normal; border-bottom: 1px dashed #999999; margin-bottom: .3em; margin-top: .5em;}
+
+/*h3{font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 1.2em;}*/
+h3.statColumn{font-size: .85em; padding-left: 2em; margin-bottom: 0em;}
+h3.subtitle{font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 1em;}
+h3.italic{font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 1em; font-style:italic;}
+h3.prTime{font-weight: bold; font-family: Arial, Helvetica, sans-serif;}
+
+/*--------------------------------NEW HEADERS ----------------------*/
+.border{border-bottom: 1px solid #999999;}
+.borderdash{border-bottom: 1px dashed #333333; margin-top:1em;}
+.bold{font-weight: bold;}
+.boldnopadding{font-weight: bold; padding-bottom: 0; margin-bottom:0;}
+.italic{font-style: italic;}
+.italicbold{font-style: italic; font-weight: bold;}
+.italicnopadding{padding-bottom: 0; margin-bottom: 0em; font-style:italic;}
+.italicboldnopadding{padding-bottom: 0; margin-bottom: 0; font-style: italic; font-weight:bold;}
+.nopadding{margin: 0; padding: 0;}
+h1{font-family: "Times New Roman", Times, serif; font-size: 1.7em; padding: 10px 0 5px 0px; margin: 0 0 0 0em; font-weight:normal; margin-bottom: .6em; border-bottom: none;}
+h3 {font-size:1.4em; font-weight: normal; font-family: "Times New Roman", Times, serif;}
+h2 {font-family: "Times New Roman", Times, serif; font-size: 1.6em; border: none; font-weight: normal;}
+h4 {font-size:1.3em; font-weight: normal; font-family: "Times New Roman", Times, serif;}
+h5 {margin-bottom:0; font-size:1.2em; font-weight:normal; font-family: "Times New Roman", Times, serif;}
+h6 {margin-bottom:0; font-size:1.1em; font-weight:normal; font-family: "Times New Roman", Times, serif;}
+
+/*------------ Makes the Skip to Content links invisible ---------------*/
+
+.invisible { font-size: 0pt; font-weight: lighter; text-decoration: none; color: white; display: none; }
+.skip { font-size: 0pt; font-weight: lighter; text-decoration: none; color: white; display: none; }
+
+/*-------------------------- ALL PRINT STYLES BELOW ARE FOR SECONDARY PAGES ------------------------------*/
+
+#contentContainer{
+background-color: #FFFFFF;
+background-image:url(../gifjpg/side2.gif);
+background-repeat: repeat-y;}
+
+#leftnav{display:none;}
+
+#content
+{margin-left: 0em;
+background-color:#FFFFFF;
+margin-top: 0;
+padding-top: 0;
+padding-left: 1em;}
+
+/*----- BREADCRUMBS -----*/
+
+#BreadCrumbContainer{display:none;}
+#printIcon {display: none;}
+.printIcon a img {display: none;}
+
+/*----- General Content Area -----*/
+
+.generalContentText table{margin-right: 1em;}
+.generalContentText #printThis{margin-top: .5em;}
+.generalContentText a:after{ content: attr(href); }
+
+
+/*----- Code for making Two Columns within GeneralContentText ----- */
+
+#TwoColumns{}
+#leftText{width:680px;}
+#leftText3 {width:680px;}
+
+#leftText ul.generalList{list-style: none; margin-left: 1em; margin-top: 1em;}
+#leftText ul.generalList li{padding-bottom: 1em; line-height: 1.3em;}
+#leftText ul.generalList li ul{padding-top: .5em; line-height: 1.3em; list-style: none; margin-left: 1em;}
+#leftText ul.generalList li ul li{padding-bottom: .3em;}
+#leftText ul.generalList2{list-style: none; margin-left: 1em; margin-top: 1em;}
+#leftText ul.generalList2 li{padding-bottom: .3em; line-height: 1.3em;}
+#leftText ul.generalList2 li ul{padding-top: .5em; line-height: 1.3em; list-style: none; margin-left: 1em;}
+#leftText ul.generalList2 li ul li{padding-bottom: .3em;}
+
+/*#rightText{display: none;}*/
+#rightText{font-size: .8em; width: 150px; padding-bottom: .2em; float:right;}
+#rightText h1{font-size: 1em; color:#000000; padding: .5em; border-bottom: 0; margin-bottom: 0em; font-weight:bold; margin-right: 0; width:11em;}
+#rightText ul{color: #993300; margin: 0; padding:0; padding-bottom: .5em;}
+#rightText li{ list-style: square; color: #B86813; padding-bottom: .3em; margin-left: 2em; padding-top: .3em;}
+#rightText a{color: #B86813;}
+#rightText h1.cat2{margin-bottom: 0; margin-top: .5em;}
+#rightText ul.cat2{margin: 0;}
+#rightText li.cat2{color: #B86813; margin: 0; margin-left: 2em;}
+#rightText li.cat2 a{color:#B86813;}
+#rightText li.cat2 a:visited{color:#B86813;}
+#rightText ul.subNav{margin: 0; width: 12em; border: 1px solid #608AA4;}
+#rightText li.subNav {color:#243540;}
+#rightText li.subNav a{color:#243540;}
+#rightText li.subNav a:visited{color:#243540;}
+#rightText.ita {margin-top:2.5em;}
+
+/*---------- STYLES FOR ITA PAGES ----------*/
+#topsection {width:58em;}
+#highlightnav {background-color:#fdf1e3; margin:1em 0; padding:1em 0.25em;}
+#highlightnav a {padding:0 0.25em;}
+h2.border2 {font-family: "Times New Roman", Times, serif; font-size: 1.4em; padding: 0 0 0 0; font-weight:normal; border-bottom: 1px dashed #999999; margin-bottom: .3em;}
+h3{font-family: Arial, Helvetica, sans-serif; font-weight: bold; margin-bottom:0.25em;font-size: 1.15em;}
+ul.linklist {list-style:none; margin-left:0; padding-left:0; line-height:1.1em;}
+ul.linklist li {font-weight:bold;}
+ul.linklist li.regular {font-weight:normal;}
+ul.secondarylist {list-style:none;}
+ul.secondarylist li {font-weight:normal;}
+ul.tertiarylist {list-style:none; margin-left:1em;}
+ul.tertiarylist li {font-weight:normal;}
+#right {float:left;}
+table#ita {border: 1px solid #CCCCCC;}
+table#ita th{font-weight: bold; font-size: 1em; background-color: #3F523E; color: #FFFFFF; padding: .5em;}
+table#ita tr.alt{font-weight: normal; background-color: #E8E9E4;}
+table#ita td{vertical-align: top; padding: .5em;}
+
+/*---------- STYLES FOR REGULATIONS----------*/
+#hide {display:block; padding:1em; margin:1em 0;}
+#IndexDateControl {display:none;}
+#regnav {display:none;}
+.regname {font-weight:bold; margin-top:.25em; color:#3f523e;}
+.regname2 {font-size:0.75em; font-weight:normal; padding-left:0.5em;}
+.amend {font-weight:normal; margin-top:1em;}
+.amend2 {font-weight:bold; margin-top:1em; margin-left:3.25em; color: #3f523e;}
+.regchg {margin-left:3.25em; margin-bottom:1em;}   
+.regltr {font-size:1.5em; font-weight:bold; padding:0 0 0 0; color:#3f523e; border-bottom:3px solid #3f523e; margin:1em 0 0.25em 0;}
+.cfr {color:#3f523e; font-size:0.75em; font-weight:normal; padding-left:0.5em; text-align:right;}
+.cite {font-size:0.85em;}
+#jointright {font-family:"Times New Roman", Times, serif; font-weight:bold; float:right; width:350px;}
+.clear2 {clear:right;}
+h3.reg {text-decoration:underline;}
+h2.border3 {font-family: "Times New Roman", Times, serif; font-size: 1.4em; padding: 0 0 0 0; font-weight:normal; border-bottom: 1px dashed #999999; margin-bottom:0;}
+
+
+
+/*---------- BANK SECRECY - CALLOUT BOX ----------*/
+h3.bsa {background-color:#f2f8f3; color:#3f523e; padding:0.15em;}
+#box {font-size:0.95em; color:#333333; background-color:#f2f8f3; border:2px solid #3f523e; padding:0 1em 1em 1em; margin:0 4em;}
+
+
+/*---------- STYLES FOR NEW SR LETTERS---------*/
+#choicecontainer {padding:0 0 0 0; margin:0 0 2em 216px; display:none;}
+.borderdash{border-bottom: 1px dashed #333333; margin-top:1em;}
+img.left {float:left; width:200px; margin-top:0.25em; margin-right:1.15em;}
+dt.sr {margin:0.75em 0 0 0;}
+.footnotes {font-size:0.85em;}
+.srdropdown {display:none;}
+
+/*--------------------ITA STYLES - Added 11/04/10 - Modified 11/10/10 ------------------*/
+/*#rightSidebar #nav_anchor {
+    font-size:0.85em;
+    margin:0 0 1em 2em;
+    padding:0;
+}*/
+#conference_header_generic {
+    border-bottom:1px solid #CCCCCC;
+    display:block;
+    margin:0;
+    min-height:75px;
+    padding:0;
+    width:55em;
+}
+/*#printIcon {
+    float:right;
+    font-size:0.85em;
+    margin:1em 1em -5px 0;
+}*/
+#conference_header_generic div.title {
+    float:left;
+    margin:0.75em 0.5em;
+}
+#conference_header_generic .seal img {
+    display:block;
+    float:left;
+    height:75px;
+}
+/*#printIcon_conference {
+    background-color:#FFFFFF;
+    font-size:0.85em;
+    left:920px;
+    margin:0;
+    opacity:0.8;
+    padding:0.5em;
+    position:absolute;
+}*/
+#conference_header_generic div.title h1 {
+    color:#000000;
+    font-size:1.8em;
+    line-height:1.3;
+    margin:0;
+    min-height:75px;
+    padding:0;
+}
+#conference_header_generic div.title h1 span.deck {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:.7em;
+    text-shadow:none;
+}
+#conference_header_generic div.title a:link {
+    color:#000000;
+    cursor:pointer;
+    text-decoration:none;
+}
+#conference_header_generic div.title a:visited {
+    color:#000000;
+    cursor:pointer;
+    text-decoration:none;
+}
+h2.border_solid {
+    border-top:1px solid #999999;
+    line-height:1;
+    margin:1em 0 0.75em;
+    padding:0.75em 0 0;
+}
+#rightSidebar {
+    float:right;
+}
+/*#rightSidebar #nav_anchor h4 {
+    font-size:16px;
+    margin:0;
+    padding:0;
+}
+#rightSidebar #nav_anchor ul {
+    background-color:#BBC3BB;
+    border-bottom:1px solid #253750;
+    border-top:1px solid #253750;
+    list-style:none outside none;
+    margin:0;
+    padding:1em 0.75em 0.75em;
+}
+#rightSidebar #nav_anchor ul li {
+    margin-bottom:1em;
+    margin-left:0.5em;
+}
+#conference #rightSidebar #nav_anchor ul li a {
+    color:#253750;
+    text-decoration:underline;
+}*/
+/*#leftText {
+    width:44em;
+    float:left;
+}*/
+#cont_ita_faqs {
+    width:44em;
+    margin:0;
+    padding:0;
+}
+#cont_ita_faqs ul {
+    margin:0.5em 0 0 0;
+    padding:0;
+    list-style:none;
+}
+.itaSchedule {
+border-bottom:0.1em solid #A7542C;
+border-left:0.1em solid #A7542C;
+border-right:0.1em solid #A7542C;
+margin:1em 0;
+width:57em;
+}
+/* Box A */
+#box-table-a {
+    border-collapse:collapse;
+    font-size:12px;
+    text-align:left;
+    width:100%;
+}
+#box-table-a tr {
+    padding-right:1em;
+}
+#box-table-a th {
+-moz-background-inline-policy:continuous;
+background:none repeat scroll 0 0 #dbd1ad;
+border-bottom:0.1em solid #A7542C;
+border-collapse:collapse;
+border-top:0.1em solid #A7542C;
+color:#6B1D2D;
+font-family:arial;
+font-size:13px;
+font-weight:normal;
+padding:8px;
+width:100px;
+}
+#box-table-a th.columnOne {
+    width:400px;
+}
+#box-table-a td {
+-moz-background-inline-policy:continuous;
+border-bottom:.1em solid #cccccc;
+border-collapse:collapse;
+border-top:0.1em solid transparent;
+color:#000000;
+padding:8px;
+}
+#box-table-a td.courses_col_one{
+width:400px;
+}
+/*-------Styles for tables on Course Pages--------*/
+.tableCourse {
+    border-collapse:collapse;
+    font-size:12px;
+    text-align:left;
+    width:40em;
+    border:0.1em solid #999999;
+}
+.tableCourse th {
+-moz-background-inline-policy:continuous;
+background:none repeat scroll 0 0 #ffffff;
+border-bottom:0.1em solid #999999;
+border-collapse:collapse;
+border-top:0.1em solid #999999;
+color:#000000;
+font-family:arial;
+font-size:13px;
+font-weight:normal;
+padding:.5em .25em .5em .25em;
+}
+.tableCourse td{
+-moz-background-inline-policy:continuous;
+border-bottom:0.1em solid #999999;
+border-collapse:collapse;
+color:#000000;
+padding:.5em .25em .5em .25em;
+}
+#box-table-a .alt{
+    background-color:#F1EDDE;
+}
+h2.ita_topHeader {
+    border:none;
+    color:#A7542C;
+    margin:0;
+}
+h2.ita_header {
+    margin:1em 0 0.75em;
+    border:medium none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:1em;
+    font-weight:bolder;
+    line-height:0;
+padding:1em 0 0;
+}
+h3.ita_header {
+    line-height:1;
+    margin:1em 0 0.75em;
+    border:medium none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:1em;
+    font-weight:normal;
+    font-style:italic;
+}
+h2.ita_header_multiline {
+    line-height:1.5;
+    margin:1em 0 0.75em;
+    border:medium none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:1em;
+    font-weight:bolder;
+}
+h2 span.ita_seminar_date {
+    font-style:italic;
+    font-weight:normal;
+}
+.ita_noListStyle {
+    list-style:none;
+    padding:0;
+    margin-left:0;
+}
+.ita_noListStyle li {
+    margin:0 0 .5em 0;
+}
+.ita_noListStyle li.indent {
+    margin:0 0 .5em 1em;
+}
+/*ITA Call Out*/
+#ita_callout {
+    background-color:#FFFFFF;
+    border:0.1em solid #dbd1ad;
+    padding:0.2em;
+}
+#ita_callout h3 {
+    background-color:#dbd1ad;
+    color:#4D3C29;
+    font-weight:normal;
+    margin:0;
+    padding:0.3em 0 0.3em 0.3em;
+}
+#ita_callout ul {
+    list-style:square outside none;
+    margin:0;
+    padding:0.5em 0 0 1.5em;
+    color:#D5C8A0;
+}
+/*TEST RIGHT BOX*/
+#itaRightBoxCont h1{
+    font:1.4em "Times New Roman",Times,serif;
+margin:0;
+padding:1em 0 0;
+}
+#itaRightBoxCont{
+    width:14em; 
+    }
+#itaRightBoxCont ul {
+background-color:#FEF9F3;
+border-bottom:1px solid #A7542C;
+border-top:1px solid #A7542C;
+color:#A7542C;
+display:block;
+list-style:none outside none;
+margin:0;
+padding:0.5em;
+text-align:right;
+}
+#itaRightBoxCont ul li.itaCourseDate{
+    padding:0.15em 0.3em 0.3em;
+}
+#itaRightBoxCont ul .itaCourseDate span {
+color:#000000;
+font-size:0.89em;
+}
+#itaRightBoxCont span.itaApplyNowCourse{
+    background-color:#FEF9F3;
+    border-color:-moz-use-text-color #A7542C #A7542C;
+    color:#A7542C;
+    display:block;
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:1em;
+    fosnt-weight:bold;
+    margin:.5em 0 0 0;
+}
+#itaRightBoxCont span.itaApplyNowCourse a {
+    color:#A7542C;
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:1em;
+    font-weight:bold;
+    background-color:#F1EDDE;
+    text-decoration:none;
+    border:solid .1em #A7542C;
+    padding:.2em;
+}
+#itaRightBoxCont span.itaApplyNow{
+    background-color:#FEF9F3;
+    border-color:-moz-use-text-color #A7542C #A7542C;
+    color:#A7542C;
+    display:block;
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:1em;
+    fosnt-weight:bold;
+}
+#itaRightBoxCont span.itaApplyNow a {
+    color:#A7542C;
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:1em;
+    font-weight:bold;
+}
+.itaAboutUsNav{
+    list-style:none;
+    padding: 0 0.5em 0.5em 0.5em;
+}
+.itaAboutUsNav li{
+    margin-bottom:0.5em;
+}
+.itaIndent{
+    margin-left:1em;
+}
+.itaAboutUsNav .listHead{
+    margin-bottom:0;
+}
+.blackText{
+    color:#000;
+}
+.lst_itaCourses{
+    list-style:square;
+    color: #D5C8A0;
+}
+#ita_callout .itaCalloutSecondLevel{
+    margin-top:.5em;
+}
+#itaCourseNavigation ul{
+    margin:0; 
+    padding:0;
+    list-style:none;
+}
+#itaCourseThirdNav{
+    border:#D5C8A0 .1em dotted;
+    margin: .5em 0 .5em 0;
+    padding:.5em;
+    width:10.1em;
+}
+.itaCourse_subhead{
+    display:block;
+    font-size:.8em
+}
+.itaGeneralLink{
+    text-align:left;
+    font-size:0.89em;
+    
+}
+.itaUnorderedList{
+    list-style:none;
+}
+#contentContainer_courses{
+    width:100px;
+}
+#TwoColumnsCourses{
+margin-left:-16em;
+}
+ 
+#conference_header_generic.conference_header_generic_courses{
+margin-left:-16em;
+}
+
+/*-------------- FAQ STYLES ------------------------------*/
+.subitem{line-height: 1.5em; margin-left: 1em;}
+.question1{border-top: 1px dashed #999999; margin-top: 1em; padding-top: .75em; padding-bottom: .5em; font-weight: bold;}
+.question{ margin-top: 1em; padding-bottom: .5em; font-weight: bold;}
+.answer{margin-left: .5em;}
+.answersubpara{margin-left: 3em;}
+.answersubparahang{margin-left: 3em;}

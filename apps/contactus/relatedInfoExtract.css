@@ -1,0 +1,270 @@
+﻿#relatedInfo {
+float: right;
+width: 225px;
+margin: 0 0 0 0;
+padding: 0; } /*This style is for the right column of content*/
+
+/*---------- Related Information Styles ----------*/
+#relatedInfo p {padding: 10px 0 15px 0;} 
+        
+#relatedInfo h2{font-size: 1.4em; margin: 0;}
+        
+#relatedInfo a:link {
+color: #314732;
+text-decoration: underline     }
+        
+#relatedInfo li.more {
+text-align:right;
+font-style: italic;
+float: none;}
+        
+#relatedInfo ul {
+list-style:none;
+padding:0;
+margin:0 0 1em 0;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px; }
+        
+#relatedInfo ul h3 {
+font-family:"Times New Roman", Times, serif;
+font-weight:normal; }
+        
+/*an example of this list is on the economic research pages, the by division, by interest on bio pages*/
+            
+        
+#relatedInfo ul.linkList {
+            
+padding: 0 0 1em 0;
+margin: 0 0 1em 0;
+list-style: none; }
+        
+#relatedInfo ul.linkList:after {
+content:".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden; }
+        
+#relatedInfo ul.linkList li { padding:5px; }
+        
+#relatedInfo ul.linkList li.heading {
+padding-left:0;
+font-size:.9em; }
+        
+#relatedInfo ul.linkList h3 {
+padding:0;
+margin:0; }
+        
+#relatedInfo ul.linkList h3:before {
+content:".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden; }
+        
+#relatedInfo ul.socialBox li.heading {
+background-color:#FFF;
+border-bottom:#A7542C solid 1px;
+margin:0;
+padding:0;
+float: none;
+width: 100%;
+list-style: none;
+list-style-position: outside;}
+        
+#relatedInfo ul.socialBox {
+border-bottom:#A7542C solid 1px; 
+margin: 0 0 1em 0; 
+background-color:#FEF9F3;
+min-height: 123px;}
+
+
+#relatedInfo ul.socialBox h3 {
+font-weight: normal;
+font-size: 1.5em;
+margin: 0;
+padding: 0; }
+        
+/*this style has been updated 11/16/11 by mel to remove the inline style that was in the html code to float the list items to the left*/
+#relatedInfo ul.socialBox li {
+padding: 10px;
+margin:0;
+font-size: .9em;
+background-color:#FEF9F3;
+}
+        
+#relatedInfo ul.socialBox li.floatRight { float:right; }
+        
+span.medCon {
+padding-left: 20px;
+background-repeat: no-repeat; }
+        
+span.youtube {
+background-image: url("../../gifjpg/youtube_small.jpg");
+padding-top: 3px; }
+        
+span.email { background-image: url("../../gifjpg/mail_icon.gif"); }
+        
+span.rss { background-image: url("../../gifjpg/rss_small.jpg"); }
+
+span.twitter{ background-image: url("../../gifjpg/twitter-icon-small.png"); background-repeat: no-repeat; padding-left: 20px;}
+
+        
+span.allvideos {
+background-image: url("../../gifjpg/all_videos_small.jpg");
+padding-top: 3px; }
+        
+            
+/*boxes with gray headers*/
+        
+#relatedInfo ul.linkBox h3, ul.linkBox, ul.linkBox li, #relatedInfo ul.linkBox li ul {
+padding:0;
+margin:0;
+list-style:none;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px; }
+        
+#relatedInfo ul.linkBox {border-left:#999999 solid 1px; margin: 0 0 1.5em 0; padding: 0 0 1em 0;}
+        
+#relatedInfo ul.linkBox h3 {
+font-family:"Times New Roman", Times, serif;
+border-bottom:#FFF solid 1px;
+color:#FFF;
+font-size:16px;
+font-weight: bold; }
+        
+#relatedInfo ul.linkBox li { padding:3px 5px 3px 5px; margin: 0;}    
+        
+#relatedInfo ul.linkBox li.heading {
+background-color:#999999;
+display:block;
+padding:5px 3px 5px 2px;}
+                
+#relatedInfo ul.linkBox li.teaser {padding: 5px; margin: 0 0 5px 0;}
+        
+#relatedInfo ul.linkBox li ul {
+padding: 0px 0 5px 0;
+margin:0; }
+        
+#relatedInfo ul.linkBox li ul li { padding: 5px 0 5px 0; margin: 0 0 0 5px;}
+        
+#relatedInfo ul.linkBox li h4 {
+font-style: none;
+font-family: Arial, Helvetica, sans-serif;
+text-transform:uppercase;
+font-size: .9em;
+color: #999;
+padding-top: 5px; }
+        
+#relatedInfo ul li.quote {
+text-align:center;
+font-family:"Times New Roman", Times, serif;
+font-size:1.5em;
+padding:10px 0px 0 0px;
+margin:1em 0 0 0;
+background-image:url(../../gifjpg/quote_open.png);
+background-repeat:no-repeat;
+background-position: 10% 5%; }
+
+#relatedInfo ul.classic { 
+border-bottom:#A7542C solid 1px; 
+margin: 0 0 2em 0; 
+background-color:#FEF9F3;}
+            
+#relatedInfo ul.classic li.heading {
+background-color:#FFF;
+border-bottom:#A7542C solid 1px;
+margin:0;
+padding:0;
+float: none;
+width: 100%; 
+list-style: none;
+list-style-position: outside;}
+
+#relatedInfo ul.classic h3 {
+font-weight: normal;
+font-size: 1.5em;
+padding: 0; 
+margin: 0;
+color: #000;}
+        
+#relatedInfo ul.classic li {
+list-style: square;
+list-style-position: inside;
+color:#A7542C;
+padding:5px 8px 5px 8px;
+margin:0;
+font-size: .9em;
+background-color:#FEF9F3; }
+        
+    
+            
+/*For right boxes with larger images and text - see Data Releases Page*/
+#relatedInfo ul.list3 {background-color: #fff; padding: 0 10px 0 10px; width: 90%;}
+        
+#relatedInfo ul.list3 li { 
+height: auto; 
+width: 100%;}
+            
+#relatedInfo ul.list3 li img{padding: 0 5px 0 0;}
+        
+#relatedInfo ul.list3 li h4 {
+font-size: 1.2em; 
+font-weight: bold; 
+color:#727272; 
+height: auto;
+font-style: italic;
+border-bottom: none;
+padding: 0;
+margin: 0;}
+        
+#relatedInfo ul.list3 li h3{font-size: 1.4em;}
+        
+#relatedInfo ul.list3 a:link {text-decoration: none;}
+        
+        
+                
+/*used on both the economic research landing page and in the right boxes in that section under the quote from the chairman*/
+.signature {
+color:#939393;
+font-weight:bold;
+font-size:.7em;
+text-align:center;
+padding:0;
+margin:0;
+font-family: Arial, Helvetica, sans-serif; }
+        
+#relatedInfo li h4 {
+font-variant: normal;
+border: none;
+font-style: normal;
+color: #000;
+font-size: 1em; }
+            
+/*-- Data Releases Landing Page right box with DDP Icon, FoF Icon and Calendar --*/
+#relatedInfo li.feature a{
+background-color:none;
+display:block;
+background-repeat:no-repeat;
+text-decoration: none; }
+            
+#relatedInfo li.feature h3{
+padding:5px; }
+        
+#relatedInfo li.feature{
+height: 44px; }
+             
+#relatedInfo li.feature a img{
+float:left;
+padding-right:5px;
+border:none;} 
+            
+#relatedInfo li.feature h2{
+font-size:9px;
+font-style:italic;
+padding:0;
+margin:0; }
+            
+#relatedInfo ul.list li.noIndent {
+padding-left: 0.5em; }
+        

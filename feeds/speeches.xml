@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+
+
+
+
+    <channel rdf:about="http://www.federalreserve.gov/feeds/speeches.xml">
+        <title>FRB: Speeches</title>
+        <link>http://www.federalreserve.gov/feeds/default.htm</link>
+        <description>Speeches of Federal Reserve Officials</description> 
+        <items>
+            <rdf:Seq>
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20160712a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/powell20160628a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/fischer20160622a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/powell20160621a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/yellen20160606a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20160603a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/powell20160526a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/tarullo20160520a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/fischer20160519.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20160414a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/yellen20160329a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20160307a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/fischer20160307a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20160226a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/powell20160226a.htm" />
+            
+            </rdf:Seq>
+        </items>
+    </channel>
+
+    
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20160712a.htm">
+<title>Tarullo, Opening Remarks</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20160712a.htm</link>
+<description>Speech at the Center for American Progress and Americans for Financial Reform Conference, Washington, D.C., </description> 
+<dc:date>2016-07-12T09:15:00-04:00</dc:date> 
+<dcterms:audience>Center for American Progress and Americans for Financial Reform Conference</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Opening Remarks</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-07-12T09:15:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Center for American Progress and Americans for Financial Reform Conference</cb:venue>
+    <cb:locationAsWritten>Washington, D.C., </cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState></cb:locationState>
+    <cb:locationCity>Washington, D.C.</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/powell20160628a.htm">
+<title>Powell, Recent Economic Developments, Monetary Policy Considerations and Longer-term Prospects</title>
+<link>http://www.federalreserve.gov/newsevents/speech/powell20160628a.htm</link>
+<description>Speech at the Chicago Council on Global Affairs, Chicago, Illinois</description> 
+<dc:date>2016-06-28T19:00:00-04:00</dc:date> 
+<dcterms:audience>Chicago Council on Global Affairs</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Recent Economic Developments, Monetary Policy Considerations and Longer-term Prospects</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-06-28T18:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Jerome</cb:givenName>
+      <cb:surname>Powell</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Jerome H. Powell</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Chicago Council on Global Affairs</cb:venue>
+    <cb:locationAsWritten>Chicago, Illinois</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>IL</cb:locationState>
+    <cb:locationCity>Chicago</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/fischer20160622a.htm">
+<title>Fischer, Comments on the Resolution Framework for Banks and Bank Holding Companies in the United States</title>
+<link>http://www.federalreserve.gov/newsevents/speech/fischer20160622a.htm</link>
+<description>Speech at the Panel Discussion on Resolution Riksbank Macroprudential Conference, Stockholm, Sweden</description> 
+<dc:date>2016-06-22T09:25:00-04:00</dc:date> 
+<dcterms:audience>Panel Discussion on Resolution Riksbank Macroprudential Conference</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Comments on the Resolution Framework for Banks and Bank Holding Companies in the United States</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-06-22T15:25:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Stanley</cb:givenName>
+      <cb:surname>Fischer</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Stanley Fischer</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Vice Chairman</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Panel Discussion on Resolution Riksbank Macroprudential Conference</cb:venue>
+    <cb:locationAsWritten>Stockholm, Sweden</cb:locationAsWritten>
+    <cb:locationCountry>SE</cb:locationCountry>
+     
+    <cb:locationCity>Stockholm</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/powell20160621a.htm">
+<title>Powell, Introductory Remarks</title>
+<link>http://www.federalreserve.gov/newsevents/speech/powell20160621a.htm</link>
+<description>Speech at the Roundtable on the Interim Report of the Alternative Reference Rates Committee sponsored by the Federal Reserve Board and the Federal Reserve Bank of New York, New York, New York</description> 
+<dc:date>2016-06-21T14:30:00-04:00</dc:date> 
+<dcterms:audience>Roundtable on the Interim Report of the Alternative Reference Rates Committee sponsored by the Federal Reserve Board and the Federal Reserve Bank of New York</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Introductory Comments</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-06-21T14:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Jerome</cb:givenName>
+      <cb:surname>Powell</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Jerome H. Powell</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Roundtable on the Interim Report of the Alternative Reference Rates Committee sponsored by the Federal Reserve Board and the Federal Reserve Bank of New York</cb:venue>
+    <cb:locationAsWritten>New York, New York</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>NY</cb:locationState>
+    <cb:locationCity>New York</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/yellen20160606a.htm">
+<title>Yellen, Current Conditions and the Outlook for the U.S. Economy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/yellen20160606a.htm</link>
+<description>Speech at the The World Affairs Council of Philadelphia, Philadelphia, Pennsylvania</description> 
+<dc:date>2016-06-06T12:30:00-04:00</dc:date> 
+<dcterms:audience>The World Affairs Council of Philadelphia</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Current Conditions and the Outlook for the U.S. Economy</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-06-06T12:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>The World Affairs Council of Philadelphia</cb:venue>
+    <cb:locationAsWritten>Philadelphia, Pennsylvania</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>PA</cb:locationState>
+    <cb:locationCity>Philadelphia</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20160603a.htm">
+<title>Brainard, The Economic Outlook and Implications for Monetary Policy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20160603a.htm</link>
+<description>Speech at the Council on Foreign Relations, Washington, District of Columbia</description> 
+<dc:date>2016-06-03T12:30:00-04:00</dc:date> 
+<dcterms:audience>Council on Foreign Relations</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>The Economic Outlook and Implications for Monetary Policy</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-06-03T12:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Council on Foreign Relations</cb:venue>
+    <cb:locationAsWritten>Washington, District of Columbia</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/powell20160526a.htm">
+<title>Powell, Recent Economic Developments, the Productive Potential of the Economy, and Monetary Policy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/powell20160526a.htm</link>
+<description>Speech at the Peterson Institute for International Economics, Washington, District of Columbia</description> 
+<dc:date>2016-05-26T12:15:00-04:00</dc:date> 
+<dcterms:audience>Peterson Institute for International Economics</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Recent Economic Developments, the Productive Potential of the Economy, and Monetary Policy</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-05-26T12:15:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Jerome</cb:givenName>
+      <cb:surname>Powell</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Jerome H. Powell</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Peterson Institute for International Economics</cb:venue>
+    <cb:locationAsWritten>Washington, District of Columbia</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/tarullo20160520a.htm">
+<title>Tarullo, Insurance Companies and the Role of the Federal Reserve</title>
+<link>http://www.federalreserve.gov/newsevents/speech/tarullo20160520a.htm</link>
+<description>Speech at the National Association of Insurance Commissioner's International Insurance Forum, Washington, D.C.</description> 
+<dc:date>2016-05-20T09:00:00-04:00</dc:date> 
+<dcterms:audience>National Association of Insurance Commissioner's International Insurance Forum</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Insurance Companies and the Role of the Federal Reserve</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-05-20T09:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Daniel</cb:givenName>
+      <cb:surname>Tarullo</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Daniel K. Tarullo</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>National Association of Insurance Commissioner's International Insurance Forum</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/fischer20160519.htm">
+<title>Fischer, (Money), Interest and Prices: Patinkin and Woodford</title>
+<link>http://www.federalreserve.gov/newsevents/speech/fischer20160519.htm</link>
+<description>Speech at the "A Conference in Honor of Michael Woodford's Contributions to Economics" cosponsored by the Federal Reserve Bank of New York, Columbia University Program for Economic Research, and Columbia University Department of Economics, New York, New York</description> 
+<dc:date>2016-05-19T09:15:00-04:00</dc:date> 
+<dcterms:audience>"A Conference in Honor of Michael Woodford's Contributions to Economics" cosponsored by the Federal Reserve Bank of New York, Columbia University Program for Economic Research, and Columbia University Department of Economics</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>(Money), Interest and Prices: Patinkin and Woodford</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-05-19T09:15:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Stanley</cb:givenName>
+      <cb:surname>Fischer</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Stanley Fischer</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Vice Chairman</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>"A Conference in Honor of Michael Woodford's Contributions to Economics" cosponsored by the Federal Reserve Bank of New York, Columbia University Program for Economic Research, and Columbia University Department of Economics</cb:venue>
+    <cb:locationAsWritten>New York, New York</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>NY</cb:locationState>
+    <cb:locationCity>New York</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20160414a.htm">
+<title>Brainard, The Use of Distributed Ledger Technologies in Payment, Clearing, and Settlement</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20160414a.htm</link>
+<description>Speech at the Institute of International Finance Blockchain Roundtable, Washington, D.C.</description> 
+<dc:date>2016-04-14T13:15:00-04:00</dc:date> 
+<dcterms:audience>Institute of International Finance Blockchain Roundtable</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>The Use of Distributed Ledger Technologies in Payment, Clearing, and Settlement</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-04-14T13:15:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Institute of International Finance Blockchain Roundtable</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/yellen20160329a.htm">
+<title>Yellen, The Outlook, Uncertainty, and Monetary Policy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/yellen20160329a.htm</link>
+<description>Speech at the Economic Club of New York, New York, New York</description> 
+<dc:date>2016-03-29T12:20:00-04:00</dc:date> 
+<dcterms:audience>Economic Club of New York</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>The Outlook, Uncertainty, and Monetary Policy</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-03-29T12:20:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Janet</cb:givenName>
+      <cb:surname>Yellen</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Janet L. Yellen</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Chair</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Economic Club of New York</cb:venue>
+    <cb:locationAsWritten>New York, New York</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>NY</cb:locationState>
+    <cb:locationCity>New York</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20160307a.htm">
+<title>Brainard, An Update on the Outlook, Liquidity, and Resilience</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20160307a.htm</link>
+<description>Speech at the Institute of International Bankers Annual Washington Conference, Washington, D.C.</description> 
+<dc:date>2016-03-07T13:00:00-05:00</dc:date> 
+<dcterms:audience>Institute of International Bankers Annual Washington Conference</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>An Update on the Outlook, Liquidity, and Resilience</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-03-07T13:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Institute of International Bankers Annual Washington Conference</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/fischer20160307a.htm">
+<title>Fischer, Reflections on Macroeconomics Then and Now</title>
+<link>http://www.federalreserve.gov/newsevents/speech/fischer20160307a.htm</link>
+<description>Speech at the "Policy Challenges in an Interconnected World" 32nd Annual National Association for Business Economics Economic Policy Conference, Washington, D.C.</description> 
+<dc:date>2016-03-07T13:00:00-05:00</dc:date> 
+<dcterms:audience>"Policy Challenges in an Interconnected World" 32nd Annual National Association for Business Economics Economic Policy Conference</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Reflections on Macroeconomics Then and Now</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-03-07T13:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Stanley</cb:givenName>
+      <cb:surname>Fischer</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Stanley Fischer</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Vice Chairman</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>"Policy Challenges in an Interconnected World" 32nd Annual National Association for Business Economics Economic Policy Conference</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20160226a.htm">
+<title>Brainard, What Happened to the Great Divergence?</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20160226a.htm</link>
+<description>Speech at the 2016 U.S. Monetary Policy Forum, Washington, District of Columbia</description> 
+<dc:date>2016-02-26T13:30:00-05:00</dc:date> 
+<dcterms:audience>2016 U.S. Monetary Policy Forum</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>What Happened to the Great Divergence?</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-02-26T13:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>2016 U.S. Monetary Policy Forum</cb:venue>
+    <cb:locationAsWritten>Washington, District of Columbia</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/powell20160226a.htm">
+<title>Powell, Discussion of the paper Language after Liftoff: Fed Communication Away from the Zero Lower Bound</title>
+<link>http://www.federalreserve.gov/newsevents/speech/powell20160226a.htm</link>
+<description>Speech at the 2016 U.S. Monetary Policy Forum, New York, New York</description> 
+<dc:date>2016-02-26T10:15:00-05:00</dc:date> 
+<dcterms:audience>2016 U.S. Monetary Policy Forum</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Discussion of the paper "Language after Liftoff: Fed Communication Away from the Zero Lower Bound"</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-02-26T10:15:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Jerome</cb:givenName>
+      <cb:surname>Powell</cb:surname>
+      <cb:personalTitle>Mr.</cb:personalTitle>
+      <cb:nameAsWritten>Jerome H. Powell</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>2016 U.S. Monetary Policy Forum</cb:venue>
+    <cb:locationAsWritten>New York, New York</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>NY</cb:locationState>
+    <cb:locationCity>New York</cb:locationCity>
+</cb:speech>
+</item>  
+
+</rdf:RDF>

@@ -1,0 +1,571 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/article-pg.dwt" codeOutsideHTMLIsLocked="false" -->
+<head><!-- PageID 16625 - published by RedDot 7.5 - 7.5.2.17 - 18957 -->
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="Board of Governors of the Federal Reserve System, Federal Reserve Board of Governors, Federal Reserve Board, Federal Reserve" />
+<meta name="description" content="The Federal Reserve Board of Governors in Washington DC." />
+<!-- InstanceBeginEditable name="Pg Title" --><title>FRB: FEDS Notes: Funding Agreement-Backed Securities in the Enhanced Financial Accounts</title><!-- InstanceEndEditable -->
+
+<link href="/resources/main.css" rel="stylesheet" type="text/css" />
+<link href="/resources/print2.css" rel="stylesheet" type="text/css" media="print"/>
+<style type="text/css"> 
+ 
+.graphic {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.smallgraphic {
+	float: right;
+}
+
+</style>
+
+<script language="JavaScript" type="text/javascript" src="/resources/jquery_min_1_4_2.js"></script>
+
+
+<script language="JavaScript" type="text/javascript" src="/resources/economicLeftNav.js"></script>
+
+
+
+<!---->
+
+
+<script language="JavaScript" type="text/javascript" src="/resources/exit_new.js"></script>
+<script language="JavaScript" type="text/javascript" src="/resources/swfLink.js"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(function() {_gat._anonymizeIp();});
+  _gaq.push(['_setAccount', 'UA-35121701-1']);
+  _gaq.push(['_setSessionCookieTimeout','0']);
+  _gaq.push(['_setVisitorCookieTimeout','0']);
+  _gaq.push(['_setCampaignCookieTimeout','0']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX", "output/HTML-CSS"],
+    tex2jax: {
+      inlineMath: [ ['$$','$$'], ['$$$','$$$']  ],
+      displayMath: [ ['$$$$','$$$$'] ],
+      processEscapes: true
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });
+</script>
+<script type="text/javascript" src="https://www.federalreserve.gov/resources/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<span id="skip2">
+<a href="#mainNav">skip to main navigation</a>
+<a href="#secondNav">skip to secondary navigation</a>
+<a href="#content">skip to content</a>
+</span>
+
+
+
+<!-- HEADER STARTS -->
+<table id="headerTopLinks" cellpadding="0" cellspacing="0">
+<tr><td class="headerTopLinksLeft">
+
+<a href="/whatsnew.htm">What's New</a> &middot; 
+<a href="/whatsnext.htm">What's Next</a> &middot; 
+<a href="/sitemap.htm">Site Map</a> &middot; 
+<a href="/azindex.htm">A-Z Index</a> &middot; 
+<a href="/careers/default.htm">Careers</a> &middot; 
+<a href="/feeds/default.htm">RSS</a> &middot; 
+<a href="/mediacenter/media.htm">All Videos</a> &middot; 
+<a href="/faqs/faq.htm">Current FAQs</a> &middot; 
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+
+</td>
+<td class="curve1"></td>
+<td class="headerTopLinksRight">
+<form action="http://search.newyorkfed.org/board_public/search" method="GET"><label for="searchbox"><div id="skip2">Search</div></label><input type="text" name="text" size="12" maxlength="100" id="searchbox" >&nbsp;<input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search" border="0">&nbsp;<a href="http://search.newyorkfed.org/board_public" class="search">Advanced Search</a></form>
+</td>
+<td class="curve2"></td>
+</tr></table>
+
+<div id="top">
+
+    <div id="headerMasthead"><a href="/default.htm"><img src="/econresdata/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"></a></div>
+
+<a name="mainNav"></a>
+<div class="navMenuBack">
+<table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+<tr>
+    <td>
+        <div class="navItem"><a href="/aboutthefed/default.htm">About<BR>the Fed</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/newsevents/default.htm">News<BR>&amp; Events</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/monetarypolicy/default.htm">Monetary<BR>Policy</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/bankinforeg/default.htm">Banking<BR>Information<BR>&amp; Regulation</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/paymentsystems/default.htm">Payment<BR>Systems</a></div>
+    </td>
+    <td id="selected">
+        <div class="navItem"><a href="/econresdata/default.htm">Economic<BR>Research<BR>&amp; Data</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/consumerinfo/default.htm">Consumer<BR> Information</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/communitydev/default.htm">Community<BR>Development</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/apps/reportforms/default.aspx">Reporting<BR>Forms</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/publications/default.htm">Publications</a></div>
+    </td>
+
+</tr>
+</table>
+<!-- HEADER ENDS -->
+ 
+ 
+</div>
+</div>
+<div id="contentwrapper">
+<a name="secondNav"></a><span id="skip2"><a href="#content">skip to content</a></span>
+        
+
+
+<div id="breadcrumbwrapper">
+<div id="BreadCrumbContainer">
+<a href="/default.htm">Home</a>
+
+ &gt; <a href="/econresdata/default.htm">Economic Research & Data</a>
+
+
+ &gt; <a href="/econresdata/notes/feds-notes/default.html">FEDS Notes</a>
+
+</div> 
+</div>
+
+<div id="content">
+
+
+
+
+<a name="content"></a>
+
+
+<div id="pagetitle">
+  <h2>FEDS Notes</h2>
+  <div id="printIcon"><a href="javascript:window.print()"><img src="/econresdata/gifjpg/printIcon.gif">Print</a></div>
+<div class="clear"></div>  
+</div>
+<div id="layout">
+<div id="main">
+
+<!-- InstanceBeginEditable name="Pg Content" -->
+<p></p>
+<h6>August 5, 2016</h6>
+<h3>Funding Agreement-Backed Securities in the Enhanced Financial Accounts</h3>
+<br />
+<a href="/econresdata/nathan-foley-fisher.htm">Nathan Foley-Fisher</a>, <a href="/econresdata/ralf-r-meisenzahl.htm">Ralf R. Meisenzahl</a>, <a href="/econresdata/borghan-n-narajabad.htm">Borghan Narajabad</a>, <a href="/econresdata/maria-g-perozek.htm">Maria G. Perozek</a>, and <a href="/econresdata/stephane-verani.htm">Stephane H. Verani</a>
+<p></p>
+
+<div class="group">
+  <div id="storyContainer">
+   
+   
+   
+ <p>
+ This note describes new data on funding agreement-backed securities (FABS) that is being provided as part of the Enhanced Financial Accounts (EFA) initiative. As described in Holmquist and Perozek (2016), the <em>Financial Accounts of the United States</em> report the aggregate amount of outstanding FABS at a quarterly frequency. This EFA project expands upon the <em>Financial Accounts</em> data by providing daily data for different types of FABS that vary by maturity at issue and embedded optionality. The more granular data presented in this EFA project provides a clearer picture of developments in this important funding market, including the run on a segment of the FABS market starting in the summer of 2007 (Foley-Fisher, Narajabad, and Verani 2015). The project thus furthers the goals of the EFA initiative--described in Gallin and Smith (2014)--to provide a more detailed and higher frequency picture of financial intermediation in the United States.
+ </p>
+ <p>
+ <strong>What are funding agreement-backed securities?</strong><br />
+ A funding agreement is a deposit-type contract, sold by life insurance companies, that typically pays a guaranteed rate of return over a specified period of time. As their name suggests, these insurance contracts are akin to deposits in that they contain no mortality or morbidity contingencies. Insurers make money by issuing these contracts and investing the proceeds in relatively higher yielding assets. Funding agreements have long been issued directly to municipalities and institutional investors, but in more recent years insurance companies began to set up special purpose entities (SPEs) to hold funding agreements and issue funding agreement-backed securities (FABS). Backed by a super-senior claim on the insurer&#39;s balance sheet, FABS attract a range of potential investors and allow insurers to borrow at a lower cost than other forms of debt.<a href="#fn1" title="footnote 1"><sup>1</sup></a><a id="f1" name="f1"></a>
+ </p>
+ <p>
+ In a typical FABS structure, a life insurer sells a single funding agreement to an SPE, which funds the funding agreement by issuing smaller denomination FABS to institutional investors. The most common type of FABS are medium-term funding agreement-backed notes (FABN).<a href="#fn2" title="footnote 2"><sup>2</sup></a><a id="f2" name="f2"></a> In addition, at least two types of FABS are designed to appeal to short-term investors, such as prime money-market mutual funds: Extendible funding agreement-backed notes (XFABN), and funding agreement-backed commercial paper (FABCP). These securities have much shorter maturities than the underlying funding agreement, which typically has a maturity of about ten years. XFABN often have an initial maturity of 397 days, but give investors the option each month to incrementally extend the maturity of their notes by one month. FABCP are fixed term contracts with maturities generally ranging from one week to six months.<a href="#fn3" title="footnote 3"><sup>3</sup></a><a id="f3" name="f3"></a>
+ </p>
+ <p>
+ <strong>FABS in the <em>Financial Accounts of the United States</em></strong><br />
+ Aggregate quarterly values for the outstanding levels of domestic and foreign issues of FABS associated with U.S. life insurers are available from 1997:Q3 forward in the <em><a href="https://www.federalreserve.gov/apps/fof/DisplayTable.aspx?t=l.116">Financial Accounts of the United States</a></em>. For more information on how FABS are recorded in the <em>Financial Accounts</em>, see Holmquist and Perozek (2016). To track the FABS market, we compile data from a variety of sources.<a href="#fn4" title="footnote 4"><sup>4</sup></a><a id="f4" name="f4"> </a>
+ </p>
+ 
+  <div class="graphic">
+  <a name="figure1" id="figure1"></a>
+  <table width="700">
+              <tbody><tr>
+                <th colspan="2" bgcolor="#475a46" height="25" valign="middle"><font color="#ffffff"><strong><center>Figure 1: Funding Agreement-Backed Securities Outstanding</center></strong></font></th>
+              </tr>
+           
+              <tr>
+                <td>
+                 <center><em><img src="/econresdata/notes/feds-notes/2016/gifjpg/fig1-20160805.png" alt="Figure 1: Funding Agreement-Backed Securities Outstanding. See accessible link for data description." width="550" height="276" /></em></center></td>
+              </tr>            
+            </tbody></table>
+<div class="footnotes">
+<p><br />Source: <em>Federal Reserve Board. Financial Accounts of the United States (Z.1).</em> <a href="https://www.federalreserve.gov/apps/fof/">https://www.federalreserve.gov/apps/fof/</a>.
+</p>
+<p><a href="funding-agreement-backed-securities-in-the-enhanced-financial-accounts-accessible-20160805.html#fig1">Accessible version</a></p></div>
+           </div>
+ 
+ 
+ <p>
+ Figure 1 shows that FABS issuance grew rapidly in the early 2000s, when persistently low interest rates and the introduction of greater regulatory capital requirements led U.S. life insurers to search for new ways to increase their return on equity.<a href="#fn5" title="footnote 5"><sup>5</sup></a><a id="f5" name="f5"></a> By 2008, the total outstanding value of the FABS market reached over $170 billion, comparable to the size of the auto ABS market at that time.
+ </p>
+ <p>
+ The FABS market collapsed during the financial crisis as institutional investors withdrew from structured product markets.<a href="#fn6" title="footnote 6"><sup>6</sup></a><a id="f6" name="f6"></a> Following its initial sharp descent in the early years of the financial crisis, FABS outstanding continued to decline, albeit at a slower rate, through the end of 2013, when the level of FABS fell to about $60 billion--just over one-third of the amount outstanding at its peak in 2008. FABS issuance has since rebounded somewhat, with our most recent estimates suggesting that FABS outstanding reached about $75 billion in 2016:Q1.
+ </p>
+ <p>
+ <strong>FABS in the <em>Enhanced Financial Accounts</em></strong><br />
+ To better understand the dynamics of the collapse of the FABS market during the financial crisis, and, more broadly, to monitor this funding market going forward, <a href="/apps/fof/efa/efa-project-funding-agreement-backed-securities.htm">the EFA project</a> provides FABS data with both higher frequency and greater granularity than the data reported in the <em>Financial Accounts</em>. In particular, the EFA project provides daily data on the three main types of FABS issues: FABN with fixed terms of more than 397 days (Figure 2), FABN with fixed terms less than or equal to 397 days (Figure 3), and FABN with embedded put options such as XFABN (Figure 4). In addition, the EFA project provides quarterly data on FABCP (Figure 5). As shown in Figure 6, FABN with longer maturities comprise the vast majority of FABS outstanding. However, a closer look at the underlying data reveals that it was a run on XFABN starting in the summer of 2007 that sparked the severe and sudden contraction of FABS funding during the financial crisis.
+ </p>
+ 
+  <div class="graphic">
+  <a name="figure2" id="figure2"></a>
+  <table width="700">
+              <tbody><tr>
+                <th colspan="2" bgcolor="#475a46" height="25" valign="middle"><font color="#ffffff"><strong><center>Figure 2: Daily total outstanding of funding agreement-backed notes (FABN) with a maturity of more than 397 days</center></strong></font></th>
+              </tr>
+           
+              <tr>
+                <td>
+                 <center><em><img src="/econresdata/notes/feds-notes/2016/gifjpg/fig2-20160805.png" alt="Figure 2: Daily total outstanding of funding agreement-backed notes (FABN) with a maturity of more than 397 days. See accessible link for data description." width="450" height="300" /></em></center></td>
+              </tr>            
+            </tbody></table>
+<div class="footnotes">
+<p><br />Data as of March 31, 2016.</p>
+
+<p>Source: Bloomberg Finance LP and Moody's ABCP Program Index.
+</p>
+<p><a href="funding-agreement-backed-securities-in-the-enhanced-financial-accounts-accessible-20160805.html#fig2">Accessible version</a></p></div>
+           </div>
+           
+           
+             <div class="graphic">
+  <a name="figure3" id="figure3"></a>
+  <table width="700">
+              <tbody><tr>
+                <th colspan="2" bgcolor="#475a46" height="25" valign="middle"><font color="#ffffff"><strong><center>Figure 3: Daily total outstanding of funding agreement-backed notes with a maturity of at most 397 days</center></strong></font></th>
+              </tr>
+           
+              <tr>
+                <td>
+                 <center><em><img src="/econresdata/notes/feds-notes/2016/gifjpg/fig3-20160805.png" alt="Figure 3: Daily total outstanding of funding agreement-backed notes with a maturity of at most 397 days. See accessible link for data description." width="450" height="306" /></em></center></td>
+              </tr>            
+            </tbody></table>
+<div class="footnotes">
+<p><br />Data as of March 31, 2016.</p>
+
+<p>Source: Bloomberg Finance LP.
+</p>
+<p><a href="funding-agreement-backed-securities-in-the-enhanced-financial-accounts-accessible-20160805.html#fig3">Accessible version</a></p></div>
+           </div>
+           
+           
+           
+           <div class="graphic">
+  <a name="figure4" id="figure4"></a>
+  <table width="700">
+              <tbody><tr>
+                <th colspan="2" bgcolor="#475a46" height="25" valign="middle"><font color="#ffffff"><strong><center>Figure 4: Daily total outstanding of extendible funding agreement-backed notes (XFABN) and XFABN spin-offs</center></strong></font></th>
+              </tr>
+           
+              <tr>
+                <td>
+                 <center><em><img src="/econresdata/notes/feds-notes/2016/gifjpg/fig4-20160805.png" alt="Figure 4: Daily total outstanding of extendible funding agreement-backed notes (XFABN) and XFABN spin-offs. See accessible link for data description." width="450" height="300" /></em></center></td>
+              </tr>            
+            </tbody></table>
+<div class="footnotes">
+<p><br />Data as of March 31, 2016.</p>
+
+<p>Source: Bloomberg Finance LP.</p>
+<p><a href="funding-agreement-backed-securities-in-the-enhanced-financial-accounts-accessible-20160805.html#fig4">Accessible version</a></p></div>
+           </div>
+           
+           
+           
+           <div class="graphic">
+  <a name="figure5" id="figure5"></a>
+  <table width="700">
+              <tbody><tr>
+                <th colspan="2" bgcolor="#475a46" height="25" valign="middle"><font color="#ffffff"><strong><center>Figure 5: Quarterly total outstanding of funding agreement-backed commercial paper (FABCP)</center></strong></font></th>
+              </tr>
+           
+              <tr>
+                <td>
+                 <center><em><img src="/econresdata/notes/feds-notes/2016/gifjpg/fig5-20160805.png" alt="Figure 5: Quarterly total outstanding of funding agreement-backed commercial paper (FABCP). See accessible link for data description." width="450" height="306" /></em></center></td>
+              </tr>            
+            </tbody></table>
+<div class="footnotes">
+<p><br />Data as of March 31, 2016.</p>
+
+<p>Source: Moody's ABCP Program Index.
+</p>
+<p><a href="funding-agreement-backed-securities-in-the-enhanced-financial-accounts-accessible-20160805.html#fig5">Accessible version</a></p></div>
+           </div>
+           
+           
+           <div class="graphic">
+  <a name="figure6" id="figure6"></a>
+  <table width="700">
+              <tbody><tr>
+                <th colspan="2" bgcolor="#475a46" height="25" valign="middle"><font color="#ffffff"><strong><center>Figure 6: Daily amount outstanding of <em>funding agreement-backed securities</em> by maturity</center></strong></font></th>
+              </tr>
+           
+              <tr>
+                <td>
+                 <center><em><img src="/econresdata/notes/feds-notes/2016/gifjpg/fig6-20160805.png" alt="Figure 6: Daily amount outstanding of funding agreement-backed securities by maturity. See accessible link for data description." width="450" height="381" /></em></center></td>
+              </tr>            
+            </tbody></table>
+<div class="footnotes">
+<p><br />Source: Bloomberg Financial LP, Moody's Analytics, Fitch Research.
+</p>
+<p><a href="funding-agreement-backed-securities-in-the-enhanced-financial-accounts-accessible-20160805.html#fig6">Accessible version</a></p></div>
+           </div>
+ 
+ 
+ <p>
+ During the second half of the 2000s, U.S. life insurers accelerated their issuance of XFABN shown as the blue line in Figure 4. And, as with other short-term funding markets, such as the asset-backed commercial paper and repo markets, the market for XFABNbegan to collapse during the summer of 2007 when institutional investors suddenly stopped extending their XFABN. In accordance with the contractual terms, upon giving their withdrawal notice, the investors received new securities--so-called spinoffs, shown by the dashed red line in Figure 4--set to mature at a fixed date, typically about one year after the withdrawal notice.
+ </p>
+ <p>
+ Life insurers responded to the collapsing FABS market by issuing shorter maturity FABN, as shown in Figure 3, and FABCP, shown in Figure 5, and also by issuing funding agreements directly to the Federal Home Loan Banks (FHLB).<a href="#fn7" title="footnote 7"><sup>7</sup></a><a id="f7" name="f7"></a> As with FABS, insurers earn a spread by investing the proceeds of funding agreements placed with the FHLBs in a portfolio of real estate and non-real estate assets with higher yield than the cost of funding. As shown in Figure 7, the increase in FHLB advances during the financial crisis corresponds broadly to the reduction in FABS outstanding. While the FHLBs played a particular role by providing an effective liquidity backstop to these insurers during the financial crisis, FHLB advances have since become a more widely used source of wholesale funding for many life insurers.<a href="#fn8" title="footnote 8"><sup>8</sup></a><a id="f8" name="f8"></a>
+ </p>
+ 
+ 
+    <div class="graphic">
+  <a name="figure7" id="figure7"></a>
+  <table width="700">
+              <tbody><tr>
+                <th colspan="2" bgcolor="#475a46" height="25" valign="middle"><font color="#ffffff"><strong><center>Figure 7: Quarterly advances from FHLBs to FABS issuers</center></strong></font></th>
+              </tr>
+           
+              <tr>
+                <td>
+                 <center><em><img src="/econresdata/notes/feds-notes/2016/gifjpg/fig7-20160805.png" alt="Figure 7: Quarterly advances from FHLBs to FABS issuers. See accessible link for data description." width="450" height="353" /></em></center></td>
+              </tr>            
+            </tbody></table>
+<div class="footnotes">
+<p><br />Company names reflect top-level ownership as of March 31, 2016. Data as of March 31, 2016.</p>
+
+<p>Source: authors' calculations based on the Federal Home Loan Bank database, provided by the FHLB Office of Finance.
+</p>
+<p><a href="funding-agreement-backed-securities-in-the-enhanced-financial-accounts-accessible-20160805.html#fig7">Accessible version</a></p></div>
+           </div>
+ 
+ 
+ <p>
+ <strong>Conclusion</strong><br />
+ This EFA project provides FABS data at a daily frequency and on a more granular level than is reported in the <em>Financial Accounts</em>. This additional detail on FABS can be used to gain a deeper understanding of several key financial relationships in the U.S. economy. First, the data by type of security show that there was a run on XFABN in third quarter of 2007 that is difficult to detect in more aggregate data. Second, the daily frequency of the FABS data help pinpoint the timing of short-term market disruptions such as occurred in 2007, enhancing our understanding of funding pressures during the recent financial crisis and in the future. Finally, the FABS data provide insight into substitution within asset classes: For example, as FABS funding dried up during the financial crisis, life insurers turned to shorter duration FABS as well as the FHLB system to ease liquidity strains. Going forward, the availability of daily data on the various types of FABS will enable ongoing monitoring of this important funding market, which appears to be on the rebound.
+ </p>
+ <p>
+ <strong>References</strong><br />
+ Acharya, Viral, Gara Afonso, and Anna Kovner (2013) &#34;<em>How do Global Banks Scramble for Liquidity? Evidence from the Asset-Backed Commercial Paper Freeze of 2007,</em>&#34; Federal Reserve Bank of New York Staff Report No. 623.
+ </p>
+ <p>
+ Coval, Joshua, Jakub Jurek, and Erik Stafford (2009) &#34;<em>The Economics of Structured Finance</em>,&#34; Journal of Economic Perspectives, 23(1): 3-25.
+ </p>
+ <p>
+ Foley-Fisher, Nathan, Borghan Narajabad, and Stéphane Verani (2015) &#34;<em>Self-fulfilling Runs: Evidence from the U.S. Life Insurance Industry,</em>&#34; Finance and Economics Discussion Paper Series No. 2015-032.
+ </p>
+ <p>
+ Gallin, Joshua, and Paul A. Smith (2014). &#34;<em>Enhanced Financial Accounts</em>,&#34; FEDS Notes. Washington: Board of Governors of the Federal Reserve System.
+ </p>
+ <p>
+ Holmquist, Elizabeth B., and Maria G. Perozek (2016). &#34;<em>Funding Agreement-Backed Securities in the Financial Accounts of the United States</em>,&#34; FEDS Notes. Washington: Board of Governors of the Federal Reserve System.<br clear="all" />
+ 
+ </p>
+ <hr align="left" width="33%" style=" height: 1px;" /><br /><div class="footnotes">
+ <p>
+ <a id="fn1" name="fn1">1.</a> A further benefit is that funding agreements do not increase standard measures of insurers&#39; leverage as they are legally insurance contracts. <a href="#f1">Return to text</a>
+ </p>
+ <p>
+ <a id="fn2" name="fn2">2.</a> Between 1997 and 2013, FABNs&#39; median maturity at issuance was 8 years. <a href="#f2">Return to text</a>
+ </p>
+ <p>
+ <a id="fn3" name="fn3">3.</a> XFABN and FABCP programs are similar to bank-sponsored asset-backed commercial paper (ABCP) programs with full liquidity guarantees from the sponsoring bank. In these programs the securities can be put back to the sponsoring insurer at rollover dates (in the case of FABCP) or with some months&#39; notice, usually less than 397 days (in the case of XFABN). <a href="#f3">Return to text</a>
+ </p>
+ <p>
+ <a id="fn4" name="fn4">4.</a> In particular, we use rating agency announcements to identify SPEs that receive funding agreements. We then collect data from Bloomberg on all securities issued by each special purpose entity and backed by the funding agreement. Bloomberg typically covers all medium term and extendible term securities. We also collect data on FABCP issuance from rating agency reports, which are available quarterly. We aggregate these data up to the level of the insurer parent company to obtain a quarterly dataset of FABS issuance and amounts outstanding. <a href="#f4">Return to text</a>
+ </p>
+ <p>
+ <a id="fn5" name="fn5">5.</a> For more background information and discussion, see Foley-Fisher, Narajabad, and Verani (2015). <a href="#f5">Return to text</a>
+ </p>
+ <p>
+ <a id="fn6" name="fn6">6.</a> See Coval, Jurek, and Stafford (2009). <a href="#f6">Return to text</a>
+ </p>
+ <p>
+ <a id="fn7" name="fn7">7.</a> The total amount of advances from FHLBs to U.S. life insurers is reported in line 23 of Table L.116 in the <em>Financial Accounts</em>. <a href="#f7">Return to text</a>
+ </p>
+ <p>
+ <a id="fn8" name="fn8">8.</a> The movement by life insurers towards FHLBs is consistent with a broader shift in shadow bank funding towards the FHLB system. See Acharya, Afonso, and Kovner (2013). <a href="#f8">Return to text</a>
+ </p></div>
+ 
+   
+   <p><strong>Please cite as:</strong><br />
+Foley-Fisher, Nathan, Ralf R. Meisenzahl, Borghan Narajabad, Maria G. Perozek, and Stephane H. Verani (2016). "Funding Agreement-Backed Securities in the Enhanced Financial Accounts," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, August 5, 2016, http://dx.doi.org/10.17016/2380-7172.1823.</p>
+
+   
+    </div>
+  <div class="clear"></div>
+</div>
+<!-- InstanceEndEditable -->
+<p><em><strong>Disclaimer:</strong> FEDS Notes are articles in which Board economists offer their own views and present analysis on a range of topics in economics and finance. These articles are shorter and less technically oriented than FEDS Working Papers.</em></p>
+</div><!--closes main-->
+
+<div id="relatedInfo">
+<!--<select name="source">
+<option selected="" value="#">Previous Entries</option>
+            <option value="#">June 2013</option>                      
+</select>
+<p></p>-->
+<h2>Search Working Papers</h2><br />
+
+<div class="search">
+<form method="GET" action="http://search.newyorkfed.org/board_public/search" class="fsearchform" name="search" id="search">
+<input type="text" value="" maxlength="140" size="33" name="text"/> <input type="submit" id="search" value="Search" name="submit"/>
+</form>
+
+<br />
+<br/>
+
+</div>
+<!--Begin Meet the Economists -->        
+            
+        <script type="text/javascript">jQuery.fn.inc = function(a, d, e, f, g, c) { return this.length ? this.each(function() { f = $(this); c = function(b) { f.html($.isFunction(d) ? d(b) : b); e && e() }; $.browser.msie ? $("<iframe>").hide().bind("readystatechange", function() { /m/.test(this.readyState) && (c(this.contentWindow.document.body.innerHTML), $(this).remove()) }).attr("src", a).appendTo(document.body) : $.ajax({ url: a, complete: function(b, a) { /c/.test(a) && c(b.responseText) } }) }) : this }; $(function() { $('[class*="inc"]').each(function() { $(this).inc(unescape(this.className.replace(/.*inc:([^ $]+)/, "$1"))) }) });</script>                    
+            <div class="inc:/econresdata/meeteconomists.htm"></div>
+            
+        <!-- End Meet the Economists -->
+
+
+<!-- Begin Social box-->
+<span id="skip2"><a href="#skipStayConnected">Skip stay connected section</a></span>
+
+  <ul class="socialBox clearfix">
+<li class="heading"><h3 class="">Stay Connected</h3></li>
+
+
+        <li style="float:left"><span class="twitter"><a href="javascript:exitWindow('https://twitter.com/federalreserve','ext')">Twitter</a></span></li>
+    
+        <li style=""><span class="medCon youtube"><a href="javascript:exitWindow('http://www.youtube.com/FedReserveBoard','ext')">YouTube</a></span></li>
+     
+    <li style="float:left"><span class="medCon rss"><a href="/feeds/default.htm">RSS Feeds</a></span></li>
+ 
+    <li style=""><span class="medCon email"><a href="/newsevents/subscribe.htm">Subscribe</a></span></li>
+
+
+    </ul>
+  <br />
+
+<a name="skipStayConnected"></a>
+<!-- End Social box-->
+
+</div><!--closes relatedinfo-->
+<div class="clear"></div>
+</div> <!--closes contentwrapper -->
+<div class="clear"></div>
+<!-- InstanceBeginEditable name="Last Updated" -->
+<div id="lastUpdate">Last update: 
+  
+  
+  August 5, 2016 </div>
+<!-- InstanceEndEditable -->
+<div id="FooterLinks">
+
+
+    <a href="/default.htm">Home</a>
+     | <a href="/econresdata/default.htm">Economic Research & Data</a>
+
+</div> <!-- CLOSES FooterLinks -->
+
+
+ 
+<div id="secondaryFooterLinks">
+<div class="secondaryFooterLinksLeft">
+
+<a href="/accessibility.htm">Accessibility</a>
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+<a href="/disclaimer.htm">Disclaimer</a>
+<a href="/policies.htm">Website Policies</a>
+<a href="/foia/about_foia.htm">FOIA</a>
+ 
+
+
+
+</div>
+<div class="secondaryFooterLinksRight">
+<a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon" />
+</div>
+<div class="clear"></div>
+</div> <!-- CLOSES secondaryFooterLinks -->
+
+</div> <!-- CLOSES content -->
+<div class="clear"></div>
+</div> <!-- CLOSES contentwrapper -->
+<div id="footer">
+<div id="Footer2"></div>
+<script type="text/javascript"> 
+	<!-- FOR ALTERNATING TABLE ROWS//--> 
+	$(document).ready(function(){ 
+	
+	$(".pubtables tr:even").addClass("alt"); 
+	
+	}); 
+	</script> 
+    
+    
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+    // hide #back-top first
+    $("#back-top").hide();
+    
+    // fade in #back-top
+    $(function () {
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 100) {
+                $('#back-top').fadeIn();
+            } else {
+                $('#back-top').fadeOut();
+            }
+        });
+        // scroll body to 0px on click
+        $('#back-top a').click(function () {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+    });
+});
+</script>
+</div> <!-- CLOSES footer -->
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+<!-- InstanceEnd --></html>

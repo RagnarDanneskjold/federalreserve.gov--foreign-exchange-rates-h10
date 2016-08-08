@@ -1,0 +1,134 @@
+@charset "utf-8";
+/* CSS Document */
+
+<style type="text/css">
+
+	<!--
+
+	body	{color: black;
+		background-color: #ffffff;}
+
+	a:link  {color: #006666;}
+
+
+
+
+	a.nav:link  {color: #006666; text-decoration: underline;}
+	a.nav:visited  {color: #800080; text-decoration: underline;}
+	a.nav:hover  {color: #000000; text-decoration: underline;}
+	a.nav:active  {color: #000000; text-decoration: underline;}
+	
+	#container {width: 600px;
+				margin: 10px;
+				padding: 0px;
+				border: none;
+				}
+		
+	
+	
+	p {font-family: times new roman, times, serif;
+				font-size: 1em;
+				line-height: 1.2em;
+				margin-bottom: 0em;
+				margin-top: 0em;}
+				
+	h1 {font-family: arial, sans-serif;
+				font-size: 1.2em;
+				font-weight: bold;
+				line-height: 1em;
+				margin-bottom: 0em;
+				color: #cc6600;}
+				
+	h2 {font-family: arial, sans-serif;
+				font-size: 1em;
+				font-weight: bold;
+				color: #000000;
+				line-height: 1em;
+				margin-bottom: 0em;}
+				
+	h3 {font-family: arial, sans-serif;
+				font-size: 1em;
+				font-weight: bold;
+				color: #cc6600;
+				line-height: 1em;
+				margin-bottom: 0em;}
+				
+	.navlink {font-family: times new roman, times, serif;
+				font-size: .8em;
+				line-height: 1.4em;
+				}
+				
+	.sections {font-family: verdana, arial, sans-serif;
+				font-size: .7em;
+				line-height: 1.6em;}
+				
+	.table {font-family: times new roman, times, serif;
+				font-size: 1.2em;
+				line-height: 1.2em;}
+				
+	.footer {font-family: times new roman, times, serif;
+				font-size: .8em;
+				margin-top: 0;
+				line-height: 1.3em;}
+				
+	.pagedate {font-family: times new roman, times, serif;
+				font-size: .8em;
+				font-weight: bold;
+				margin-top: 0;
+				line-height: 1.3em;}
+				
+	.box {font-family: verdana, arial, sans-serif;
+				font-size: .7em;
+				line-height: 1.2em;}
+				
+	dd {font-family: times new roman, times, serif;
+				font-size: 1em;
+				line-height: 1.2em;
+				margin-left: 2em;}
+				
+	.indent {font-family: times new roman, times, serif;
+				font-size: 1em;
+				line-height: 1.2em;
+				margin-left: 2em; }
+				
+	.indent2 {font-family: times new roman, times, serif;
+				font-size: 1em;
+				line-height: 1.2em;
+				margin-left: 2em; 
+				margin-right: 2em;
+				background-color: #ffffcc;
+				padding: 1em;}
+				
+	.tip {font-family: arial, sans-serif;
+				font-size: 1em;
+				font-weight: bold;
+				color: #cc6600;}
+				
+	.bold {font-family: arial, sans-serif;
+				font-size: .9em;
+				font-weight: bold;
+				color: #000000;}
+				
+	.bold2 {font-family: arial, sans-serif;
+				font-size: .9em;
+				font-weight: bold;
+				color: #cc6600;}
+				
+	sup {
+    font-size: .85em;
+    vertical-align: baseline;
+    position: relative;
+    bottom: 0.33em;
+}
+
+	ol	{margin-left: .9em;
+		margin-bottom: 0em;
+		}
+		
+	li	{margin-left: .6em;
+		}
+				
+	
+	-->
+
+	</style>

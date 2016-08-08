@@ -1,0 +1,215 @@
+
+<DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" />
+ 
+<!--Common javascript functions -->
+
+<script>
+function setHourglass(intTime) 
+{
+	document.body.style.cursor = 'wait';
+	setTimeout("setHourglassOff()", intTime)
+}
+
+function setHourglassOn() 
+{
+	document.body.style.cursor = 'wait';
+}
+
+function setHourglassOff() 
+{
+	document.body.style.cursor = 'default';
+}
+
+function LoadWaitDialog(vFlag) 
+{
+	setHourglassOn();
+    window.showModelessDialog('includes/Wait.html', vFlag, 'dialogHeight: 200px; dialogWidth: 420px; status:no; center:yes;');
+}
+
+</script>
+<html xmlns="http://www.w3.org/1999/xhtml" >
+	<head>
+		<title id="pageTitle">FRB H6: Data Download Program - Choose</title>
+		<meta content="Microsoft Visual Studio .NET 7.1" name="GENERATOR" />
+		<meta content="Visual Basic .NET 7.1" name="CODE_LANGUAGE" />
+		<meta content="JavaScript" name="vs_defaultClientScript" />
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema" />
+		<!--script language="JavaScript" src="/exit_new.js" type="text/javascript"></script-->
+		<!--<link href="Styles.css" type="text/css" rel="stylesheet" />-->
+		<link href="/resources/pubweb.css" type="text/css" rel="stylesheet" />
+		<link href="/resources/secondary.css" type="text/css" rel="stylesheet" />
+		<link href="/resources/economic.css" type="text/css" rel="stylesheet" />
+	<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+	
+	<body>
+		<form method="post" action="./Choose.aspx?rel=H.6" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjk4NzExNTU0D2QWBAIDDxYCHglpbm5lcmh0bWwFJkZSQiBINjogRGF0YSBEb3dubG9hZCBQcm9ncmFtIC0gQ2hvb3NlZAIFD2QWDAIDDw8WAh4EVGV4dAVnPGEgaHJlZj0nL3JlbGVhc2VzL0g2L2RlZmF1bHQuaHRtJz5ILjYgU3RhdGlzdGljYWwgUmVsZWFzZTwvYT4gLSBsYXN0IHJlbGVhc2VkIFRodXJzZGF5LCBBdWd1c3QgNCwgMjAxNmRkAgYPDxYCHwFlZGQCCg8PZBYCHgdvbmNsaWNrBRFzZXRIb3VyZ2xhc3NPbigpO2QCDA9kFggCAQ8QDxYCHgdWaXNpYmxlaGRkFgBkAgIPEA8WBh4NRGF0YVRleHRGaWVsZAUQU2hvcnREZXNjcmlwdGlvbh4ORGF0YVZhbHVlRmllbGQFA3VybB4LXyFEYXRhQm91bmRnZBAVEEtILjYgU3RhdGlzdGljYWwgUmVsZWFzZSAtIE1vbnRobHksIGluIEJpbGxpb25zIFtjc3YsIExhc3QgMjQgT2JzLCAxMi43IEtCIF1JSC42IFN0YXRpc3RpY2FsIFJlbGVhc2UgLSBXZWVrbHksIGluIEJpbGxpb25zIFtjc3YsIExhc3QgMTMgT2JzLCA5LjEgS0IgXU9ILjYgSGlzdG9yaWNhbCBUYWJsZSAxIC0gTW9udGhseSwgaW4gQmlsbGlvbnMgW2NzdiwgQWxsIE9ic2VydmF0aW9ucywgMjQuMiBLQiBdT0guNiBIaXN0b3JpY2FsIFRhYmxlIDIgLSBNb250aGx5LCBpbiBCaWxsaW9ucyBbY3N2LCBBbGwgT2JzZXJ2YXRpb25zLCAyNy44IEtCIF1PSC42IEhpc3RvcmljYWwgVGFibGUgMyAtIE1vbnRobHksIGluIEJpbGxpb25zIFtjc3YsIEFsbCBPYnNlcnZhdGlvbnMsIDQyLjAgS0IgXU9ILjYgSGlzdG9yaWNhbCBUYWJsZSA0IC0gTW9udGhseSwgaW4gQmlsbGlvbnMgW2NzdiwgQWxsIE9ic2VydmF0aW9ucywgMjcuOSBLQiBdT0guNiBIaXN0b3JpY2FsIFRhYmxlIDUgLSBNb250aGx5LCBpbiBCaWxsaW9ucyBbY3N2LCBBbGwgT2JzZXJ2YXRpb25zLCA0Mi4xIEtCIF1PSC42IEhpc3RvcmljYWwgVGFibGUgNiAtIE1vbnRobHksIGluIEJpbGxpb25zIFtjc3YsIEFsbCBPYnNlcnZhdGlvbnMsIDQ3LjYgS0IgXU9ILjYgSGlzdG9yaWNhbCBUYWJsZSA3IC0gV2Vla2x5LCBpbiBCaWxsaW9ucyAgW2NzdiwgQWxsIE9ic2VydmF0aW9ucywgNzIuMSBLQiBdT0guNiBIaXN0b3JpY2FsIFRhYmxlIDggLSBXZWVrbHksIGluIEJpbGxpb25zICBbY3N2LCBBbGwgT2JzZXJ2YXRpb25zLCA5NS44IEtCIF1QSC42IEhpc3RvcmljYWwgVGFibGUgOSAtIFdlZWtseSwgaW4gQmlsbGlvbnMgIFtjc3YsIEFsbCBPYnNlcnZhdGlvbnMsIDE0MC40IEtCIF1PSC42IEhpc3RvcmljYWwgVGFibGUgMTAgLSBXZWVrbHksIGluIEJpbGxpb25zIFtjc3YsIEFsbCBPYnNlcnZhdGlvbnMsIDk1LjggS0IgXVBILjYgSGlzdG9yaWNhbCBUYWJsZSAxMSAtIFdlZWtseSwgaW4gQmlsbGlvbnMgW2NzdiwgQWxsIE9ic2VydmF0aW9ucywgMTQwLjUgS0IgXVBILjYgSGlzdG9yaWNhbCBUYWJsZSAxMiAtIFdlZWtseSwgaW4gQmlsbGlvbnMgW2NzdiwgQWxsIE9ic2VydmF0aW9ucywgMTIyLjIgS0IgXVpILjYgTTMgRGlzY29udGludWVkIE1vbmV5IE1lYXN1cmUgLSBNb250aGx5LCBpbiBCaWxsaW9ucyBbY3N2LCBBbGwgT2JzZXJ2YXRpb25zLCA1NC42IEtCIF1aSC42IE0zIERpc2NvbnRpbnVlZCBNb25leSBNZWFzdXJlIC0gV2Vla2x5LCBpbiBCaWxsaW9ucyBbY3N2LCBBbGwgT2JzZXJ2YXRpb25zLCAxNTUuOCBLQiBdFRB/cmVsPUg2JnNlcmllcz01OWZhMjI3MzUzOTQyYTdjOWJkYzBkZWM3MmVhOTJmYyZsYXN0b2JzPTI0JmZyb209JnRvPSZmaWxldHlwZT1jc3YmbGFiZWw9aW5jbHVkZSZsYXlvdXQ9c2VyaWVzY29sdW1uJnR5cGU9cGFja2FnZX9yZWw9SDYmc2VyaWVzPWFhNTI3YzM2MzE2YmZkZmIwMTNhZjI3ODJlMjI3MGIzJmxhc3RvYnM9MTMmZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9NjdjNTEyYzlmNGViNTFhMjBhNWI2ZGE1MjEzNWIwOWImbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9YWY0MjJjM2QwNWFhN2RkZWJlYzk4MGM4NTNjMDQ0NjkmbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9YTc3OTUwYWVhYWI0OWRkMjg5NWZkZmM1ZmVmZjUwNTQmbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9NDQ0MWE0YWI4M2UyOTZmZWEwYWFiYjIxODExNDM1Y2YmbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9MWZjNDNlZDY4MGYyMDBkOWU2ZGZhYTBiMDQ0NTIwNGYmbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9MmI0NjM4MmNhODQyMzQ0YWE2OGRkNTdkMTNjZGIzYzgmbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9NWViZmEwNTM5NTkxN2U0NWY5MjQ5YWMzNmI0YjE3MDcmbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9YjYyMWU5YjNjMTllOTViYjE1NWUyNTY4MzRjNGFhZTImbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9NWFjODM4Njc2M2ZlZjhkOWU5Nzg3ZmRkNjY4MThiZDAmbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9MDBlMjg3YzQyYjgyYzk5ZmM4NTg2N2Q2ZTJkYmM2YjEmbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9ZmZhOTYwZTc5ZDY5YjA5Zjc5MTQyOWRhYzJlN2ZlMTQmbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9YzQ0MTgwMDI5YjM4NzM3YTRiYmFjODNjYzJmM2QzMTQmbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9YjM5YmY4NDZkYThlNjFkMjdmYzViZDQ0NWE0Y2ZlNGEmbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlfXJlbD1INiZzZXJpZXM9YWUyYmNlNmZiNTI3ZjU2MDE1ZWI5ODI0MTE1NDM1MjYmbGFzdG9icz0mZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNjb2x1bW4mdHlwZT1wYWNrYWdlFCsDEGdnZ2dnZ2dnZ2dnZ2dnZ2dkZAIEDw9kFgIfAgURc2V0SG91cmdsYXNzT24oKTtkAgYPD2QWAh8CBRFzZXRIb3VyZ2xhc3NPbigpO2QCDg8PFgQfAQU8RG93bmxvYWQgYWxsIEg2IGRhdGEgYXMgYSBzaW5nbGUgWE1MIGZpbGUgW1NETVgvWklQLCAxLjEgTUJdHgtOYXZpZ2F0ZVVybAUfT3V0cHV0LmFzcHg/cmVsPUg2JmZpbGV0eXBlPXppcBYCHwIFE3NldEhvdXJnbGFzcygxMDAwKTtkAhAPDxYCHwEFzBI8Yj48QSBocmVmPSdodHRwOi8vd3d3LmZlZGVyYWxyZXNlcnZlLmdvdi9mZWVkcy9oNi5odG1sIzEyMTcnPk1PTkVZIFNUT0NLIFJFVklTSU9OUzwvQT48L2I+PGJyPjxiPjxJPjIwMTYtMDEtMjg8L2I+PC9JPjxicj48YnI+VGhlIEZlZGVyYWwgUmVzZXJ2ZSByZXZpc2VkIGl0cyBtZWFzdXJlcyBvZiB0aGUgbW9uZXkgc3RvY2sgYW5kIHRoZWlyIGNvbXBvbmVudHMgdG8gaW5jb3Jwb3JhdGUgdXBkYXRlZCBzZWFzb25hbCBmYWN0b3JzIGFuZCBhIG5ldyBxdWFydGVybHkgYmVuY2htYXJrLiAgIFRoaXMgcmVsZWFzZSBpbmNsdWRlcyBzZWFzb25hbGx5IGFkanVzdGVkIG1lYXN1cmVzIG9mIHRoZSBtb25ldGFyeSBhZ2dyZWdhdGVzIGFuZCBjb21wb25lbnRzIHByb2R1Y2VkIHdpdGggcmV2aXNlZCBzZWFzb25hbCBmYWN0b3JzLCB3aGljaCB3ZXJlIGRlcml2ZWQgZnJvbSBkYXRhIHRocm91Z2ggRGVjZW1iZXIgMjAxNSBhbmQgZXN0aW1hdGVkIHVzaW5nIHRoZSBYLTEyLUFSSU1BIHByb2NlZHVyZS5bMV0gV2hpbGUgdGhlIHVwZGF0ZWQgc2Vhc29uYWwgZmFjdG9ycyByZXN1bHRlZCBpbiByZXZpc2lvbnMgdG8gdGhlIGdyb3d0aCByYXRlcyBvZiBzZWFzb25hbGx5IGFkanVzdGVkIE0yIGZvciBpbmRpdmlkdWFsIG1vbnRocyBpbiAyMDE1LCB0aGUgZ3Jvd3RoIHJhdGVzIGZvciBzZWFzb25hbGx5IGFkanVzdGVkIE0yIGluIHRoZSBmaXJzdCBhbmQgc2Vjb25kIGhhbGYgb2YgMjAxNSB3ZXJlIHJvdWdobHkgdW5jaGFuZ2VkLiAgVGhpcyByZWxlYXNlIGFsc28gaW5jbHVkZXMgYSBuZXcgcXVhcnRlcmx5IGJlbmNobWFyaywgd2hpY2ggaW5jb3Jwb3JhdGVzIG1pbm9yIHJldmlzaW9ucyB0byBkYXRhIHJlcG9ydGVkIGluIHRoZSBxdWFydGVybHkgZGVwb3NpdCByZXBvcnRzLCBhbmQgdGFrZXMgYWNjb3VudCBvZiBkZXBvc2l0IGRhdGEgZnJvbSBDYWxsIFJlcG9ydHMgZm9yIGJhbmtzIGFuZCB0aHJpZnQgaW5zdGl0dXRpb25zIHRoYXQgYXJlIG5vdCB3ZWVrbHkgb3IgcXVhcnRlcmx5IGRlcG9zaXQgcmVwb3J0ZXJzLlsyXSAgIFRoZXNlIHJldmlzaW9ucyB0byBkZXBvc2l0IGRhdGEgc3RhcnQgaW4gMjAxMi4gIEluIGFkZGl0aW9uLCB0aGlzIHJlbGVhc2UgaW5jb3Jwb3JhdGVzIGRhdGEgZnJvbSBDYWxsIFJlcG9ydHMgb24gdGhlIGFtb3VudCBvZiBzbWFsbC1kZW5vbWluYXRpb24gdGltZSBkZXBvc2l0cyBoZWxkIGluIGluZGl2aWR1YWwgcmV0aXJlbWVudCBhY2NvdW50cyAoSVJBcykgYW5kIEtlb2doIGFjY291bnRzOyByZWxhdGVkIHJldmlzaW9ucyB0byBkZXBvc2l0IGRhdGEgc3RhcnQgaW4gMjAxNS4gIExpa2V3aXNlLCB0aGUgYmVuY2htYXJrIGluY29ycG9yYXRlcyByZXZpc2lvbnMgdG8gSVJBIGFuZCBLZW9naCBiYWxhbmNlcyBoZWxkIGF0IHJldGFpbCBhbmQgaW5zdGl0dXRpb25hbCBtb25leSBtYXJrZXQgbXV0dWFsIGZ1bmRzOyB0aGVzZSByZXZpc2lvbnMgdG8gZGF0YSBvbiBtb25leSBtYXJrZXQgbXV0dWFsIGZ1bmRzIGJlZ2luIGluIDIwMTUuICBUaGlzIHJlbGVhc2UgYWxzbyBpbmNvcnBvcmF0ZXMgdGhlIHJlY2VpcHQgb2YgaGlzdG9yaWNhbCBpbmZvcm1hdGlvbiBmcm9tIG90aGVyIHNvdXJjZXMgb2YgZGF0YS4gVGhlIGVmZmVjdHMgb2YgYm90aCB0aGUgcmV2aXNpb25zIHRvIHNlYXNvbmFsIGZhY3RvcnMgYW5kIHRoZSBuZXcgcXVhcnRlcmx5IGJlbmNobWFyayBvbiB0aGUgZ3Jvd3RoIHJhdGVzIG9mIE0xIGFuZCBNMiBhcmUgb3V0bGluZWQgaW4gYXBwZW5kaXggdGFibGVzIDYgYW5kIDcuIEhpc3RvcmljYWwgZGF0YSwgdXBkYXRlZCBlYWNoIHdlZWssIGFyZSBhdmFpbGFibGUgd2l0aCB0aGUgSC42IHN0YXRpc3RpY2FsIHJlbGVhc2UgYXQgd3d3LmZlZGVyYWxyZXNlcnZlLmdvdi9lY29ucmVzZGF0YS9zdGF0aXN0aWNzZGF0YS5odG0uLS0tLS0tLS0tLS0tLS0tLS0tLS1bMV0gSW5mb3JtYXRpb24gb24gdGhlIHNlYXNvbmFsIGFkanVzdG1lbnQgcHJvY2VkdXJlIGlzIGF2YWlsYWJsZSBvbiB0aGUgVS5TLiBDZW5zdXMgQnVyZWF1IHdlYnNpdGUgYXQgaHR0cHM6Ly93d3cuY2Vuc3VzLmdvdi9zcmQvd3d3L3gxM2FzLlsyXSAiQ2FsbCBSZXBvcnRzIiByZWZlcnMgdG8gdGhlIGNvbW1lcmNpYWwgYmFuayBDb25zb2xpZGF0ZWQgUmVwb3J0cyBvZiBDb25kaXRpb24gYW5kIEluY29tZSAoRkZJRUMgMDMxIGFuZCAwNDE7IE9NQiBOby4gNzEwMC0wMDM2KSBhbmQgdGhlIGNyZWRpdCB1bmlvbiBTdGF0ZW1lbnQgb2YgRmluYW5jaWFsIENvbmRpdGlvbiAoTkNVQSA1MzAwLzUzMDBTRjsgT01CIE5vLiAzMTMzLTAwMDQpLjxicj48YnI+PEEgaHJlZj0naHR0cDovL3d3dy5mZWRlcmFscmVzZXJ2ZS5nb3YvZmVlZHMvaDYuaHRtbCc+QWxsIEFubm91bmNlbWVudHM8L0E+ZGRkfuF66UKWngvSTbV7SPZ9ZgHT4kRgx3m49m9h5CMaeLQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1416AF91" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABUQxaAeqGuKSFnyWchqyV970bHgaFv6zA3gOYRyg/p1cJVDxPzDvH0vR/D5FkXcEJvg4spkYRDM24m4LRcH++I4tpJd8p+hXZ2lodLni96X5p6EtU1+8rFqKSMMKuNthjSXAs/s6e52I4i0Uvc84G1IAmpvRpoSAyaiUVcD4ymeO1YTdYrsyv2pj6yCy0XosQhZtKk42k1Ph1ObvEF3APFBCcrZKlwl+jneUn4g+A6B5Xds6+uxFHxQJI9uP5pO2BhZI5qsBTJHBkVkPWR1CMcmnpztIRHzMh6jwv5mla+hT9K4E8h085FE3jYwqjSSGPVyrxs8Z1a7ysHOZjZXoqJ5WuFSZrQqnSr18ExY3saYbkBT4GgotM49VE4J3iNg5f41VfVuzGPOrWyYWJRgIrNbOmqetKs+rReLiWsrOk+cVL+y0v41ADXbLsh+hapjTzzZImbWqu5IYgzoZGSo28pqukCOeiN8XX8XGhBYkCbNiA==" />
+			
+ <div id="top">
+ <div id="headerMasthead"><a href="/default.htm"><img src="/econresdata/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System" border="0" /></a></div>
+</div>
+<div id="BreadCrumbContainer">
+
+<a href="/default.htm">Home</a>
+
+ &gt; <a href="/econresdata/default.htm">Economic Research & Data</a>
+
+</div> 
+
+			
+			<div class="generalContentTextDDP" id="printThis">
+
+            <div id="printIcon">
+                <div class="subtitletd"><span id="ReleaseLabel"><a href='/releases/H6/default.htm'>H.6 Statistical Release</a> - last released Thursday, August 4, 2016</span><span id="ReleaseDateLabel"></span></div>
+			</div>	
+	
+			<div class="pageTitle">
+			<h1 class="all"><img src="gifjpg/ddpIcon.jpg" alt="Data Download Icon"/>Data Download Program</h1>
+			
+			<div class="navigate"><a href="/releases/">All Statistical Releases</a>&nbsp;&gt; <a href="default.htm">
+							Data Download Program home</a>&nbsp;&gt; <strong>Choose</strong></div>
+			</div>
+           
+			<div id="printIcon2">
+                <div id="helptest"><li class="rss"><a href="/feeds/">RSS</a></li><li class="hlp"><a href="javascript:var w=window.open('help/default.htm','','width=700,height=550,menubar=1,resizable=1,scrollbars=1');">Help</a></li>
+                    <noscript><a href="/feeds/">RSS</a>&nbsp;&nbsp;<span class="help"><a href="help/default.htm" target="_blank">Help</a></span></noscript>
+                </div>
+            </div>			
+						
+			<div><span id="Message"><font color="Red"></font></span></div>
+		
+			<table class="sectionTitle">				
+                <tr>
+                <td class="tab"><h2 class="ddp1">Choose a package</h2></td>
+                <td class="name"><span id="lblPackageDescription"></span></td>
+                <td class="learn"><a href="javascript:var w=window.open('help/default.htm#chooseData','','width=700,height=550,menubar=1,resizable=1,scrollbars=1');">
+									                Learn&nbsp;more</A><noscript><a href="help/default.htm#chooseData" target="_blank">Learn more</a></noscript></td>
+                </tr>
+            </table>
+		
+			<div class="instruct">Either build your own custom data package <strong>OR</strong> select a preformatted data package.</div>
+											
+			<table cellspacing="5" cellpadding="5">
+				<tr>
+					<td valign="top" style="width: 400px">
+						<div class="canSection">
+							<div class="packageTitle"><img src="gifjpg/circleA.jpg" alt="A" /><span class="text">Build your package</span></div>
+							<ul class="choose">
+								<li>
+								<img src="gifjpg/selectIcon.jpg" alt="Select your data"/>Select your data</li>
+								<li class="arrow"><img src="gifjpg/arrowIcon.jpg" alt="Arrow"/></li>
+								<li>
+								<img src="gifjpg/formatIcon.jpg" alt="Choose format and date range"/>Choose format and date range</li>
+								<li class="arrow"><img src="gifjpg/arrowIcon.jpg" alt="Arrow"/></li>
+								<li>
+								<img src="gifjpg/downloadIcon.jpg" alt="Download file"/>Download file
+								</li>
+							</ul>
+							<p><input type="submit" name="btnToSelect" value="Build package" onclick="setHourglassOn();" id="btnToSelect" /></p>
+						</div>
+					</td>
+					<td align="left" valign="top">
+						<div id="PackageList" class="canSection"><div class="packageTitle"><img src="gifjpg/circleB.jpg" alt="B" /><span class="text">Select 
+								a&nbsp;preformatted data package</span></div>
+							<div class="cans"><select size="8" name="FreqRequestList" id="FreqRequestList" class="cansList">
+	<option selected="selected" value="rel=H6&amp;series=59fa227353942a7c9bdc0dec72ea92fc&amp;lastobs=24&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Statistical Release - Monthly, in Billions [csv, Last 24 Obs, 12.7 KB ]</option>
+	<option value="rel=H6&amp;series=aa527c36316bfdfb013af2782e2270b3&amp;lastobs=13&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Statistical Release - Weekly, in Billions [csv, Last 13 Obs, 9.1 KB ]</option>
+	<option value="rel=H6&amp;series=67c512c9f4eb51a20a5b6da52135b09b&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Historical Table 1 - Monthly, in Billions [csv, All Observations, 24.2 KB ]</option>
+	<option value="rel=H6&amp;series=af422c3d05aa7ddebec980c853c04469&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Historical Table 2 - Monthly, in Billions [csv, All Observations, 27.8 KB ]</option>
+	<option value="rel=H6&amp;series=a77950aeaab49dd2895fdfc5feff5054&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Historical Table 3 - Monthly, in Billions [csv, All Observations, 42.0 KB ]</option>
+	<option value="rel=H6&amp;series=4441a4ab83e296fea0aabb21811435cf&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Historical Table 4 - Monthly, in Billions [csv, All Observations, 27.9 KB ]</option>
+	<option value="rel=H6&amp;series=1fc43ed680f200d9e6dfaa0b0445204f&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Historical Table 5 - Monthly, in Billions [csv, All Observations, 42.1 KB ]</option>
+	<option value="rel=H6&amp;series=2b46382ca842344aa68dd57d13cdb3c8&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Historical Table 6 - Monthly, in Billions [csv, All Observations, 47.6 KB ]</option>
+	<option value="rel=H6&amp;series=5ebfa05395917e45f9249ac36b4b1707&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Historical Table 7 - Weekly, in Billions  [csv, All Observations, 72.1 KB ]</option>
+	<option value="rel=H6&amp;series=b621e9b3c19e95bb155e256834c4aae2&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Historical Table 8 - Weekly, in Billions  [csv, All Observations, 95.8 KB ]</option>
+	<option value="rel=H6&amp;series=5ac8386763fef8d9e9787fdd66818bd0&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Historical Table 9 - Weekly, in Billions  [csv, All Observations, 140.4 KB ]</option>
+	<option value="rel=H6&amp;series=00e287c42b82c99fc85867d6e2dbc6b1&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Historical Table 10 - Weekly, in Billions [csv, All Observations, 95.8 KB ]</option>
+	<option value="rel=H6&amp;series=ffa960e79d69b09f791429dac2e7fe14&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Historical Table 11 - Weekly, in Billions [csv, All Observations, 140.5 KB ]</option>
+	<option value="rel=H6&amp;series=c44180029b38737a4bbac83cc2f3d314&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 Historical Table 12 - Weekly, in Billions [csv, All Observations, 122.2 KB ]</option>
+	<option value="rel=H6&amp;series=b39bf846da8e61d27fc5bd445a4cfe4a&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 M3 Discontinued Money Measure - Monthly, in Billions [csv, All Observations, 54.6 KB ]</option>
+	<option value="rel=H6&amp;series=ae2bce6fb527f56015eb982411543526&amp;lastobs=&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;type=package">H.6 M3 Discontinued Money Measure - Weekly, in Billions [csv, All Observations, 155.8 KB ]</option>
+
+</select></div>
+							<input type="submit" name="btnToDownload" value="Go to download" onclick="setHourglassOn();" id="btnToDownload" />
+							<input type="submit" name="btnToFormat" value="Format package" onclick="setHourglassOn();" id="btnToFormat" />&nbsp;
+						</div>
+						<a id="AllData" onclick="setHourglass(1000);" href="Output.aspx?rel=H6&amp;filetype=zip" style="display:inline-block;">Download all H6 data as a single XML file [SDMX/ZIP, 1.1 MB]</a>
+						<p>Obtain <a href="javascript:exitalert('http://www.pkware.com/')">PKZip software</a></p>
+					</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>
+					   </td>
+					<td>
+					</td>
+				</tr>
+			</table>
+			
+			<h2 class="ddp2"><span class="tab">Announcements</span></h2>
+            <span id="lblLastRSS"><b><A href='http://www.federalreserve.gov/feeds/h6.html#1217'>MONEY STOCK REVISIONS</A></b><br><b><I>2016-01-28</b></I><br><br>The Federal Reserve revised its measures of the money stock and their components to incorporate updated seasonal factors and a new quarterly benchmark.   This release includes seasonally adjusted measures of the monetary aggregates and components produced with revised seasonal factors, which were derived from data through December 2015 and estimated using the X-12-ARIMA procedure.[1] While the updated seasonal factors resulted in revisions to the growth rates of seasonally adjusted M2 for individual months in 2015, the growth rates for seasonally adjusted M2 in the first and second half of 2015 were roughly unchanged.  This release also includes a new quarterly benchmark, which incorporates minor revisions to data reported in the quarterly deposit reports, and takes account of deposit data from Call Reports for banks and thrift institutions that are not weekly or quarterly deposit reporters.[2]   These revisions to deposit data start in 2012.  In addition, this release incorporates data from Call Reports on the amount of small-denomination time deposits held in individual retirement accounts (IRAs) and Keogh accounts; related revisions to deposit data start in 2015.  Likewise, the benchmark incorporates revisions to IRA and Keogh balances held at retail and institutional money market mutual funds; these revisions to data on money market mutual funds begin in 2015.  This release also incorporates the receipt of historical information from other sources of data. The effects of both the revisions to seasonal factors and the new quarterly benchmark on the growth rates of M1 and M2 are outlined in appendix tables 6 and 7. Historical data, updated each week, are available with the H.6 statistical release at www.federalreserve.gov/econresdata/statisticsdata.htm.--------------------[1] Information on the seasonal adjustment procedure is available on the U.S. Census Bureau website at https://www.census.gov/srd/www/x13as.[2] "Call Reports" refers to the commercial bank Consolidated Reports of Condition and Income (FFIEC 031 and 041; OMB No. 7100-0036) and the credit union Statement of Financial Condition (NCUA 5300/5300SF; OMB No. 3133-0004).<br><br><A href='http://www.federalreserve.gov/feeds/h6.html'>All Announcements</A></span>
+			</div>
+			
+
+<div id="lastUpdate"><span id="Footer_ReleaseLabel"></span>
+
+</div>
+
+
+<!-- The "Not in SmartEdit mode"-"SmartEdit mode" tags cancel each other, so list is hidden -->
+
+
+
+<!-- The "Not in SmartEdit mode"-"SmartEdit mode" tags cancel each other, so list is hidden -->
+
+
+<div id="FooterLinks">
+
+
+    <div class="footer"><a href="/">Home</a> | <a href="/rnd.htm">Economic research and data</a></div>
+    
+
+</div> <!-- CLOSES FooterLinks -->
+
+
+
+ 
+<div id="secondaryFooterLinks">
+<div class="secondaryFooterLinksLeft">
+
+<a href="/accessibility.htm">Accessibility</a> | <a id="Footer_btnContactUs" href="javascript:__doPostBack(&#39;Footer$btnContactUs&#39;,&#39;&#39;)">Contact Us</a>
+
+
+   </div> <!-- CLOSES content -->
+<div class="clear"></div>
+</div> <!-- CLOSES contentContainer -->
+
+<div id="footer">
+<div id="Footer2"></div>
+</div> <!-- CLOSES footer -->
+    
+
+
+
+
+
+<div class="clear"></div>
+
+
+
+
+		</form>
+	<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

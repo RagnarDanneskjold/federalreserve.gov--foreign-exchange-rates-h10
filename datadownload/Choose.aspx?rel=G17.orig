@@ -1,0 +1,197 @@
+
+<DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" />
+ 
+<!--Common javascript functions -->
+
+<script>
+function setHourglass(intTime) 
+{
+	document.body.style.cursor = 'wait';
+	setTimeout("setHourglassOff()", intTime)
+}
+
+function setHourglassOn() 
+{
+	document.body.style.cursor = 'wait';
+}
+
+function setHourglassOff() 
+{
+	document.body.style.cursor = 'default';
+}
+
+function LoadWaitDialog(vFlag) 
+{
+	setHourglassOn();
+    window.showModelessDialog('includes/Wait.html', vFlag, 'dialogHeight: 200px; dialogWidth: 420px; status:no; center:yes;');
+}
+
+</script>
+<html xmlns="http://www.w3.org/1999/xhtml" >
+	<head>
+		<title id="pageTitle">FRB G17: Data Download Program - Choose</title>
+		<meta content="Microsoft Visual Studio .NET 7.1" name="GENERATOR" />
+		<meta content="Visual Basic .NET 7.1" name="CODE_LANGUAGE" />
+		<meta content="JavaScript" name="vs_defaultClientScript" />
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema" />
+		<!--script language="JavaScript" src="/exit_new.js" type="text/javascript"></script-->
+		<!--<link href="Styles.css" type="text/css" rel="stylesheet" />-->
+		<link href="/resources/pubweb.css" type="text/css" rel="stylesheet" />
+		<link href="/resources/secondary.css" type="text/css" rel="stylesheet" />
+		<link href="/resources/economic.css" type="text/css" rel="stylesheet" />
+	<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+	
+	<body>
+		<form method="post" action="./Choose.aspx?rel=G17" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjk4NzExNTU0D2QWBAIDDxYCHglpbm5lcmh0bWwFJ0ZSQiBHMTc6IERhdGEgRG93bmxvYWQgUHJvZ3JhbSAtIENob29zZWQCBQ9kFgwCAw8PFgIeBFRleHQFgwE8YSBocmVmPScvcmVsZWFzZXMvRzE3L2RlZmF1bHQuaHRtJz5HLjE3IC0gSW5kdXN0cmlhbCBQcm9kdWN0aW9uIGFuZCBDYXBhY2l0eSBVdGlsaXphdGlvbjwvYT4gLSBsYXN0IHJlbGVhc2VkIEZyaWRheSwgSnVseSAxNSwgMjAxNmRkAgYPDxYCHwFlZGQCCg8PZBYCHgdvbmNsaWNrBRFzZXRIb3VyZ2xhc3NPbigpO2QCDA9kFggCAQ8QDxYGHg1EYXRhVGV4dEZpZWxkBRBTaG9ydERlc2NyaXB0aW9uHg5EYXRhVmFsdWVGaWVsZAUDdXJsHgtfIURhdGFCb3VuZGdkEBUHOEFsbCB0aGUgTGF0ZXN0IE1vbnRobHkgRGF0YSBbY3N2LCBMYXN0IDcgT2JzLCAyMDUuNCBLQiBdOkFsbCB0aGUgTGF0ZXN0IFF1YXJ0ZXJseSBEYXRhIFtjc3YsIExhc3QgNyBPYnMsIDE1OC4xIEtCIF02QWxsIHRoZSBMYXRlc3QgQW5udWFsIERhdGEgW2NzdiwgTGFzdCA3IE9icywgODkuMiBLQiBdS1RoZSBNYWpvciBJUCBhbmQgQ2FwYWNpdHkgVXRpbGl6YXRpb24gQWdncmVnYXRlcyBbY3N2LCBMYXN0IDcgT2JzLCAxLjUgS0IgXTJHLjE3IFN1bW1hcnkgVGFibGUgRGF0YSBbY3N2LCBMYXN0IDcgT2JzLCAyLjkgS0IgXTRNb3RvciBWZWhpY2xlIEFzc2VtYmxpZXMgW2NzdiwgTGFzdCA3IE9icywgMC45OCBLQiBdRkRpZmZ1c2lvbiBJbmRleGVzIG9mIEluZHVzdHJpYWwgUHJvZHVjdGlvbiBbY3N2LCBMYXN0IDcgT2JzLCAwLjcyIEtCIF0VB3xyZWw9RzE3JnNlcmllcz04MzhlMmZiNTgzNjBhZDY1YzBlYWI1YTA2YTc3ODhkMSZsYXN0b2JzPTcmZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNyb3cmdHlwZT1wYWNrYWdlfHJlbD1HMTcmc2VyaWVzPTY0YzcwYTNmMjFkYTk4NzA3NzNkOTQ2NmE4M2I5NmVjJmxhc3RvYnM9NyZmcm9tPSZ0bz0mZmlsZXR5cGU9Y3N2JmxhYmVsPWluY2x1ZGUmbGF5b3V0PXNlcmllc3JvdyZ0eXBlPXBhY2thZ2V8cmVsPUcxNyZzZXJpZXM9YmEwMGEwNzcxYzM1ODY5ZDYyNWYwOWUzNmJjOTdlOWEmbGFzdG9icz03JmZyb209JnRvPSZmaWxldHlwZT1jc3YmbGFiZWw9aW5jbHVkZSZsYXlvdXQ9c2VyaWVzcm93JnR5cGU9cGFja2FnZXxyZWw9RzE3JnNlcmllcz00MDNjYzM0MGVhM2ExOTU2NmIzMDc3MGI5ZTQ3OTNhYiZsYXN0b2JzPTcmZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNyb3cmdHlwZT1wYWNrYWdlfHJlbD1HMTcmc2VyaWVzPTgwOTAwOTQ2MWIxY2JhMmZkNWI0Y2Y1NTU3ZDlkNjYzJmxhc3RvYnM9NyZmcm9tPSZ0bz0mZmlsZXR5cGU9Y3N2JmxhYmVsPWluY2x1ZGUmbGF5b3V0PXNlcmllc3JvdyZ0eXBlPXBhY2thZ2V8cmVsPUcxNyZzZXJpZXM9NzVlZGMzNmZhZTEzYjllY2RiMTI2NmUwM2FiMzQ5MDImbGFzdG9icz03JmZyb209JnRvPSZmaWxldHlwZT1jc3YmbGFiZWw9aW5jbHVkZSZsYXlvdXQ9c2VyaWVzcm93JnR5cGU9cGFja2FnZXxyZWw9RzE3JnNlcmllcz03NmMzMjgyM2Y5M2U5N2NjYWVlYTBkNTIwMzg3MjlkZCZsYXN0b2JzPTcmZnJvbT0mdG89JmZpbGV0eXBlPWNzdiZsYWJlbD1pbmNsdWRlJmxheW91dD1zZXJpZXNyb3cmdHlwZT1wYWNrYWdlFCsDB2dnZ2dnZ2dkZAICDxAPFgIeB1Zpc2libGVoZGQWAGQCBA8PZBYCHwIFEXNldEhvdXJnbGFzc09uKCk7ZAIGDw9kFgIfAgURc2V0SG91cmdsYXNzT24oKTtkAg4PDxYEHwEFPkRvd25sb2FkIGFsbCBHMTcgZGF0YSBhcyBhIHNpbmdsZSBYTUwgZmlsZSBbU0RNWC9aSVAsIDAuMDUgS0JdHgtOYXZpZ2F0ZVVybAUgT3V0cHV0LmFzcHg/cmVsPUcxNyZmaWxldHlwZT16aXAWAh8CBRNzZXRIb3VyZ2xhc3MoMTAwMCk7ZAIQDw8WAh8BBZkaPGI+PEEgaHJlZj0naHR0cDovL3d3dy5mZWRlcmFscmVzZXJ2ZS5nb3YvZmVlZHMvZzE3Lmh0bWwjMTUwNic+QW5udWFsIGRhdGEgb24gbWFudWZhY3R1cmluZyBpbnZlc3RtZW50IGFuZCBjYXBpdGFsIGhhdmUgYmVlbiByZWxlYXNlZDwvQT48L2I+PGJyPjxiPjxJPjIwMTYtMDctMTU8L2I+PC9JPjxicj48YnI+VGhlIEZlZGVyYWwgUmVzZXJ2ZSByZWxlYXNlZCB1cGRhdGVkIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmZlZGVyYWxyZXNlcnZlLmdvdi9yZWxlYXNlcy9nMTcvZG93bmxvYWQuaHRtI2NhcHN0b2NrIj5hbm51YWwgaW5mb3JtYXRpb24gb24gdGhlIHJlYWwgY2FwaXRhbCBzdG9jayBhbmQgcmVhbCBpbnZlc3RtZW50PC9hPiBmb3IgZGV0YWlsZWQgaW5kdXN0cmllcyB3aXRoaW4gdGhlIG1hbnVmYWN0dXJpbmcgc2VjdG9yIGJhc2VkIG9uIGEgdmFyaWV0eSBvZiBkYXRhIHNvdXJjZXMuIFRoZXNlIGRhdGEgYnkgaW5kdXN0cnkgYW5kIGJyb2FkIGFzc2V0IGNsYXNzIGFyZSBwcm92aWRlZCB0byB0aGUgTmF0aW9uYWwgQnVyZWF1IG9mIEVjb25vbWljIFJlc2VhcmNoLUNlbnRlciBmb3IgRWNvbm9taWMgU3R1ZGllcyAoTkJFUi1DRVMpIE1hbnVmYWN0dXJpbmcgSW5kdXN0cnkgRGF0YWJhc2UuXT48L2Rlc2NyaXB0aW9uPjxkYzpkYXRlPjIwMTYtMDgtMDJUMTA6MDA6MDAtMDQ6MDA8L2RjOmRhdGU+PGRjOmxhbmd1YWdlPmVuPC9kYzpsYW5ndWFnZT48ZGM6cHVibGlzaGVyPkZSQjwvZGM6cHVibGlzaGVyPjxkY3Rlcm1zOnZhbGlkPmVuZD05OTk5LTEyLTMxVDAwOjAwOjAwLTA1OjAwPC9kY3Rlcm1zOnZhbGlkPjxjYjpuZXdzPjxjYjpzaW1wbGVUaXRsZT5Bbm51YWwgZGF0YSBvbiBtYW51ZmFjdHVyaW5nIGludmVzdG1lbnQgYW5kIGNhcGl0YWwgaGF2ZSBiZWVuIHJlbGVhc2VkPC9jYjpzaW1wbGVUaXRsZT48Y2I6b2NjdXJyZW5jZURhdGU+MjAxNi0wOC0wMlQxMDowMDowMC0wNDowMDwvY2I6b2NjdXJyZW5jZURhdGU+PGNiOmtleXdvcmQ+RzE3PC9jYjprZXl3b3JkPjwvY2I6bmV3cz48L2l0ZW0+PGl0ZW0gcmRmOmFib3V0PSJodHRwOi8vd3d3LmZlZGVyYWxyZXNlcnZlLmdvdi9mZWVkcy9HMTcuaHRtbCMxNTA3Ij48dGl0bGU+U2Vhc29uYWwgZmFjdG9ycyBmb3IgYXV0byBhbmQgdHJ1Y2sgc2FsZXMgaGF2ZSBiZWVuIHJlbGVhc2VkPC90aXRsZT48bGluaz5odHRwOi8vd3d3LmZlZGVyYWxyZXNlcnZlLmdvdi9mZWVkcy9HMTcuaHRtbCMxNTA3PC9saW5rPjxkZXNjcmlwdGlvbj48IVtDREFUQVtUaGUgRmVkZXJhbCBSZXNlcnZlIHJlbGVhc2VkIHVwZGF0ZWQgPGEgaHJlZj0iaHR0cHM6Ly93d3cuZmVkZXJhbHJlc2VydmUuZ292L3JlbGVhc2VzL2cxNy9tdl9zYWxlc19zZi5odG0iPnNlYXNvbmFsIGZhY3RvcnMgZm9yIGF1dG8gYW5kIHRydWNrIHNhbGVzPC9hPi4gQSBjb21tYS1kZWxpbWl0ZWQgdGV4dCBmaWxlIGNvbnRhaW5pbmcgdGhlc2Ugc2Vhc29uYWwgZmFjdG9ycyBpcyBhdmFpbGFibGUgZm9yIGRvd25sb2FkLl0+PC9kZXNjcmlwdGlvbj48ZGM6ZGF0ZT4yMDE2LTA4LTAyVDEwOjAwOjAwLTA0OjAwPC9kYzpkYXRlPjxkYzpsYW5ndWFnZT5lbjwvZGM6bGFuZ3VhZ2U+PGRjOnB1Ymxpc2hlcj5GUkI8L2RjOnB1Ymxpc2hlcj48ZGN0ZXJtczp2YWxpZD5lbmQ9OTk5OS0xMi0zMVQwMDowMDowMC0wNTowMDwvZGN0ZXJtczp2YWxpZD48Y2I6bmV3cz48Y2I6c2ltcGxlVGl0bGU+U2Vhc29uYWwgZmFjdG9ycyBmb3IgYXV0byBhbmQgdHJ1Y2sgc2FsZXMgaGF2ZSBiZWVuIHJlbGVhc2VkPC9jYjpzaW1wbGVUaXRsZT48Y2I6b2NjdXJyZW5jZURhdGU+MjAxNi0wOC0wMlQxMDowMDowMC0wNDowMDwvY2I6b2NjdXJyZW5jZURhdGU+PGNiOmtleXdvcmQ+RzE3PC9jYjprZXl3b3JkPjwvY2I6bmV3cz48L2l0ZW0+PGl0ZW0gcmRmOmFib3V0PSJodHRwOi8vd3d3LmZlZGVyYWxyZXNlcnZlLmdvdi9mZWVkcy9HMTcuaHRtbCMxNDgwIj48dGl0bGU+Ry4xNyBEYXRhIGZvciBKdW5lIDIwMTYgYXJlIG5vdyBhdmFpbGFibGU8L3RpdGxlPjxsaW5rPmh0dHA6Ly93d3cuZmVkZXJhbHJlc2VydmUuZ292L2ZlZWRzL0cxNy5odG1sIzE0ODA8L2xpbms+PGRlc2NyaXB0aW9uPjwhW0NEQVRBWzxwPkluZHVzdHJpYWwgcHJvZHVjdGlvbiBhbmQgY2FwYWNpdHkgdXRpbGl6YXRpb24gZGF0YSBmb3IgPGEgaHJlZj0iaHR0cHM6Ly93d3cuZmVkZXJhbHJlc2VydmUuZ292L3JlbGVhc2VzL2cxNy8yMDE2MDcxNS9kZWZhdWx0Lmh0bSI+SnVuZSAyMDE2PC9hPiBhcmUgbm93IGF2YWlsYWJsZS48L3A+PHA+SW5kdXN0cmlhbCBwcm9kdWN0aW9uIGluY3JlYXNlZCAwLjYgcGVyY2VudCBpbiBKdW5lIGFmdGVyIGRlY2xpbmluZyAwLjMgcGVyY2VudCBpbiBNYXkuIEZvciB0aGUgc2Vjb25kIHF1YXJ0ZXIgYXMgYSB3aG9sZSwgaW5kdXN0cmlhbCBwcm9kdWN0aW9uIGZlbGwgYXQgYW4gYW5udWFsIHJhdGUgb2YgMS4wIHBlcmNlbnQsIGl0cyB0aGlyZCBjb25zZWN1dGl2ZSBxdWFydGVybHkgZGVjbGluZS4gTWFudWZhY3R1cmluZyBvdXRwdXQgbW92ZWQgdXAgMC40IHBlcmNlbnQgaW4gSnVuZSwgYSBnYWluIGxhcmdlbHkgZHVlIHRvIGFuIGluY3JlYXNlIGluIG1vdG9yIHZlaGljbGUgYXNzZW1ibGllcy4gVGhlIG91dHB1dCBvZiBtYW51ZmFjdHVyZWQgZ29vZHMgb3RoZXIgdGhhbiBtb3RvciB2ZWhpY2xlcyBhbmQgcGFydHMgd2FzIHVuY2hhbmdlZC4gVGhlIGluZGV4IGZvciB1dGlsaXRpZXMgcm9zZSAyLjQgcGVyY2VudCBhcyBhIHJlc3VsdCBvZiB3YXJtZXIgd2VhdGhlciB0aGFuIGlzIHR5cGljYWwgZm9yIEp1bmUgYm9vc3RpbmcgZGVtYW5kIGZvciBhaXIgY29uZGl0aW9uaW5nLiBUaGUgb3V0cHV0IG9mIG1pbmluZyBtb3ZlZCB1cCAwLjIgcGVyY2VudCBmb3IgaXRzIHNlY29uZCBjb25zZWN1dGl2ZSBzbWFsbCBtb250aGx5IGluY3JlYXNlIGZvbGxvd2luZyBlaWdodCBzdHJhaWdodCBtb250aHMgb2YgZGVjbGluZS4gQXQgMTA0LjEgcGVyY2VudCBvZiBpdHMgMjAxMiBhdmVyYWdlLCB0b3RhbCBpbmR1c3RyaWFsIHByb2R1Y3Rpb24gaW4gSnVuZSB3YXMgMC43IHBlcmNlbnQgbG93ZXIgdGhhbiBpdHMgeWVhci1lYXJsaWVyIGxldmVsLiBDYXBhY2l0eSB1dGlsaXphdGlvbiBmb3IgdGhlIGluZHVzdHJpYWwgc2VjdG9yIGluY3JlYXNlZCAwLjUgcGVyY2VudGFnZSBwb2ludCBpbiBKdW5lIHRvIDc1LjQgcGVyY2VudCwgYSByYXRlIHRoYXQgaXMgNC42IHBlcmNlbnRhZ2UgcG9pbnRzIGJlbG93IGl0cyBsb25nLXJ1biAoMTk3Mi0yMDE1KSBhdmVyYWdlLjwvcD48YnI+PGJyPjxBIGhyZWY9J2h0dHA6Ly93d3cuZmVkZXJhbHJlc2VydmUuZ292L2ZlZWRzL2cxNy5odG1sJz5BbGwgQW5ub3VuY2VtZW50czwvQT5kZGTYEoUsawlUmb95jS9umbbfACl9+vLxbxMVtqZ+nbLrgg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1416AF91" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA0yLzlYpZqDG8U/E4/3wlVs0bHgaFv6zA3gOYRyg/p1cGFJupeRWvJ6SXfCjKQm0kbkYxS8QB+bOPinARHI3Sda0U+IW6Pv73HbEfmbCgKdkq2WFhyubdVfio89D3EKjrKw5SecrmTkRTITTMqEAyu17n11o5KAc//cFopfy3Xo3/xy/gGeTwBU6M0iNqptQB1364AtMuKWiKsXqczivy6XNVX1bsxjzq1smFiUYCKzWzpqnrSrPq0Xi4lrKzpPnFS/stL+NQA12y7IfoWqY088xXH5Ew8skhJPMVa7p/JV5gp8mDAQ5Bk0cSsGrmTKPAs=" />
+			
+ <div id="top">
+ <div id="headerMasthead"><a href="/default.htm"><img src="/econresdata/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System" border="0" /></a></div>
+</div>
+<div id="BreadCrumbContainer">
+
+<a href="/default.htm">Home</a>
+
+ &gt; <a href="/econresdata/default.htm">Economic Research & Data</a>
+
+</div> 
+
+			
+			<div class="generalContentTextDDP" id="printThis">
+
+            <div id="printIcon">
+                <div class="subtitletd"><span id="ReleaseLabel"><a href='/releases/G17/default.htm'>G.17 - Industrial Production and Capacity Utilization</a> - last released Friday, July 15, 2016</span><span id="ReleaseDateLabel"></span></div>
+			</div>	
+	
+			<div class="pageTitle">
+			<h1 class="all"><img src="gifjpg/ddpIcon.jpg" alt="Data Download Icon"/>Data Download Program</h1>
+			
+			<div class="navigate"><a href="/releases/">All Statistical Releases</a>&nbsp;&gt; <a href="default.htm">
+							Data Download Program home</a>&nbsp;&gt; <strong>Choose</strong></div>
+			</div>
+           
+			<div id="printIcon2">
+                <div id="helptest"><li class="rss"><a href="/feeds/">RSS</a></li><li class="hlp"><a href="javascript:var w=window.open('help/default.htm','','width=700,height=550,menubar=1,resizable=1,scrollbars=1');">Help</a></li>
+                    <noscript><a href="/feeds/">RSS</a>&nbsp;&nbsp;<span class="help"><a href="help/default.htm" target="_blank">Help</a></span></noscript>
+                </div>
+            </div>			
+						
+			<div><span id="Message"><font color="Red"></font></span></div>
+		
+			<table class="sectionTitle">				
+                <tr>
+                <td class="tab"><h2 class="ddp1">Choose a package</h2></td>
+                <td class="name"><span id="lblPackageDescription"></span></td>
+                <td class="learn"><a href="javascript:var w=window.open('help/default.htm#chooseData','','width=700,height=550,menubar=1,resizable=1,scrollbars=1');">
+									                Learn&nbsp;more</A><noscript><a href="help/default.htm#chooseData" target="_blank">Learn more</a></noscript></td>
+                </tr>
+            </table>
+		
+			<div class="instruct">Either build your own custom data package <strong>OR</strong> select a preformatted data package.</div>
+											
+			<table cellspacing="5" cellpadding="5">
+				<tr>
+					<td valign="top" style="width: 400px">
+						<div class="canSection">
+							<div class="packageTitle"><img src="gifjpg/circleA.jpg" alt="A" /><span class="text">Build your package</span></div>
+							<ul class="choose">
+								<li>
+								<img src="gifjpg/selectIcon.jpg" alt="Select your data"/>Select your data</li>
+								<li class="arrow"><img src="gifjpg/arrowIcon.jpg" alt="Arrow"/></li>
+								<li>
+								<img src="gifjpg/formatIcon.jpg" alt="Choose format and date range"/>Choose format and date range</li>
+								<li class="arrow"><img src="gifjpg/arrowIcon.jpg" alt="Arrow"/></li>
+								<li>
+								<img src="gifjpg/downloadIcon.jpg" alt="Download file"/>Download file
+								</li>
+							</ul>
+							<p><input type="submit" name="btnToSelect" value="Build package" onclick="setHourglassOn();" id="btnToSelect" /></p>
+						</div>
+					</td>
+					<td align="left" valign="top">
+						<div id="PackageList" class="canSection"><div class="packageTitle"><img src="gifjpg/circleB.jpg" alt="B" /><span class="text">Select 
+								a&nbsp;preformatted data package</span></div>
+							<div class="cans"><span id="FreqRequest" class="cansList"><input id="FreqRequest_0" type="radio" name="FreqRequest" value="rel=G17&amp;series=838e2fb58360ad65c0eab5a06a7788d1&amp;lastobs=7&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriesrow&amp;type=package" checked="checked" /><label for="FreqRequest_0">All the Latest Monthly Data [csv, Last 7 Obs, 205.4 KB ]</label><br /><input id="FreqRequest_1" type="radio" name="FreqRequest" value="rel=G17&amp;series=64c70a3f21da9870773d9466a83b96ec&amp;lastobs=7&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriesrow&amp;type=package" /><label for="FreqRequest_1">All the Latest Quarterly Data [csv, Last 7 Obs, 158.1 KB ]</label><br /><input id="FreqRequest_2" type="radio" name="FreqRequest" value="rel=G17&amp;series=ba00a0771c35869d625f09e36bc97e9a&amp;lastobs=7&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriesrow&amp;type=package" /><label for="FreqRequest_2">All the Latest Annual Data [csv, Last 7 Obs, 89.2 KB ]</label><br /><input id="FreqRequest_3" type="radio" name="FreqRequest" value="rel=G17&amp;series=403cc340ea3a19566b30770b9e4793ab&amp;lastobs=7&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriesrow&amp;type=package" /><label for="FreqRequest_3">The Major IP and Capacity Utilization Aggregates [csv, Last 7 Obs, 1.5 KB ]</label><br /><input id="FreqRequest_4" type="radio" name="FreqRequest" value="rel=G17&amp;series=809009461b1cba2fd5b4cf5557d9d663&amp;lastobs=7&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriesrow&amp;type=package" /><label for="FreqRequest_4">G.17 Summary Table Data [csv, Last 7 Obs, 2.9 KB ]</label><br /><input id="FreqRequest_5" type="radio" name="FreqRequest" value="rel=G17&amp;series=75edc36fae13b9ecdb1266e03ab34902&amp;lastobs=7&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriesrow&amp;type=package" /><label for="FreqRequest_5">Motor Vehicle Assemblies [csv, Last 7 Obs, 0.98 KB ]</label><br /><input id="FreqRequest_6" type="radio" name="FreqRequest" value="rel=G17&amp;series=76c32823f93e97ccaeea0d52038729dd&amp;lastobs=7&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriesrow&amp;type=package" /><label for="FreqRequest_6">Diffusion Indexes of Industrial Production [csv, Last 7 Obs, 0.72 KB ]</label></span></div>
+							<input type="submit" name="btnToDownload" value="Go to download" onclick="setHourglassOn();" id="btnToDownload" />
+							<input type="submit" name="btnToFormat" value="Format package" onclick="setHourglassOn();" id="btnToFormat" />&nbsp;
+						</div>
+						<a id="AllData" onclick="setHourglass(1000);" href="Output.aspx?rel=G17&amp;filetype=zip" style="display:inline-block;">Download all G17 data as a single XML file [SDMX/ZIP, 0.05 KB]</a>
+						<p>Obtain <a href="javascript:exitalert('http://www.pkware.com/')">PKZip software</a></p>
+					</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>
+					   </td>
+					<td>
+					</td>
+				</tr>
+			</table>
+			
+			<h2 class="ddp2"><span class="tab">Announcements</span></h2>
+            <span id="lblLastRSS"><b><A href='http://www.federalreserve.gov/feeds/g17.html#1506'>Annual data on manufacturing investment and capital have been released</A></b><br><b><I>2016-07-15</b></I><br><br>The Federal Reserve released updated <a href="https://www.federalreserve.gov/releases/g17/download.htm#capstock">annual information on the real capital stock and real investment</a> for detailed industries within the manufacturing sector based on a variety of data sources. These data by industry and broad asset class are provided to the National Bureau of Economic Research-Center for Economic Studies (NBER-CES) Manufacturing Industry Database.]></description><dc:date>2016-08-02T10:00:00-04:00</dc:date><dc:language>en</dc:language><dc:publisher>FRB</dc:publisher><dcterms:valid>end=9999-12-31T00:00:00-05:00</dcterms:valid><cb:news><cb:simpleTitle>Annual data on manufacturing investment and capital have been released</cb:simpleTitle><cb:occurrenceDate>2016-08-02T10:00:00-04:00</cb:occurrenceDate><cb:keyword>G17</cb:keyword></cb:news></item><item rdf:about="http://www.federalreserve.gov/feeds/G17.html#1507"><title>Seasonal factors for auto and truck sales have been released</title><link>http://www.federalreserve.gov/feeds/G17.html#1507</link><description><![CDATA[The Federal Reserve released updated <a href="https://www.federalreserve.gov/releases/g17/mv_sales_sf.htm">seasonal factors for auto and truck sales</a>. A comma-delimited text file containing these seasonal factors is available for download.]></description><dc:date>2016-08-02T10:00:00-04:00</dc:date><dc:language>en</dc:language><dc:publisher>FRB</dc:publisher><dcterms:valid>end=9999-12-31T00:00:00-05:00</dcterms:valid><cb:news><cb:simpleTitle>Seasonal factors for auto and truck sales have been released</cb:simpleTitle><cb:occurrenceDate>2016-08-02T10:00:00-04:00</cb:occurrenceDate><cb:keyword>G17</cb:keyword></cb:news></item><item rdf:about="http://www.federalreserve.gov/feeds/G17.html#1480"><title>G.17 Data for June 2016 are now available</title><link>http://www.federalreserve.gov/feeds/G17.html#1480</link><description><![CDATA[<p>Industrial production and capacity utilization data for <a href="https://www.federalreserve.gov/releases/g17/20160715/default.htm">June 2016</a> are now available.</p><p>Industrial production increased 0.6 percent in June after declining 0.3 percent in May. For the second quarter as a whole, industrial production fell at an annual rate of 1.0 percent, its third consecutive quarterly decline. Manufacturing output moved up 0.4 percent in June, a gain largely due to an increase in motor vehicle assemblies. The output of manufactured goods other than motor vehicles and parts was unchanged. The index for utilities rose 2.4 percent as a result of warmer weather than is typical for June boosting demand for air conditioning. The output of mining moved up 0.2 percent for its second consecutive small monthly increase following eight straight months of decline. At 104.1 percent of its 2012 average, total industrial production in June was 0.7 percent lower than its year-earlier level. Capacity utilization for the industrial sector increased 0.5 percentage point in June to 75.4 percent, a rate that is 4.6 percentage points below its long-run (1972-2015) average.</p><br><br><A href='http://www.federalreserve.gov/feeds/g17.html'>All Announcements</A></span>
+			</div>
+			
+
+<div id="lastUpdate"><span id="Footer_ReleaseLabel"></span>
+
+</div>
+
+
+<!-- The "Not in SmartEdit mode"-"SmartEdit mode" tags cancel each other, so list is hidden -->
+
+
+
+<!-- The "Not in SmartEdit mode"-"SmartEdit mode" tags cancel each other, so list is hidden -->
+
+
+<div id="FooterLinks">
+
+
+    <div class="footer"><a href="/">Home</a> | <a href="/rnd.htm">Economic research and data</a></div>
+    
+
+</div> <!-- CLOSES FooterLinks -->
+
+
+
+ 
+<div id="secondaryFooterLinks">
+<div class="secondaryFooterLinksLeft">
+
+<a href="/accessibility.htm">Accessibility</a> | <a id="Footer_btnContactUs" href="javascript:__doPostBack(&#39;Footer$btnContactUs&#39;,&#39;&#39;)">Contact Us</a>
+
+
+   </div> <!-- CLOSES content -->
+<div class="clear"></div>
+</div> <!-- CLOSES contentContainer -->
+
+<div id="footer">
+<div id="Footer2"></div>
+</div> <!-- CLOSES footer -->
+    
+
+
+
+
+
+<div class="clear"></div>
+
+
+
+
+		</form>
+	<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

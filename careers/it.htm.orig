@@ -1,0 +1,261 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/careers.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Federal Reserve Board:  Career Opportunities</title>
+<!-- InstanceEndEditable -->
+
+<!-- InstanceBeginEditable name="head" -->
+
+<!-- InstanceEndEditable -->
+
+<style type="text/css" media="screen">
+		@import url(styles/careers.css);
+    </style>
+<style type="text/css" media="print">
+		@import url(styles/print.css);
+    </style>
+    
+<script language="JavaScript">
+ <!-- hide javascript
+
+function popUp(pPage, winw, winh)
+{  var winOpts = 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1,width=' + winw + ',height=' + winh;
+   popUpWin = window.open(pPage,'popWin',winOpts);
+   if (parseInt(navigator.appVersion) >= 4)
+     { popUpWin.window.focus();
+     }
+}
+
+//-->
+
+var now = new Date();
+
+var months = new Array(
+"January","February","March","April","May","June","July","August","September","October","November","December");
+
+var monthname= months[now.getMonth()];
+var date= now.getDate();
+var year= now.getYear();
+if (year < 2000) year = 1900 + year;
+
+</script>
+<script language="JavaScript" src="/exit_new.js"></script>   
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+<body>
+
+<!-- Begin Top LInks -->
+<div id="toplinks">
+<h1>Careers at the Federal Reserve</h1>
+<div class="right"><a href="javascript:exitWindow('https://twitter.com/fed_careers','ext')"><img src="gifjpg/twitter-icon.png" alt="Visit our Twitter page" border="0" width="29" height="29" align="absmiddle" /></a><a href="javascript:exitWindow('http://www.linkedin.com/company/federal-reserve-board/careers?trk=top_nav_careers','ext')"><img src="gifjpg/linkedin-icon.png" alt="Visit our LinkedIn page" border="0" width="29" height="29" align="absmiddle" /></a> <a href="/">Federal Reserve Board</a></div>
+<div class="brclear"></div>
+</div>
+<a class="skip" href="#content">Skip to content</a>
+<!--Begin Header-->
+
+<div id="headerContainer"><a name="top"></a><noscript><p>Some links on this page require Javascript.</p></noscript>
+
+<div id="headerBackground"><a href="default.htm">
+
+<!-- InstanceBeginEditable name="headerImage" -->
+<img src="gifjpg/header2.jpg" border="0" alt="Careers at the Federal Reserve Board of Governors, Guiding the Nations Economy. Image links to the Career Opportunities Home Page."/>
+<!-- InstanceEndEditable -->
+<div class="printText">Guiding the Nation's Economy</div>
+</a>
+
+  <!-- #BeginLibraryItem "/navigation.lbi" -->
+  <table class="menu">
+    <tr>
+      <td width="8%"><a href="benefits.htm">Benefits</a></td>
+      <td width="10%"><a href="salary.htm">Salary</a></td>
+      <td width="20%"><a href="diversity.htm">Commitment to Diversity</a></td>
+      <td width="26%"><a href="faq.htm">Frequently Asked Questions (FAQs)</a></td>
+      <td width="17%"><a href="directions.htm">Getting to the Board</a></td>
+      <td width="19%" class="last"><a href="addInfo.htm">Additional Information</a></td>
+    </tr>
+  </table>
+  <!-- #EndLibraryItem --></div>
+</div>
+<a class="skip" href="#content">Skip to content</a>
+<!--End Header-->
+
+<!--Begin Main Section-->
+
+<div id="MainContentContainer"><!--Contains all three columns - LeftCenter Container and RightContainer-->
+
+<div id="LeftCenterContainer"><!--Holds the left navigation and center content-->
+		<!--Divs for Left Menu Items-->
+		
+		<div id="leftContent">
+		<!--<div class="quickLinkTitle">Quick Links</div>-->
+		<!-- InstanceBeginEditable name="leftLinks" -->
+        
+		<!-- InstanceEndEditable -->
+		</div>
+		
+		<!--End Left Menu Items-->
+      <!--Begin Center Column-->
+	
+		<div id="centerContent">
+		<a name="content"></a>
+        
+        <!-- InstanceBeginEditable name="centerContent" -->
+				<div class="title"><h1>Information Technology Professionals</h1><A href="jobsearch/default.aspx"><img src="gifjpg/btnApplyNow2.jpg" alt="Apply Now button" border="0"/></A><div class="brclear"></div></div>
+		
+		
+		<p>Information and technology are critical to the work of the Board. In fact, the Board is among the most innovative government agencies in the use of technologies, including electronic commerce, high-speed networking, and the latest development tools for web and client/server applications.</p>
+		<p>The Board employs modern management techniques
+		  that emphasize partnership between the divisions and
+		  information technology staff in developing information
+		  systems. The technologies used at the Board include JAVA,
+		  .NET, C++, WebSphere, SharePoint, Microsoft Windows, Unix, Linux, HTML, XML,
+		  and advanced IBM mainframe databases and languages.
+		  The Board seeks motivated individuals to help support a
+		  leading-edge computing environment for one of the finest
+		  staffs in the country. The following technical positions are
+		  available to individuals who are U.S. citizens or permanent
+		  residents. A relocation bonus will be awarded to eligible
+	    candidates who transfer to the area.</p><br />
+
+
+
+<h2>Communications Analyst/Network Engineer</h2>
+<p>Communications Analysts/Network Engineers are responsible for designing, installing, maintaining, and enhancing local- and wide-area network infrastructures and services. Staff in these positions diagnose and resolve computer hardware and software problems, apply corrective and preventative maintenance, upgrade hardware and software components, monitor and evaluate performance and capacity, assist clients with application testing and problem resolution, and analyze technological developments and recommend changes to improve the computing environment.</p>
+
+<h3>Qualifications</h3>
+<ul>
+  <li>Bachelor’s degree in electrical engineering, information systems, computer science, or equivalent experience</li>
+  <li>Strong PC skills, including experience with Microsoft Office (Word and Excel)</li> 
+  <li>A working or academic knowledge in several of the following is highly desirable: Ethernet, TCP/IP, and HP hardware; Microsoft Windows AD in a network environment; IIS and MS web services; hubs, routers, switches, and troubleshooting of LANs/WANs</li>
+  </ul>
+
+
+
+<h2>Computer Applications Programmer/Analyst</h2>
+<p>Computer Applications Programmers/Analysts develop and implement applications for the web, client/server, or mainframe platforms. Programmers/Analysts interface with clients to develop system requirements, design
+databases, code application interfaces, integrate security controls, test for quality assurance, and implement
+applications.</p>
+
+<h3>Qualifications</h3>
+<ul>
+  <li>Bachelor's degree in computer science, information systems, or equivalent experience</li>
+  <li>Strong PC skills, including experience with Microsoft Office (Word and Excel)</li> 
+ <li>A working or academic knowledge in several of the following is highly desirable: Windows AD, UNIX; SQL Server, DB2; HTML, XML, JavaScript, Java, Perl; .NET, C#, WebSphere, SharePoint, SAS</li>
+ </ul>
+ 
+ 
+ 
+<h2>Financial Systems Analyst</h2>
+<p>The Board hires candidates with backgrounds in accounting, finance, and economic theories and a good understanding of data processing to work as Financial Systems Analysts. Individuals in these positions are responsible for analyzing Federal Reserve System economic, financial, and structure data. Analysts may develop requirements for automated collection and analysis tools.</p>
+
+<h3>Qualifications</h3>
+<ul>
+  <li>Bachelor’s degree in finance, economics, statistics, accounting, or equivalent experience</li>
+  <li>Basic knowledge of financial, economic, and accounting principles</li> 
+ <li>Excellent analytical skills</li>
+ <li>Knowledge of financial data analysis</li>
+ <li>Strong PC skills, including experience with Microsoft Office (Word and Excel)</li>
+ <li>A working or academic knowledge of SAS or SQL is highly desirable</li>
+ </ul>
+
+
+
+<h2>Information Systems Analyst</h2>
+<p>Information Systems Analysts are responsible for supporting distributed processing systems, including workstations and servers. Analysts also provide technical support to clients, administer shared databases, analyze information system requirements, investigate alternative technologies, and recommend appropriate solutions. Some analysts may develop scripts or small applications.</p>
+
+<h3>Qualifications</h3>
+<ul>
+  <li>Bachelor's degree in computer science, information systems, or equivalent experience</li>
+  <li>Basic experience in problem diagnosis and resolution in PC hardware/software configuration and installation</li> 
+ <li>Experience with Microsoft Office (Word and Excel)</li>
+ <li>Some positions may require experience with one or more of the following: Microsoft IIS, SQL Server, SharePoint, WebSphere, Lotus Notes, and scripting languages</li>
+ <li>Prior end-user support experience is desirable</li>
+ </ul>
+ 
+ 
+
+<h2>Quality Assurance Analyst</h2>
+<p>Quality Assurance (QA) Analysts work closely with the other QA Analysts, business clients, and IT professionals during all phases of system development and deployment. The QA Analysts help ensure that documented processes and procedures are followed and that appropriate artifacts are maintained. The QA Analysts work with clients to develop detailed system requirement specification documents, devise testing, document test plans/scripts, perform system testing, support user acceptance testing, and help prepare security documentation. The QA Analysts may track issues and their resolutions, perform certain help desk functions, review logs, and manage computer accounts.</p>
+
+<h3>Qualifications:</h3>
+<ul>
+  <li>Bachelor's degree in information  systems, computer science, or related discipline, or equivalent experience</li>
+  <li>Excellent analytical skills</li>
+  <li>Strong PC skills, including experience with Microsoft Office (Word and Excel)</li>
+  <li>Good oral and written communications skills</li>
+  <li>Ability to work well in a team environment</li>
+  <li>Knowledge of different application development platforms (web, distributed, mainframe) and system development life cycles is desirable</li>
+   </ul>
+
+
+
+<h2>Technology Analyst</h2>
+<p>The Technology Analyst is responsible for the design, implementation, support, and maintenance of automation tools, programs, and database systems essential to carrying out the responsibilities of the research communities at the Board. Strong technical skills as well as knowledge of economics and finance are important tools for a Technology Analyst in solving problems and in developing new procedures.</p>
+
+<h3>Qualifications</h3>
+<ul>
+  <li>Bachelor's degree in computer science or related business field fields including economics, statistics, mathematics, or finance or an equivalent combination of training and related experience</li>
+  <li>Familiarity with automation tools, application development, software support, data management, and/or user experience design</li>
+  <li>Experience with some of the following technologies is highly desirable:  Microsoft Windows, UNIX/LINUX, Microsoft Office, SharePoint, databases (Postgres, SQL Server, DB2, Hadoop), web technologies (HTML/XML, JavaScript), statistical analysis packages (SAS, MatLab, Stata), programming and scripting languages (Java, Perl, R, .NET, C++)</li>
+  <li>Strong oral and written communications skills</li>
+</ul>  
+  
+		
+
+        
+		
+		<p class="ITleftRoom">
+		<A href="jobsearch/default.aspx"><img src="gifjpg/btnApplyNow2.jpg" alt="Apply Now button" border="0"/></a>
+
+		</p>
+
+        
+        <!-- InstanceEndEditable -->
+	</div> <!--Closes Center Content Div-->
+	</div> <!--Closes LeftCenter Container Div-->
+	
+	
+	
+<!-- InstanceBeginEditable name="rightContent" -->
+
+<!-- InstanceEndEditable -->
+	 
+
+<br class="brclear"/>
+<!--The following Div adds the bottom image and quote to the page-->
+<!-- InstanceBeginEditable name="footerImage" -->
+
+
+<!--End Image Container-->
+<!-- InstanceEndEditable -->
+</div>
+<!--Closes MainContentContainer--> 
+
+<!--Begin Footer-->
+
+<div id="FooterContainer">
+	<div id="footer">
+	<div class="lastUpdate"><a href="/">Home</a> | <a href="/careers/default.htm">Career Opportunities</a><br /><a href="/feedback.cfm">Contact us</a> | <a href="/accessibility.htm">Accessibility</a><br />
+	<strong>Last Update: 
+	<!-- #BeginDate format:Am1 -->March 20, 2015<!-- #EndDate -->
+	</strong></div>
+	</div>
+</div>
+
+<!--End Footer--> 
+        
+        
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+<!-- InstanceEnd --></html>

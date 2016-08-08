@@ -1,0 +1,240 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1- transitional.dtd">
+<html xmlns:ms="urn:schemas-microsoft-com:xslt" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rss="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:frb="http://www.federalreserve.gov/feeds/" xmlns:cb="http://www.centralbanks.org/rss-cb/1.0/" xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>FRB: DDP: Consumer Credit (G.19)</title>
+    <link href="/resources/pubweb.css" rel="stylesheet" type="text/css">
+    <link href="/resources/secondary.css" rel="stylesheet" type="text/css">
+    <link href="/resources/print.css" rel="stylesheet" type="text/css" media="print">
+    <link href="/resources/economic.css" rel="stylesheet" type="text/css">
+    <link href="/resources/statistics.css" rel="stylesheet" type="text/css">
+    <base target="_top"><script language="javascript" type="text/javascript" src="/exit_new.js"></script><script language="javascript" type="text/javascript">
+          var cnt = 0;
+        </script><script language="javascript" type="text/javascript">
+          window.onload = function() {
+            if(document.implementation && document.implementation.createDocument) {
+              for(var i=0; i < cnt; i++) {
+                document.getElementById("divContent" + (i+1)).innerHTML = document.getElementById("div2Content" + (i+1)).innerHTML;
+              }
+            }
+          }
+        </script><script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+  <body><a href="#mainNav" class="invisible">skip to main navigation</a><a href="#secondNav" class="invisible">skip to secondary navigation</a><a href="#content" class="invisible">skip to content</a><table id="headerTopLinks" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="headerTopLinksLeft"><a href="/whatsnew.htm">What's New</a> ·
+              <a href="/whatsnext.htm">What's Next</a> ·
+              <a href="/sitemap.htm">Site Map</a> ·
+              <a href="/azindex.htm">A-Z Index</a> ·
+              <a href="/careers/default.htm">Careers</a> ·
+              <a href="/feeds/default.htm">RSS</a> ·
+              <a href="/mediacenter/media.htm">All Videos</a> ·
+              <a href="/faqs.htm">Current FAQs</a></td>
+        <td class="curve1"></td>
+        <td class="headerTopLinksRight">
+          <form action="http://search.newyorkfed.org/search/search.jsp" method="GET"><label><span class="invisible">Search</span><input type="text" name="text" size="12" maxlength="100"></label><input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search" border="0"><input type="hidden" name="template" value="BOARD"><input type="hidden" name="type" value="adv"><input type="hidden" name="who" value="patx">  <a href="http://search.newyorkfed.org/search/search.jsp?who=patx&amp;template=BOARD" class="search">Advanced Search</a></form>
+        </td>
+        <td class="curve2"></td>
+      </tr>
+    </table>
+    <div id="top">
+      <div id="headerMasthead"><a href="/default.htm"><img src="/econresdata/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"></a></div><a name="mainNav"></a><div class="navMenuBack">
+        <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td>
+              <div class="navItem"><a href="/aboutthefed/default.htm">
+                      About<br>the Fed</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/newsevents/default.htm">
+                      News<br>&amp; Events</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/monetarypolicy/default.htm">
+                      Monetary<BR>Policy</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/bankinforeg/default.htm">
+                      Banking<BR>
+                        Information<BR>&amp; Regulation</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/paymentsystems/default.htm">
+                      Payment<BR>Systems</a></div>
+            </td>
+            <td id="selected">
+              <div class="navItem"><a href="/econresdata/default.htm">
+                      Economic<BR>
+                        Research<BR>&amp; Data</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/consumerinfo/default.htm">
+                      Consumer<BR> Information</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/communitydev/default.htm">
+                      Community<BR>Development</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/reportforms/default.cfm">
+                      Reporting<BR>Forms</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/publications/default.htm">Publications</a></div>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <div id="contentContainer">
+      <div id="content">
+        <div id="BreadCrumbContainer"><a href="/default.htm">Home</a> &gt; <a href="/econresdata/releases/statisticsdata.htm">Statistical Releases and Historical Data</a></div>
+        <div class="generalContentText" id="printThis">
+          <div id="printIcon"><a href="http://www.federalreserve.gov/feeds"><img src="../../GIFJPG/rssIcon.gif" border="0"></a><a href="http://www.federalreserve.gov/datadownload/"><img src="../../GIFJPG/ddpIcon_smallest.gif" border="0"></a><a href="javascript:printable('../../resources/print_news.css');"><img src="../../gifjpg/printIcon.gif">Print</a></div><a name="content"></a><A NAME="pagetop"></A><h1 class="border"><span style="font-size:larger; font-weight:bold;"> Consumer Credit (G.19)</span></h1>
+          <div id="TwoColumns">
+            <h2 class="border">Announcements</h2><span style="font-size:normal; font-weight:normal;">This feed provides information about consumer credit data from the Federal Reserve Board's G.19 release available through the Data Download Program (DDP).</span><br><ul><br><li><span style="font-style:italic;">April 07, 2016</span><br><span style="font-weight:bold;"><A NAME="1340">Revisions to the G.19</A></span><br><DIV ID="&#xA;                          divContent1">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The April 7, 2016 release contains revisions extending back to January 2006 that are primarily caused by updated seasonal factors and the benchmarking of estimates to data released by the Department of Education and the U.S. Census Bureau.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 1;
+                      </script></li><br><li><span style="font-style:italic;">December 07, 2015</span><br><span style="font-weight:bold;"><A NAME="1150">Addition to the Consumer Credit (G.19) release</A></span><br><DIV ID="&#xA;                          divContent2">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Starting with December 7th, 2015, the G.19 statistical release will include an additional series for 60-month new car loan interest rates at commercial banks. Both the 48- and 60-month new car loan interest rates are estimated using data collected in the <em>Quarterly Report of Interest Rates on Selected Direct Consumer Installment Loans</em> (FR 2835). The series extends back to 2006:Q3, and can be accessed through the data download program (DDP).</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 2;
+                      </script></li><br><li><span style="font-style:italic;">July 10, 2015</span><br><span style="font-weight:bold;"><A NAME="946">Revisions of G.19 - Consumer Credit for July 8, 2015</A></span><br><DIV ID="&#xA;                          divContent3">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The May commercial bank interest rate numbers were inadvertently omitted from the G.19 statistical release of consumer credit posted on July 8th. The interest rate numbers are now included, and the release has been reposted. No other data on the release were changed.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 3;
+                      </script></li><br><li><span style="font-style:italic;">May 05, 2015</span><br><span style="font-weight:bold;"><A NAME="922">Upcoming changes to the May 7th Consumer Credit (G.19) release</A></span><br><DIV ID="&#xA;                          divContent4">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>Starting on May 7th, 2015, publication of finance company auto loan terms of credit series will resume using a new source. The new series will be produced on a quarterly basis and will extend back to 2008Q1. The replaced finance company terms of credit series shown on prior G.19 releases will continue to be made available in the G.19 Data Download. The release will also contain revisions extending back to January 2006 that are primarily caused by updated seasonal factors and the benchmarking of estimates to data released by the Department of Education and the U.S. Census Bureau.</p> </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 4;
+                      </script></li><br><li><span style="font-style:italic;">July 08, 2014</span><br><span style="font-weight:bold;"><A NAME="825">G.19 Consumer Credit data in DDP now available</A></span><br><DIV ID="&#xA;                          divContent5">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The May 2014 G.19 Consumer Credit data are now available in the Data Download Program (DDP). The data are available at: <a href="http://www.federalreserve.gov/datadownload/Choose.aspx?rel=G19">http://www.federalreserve.gov/datadownload/Choose.aspx?rel=G19</a>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 5;
+                      </script></li><br><li><span style="font-style:italic;">July 08, 2014</span><br><span style="font-weight:bold;"><A NAME="824">G.19 Consumer Credit data in DDP temporarily unavailable</A></span><br><DIV ID="&#xA;                          divContent6">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The G.19 Consumer Credit Data Download Program (DDP) is temporarily unavailable due to technical difficulties. A notice will be posted when the data are published to the DDP. The data are available at <a href="http://www.federalreserve.gov/releases/g19/current/default.htm " temp_href="http://www.federalreserve.gov/releases/g19/current/default.htm ">http://www.federalreserve.gov/releases/g19/current/default.htm </a>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 6;
+                      </script></li><br><li><span style="font-style:italic;">May 07, 2014</span><br><span style="font-weight:bold;"><A NAME="803">Revisions to the G.19</A></span><br><DIV ID="&#xA;                          divContent7">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Revisions to the March 2014 G.19 extending back to January 2006 were primarily caused by updated seasonal factors, the incorporation of data from the U.S. Census' latest Annual Retail Trade Report, and the incorporation of student loan data released by the Department of Education.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 7;
+                      </script></li><br><li><span style="font-style:italic;">April 30, 2014</span><br><span style="font-weight:bold;"><A NAME="799">Upcoming changes to the Consumer Credit (G.19) Data Download Program</A></span><br><DIV ID="&#xA;                          divContent8">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>Starting on May 7th, 2014, all Commercial Banks
+and Savings Institutions series will be discontinued in the Data Download
+Program (DDP), with a series ending date of February 2011. The historical data
+will continue to be made available in the DDP. Publication of estimates for the
+Depository Institutions sector, the sum of Commercial Banks and Savings
+Institutions, will continue unaffected.
+
+</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 8;
+                      </script></li><br><li><span style="font-style:italic;">October 07, 2013</span><br><span style="font-weight:bold;"><A NAME="708">G.19 Consumer Credit Update</A></span><br><DIV ID="&#xA;                          divContent9">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Starting with the current month, the G.19 statistical release incorporates student loan debt held by an additional category of holders--Nonprofit and Educational Institutions. In addition, consumer credit held by the federal government has been revised back to January 2006 as a result of changes in source data. Total consumer credit outstanding, flows, and growth rates have been revised accordingly. Moreover, two memo items are added to the release, providing quarterly outstanding and flows data for student and motor vehicle loans. Details about the revisions are included in technical documentation that can be found here: <a href="http://www.federalreserve.gov/releases/g19/revisions/">http://www.federalreserve.gov/releases/g19/revisions/</a>.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 9;
+                      </script></li><br><li><span style="font-style:italic;">September 16, 2013</span><br><span style="font-weight:bold;"><A NAME="700">Upcoming changes to the Consumer Credit (G.19) release</A></span><br><DIV ID="&#xA;                          divContent10">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Starting with October 7, 2013, the G.19 statistical release will incorporate student loan debt held by an additional category of holders--Nonprofit and Educational Institutions. In addition, consumer credit held by the federal government will be revised back to January 2006 as a result of changes in source data. Total consumer credit outstanding, flows, and growth rates will be revised accordingly. Moreover, two memo items will be added to the release, providing quarterly outstanding and flows data for student and auto loans. Details about the revisions will be included in technical documentation to be released with the G.19 on October 7.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 10;
+                      </script></li><br><li><span style="font-style:italic;">November 26, 2012</span><br><span style="font-weight:bold;"><A NAME="592">G.19 Consumer Credit  update</A></span><br><DIV ID="&#xA;                          divContent11">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">On November 26, 2012, the HTML version of the third table (Consumer Credit Outstanding (Flows)) for the April, May, and June 2012 G. 19 statistical releases were updated to correct a data error in the Finance Companies row for the year 2011. Please note: the PDF, historical data, and the data downloading program (DDP) were unchanged. <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 11;
+                      </script></li><br><li><span style="font-style:italic;">September 07, 2012</span><br><span style="font-weight:bold;"><A NAME="565">Upcoming changes to the Consumer Credit (G.19) release</A></span><br><DIV ID="&#xA;                          divContent12">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The Federal Reserve Board announced on Friday the completion of the 2010 Census of Finance Companies and Survey of Finance Companies. These data have been collected every five years to provide a comprehensive and accurate statistical snapshot of the balance sheet of the finance company industry. The statistical results of the 2010 surveys will be incorporated in the July Consumer Credit (G.19) statistical release that is scheduled to be published on Monday, September 10th. In addition, the survey results will be incorporated in the July Finance Companies (G.20) and Flows of Funds (Z.1) statistical releases that are scheduled to be published later in September.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 12;
+                      </script></li><br><li><span style="font-style:italic;">July 09, 2012</span><br><span style="font-weight:bold;"><A NAME="544">G.19 Historical page update </A></span><br><DIV ID="&#xA;                          divContent13">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">On July 9, 2012, Depository Institutions (levels and flows) pages were added to the historical data "Major holders" (levels and flows). <a href="http://www.federalreserve.gov/releases/g19/HIST/default.htm">http://www.federalreserve.gov/releases/g19/HIST/default.htm</a>
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 13;
+                      </script></li><br><li><span style="font-style:italic;">June 07, 2012</span><br><span style="font-weight:bold;"><A NAME="532">G.19 Consumer Credit DDP update</A></span><br><DIV ID="&#xA;                          divContent14">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>On June 7, 2012, the G.19 Consumer Credit Data Download Program (DDP) historical data were updated to add data omitted in the 3 p.m. release of the DDP. <a href="http://www.federalreserve.gov/datadownload/Choose.aspx?rel=G19">http://www.federalreserve.gov/datadownload/Choose.aspx?rel=G19</a>
+                    </p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 14;
+                      </script></li><br><li><span style="font-style:italic;">June 04, 2012</span><br><span style="font-weight:bold;"><A NAME="530">Upcoming changes to the Consumer Credit (G.19) release</A></span><br><DIV ID="&#xA;                          divContent15">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>Federal Reserve Board announces upcoming changes to its Consumer Credit (G.19) release: <a href="http://www.federalreserve.gov/newsevents/press/other/20120604a.htm">http://www.federalreserve.gov/newsevents/press/other/20120604a.htm</a>
+                    </p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 15;
+                      </script></li><br><li><span style="font-style:italic;">December 30, 2011</span><br><span style="font-weight:bold;"><A NAME="481">Table style refresh now available for Consumer Credit--G.19 (no data changes)</A></span><br><DIV ID="&#xA;                          divContent16">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">On December 30, 2011, G.19 users will notice an updated style and layout. The new style does not change any previously published G.19 data. It will also be easier for users to create and retrieve interactive charts of data series included in G.19. The charts can be saved in PDF format or in PNG (image file) format. <a href="http://www.federalreserve.gov/releases/g19/current/default.htm">http://www.federalreserve.gov/releases/g19/current/default.htm</a>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 16;
+                      </script></li><br><li><span style="font-style:italic;">November 08, 2011</span><br><span style="font-weight:bold;"><A NAME="462">New graphics options are now available from the Data Download Program (DDP)</A></span><br><DIV ID="&#xA;                          divContent17">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Users can now view plotted data as column charts, and add U.S. recession shading, while using the "View chart" function of the Data Download Program (DDP). <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 17;
+                      </script></li><br><li><span style="font-style:italic;">April 07, 2011</span><br><span style="font-weight:bold;"><A NAME="380">No data published for new car loans at auto finance companies</A></span><br><DIV ID="&#xA;                          divContent18">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The statistical foundation for these series has deteriorated in the past few months. Therefore, publication of these series is temporarily being suspended. The statistical foundation is in the process of being improved, and publication will resume as soon as possible.<br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 18;
+                      </script></li><br><li><span style="font-style:italic;">December 02, 2010</span><br><span style="font-weight:bold;"><A NAME="341">New interactive graphics feature of Data Download Program (DDP)</A></span><br><DIV ID="&#xA;                          divContent19">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Users will now be able to create and view interactive graphics of data packages from the program before downloading the underlying data and charts. The charting feature allows users to view multiple data series on a single chart as well as to display individual data points. The charts can be saved as PDFs or in a standard image file format (PNG) for publication and redistribution.<br />
+                    <br />"Graphics play an important role in identifying data trends and relationships," said Federal Reserve Vice Chair Janet L. Yellen. "With the help of this intuitive new user interface, it's now possible to create customized charts directly from Federal Reserve statistical data."<br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 19;
+                      </script></li><br><li><span style="font-style:italic;">December 07, 2009</span><br><span style="font-weight:bold;"><A NAME="215">Revisions to student loan data in the G.19</A></span><br><DIV ID="&#xA;                          divContent20">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Starting with March 2009 numbers, data are revised to incorporate loans purchased by the Department of Education under the 2007-08 and 2008-09 Loan Purchase Programs.  More information on these programs is available at http://federalstudentaid.ed.gov/ffelp/.  In addition, with this release the "Federal government and Sallie Mae" sector is relabeled the "Federal government" sector to reflect that Sallie Mae completed its transition to a finance company in 2004.  Sallie Mae's data before the completion of the privatization remains in the Federal government sector.  This change affects the labeling solely and not the underlying data.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 20;
+                      </script></li><br><li><span style="font-style:italic;">January 10, 2008</span><br><span style="font-weight:bold;"><A NAME="72">Correction to Consumer Credit interest rate observation</A></span><br><DIV ID="&#xA;                          divContent21">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The interest rate on 48-month car loans for November was incorrectly reported as 8.41% in the release and data published on January 8.  The release and data in the Data Download Program (DDP) have been corrected to show an interest rate of 7.59%.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 21;
+                      </script></li><br><li><span style="font-style:italic;">December 10, 2007</span><br><span style="font-weight:bold;"><A NAME="69">Consumer credit data are now available from the Data Download Program</A></span><br><DIV ID="&#xA;                          divContent22">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Data from the Consumer Credit release (G.19) are now available for customizable download through the Federal Reserve Board's <a href="http://www.federalreserve.gov/datadownload/Choose.aspx?rel=G.19">Data Download Program (DDP)</a>. These data will updated monthly with the G.19 release around the fifth business day of the month.<br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 22;
+                      </script></li>
+            </ul><br></div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="lastUpdate">
+              Last update: April 07, 2016</div>
+      <div id="FooterLinks"><a href="/default.htm">Home</a> | <a href="/econresdata/default.htm">Economic research and data</a></div>
+      <div id="secondaryFooterLinks">
+        <div class="secondaryFooterLinksLeft"><a href="/accessibility.htm">Accessibility</a><a href="/disclaimer.htm">Disclaimer</a><a href="/feedback.cfm">Contact us</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon"><a href="/linkingpolicy.htm">Linking Policy</a><a href="/generalinfo/foia/default.cfm">FOIA</a></div>
+        <div class="secondaryFooterLinksRight"><a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon"></div>
+        <div class="clear"></div>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <div id="footer">
+      <div id="Footer2"></div>
+    </div>
+  <script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

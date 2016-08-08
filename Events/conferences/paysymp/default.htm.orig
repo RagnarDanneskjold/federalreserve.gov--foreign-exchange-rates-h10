@@ -1,0 +1,126 @@
+<!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+
+<title>Federal Reserve Board: The Payments System in Transition</title>
+
+
+<style type="text/css">
+
+<!----------------------
+
+h6      {color: black;}
+
+a:link  {color: #006666;}
+
+
+		
+.hosted	{font-size: .75em;
+		line-height: 1.6em;
+		font-weight: normal;
+		font-family: Arial,Helvetica,sans-serif;
+		text-align="right";
+		margin-right: 30px;}
+		
+.cont	{font-size: .75em;
+		font-weight: normal;
+		font-family: Arial,Helvetica,sans-serif;
+		margin-bottom: .5em;
+		}
+		
+p		{font-size: .95em;
+		line-height: 1.2em;
+		font-weight: normal;
+		font-family: Arial,Helvetica,sans-serif;
+		margin-bottom: .5em;
+		margin-top: 0em;}
+		
+.about	{font-size: .75em;
+		line-height: 1.4em;
+		font-weight: normal;
+		font-family: Arial,Helvetica,sans-serif;
+		margin-bottom: .5em;}
+		
+.footer	{font-size: .75em;}
+
+a.footer:link  {color: #006666;}		
+
+------------------------->
+
+</style>
+
+<script language="JavaScript" src="exit.js"></script>
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+
+<body bgcolor="#ffffff">
+
+<table width="600" cellspacing="0" cellpadding="5" border="0">
+<tr>
+<td>
+<a href="/"><img src="/gifjpg/sm_head2.gif" width=275 height=73 alt="The Federal Reserve Board eagle logo links to home page" border="0" hspace="5"></a>
+<hr align="left" width="600" noshade>
+<img src="gifjpg/header_600px.jpg" alt="The Payments System in Transition with image of conference logo" width="600" height="82" border="0">
+
+<div class="hosted">Hosted by the Federal Reserve Payments System Development Committee<br>
+
+October 29-30, 2003&nbsp;&nbsp;&nbsp;&nbsp;Washington, DC<br></div>
+<br>
+<table cellpadding="4" cellspacing="0" border="0">
+<tr>
+		<td width="175" valign="top">
+		<div class="cont"><a href="agenda.htm">Agenda</a></div>
+		<div class="cont"><a href="/boarddocs/speeches/2003/20031029/default.htm">Keynote Speech</a><br> &nbsp;&nbsp;&nbsp;Chairman<br> &nbsp;&nbsp;&nbsp;Alan&nbsp;Greenspan</div>
+		<div class="cont"><a href="summary.htm">Summary</a><br>
+		&nbsp;&nbsp;&nbsp;Vice Chairman<br> &nbsp;&nbsp;&nbsp;Roger&nbsp;W.&nbsp;Ferguson,&nbsp;Jr.</div>
+		</td>
+
+
+
+<td><p>As the U.S. payments system relies increasingly on electronic payments, payments system stakeholders face strategic opportunities and challenges in developing new services and in providing for an efficient clearing and settlement infrastructure.</p> 
+
+<p>This conference provided an opportunity for key providers and users of payments services to discuss these opportunities and challenges and to debate their recommendations for the payments systems of the future.</p></td>
+</tr></table>
+
+
+<!-- Payments System Development Committee -->
+
+<table bgcolor="#eeeeee" cellpadding="10" cellspacing="0" border="0"><tr><td>
+<div class="about">The Board of Governors of the Federal Reserve System established the Payments System Development Committee in July 1999.  The committee serves as a forum for the analysis of technological and market trends, provides a mechanism for consultation with payments system providers and users, and advises the Board and other Federal Reserve System officials on medium- and long-term public policy issues relating to consumer, government, and corporate payments.</div> 
+
+<div class="about">In particular, the committee seeks to work collaboratively with the private sector to help identify barriers to innovation in the payments system, identify strategies to enhance the long-term efficiency of existing U.S. payments systems, and develop strategies for transition to the next generation of electronic payments.</div>
+</td></tr></table>
+
+
+
+		
+
+<hr noshade width="600" align="left">
+
+<div class="footer">
+
+<a href="/">Home</a> | 
+<br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a>
+<br>
+<div style="line-height: 14px;"><b>Last update: December 29, 2003</b>
+</div></div>
+
+</td>
+</tr>
+</table>
+
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

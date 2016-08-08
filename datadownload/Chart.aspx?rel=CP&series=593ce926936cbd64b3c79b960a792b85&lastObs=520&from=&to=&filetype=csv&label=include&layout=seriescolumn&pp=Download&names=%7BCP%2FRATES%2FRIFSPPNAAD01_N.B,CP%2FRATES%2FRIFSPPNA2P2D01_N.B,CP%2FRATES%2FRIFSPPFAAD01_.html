@@ -1,0 +1,274 @@
+
+
+<!DOCTYPE html >
+<html>
+<head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge" /><!--Common javascript functions -->
+
+<script>
+function setHourglass(intTime) 
+{
+	document.body.style.cursor = 'wait';
+	setTimeout("setHourglassOff()", intTime)
+}
+
+function setHourglassOn() 
+{
+	document.body.style.cursor = 'wait';
+}
+
+function setHourglassOff() 
+{
+	document.body.style.cursor = 'default';
+}
+
+function LoadWaitDialog(vFlag) 
+{
+	setHourglassOn();
+    window.showModelessDialog('includes/Wait.html', vFlag, 'dialogHeight: 200px; dialogWidth: 420px; status:no; center:yes;');
+}
+
+</script><title>
+	Data Download Program - Chart
+</title>
+        
+        <!-- stylesheets -->
+
+        <!-- CHANGE THIS TO WORK FOR GOOGLE CHROME! -->
+        <link href="Styles/kendo.common.min.css" rel="stylesheet" /><link href="Styles/kendo.rtl.min.css" rel="stylesheet" /><link href="Styles/kendo.default.min.css" rel="stylesheet" /><link href="Styles/kendo.dataviz.min.css" rel="stylesheet" /><link href="Styles/kendo.dataviz.default.min.css" rel="stylesheet" /> 
+          <!--   CHANGE THIS TO WORK FOR GOOGLE CHROME! -->
+
+        <link href="../resources/pubweb.css.html" rel="stylesheet" /><link href="../resources/secondary.css.html" type="text/css" rel="stylesheet" /><link href="../resources/economic.css.html" type="text/css" rel="stylesheet" /><link href="Styles/main.min.css" rel="stylesheet" /><script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+	<body>
+
+    <form method="post" action="http://www.federalreserve.gov/DataDownload/Chart.aspx?rel=CP&amp;series=593ce926936cbd64b3c79b960a792b85&amp;lastObs=520&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;pp=Download&amp;names=%7bCP%2fRATES%2fRIFSPPNAAD01_N.B%2cCP%2fRATES%2fRIFSPPNA2P2D01_N.B%2cCP%2fRATES%2fRIFSPPFAAD01_N.B%2cCP%2fRATES%2fRIFSPPAAAD01_N.B%7d" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjYzODI2NzgwD2QWAgIDD2QWAgITD2QWBAIBDw8WAh4EVGV4dAVePGEgaHJlZj0nL3JlbGVhc2VzL0NQL2RlZmF1bHQuaHRtJz5Db21tZXJjaWFsIFBhcGVyPC9hPiAtIGxhc3QgcmVsZWFzZWQgTW9uZGF5LCBBdWd1c3QgOCwgMjAxNmRkAg0PDxYCHwAFDkdvIHRvIGRvd25sb2FkFgIeB29uY2xpY2sFEXNldEhvdXJnbGFzc09uKCk7ZGSScPXIWt3Rxg5yqlzuQP0x+ROUzW0zXvIt2eEifLTaLQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0E205C20" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA5VJrnrIRJHkl/a9WcOJDXMAeeSlYepIcVun6q2reYv52BYdgyiKIcELWr0XKQyqQaUH1h55KJ2cnhN0cfB3PmSOBjjEdiWsqv+DMTZbPw3UyfX4aPLyLiaJOQcBRLE/n0R6miqgOxA9cBV3k0ccTmM/7221xAfpfvZ5TnBCI2iaIvW+dS1X2ZERmrLpEyPQWLtm3fjh2hVS2XyQ4B6PY99WVwraPSlNh3MvwQbvNhEyNChBhZS184Kh4ewgG8Lhg0lGLHp4pxV4wm62FnmvXMEv7LS/jUANdsuyH6FqmNPPFHscvR8udGFOCsl4PBYuEbNjUFQ4Ryqkuj9XA3WhtzY" />
+            <input type="hidden" name="hidDataFile" id="hidDataFile" value="Output\CP\odd\Data\8e31c2354f199fdc17d7e97efacd4d2d.json" />
+            <input type="hidden" name="hidStructFile" id="hidStructFile" />
+            <input type="hidden" name="hidPackageFile" id="hidPackageFile" />
+            <input type="hidden" name="hidPackageName" id="hidPackageName" />
+            <input type="hidden" name="hidRecession" id="hidRecession" value="Output\recessions.json" />
+            <input type="hidden" name="hidSeriesList" id="hidSeriesList" value="CP%2fRATES%2fRIFSPPNAAD01_N.B%2cCP%2fRATES%2fRIFSPPNA2P2D01_N.B%2cCP%2fRATES%2fRIFSPPFAAD01_N.B%2cCP%2fRATES%2fRIFSPPAAAD01_N.B" />
+            <input type="hidden" name="hidURL" id="hidURL" value="/DataDownload/Chart.aspx?rel=CP&amp;series=593ce926936cbd64b3c79b960a792b85&amp;lastObs=520&amp;from=&amp;to=&amp;filetype=csv&amp;label=include&amp;layout=seriescolumn&amp;pp=Download&amp;names=%7BCP/RATES/RIFSPPNAAD01_N.B,CP/RATES/RIFSPPNA2P2D01_N.B,CP/RATES/RIFSPPFAAD01_N.B,CP/RATES/RIFSPPAAAD01_N.B%7D" />
+
+            <canvas id="canvas"></canvas>   
+            <input type="hidden" name="chartImage" id="chartImage" value="replaceme" />
+                  
+			
+ <div id="top">
+ <div id="headerMasthead"><a href="http://www.federalreserve.gov/default.htm"><img src="../econresdata/gifjpg/masthead2.jpg.html" alt="Board of Governors of the Federal Reserve System" border="0" /></a></div>
+</div>
+<div id="BreadCrumbContainer">
+
+<a href="http://www.federalreserve.gov/default.htm">Home</a>
+
+ &gt; <a href="http://www.federalreserve.gov/econresdata/default.htm">Economic Research & Data</a>
+
+</div> 
+
+            <div id="Panel1">
+	
+        
+			<div class="generalContentTextDDP" id="printThis">
+                <div id="printIcon">
+                    <div class="subtitletd"><span id="ReleaseLabel"><a href='http://www.federalreserve.gov/releases/CP/default.htm'>Commercial Paper</a> - last released Monday, August 8, 2016</span></div>
+	            </div>					
+	
+	            <div class="pageTitle">
+		            <h1 class="all"><img src="gifjpg/ddpIcon.jpg.html" alt="Data Download Icon"/>Data Download Program </h1>
+	            </div>
+	
+	            <div class="navigate"><a href="http://www.federalreserve.gov/releases/">All Statistical Releases</a>&nbsp;&gt; 
+                    <a href="http://www.federalreserve.gov/DataDownload/default.htm">Data Download Program home</a> &gt;
+                    <strong>Chart </strong>
+                </div>
+	
+	            <div id="printIcon2">
+                    <div id="helptest"><li class="rss"><a href="../feeds.1.html">RSS</a></li><li class="hlp"><a href="javascript:var w=window.open('help/default.htm','','width=700,height=550,menubar=1,resizable=1,scrollbars=1');">Help</a><noscript><a href="http://www.federalreserve.gov/DataDownload/help/default.htm" target="_blank">Help</a></noscript></li></div>
+                </div>			
+	
+	            <table class="sectionTitle">				
+	                <tr>
+	                    <td class="tab"><h2 class="ddp1">Chart</h2></td>
+	                        <td class="name"><span id="lblPackageDescription"></span></td>
+		                    <td class="learn"><a href="javascript:var w=window.open('help/default.htm#chart','','width=700,height=550,menubar=1,resizable=1,scrollbars=1');">
+										                    Learn&nbsp;more</a><noscript><a href="http://www.federalreserve.gov/DataDownload/help/default.htm#chart" target="_blank">Learn more</a></noscript></td>
+	                </tr>
+	            </table>
+						
+			    <div><span id="Message"><font color="Red"></font></span></div>
+            </div>
+
+ 		    <input id="init" type="button" value="i" style="display:none"/>
+  		    <input id="update" type="button" value="u" style="display:none"/>
+            
+            <div  id="ddp">
+            <!-- Charting -->
+            <div  id="modifiers">
+                <input type="checkbox" id="Recession" autocomplete="off" />&nbsp;<label for="Recession" >U.S. Recessions<sup>1</sup>&nbsp;&nbsp;</label>
+                <input type="checkbox" id="LogScale" autocomplete="off" />&nbsp;<label for="LogScale" >Log Scale&nbsp;&nbsp;</label>
+                <label for="Style" >Style</label>
+                <select>
+				    <option value="line">Linear</option>
+				    <option value="smooth">Smooth</option>
+                    <option value="step">Step</option>
+                    <option value="column">Column</option>
+			    </select>&nbsp;
+                <input type="submit" name="btnFullscreen" value="Fullscreen" id="btnFullscreen" />
+                <input type="submit" name="btnImage" value="Save Image" id="btnImage" title="Not available when Column is selected as chart type" />
+                <input type="submit" name="btnPDF" value="Save PDF" id="btnPDF" title="Not available when Column is selected as chart type" />
+
+            </div>
+    
+            <div style="display: none;">
+                @Html.BeginForm("_Export", "Home", FormMethod.Post, new { id = "exportForm" }) {
+                    <input type="hidden" id="exportString" name="svg" />
+                    <input type="hidden" id="exportFormat" name="format" />
+                }
+            </div>
+
+    
+            <div id="aside">
+                <div class="legend-section" id="legend">
+                    <div class="legend-reader">
+                        <div class="legend-header">
+                            <h2>Legend</h2>
+                            <label><input id="show-series" autocomplete="off" type="checkbox" value="show"/>Show Series Name</label>
+                        </div>
+                        <div id="legendView"></div>
+                    </div>
+                </div>
+                <div class="list-section" id="serieslist">
+                    <div class="list-reader">
+                        <h2>Select up to 6 series to plot:</h2>
+                        <div id="listView"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="main">    
+                <div id="chart"></div>
+            </div>
+        </div>
+             <div class="demo-section" style="width:350px">
+         <label for="start">From:</label>
+        <input id="start" value="" style="width:100px" />
+                <label for="end" style="margin-left:1em">To:</label>
+        <input id="end" value="" style="width:100px" />
+    </div>
+    
+    <div id="tabstrip" style="width:250px"></div>
+            <script type="text/x-kendo-tmpl" id="legendTemp">
+			  <div class="legendItem">
+				<label>
+                    <label class="checkmark" for="#= id#" style="background: url(http://www.federalreserve.gov/DataDownload/gifjpg/check)"></label>
+                    <input class="nocheckbox" type="checkbox" id="#= id #" value="#= id #" checked="true"/>
+                    <img class="arrow" src="http://www.federalreserve.gov/DataDownload/gifjpg/#:color##:lineType#.gif"/>
+                    <span class="description">#:description#</span>
+                    <span class="seriesID">(#:id#)</span>
+                </label>
+			  </div>
+			</script>
+            <script id="listTemp" type="text/x-kendo-template">
+                <div class="listItem">
+                    <label>
+                        <label class="checkbox" for="#= id#"></label>
+                        <input class="checkbox" type="checkbox" id="#= id #" value="#= id #"/>
+                        <span class="description">#:description#</span>
+                        <span class="seriesID">(#:id#)</span>
+                    </label>
+                </div>
+            </script>
+            <br />
+            <div id="footnote">
+            <div style="font-size:0.8em; font-family:Arial, Helvetica, Sans-Serif">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The shaded bars indicate periods of business recession as defined by the <a href="http://www.nber.org/cycles.html">National Bureau of Economic Research</a>.&nbsp;
+            <img src="gifjpg/exitIcon.gif" alt="Leaving the Board" title="Leaving the Board"/>
+            </div>
+            <input type="submit" name="btnGoback" value="Go to download" onclick="setHourglassOn();" id="btnGoback" />
+            </div>
+      
+</div>
+            
+            <div class="footer-wrapper">
+			    
+
+<div id="lastUpdate"><span id="Footer_ReleaseLabel"></span>
+
+</div>
+
+
+<!-- The "Not in SmartEdit mode"-"SmartEdit mode" tags cancel each other, so list is hidden -->
+
+
+
+<!-- The "Not in SmartEdit mode"-"SmartEdit mode" tags cancel each other, so list is hidden -->
+
+
+<div id="FooterLinks">
+
+
+    <div class="footer"><a href="../index.html">Home</a> | <a href="http://www.federalreserve.gov/rnd.htm">Economic research and data</a></div>
+    
+
+</div> <!-- CLOSES FooterLinks -->
+
+
+
+ 
+<div id="secondaryFooterLinks">
+<div class="secondaryFooterLinksLeft">
+
+<a href="http://www.federalreserve.gov/accessibility.htm">Accessibility</a> | <a id="Footer_btnContactUs" href="javascript:__doPostBack(&#39;Footer$btnContactUs&#39;,&#39;&#39;)">Contact Us</a>
+
+
+   </div> <!-- CLOSES content -->
+<div class="clear"></div>
+</div> <!-- CLOSES contentContainer -->
+
+<div id="footer">
+<div id="Footer2"></div>
+</div> <!-- CLOSES footer -->
+    
+
+
+
+
+
+<div class="clear"></div>
+
+
+
+
+            </div>
+            <div id="processing-div-background"> 
+                <div id="processing-div" class="ui-corner-all" >
+                    <img style="height:32px;margin:32px;" src="gifjpg/processing.gif" alt="Processing.."/> 
+                    <h2 style="color:gray;font-weight:normal;">Processing... Please wait...</h2>
+                </div>
+            </div>
+		</form> 
+	<script type="text/javascript" src="../resources/track_downloads.js.html"></script>
+</body>
+	        <!-- javascript -->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+        <script type="text/javascript">window.jQuery || document.write('<script src="Scripts/jquery.min.js"><\/script>')</script>
+        
+        <script src="Scripts/kendo.all.min.js" type="text/javascript"></script>
+        <script src="Scripts/canvg/canvg.js" type="text/javascript"></script>
+        <script src="Scripts/canvg/rgbcolor.js" type="text/javascript"></script>
+        <script src="Scripts/canvg/StackBlur.js" type="text/javascript"></script>
+        <script src="Scripts/data_new.js" type="text/javascript"></script>
+      <!--  <script src="Scripts/main.js" type="text/javascript"></script> -->
+
+</html>

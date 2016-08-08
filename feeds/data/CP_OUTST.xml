@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+  <channel rdf:about="http://www.federalreserve.gov/releases/CP">
+    <title>FRB:Data:Commercial Paper</title>
+    <link>http://www.federalreserve.gov/releases/CP/about.htm</link>
+    <description>FRB:Data:Commercial Paper</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#1"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#2"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#3"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#4"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#5"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/CP#6"/>
+      </rdf:Seq>
+    </items>
+    <dc:language>en</dc:language>
+    <dc:date>2016-08-04T09:45:00-05:00</dc:date>
+    <dc:publisher>Board of Governors of the Federal Reserve</dc:publisher>
+  </channel>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#1">
+    <title>US: CP 1033021.262464 2016-08-03 FRB Total commercial paper outstanding</title>
+    <link>http://www.federalreserve.gov/releases/CP#1</link>
+    <description>Total commercial paper outstanding</description>
+    <dc:date>2016-08-03T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="6" unit_mult="1000000" units="Currency">1033021.262464</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>Total commercial paper outstanding</cb:coverage>
+        <cb:observationPeriod frequency="weekly">2016-08-03</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#2">
+    <title>US: CP 209279.849740 2016-08-03 FRB Nonfinancial domestic commercial paper outstanding</title>
+    <link>http://www.federalreserve.gov/releases/CP#2</link>
+    <description>Nonfinancial domestic commercial paper outstanding</description>
+    <dc:date>2016-08-03T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="6" unit_mult="1000000" units="Currency">209279.849740</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>Nonfinancial domestic commercial paper outstanding</cb:coverage>
+        <cb:observationPeriod frequency="weekly">2016-08-03</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#3">
+    <title>US: CP 61802.627000 2016-08-03 FRB Nonfinancial foreign commercial paper outstanding</title>
+    <link>http://www.federalreserve.gov/releases/CP#3</link>
+    <description>Nonfinancial foreign commercial paper outstanding</description>
+    <dc:date>2016-08-03T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="6" unit_mult="1000000" units="Currency">61802.627000</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>Nonfinancial foreign commercial paper outstanding</cb:coverage>
+        <cb:observationPeriod frequency="weekly">2016-08-03</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#4">
+    <title>US: CP 243631.926024 2016-08-03 FRB Financial domestic commercial paper outstanding</title>
+    <link>http://www.federalreserve.gov/releases/CP#4</link>
+    <description>Financial domestic commercial paper outstanding</description>
+    <dc:date>2016-08-03T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="6" unit_mult="1000000" units="Currency">243631.926024</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>Financial domestic commercial paper outstanding</cb:coverage>
+        <cb:observationPeriod frequency="weekly">2016-08-03</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#5">
+    <title>US: CP 260208.913000 2016-08-03 FRB Financial foreign commercial paper outstanding</title>
+    <link>http://www.federalreserve.gov/releases/CP#5</link>
+    <description>Financial foreign commercial paper outstanding</description>
+    <dc:date>2016-08-03T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="6" unit_mult="1000000" units="Currency">260208.913000</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>Financial foreign commercial paper outstanding</cb:coverage>
+        <cb:observationPeriod frequency="weekly">2016-08-03</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/CP#6">
+    <title>US: CP 252504.344000 2016-08-03 FRB Asset-backed commercial paper outstanding</title>
+    <link>http://www.federalreserve.gov/releases/CP#6</link>
+    <description>Asset-backed commercial paper outstanding</description>
+    <dc:date>2016-08-03T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="6" unit_mult="1000000" units="Currency">252504.344000</cb:value>
+        <cb:topic>CP</cb:topic>
+        <cb:coverage>Asset-backed commercial paper outstanding</cb:coverage>
+        <cb:observationPeriod frequency="weekly">2016-08-03</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+</rdf:RDF>

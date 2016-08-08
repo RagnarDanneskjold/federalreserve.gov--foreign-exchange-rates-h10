@@ -1,0 +1,39 @@
+.df_title1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.8em; COLOR: #6D7630; LINE-HEIGHT: 1em; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.df_title2 {
+	FONT-SIZE: 0.7em; TEXT-TRANSFORM: none; COLOR: #000000; LINE-HEIGHT: 1em; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.df_quote {
+	FONT-SIZE: 1.1em; COLOR: #A96327; FONT-STYLE: italic; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.df_text {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.8em; COLOR: #000000; MARGIN-TOP: 1em; MARGIN-BOTTOM: 0.5em; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.nav {
+	FONT-SIZE: 0.7em; COLOR: #990000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A:visited {
+	COLOR: #000000
+}
+.nav2 {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+.navftdf {
+	FONT-WEIGHT: normal; COLOR: #660033; TEXT-DECORATION: underline
+}
+.navdf {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.8em; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.foot {
+	FONT-SIZE: 0.7em; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.skip:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 1pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.skip:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 1pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.skip:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 1pt; COLOR: #ffffff; TEXT-DECORATION: none
+}

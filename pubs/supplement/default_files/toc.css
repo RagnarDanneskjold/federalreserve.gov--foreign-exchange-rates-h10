@@ -1,0 +1,81 @@
+BODY {
+	BACKGROUND-COLOR: #ffffff; COLOR: #000000
+}
+A:link {
+	COLOR: #006666
+}
+A:visited {
+	COLOR: #800080
+}
+A:hover {
+	COLOR: #006666
+}
+A.image:hover {
+	BACKGROUND: #ffffff; COLOR: #006666
+}
+A.skip:link {
+	LINE-HEIGHT: 1pt; COLOR: #ffffff; FONT-SIZE: 1pt; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.skip:hover {
+	LINE-HEIGHT: 1pt; COLOR: #ffffff; FONT-SIZE: 1pt; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.skip:visited {
+	LINE-HEIGHT: 1pt; COLOR: #ffffff; FONT-SIZE: 1pt; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+TD.banner {
+	PADDING-BOTTOM: 0.25em; BACKGROUND-COLOR: #006666; TEXT-INDENT: 0.5em; FONT-FAMILY: arial, helvetica, sans-serif; MARGIN-BOTTOM: 0.5em; COLOR: #ffffff; FONT-SIZE: 1.2em; BORDER-TOP: #666666 thin solid; FONT-WEIGHT: bold; PADDING-TOP: 0.1em
+}
+H1 {
+	FONT-STYLE: italic; TEXT-INDENT: 0.5em; FONT-FAMILY: arial, helvetica, sans-serif; MARGIN-BOTTOM: 0.1em; COLOR: #006666; MARGIN-LEFT: 0em; FONT-SIZE: 0.9em; FONT-WEIGHT: bold
+}
+H2 {
+	FONT-FAMILY: arial, helvetica, sans-serif; MARGIN-BOTTOM: 0.1em; FONT-SIZE: 0.75em; FONT-WEIGHT: bold
+}
+H3 {
+	TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman',Times,serif; MARGIN-BOTTOM: 0.1em; COLOR: #000000; MARGIN-LEFT: 0em; FONT-SIZE: 1.2em; FONT-WEIGHT: bold
+}
+H5 {
+	FONT-FAMILY: 'Times New Roman',Times,serif; MARGIN-BOTTOM: 0.1em; COLOR: #006666; FONT-SIZE: 0.75em; FONT-WEIGHT: bold
+}
+.asof {
+	FONT-STYLE: italic; FONT-FAMILY: arial, helvetica, sans-serif; FONT-SIZE: 0.8em; FONT-WEIGHT: normal
+}
+.tablenumber {
+	FONT-FAMILY: arial, helvetica, sans-serif; FONT-SIZE: 0.8em; FONT-WEIGHT: normal
+}
+.tablename {
+	FONT-FAMILY: arial, helvetica, sans-serif; FONT-SIZE: 0.8em; FONT-WEIGHT: normal
+}
+.topnavlink {
+	TEXT-ALIGN: left; FONT-STYLE: normal; FONT-FAMILY: arial, helvetica, sans-serif; MARGIN-BOTTOM: 1em; FONT-SIZE: 0.8em
+}
+.navlink {
+	FONT-STYLE: normal; TEXT-INDENT: 0em; FONT-FAMILY: arial, helvetica, sans-serif; MARGIN-LEFT: 0em; FONT-SIZE: 0.7em
+}
+.navlinkhead {
+	FONT-STYLE: normal; MARGIN-TOP: 1.5em; FONT-FAMILY: arial, helvetica, sans-serif; FONT-SIZE: 0.7em; FONT-WEIGHT: bold
+}
+.navlinkhead1 {
+	FONT-STYLE: normal; FONT-FAMILY: arial, helvetica, sans-serif; FONT-SIZE: 0.7em; FONT-WEIGHT: bold
+}
+UL {
+	MARGIN-TOP: 0.2em; TEXT-INDENT: -0.5em; PADDING-LEFT: 0.5em; MARGIN-BOTTOM: 1em; MARGIN-LEFT: 0.5em
+}
+.extraspace {
+	MARGIN-TOP: -1.75em
+}
+.bottomnav {
+	MARGIN-TOP: 1em; FONT-FAMILY: 'Times New Roman',Times,serif; FONT-SIZE: 0.8em; FONT-WEIGHT: normal
+}
+.fntext {
+	FONT-FAMILY: 'Times New Roman',Times,serif; FONT-SIZE: 0.8em; FONT-WEIGHT: normal
+}
+.footer {
+	FONT-FAMILY: 'Times New Roman',Times,serif; FONT-SIZE: 0.8em; FONT-WEIGHT: normal
+}
+.pagedate {
+	FONT-WEIGHT: bold
+}
+.inlinebox3 {
+	BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 3em; WIDTH: 60%; PADDING-RIGHT: 3em; FLOAT: left; MARGIN-LEFT: 0em; BORDER-TOP: #000000 2px solid; MARGIN-RIGHT: 1em; BORDER-RIGHT: #000000 2px solid
+}

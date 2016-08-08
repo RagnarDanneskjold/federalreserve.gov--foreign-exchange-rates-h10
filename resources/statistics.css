@@ -225,7 +225,7 @@ table.subNavLinks3{margin-top: 1em;}
 
 .tablenote{padding: 0em 0em 10px 0px; font-size: .85em; font-style:italic;}
 
-.statsNav {clear: both; height: 36px; border: 1px solid #DDD; background-image: url(../GIFJPG/nav_background.gif); background-repeat: repeat-x; background-color: #EBEBEB;}
+.statsNav {clear: both; height: 36px; border: 1px solid #DDD; background-image: url(../GIFJPG/nav_background.gif.html); background-repeat: repeat-x; background-color: #EBEBEB;}
 .statsNav ul{list-style: none; padding: 0; margin: 0;}
 .statsNav ul li{float:left; padding: 8px 7px 8px 7px; }
 .statsNav ul li img{vertical-align: middle;}
@@ -240,7 +240,7 @@ ul.subnav li.selected {font-weight: bold;}
 ul.subnav li.selected a:visited{text-decoration: none; }
 
 /*For old statistical releases with tables for navigation*/
-table.statsNav{clear: both; height: 36px; border: 1px solid #DDD; background-image: url(../GIFJPG/nav_background.gif); background-repeat: repeat-x; background-color: #EBEBEB;}
+table.statsNav{clear: both; height: 36px; border: 1px solid #DDD; background-image: url(../GIFJPG/nav_background.gif.html); background-repeat: repeat-x; background-color: #EBEBEB;}
 table.statsNav img{vertical-align:middle;}
 table.statsNav td {padding: 8px 7px 8px 7px; border-right: none; white-space: nowrap; color: #000000;} 
 table.statsNav td a:link{color: #000000;} 
@@ -249,7 +249,7 @@ table.statsNav td.selected a:link{text-decoration: none; font-weight: bold; colo
 table.statsNav td.selected a:visited{text-decoration: none; font-weight: bold; color:#000000;}
 
 table.statsNavSub{ margin-top: 0em; margin-bottom: 1.5em; color: #000000; border: 1px solid #E1E1E1; background-color:#FFFFFF; padding: 2px;}
-table.statsNavSub td {padding:.5em .7em; border-right: #e1e1e1 1px solid;  white-space: nowrap; color: #ffffff; background-image: url(../gifjpg/grayback2.jpg); background-repeat: repeat-x;} 
+table.statsNavSub td {padding:.5em .7em; border-right: #e1e1e1 1px solid;  white-space: nowrap; color: #ffffff; background-image: url(../gifjpg/grayback2.jpg.html); background-repeat: repeat-x;} 
 table.statsNavSub td a:link{color:#000000;} 
 table.statsNavSub td.selected{font-weight:bold; border-left:none; background-color: none; border-right: #e1e1e1 1px solid; color:#000000;} 
 table.statsNavSub td.selected a:link{font-weight:bold; text-decoration: none; color: #000000;} 

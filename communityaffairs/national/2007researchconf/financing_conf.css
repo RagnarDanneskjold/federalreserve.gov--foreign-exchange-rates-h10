@@ -1,0 +1,143 @@
+.df_title1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.8em; COLOR: #577833; LINE-HEIGHT: 1em; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.df_title2 {
+	FONT-SIZE: 0.7em; TEXT-TRANSFORM: none; COLOR: #000000; LINE-HEIGHT: 1em; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.df_quote {
+	FONT-SIZE: 1.1em; COLOR: #223B71; FONT-STYLE: italic; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.df_text {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.8em; COLOR: #000000; MARGIN-TOP: 1em; MARGIN-BOTTOM: 0.5em; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.navdf {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.8em; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+}
+
+
+		
+.bar 	{font-family: Arial, Helvetica, sans-serif; 
+		text-align: center;}
+		
+.head {font-family: Arial, Helvetica, sans-serif; 
+	font-size: 1.3em;
+	font-weight: bold; 
+	color: #223B71; 
+	text-align: center; 
+	margin-top: 1em; 
+	line-height: 2em;}
+	
+.headsub {font-family: Arial, Helvetica, sans-serif; 
+		font-size: 1em;
+		font-weight: bold; 
+		color: #577833;}
+		
+.intro {font-family: "Times New Roman", Times, serif; 
+		font-size: 1.1em; 
+		font-style: italic; 
+		line-height: 1.2em; 
+		color: #223B71; 
+		text-align: center; 
+		font-weight: bold;}
+			
+.text {  font-family: "Times New Roman", Times, serif; 
+		font-size: 1em; 
+		font-weight: 200; 
+		color: #000000;}
+		
+.italic {font-style: italic;}
+
+.bold {font-weight: bold;}
+
+.note {font-family: Arial, Helvetica, sans-serif; 
+		font-size: 0.8em; 
+		line-height: 1.2em; 
+		font-style: italic; 
+		text-align: center;}
+		
+.bluerow {font-size: 0.1em; 
+		line-height: .1em;}
+		
+.paper {font-family: "Times New Roman", Times, serif; 
+		font-size: 0.9em; 
+		color: #000000;}
+		
+.paperlink {font-family: "Times New Roman", Times, serif; 
+		font-size: 0.9em; 
+		color: #223B71; 
+		text-decoration: underline;}
+		
+.paper_name {font-family: Arial, Helvetica, sans-serif; 
+		font-size: 0.7em; 
+		font-weight: bold;}
+		
+.paper_place {font-family: Arial, Helvetica, sans-serif; 
+		font-size: 0.7em; 
+		margin-bottom: 5px;}
+		
+.discussant {font-family: Arial, Helvetica, sans-serif; 
+		font-size: 0.8em; 
+		font-weight: bold; 
+		color: #33679B; 
+		text-align: center; 
+		margin-top: 6px;}
+
+.discussant_place {font-family: Arial, Helvetica, sans-serif; 
+		font-size: 0.7em; 
+		line-height: 1.2em; 
+		color: #000000; 
+		text-align: center; 
+		margin-bottom: 6px;}
+		
+.stub {font-family: Arial, Helvetica, sans-serif; 
+		font-size: .8em; 
+		font-weight: bold;}
+		
+.nav 	{font-family: Verdana, Arial, Helvetica, sans-serif; 
+		font-size: 0.7em; 
+		color: #223B71;}
+		
+a:link {color: #34595F;}
+		
+a:visited {color: #223B71;} 
+
+a:hover {text-decoration:none;}
+
+a:active {color: #000000}
+		
+.nav2 	{color: #223B71; 
+		text-decoration: underline;}
+	
+.return {font-family: Arial, Helvetica, sans-serif; 
+		font-size: 0.6em; 
+		color: # 223B71; 
+		font-weight: normal;}
+		
+.foot 	{font-family: Arial, Helvetica, sans-serif; 
+		font-size: 0.7em;}
+
+a.skip:link    {font-size: 1pt;
+           font-weight: normal;
+           text-decoration: none;
+           color: #ffffff;}
+		   
+a.skip:hover    {font-size: 1pt;
+           font-weight: normal;
+           text-decoration: none;
+           color: #ffffff;}
+		   
+a.skip:visited    {font-size: 1pt;
+           font-weight: normal;
+           text-decoration: none;
+           color: #ffffff;}	
+	
+		
+hr {
+	color: #84683e;
+}
+
+.footer	{font-size: .8em;
+		font-weight: normal;
+		font-family: 'Times New Roman',Times,serif;}
+		
+.pagedate	{font-weight: bold;}

@@ -1,0 +1,257 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/careers.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Federal Reserve Board:  Career Opportunities</title>
+<!-- InstanceEndEditable -->
+
+<!-- InstanceBeginEditable name="head" -->
+
+<!-- InstanceEndEditable -->
+
+<style type="text/css" media="screen">
+		@import url(styles/careers.css);
+    </style>
+<style type="text/css" media="print">
+		@import url(styles/print.css);
+    </style>
+    
+<script language="JavaScript">
+ <!-- hide javascript
+
+function popUp(pPage, winw, winh)
+{  var winOpts = 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1,width=' + winw + ',height=' + winh;
+   popUpWin = window.open(pPage,'popWin',winOpts);
+   if (parseInt(navigator.appVersion) >= 4)
+     { popUpWin.window.focus();
+     }
+}
+
+//-->
+
+var now = new Date();
+
+var months = new Array(
+"January","February","March","April","May","June","July","August","September","October","November","December");
+
+var monthname= months[now.getMonth()];
+var date= now.getDate();
+var year= now.getYear();
+if (year < 2000) year = 1900 + year;
+
+</script>
+<script language="JavaScript" src="/exit_new.js"></script>   
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+<body>
+
+<!-- Begin Top LInks -->
+<div id="toplinks">
+<h1>Careers at the Federal Reserve</h1>
+<div class="right"><a href="javascript:exitWindow('https://twitter.com/fed_careers','ext')"><img src="gifjpg/twitter-icon.png" alt="Visit our Twitter page" border="0" width="29" height="29" align="absmiddle" /></a><a href="javascript:exitWindow('http://www.linkedin.com/company/federal-reserve-board/careers?trk=top_nav_careers','ext')"><img src="gifjpg/linkedin-icon.png" alt="Visit our LinkedIn page" border="0" width="29" height="29" align="absmiddle" /></a> <a href="/">Federal Reserve Board</a></div>
+<div class="brclear"></div>
+</div>
+<a class="skip" href="#content">Skip to content</a>
+<!--Begin Header-->
+
+<div id="headerContainer"><a name="top"></a><noscript><p>Some links on this page require Javascript.</p></noscript>
+
+<div id="headerBackground"><a href="default.htm">
+
+<!-- InstanceBeginEditable name="headerImage" -->
+<img src="gifjpg/header2.jpg" border="0" alt="Guiding the Nation's Economy: Careers at the Federal Reserve Board of Governors, home page. "/>
+<!-- InstanceEndEditable -->
+<div class="printText">Guiding the Nation's Economy</div>
+</a>
+
+  <!-- #BeginLibraryItem "/navigation.lbi" -->
+  <table class="menu">
+    <tr>
+      <td width="8%"><a href="benefits.htm">Benefits</a></td>
+      <td width="10%"><a href="salary.htm">Salary</a></td>
+      <td width="20%"><a href="diversity.htm">Commitment to Diversity</a></td>
+      <td width="26%"><a href="faq.htm">Frequently Asked Questions (FAQs)</a></td>
+      <td width="17%"><a href="directions.htm">Getting to the Board</a></td>
+      <td width="19%" class="last"><a href="addInfo.htm">Additional Information</a></td>
+    </tr>
+  </table>
+  <!-- #EndLibraryItem --></div>
+</div>
+<a class="skip" href="#content">Skip to content</a>
+<!--End Header-->
+
+<!--Begin Main Section-->
+
+<div id="MainContentContainer"><!--Contains all three columns - LeftCenter Container and RightContainer-->
+
+<div id="LeftCenterContainer"><!--Holds the left navigation and center content-->
+		<!--Divs for Left Menu Items-->
+		
+		<div id="leftContent">
+		<!--<div class="quickLinkTitle">Quick Links</div>-->
+		<!-- InstanceBeginEditable name="leftLinks" -->
+       
+		<!-- InstanceEndEditable -->
+		</div>
+		
+		<!--End Left Menu Items-->
+      <!--Begin Center Column-->
+	
+		<div id="centerContent">
+		<a name="content"></a>
+        
+        <!-- InstanceBeginEditable name="centerContent" -->
+		<h1>Economic Divisions Fellowships</h1>
+		
+	<div class="introText">
+		  
+		  <p><a name="links"></a>
+		  <a title="Dissertation Internships" href="#DissIntern">Dissertation Fellows</a> <a name="#DissIntern1" id="#DissIntern1"></a>&nbsp;&nbsp;|&nbsp;&nbsp; <a title="Dissertation FAQ" href="#DissFaq">Frequently Asked Questions</a> <a name="#DissFaq" id="#DissFaq"></a></p>
+
+		  <p><a href="intern_project.htm">Summer Project Internships</a></p>
+	</div>
+		 <h2><a name="DissIntern"></a>Dissertation Fellows</h2>
+		
+<p>The Divisions of International Finance, Monetary Affairs, Research and Statistics, and the Office of Financial Stability Policy and Research offer paid in-residence fellowships for graduate students to conduct research at the Federal Reserve Board.</p>	
+
+<p>Positions are offered in the spring, summer, and fall.</p>
+
+<p>Dissertation fellows work on a topic of their own choosing, usually furthering dissertation research begun before the fellowship. Preference is given to Ph.D. candidates whose topics are in macroeconomics (broadly defined), international economics, finance, banking, and econometrics. Applications are also welcome from students working in other fields of economics.</p>
+
+		 <table cellspacing="3" cellpadding="3" align="center" border="2">
+           <tbody>
+             <tr bgcolor="#BECCD8">
+               <th scope="col" align="middle">Program </th>
+               <th scope="col" align="middle">Application Deadline </th>
+               <th scope="col" align="middle">Typical Tenure </th>
+             </tr>
+
+             <tr bgcolor="#f1ede9">
+               <td align="middle" scope="row">Summer </td>
+               <td align="middle">March 15 </td>
+               <td align="middle">June-September </td>
+             </tr>
+             <tr bgcolor="#f1ede9">
+               <td align="middle" scope="row">Fall </td>
+               <td align="middle">June 15 </td>
+               <td align="middle">September-December </td>
+             </tr>
+             <tr bgcolor="#f1ede9">
+               <td align="middle" scope="row">Spring </td>
+               <td align="middle">November 15 </td>
+               <td align="middle">March-May </td>
+
+             </tr>
+           </tbody>
+    </table>
+		
+		<h2>Program Coordinators </h2>
+		 <ul>
+		   <li>John Rogers (International Finance) </li>
+		   <li>Steve Sharpe (Research and Statistics) </li>
+		   <li>Egon Zakrajsek (Monetary Affairs) </li>
+           <li>Mike Kiley (Office of Financial Stability Policy and Research)</li>
+         </ul>
+		 
+	<h2>To Apply</h2>
+
+<p>Send the following application material by e-mail to <a href="mailto:DissertationFellows@frb.gov">DissertationFellows@frb.gov</a>:</p>
+
+		 <ul>
+           <li>vita </li>
+		   <li>work from the thesis </li>
+		   <li>transcript of graduate work </li>
+		   <li>two letters of reference </li>
+    </ul>
+	
+    <p class="ReturnToTop"><a href="#top">Return to Top</a></p>
+
+		
+ <h2><a name="DissFaq"></a>Dissertation Fellowships Frequently Asked Questions</h2>
+   
+    <ol>
+    <li> <strong>What types of dissertation topics are of interest to the Board?</strong>
+    <p class="answer">Because of its many responsibilities, the Board has broad research interests. Accordingly, we are interested in dissertation topics such as macroeconomics, labor, monetary policy, international trade and finance, banking (including regulatory issues), finance, and econometrics.</p></li> 
+    
+    <li> <strong>In what stage should my dissertation be to maximize my chances of acceptance?</strong> 
+    <p class="answer">We find that fourth and fifth year students gain the most from this type of fellowship. Occasionally, a third year student is far enough along on his or her dissertation to gain the benefit of the program.</p></li>
+    
+    <li> <strong>Do I have to be a U.S. citizen to apply to the dissertation fellowship program?</strong>
+    <p class="answer">No. However, candidates must be legally authorized to work in the United States.</p></li>
+    
+     <li> <strong>Should I indicate my interest in the fall and spring sessions even though my primary interest is in the summer session? </strong> 
+    <p class="answer">Yes. The number of applications for summer fellowships far exceeds the number of available positions. Because fewer students are available for fall and spring fellowships, the chances of being contacted for a fellowship are greater for those sessions.</p></li>
+   
+    <li> <strong>Will someone notify me about the status of my application?</strong> 
+    <p class="answer">Only selected candidates are contacted. Questions regarding application status may be directed to the committee at <a href="mailto:DissertationFellows@frb.gov">DissertationFellows@frb.gov</a>.</p></li>
+    
+    <li> <strong>Should I send my application material to the Board by mail, fax, or e-mail?</strong> 
+    <p class="answer">We prefer that all application material is sent by e-mail to <a href ="mailto:DissertationFellows@frb.gov">DissertationFellows@frb.gov</a>. Students should send a vita, work from the thesis, and an unofficial copy of the most recent transcript. Professors should send recommendation letters by e-mail. </p></li>
+    
+     <li> <strong>Do I need to reside in Washington, D.C., during my fellowship?</strong> 
+    <p class="answer">Yes. Fellows work regular hours at the Board from Monday through Friday. Flexibility is given for visits back to the university as needed, although the Board does not pay for travel expenses.</p></li>
+    
+    <li> <strong>How many fellows are hired per session? </strong>
+    <p class="answer">Generally, six to eight fellowships are granted for the summer and three or four for the fall. Only one or two fellows are usually hired for the spring session.</p></li> 
+    
+    <li> <strong>How long do fellowships last?</strong>
+    <p class="answer">Fellowships can last from a minimum of 12 weeks to a maximum of 15 weeks.</p></li> 
+    
+    <li> <strong>In addition to furthering dissertation research, are there other requirements during the fellowship? </strong>
+     <p class="answer">Fellows are required to make one or two presentations during their stay, with the first one occurring early in the fellowship.</p></li>
+    
+    
+    </ol>   
+ 
+
+	<p class="ReturnToTop"><a href="#top">Return to top </a> </p>
+
+        
+        <!-- InstanceEndEditable -->
+	</div> <!--Closes Center Content Div-->
+	</div> <!--Closes LeftCenter Container Div-->
+	
+	
+	
+<!-- InstanceBeginEditable name="rightContent" -->
+
+<!-- InstanceEndEditable -->
+	 
+
+<br class="brclear"/>
+<!--The following Div adds the bottom image and quote to the page-->
+<!-- InstanceBeginEditable name="footerImage" -->
+
+
+<!--End Image Container-->
+<!-- InstanceEndEditable -->
+</div>
+<!--Closes MainContentContainer--> 
+
+<!--Begin Footer-->
+
+<div id="FooterContainer">
+	<div id="footer">
+	<div class="lastUpdate"><a href="/">Home</a> | <a href="/careers/default.htm">Career Opportunities</a><br /><a href="/aboutthefed/contact-us-topics.htm">Contact us</a> | <a href="/accessibility.htm">Accessibility</a><br />
+	<strong>Last Update: 
+	<!-- #BeginDate format:Am1 -->May 26, 2015<!-- #EndDate -->
+	</strong></div>
+	</div>
+</div>
+
+<!--End Footer--> 
+        
+        
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+<!-- InstanceEnd --></html>

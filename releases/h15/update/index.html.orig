@@ -1,0 +1,690 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="Board of Governors of the Federal Reserve System, Federal Reserve Board of Governors, Federal Reserve Board, Federal Reserve" />
+<meta name="description" content="The Federal Reserve Board of Governors in Washington DC." />
+
+<!-- ######################################-->
+<TITLE>FRB: H.15--Selected Interest Rates, Web-Only Daily Update-- August 05, 2016</TITLE>
+
+<!-- ######################################-->
+
+<link href="/resources/pubweb.css" rel="stylesheet" type="text/css" />
+
+<link href="/resources/secondary.css" rel="stylesheet" type="text/css" />
+<link href="/resources/print.css" rel="stylesheet" type="text/css" media="print"/>
+<link href="/resources/economic.css" rel="stylesheet" type="text/css" />
+<link href="/resources/statistics.css" rel="stylesheet" type="text/css" />
+
+<script language="JavaScript" type="text/javascript" src="/resources/economicLeftNav.js"></script>
+<script language="JavaScript" type="text/javascript" src="/resources/exit_new.js"></script>
+<script language="JavaScript" type="text/javascript" src="/resources/swfLink.js"></script>
+<script type="text/javascript">
+<!--
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+//-->
+</script>
+
+
+<script src="../../jsfiles/jquery.js"></script>
+
+<script language="javascript">
+$(document).ready(function(){
+		
+		$(".statistics tr:even").addClass("alt");
+						   });
+
+</script>
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+<body>
+
+<a href="#mainNav" class="invisible">skip to main navigation</a>
+<a href="#secondNav" class="invisible">skip to secondary navigation</a>
+<a href="#content" class="invisible">skip to content</a>
+
+
+<!-- HEADER STARTS -->
+<table id="headerTopLinks" cellpadding="0" cellspacing="0">
+
+<tr><td class="headerTopLinksLeft">
+
+<a href="/whatsnew.htm">What's New</a> &middot; 
+
+<a href="/whatsnext.htm">What's Next</a> &middot; 
+<a href="/sitemap.htm">Site Map</a> &middot; 
+<a href="/azindex.htm">A-Z Index</a> &middot; 
+<a href="/careers/default.htm">Careers</a> &middot; 
+
+<a href="/feeds/default.htm">RSS</a> &middot; 
+<a href="/mediacenter/media.htm">All Videos</a> &middot; 
+
+<a href="/faqs/faq.htm">Current FAQs</a>
+
+</td>
+<td class="curve1"></td>
+<td class="headerTopLinksRight">
+<form action="http://search.newyorkfed.org/board_public/search" method="get"><label for="searchbox" class="globalskip">Search</label><input type="text" name="text" size="12" maxlength="100" id="searchbox"/>&nbsp;<input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search" border="0"/>&nbsp;<a href="http://search.newyorkfed.org/board_public/" class="search">Advanced Search</a></form>
+
+</td>
+<td class="curve2"></td>
+</tr></table>
+
+<div id="top">
+
+    <div id="headerMasthead"><a href="/default.htm"><img src="/econresdata/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"></a></div>
+
+<a name="mainNav"></a>
+<div class="navMenuBack">
+<table id="navMenu"  border="0" cellpadding="0" cellspacing="0">
+<tr>
+    <td>
+        <div class="navItem"><a href="/aboutthefed/default.htm">About<BR>the Fed</a></div>
+
+    </td>
+
+    <td>
+        <div class="navItem"><a href="/newsevents/default.htm">News<BR>&amp; Events</a></div>
+
+    </td>
+    <td>
+        <div class="navItem"><a href="/monetarypolicy/default.htm">Monetary<BR>Policy</a></div>
+
+    </td>
+
+    <td>
+        <div class="navItem"><a href="/bankinforeg/default.htm">Banking<BR>Information<BR>&amp; Regulation</a></div>
+
+    </td>
+    <td>
+        <div class="navItem"><a href="/paymentsystems/default.htm">Payment<BR>Systems</a></div>
+
+    </td>
+    <td id="selected">
+        <div class="navItem"><a href="/econresdata/default.htm">Economic<BR>Research<BR>&amp; Data</a></div>
+
+    </td>
+    <td>
+        <div class="navItem"><a href="/consumerinfo/default.htm">Consumer<BR> Information</a></div>
+
+    </td>
+    <td>
+        <div class="navItem"><a href="/communitydev/default.htm">Community<BR>Development</a></div>
+
+    </td>
+    <td>
+        <div class="navItem"><a href="/apps/reportforms/default.aspx">Reporting<BR>Forms</a></div>
+
+    </td>
+    <td>
+        <div class="navItem"><a href="/publications/default.htm">Publications</a></div>
+    </td>
+
+</tr>
+</table>
+<!-- HEADER ENDS -->
+ 
+ 
+</div>
+</div>
+
+<div id="contentContainer">
+
+<a name="secondNav"></a><a href="#content" class="invisible">skip to content</a>
+        
+<div id="leftnav">
+        <!-- Insert the Left Navigation Begins here -->
+        
+        <div class="secondaryContentLeftNav">
+        
+        <script language="javascript" type="text/javascript">
+        <!--
+        buildMenu();
+        -->
+        </script>
+
+        <noscript>
+        <a href="/resources/economicLeftNav.htm">Menu</a>
+        </noscript>
+
+       
+        </div><!-- closes 'secondaryContentLeftNav' div -->
+
+          
+</div> <!-- CLOSES leftnav -->
+<!-- Left Navigation ENDS -->
+
+<div id="content">
+<div id="BreadCrumbContainer">
+<a href="/default.htm">Home</a> &gt; <a href="/econresdata/">Economic Research &amp; Data</a> &gt; <a href="/econresdata/releases/statisticsdata.htm">Statistical Releases and Historical Data</a>
+
+</div> 
+<!--################################################### CLOSES BreadCrumbContainer #####################################################-->
+
+
+<div class="generalContentText" id="printThis">
+
+<div id="printIcon">
+<a href="/feeds/"><img src="/GIFJPG/rssIcon.gif" border="0" /></a>     
+
+		<a href="/datadownload/Choose.aspx?rel=H15"> 
+	
+<img src="/GIFJPG/ddpIcon_smallest.gif" border="0"/> DDP</a> 
+<a href="javascript:printable('/resources/print_economic.css');"><img src="/gifjpg/printIcon.gif">Print</a>
+
+</div>
+
+<a name="content"></a>
+<A NAME="pagetop"></A>
+
+<!-- ######################################-->
+<h1 class="border">Selected Interest Rates (Daily) - H.15</h1>
+<!-- ######################################-->
+
+<div class="statsNav">
+<ul>
+<li><a href="../current/default.htm">Current Release</a></li>
+
+<li><a href="../default.htm">Release Dates</a></li>
+<li class="selected"><a href="default.htm">Daily Update</a></li><li><a href="../data.htm">Historical Data</a></li>
+
+<li><a href="../about.htm">About</a></li>
+<li><a href="/feeds/h15.html">Announcements</a></li>
+
+</ul>
+</div> 
+
+<!-- BEGIN DATA HERE -->
+
+
+
+
+
+
+<h2 class="border">Daily Update</h2><div class="dates">Release Date: August 5, 2016</div><a name="content"></a><div class="note">
+      The weekly release is posted on Monday.  Daily updates of the
+      weekly release are posted Tuesday through Friday on this site.
+      If Monday is a holiday, the weekly release will be posted on
+      Tuesday after the holiday and the daily update will not be
+      posted on that Tuesday.
+    </div><h3>August 5, 2016<br>Selected Interest Rates</h3><h5 class="nopadding">Yields in percent per annum</h5><table class="statistics" border="0" cellpadding="0" cellspacing="0" summary="Selected Interest Rates">
+<thead>
+<tr>
+<th rowspan="2" id="instruments" nowrap="nowrap" bgcolor="#DCDCDC">Instruments</th>
+<th rowspan="2" bgcolor="#DCDCDC" id="col1">2016<br>Aug<br>1</th>
+<th rowspan="2" bgcolor="#DCDCDC" id="col2">2016<br>Aug<br>2</th>
+<th rowspan="2" bgcolor="#DCDCDC" id="col3">2016<br>Aug<br>3</th>
+<th rowspan="2" bgcolor="#DCDCDC" id="col4">2016<br>Aug<br>4</th>
+</tr><tr>
+
+
+</tr>
+</thead><tbody>
+<tr>
+<th align="left" nowrap="nowrap" id="id11bda0c8" headers="instruments">Federal funds (effective) <a class="foot" title="Footnote 1" href="#fn1">1</a> <a class="foot" title="Footnote 2" href="#fn2">2</a> <a class="foot" title="Footnote 3" href="#fn3">3</a>
+</th>
+<td align="right" headers="id11bda0c8 col1" nowrap="nowrap">&nbsp;0.40&nbsp;</td>
+<td align="right" headers="id11bda0c8 col2" nowrap="nowrap">&nbsp;0.40&nbsp;</td>
+<td align="right" headers="id11bda0c8 col3" nowrap="nowrap">&nbsp;0.40&nbsp;</td>
+<td align="right" headers="id11bda0c8 col4" nowrap="nowrap">&nbsp;0.40&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bd9f60" headers="instruments">Commercial Paper <a class="foot" title="Footnote 3" href="#fn3">3</a> <a class="foot" title="Footnote 4" href="#fn4">4</a> <a class="foot" title="Footnote 5" href="#fn5">5</a> <a class="foot" title="Footnote 6" href="#fn6">6</a>
+</th>
+<td align="right" headers="id11bd9f60 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11bd9f60 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11bd9f60 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11bd9f60 col4" nowrap="nowrap">&nbsp;&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bda898" headers="instruments id11bd9f60" class="indent2">Nonfinancial</th>
+<td align="right" headers="id11bd9f60 id11bda898 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bda898 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bda898 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bda898 col4" nowrap="nowrap">&nbsp;&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bdb248" headers="instruments id11bd9f60 id11bda898" class="indent3">1-month</th>
+<td align="right" headers="id11bd9f60 id11bda898 id11bdb248 col1" nowrap="nowrap">&nbsp;0.37&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bda898 id11bdb248 col2" nowrap="nowrap">&nbsp;0.39&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bda898 id11bdb248 col3" nowrap="nowrap">&nbsp;0.36&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bda898 id11bdb248 col4" nowrap="nowrap">&nbsp;0.36&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bdbc70" headers="instruments id11bd9f60 id11bda898" class="indent3">2-month</th>
+<td align="right" headers="id11bd9f60 id11bda898 id11bdbc70 col1" nowrap="nowrap">&nbsp;0.45&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bda898 id11bdbc70 col2" nowrap="nowrap">&nbsp;0.44&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bda898 id11bdbc70 col3" nowrap="nowrap">&nbsp;n.a.&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bda898 id11bdbc70 col4" nowrap="nowrap">&nbsp;n.a.&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bdc620" headers="instruments id11bd9f60 id11bda898" class="indent3">3-month</th>
+<td align="right" headers="id11bd9f60 id11bda898 id11bdc620 col1" nowrap="nowrap">&nbsp;0.53&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bda898 id11bdc620 col2" nowrap="nowrap">&nbsp;0.50&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bda898 id11bdc620 col3" nowrap="nowrap">&nbsp;n.a.&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bda898 id11bdc620 col4" nowrap="nowrap">&nbsp;0.48&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bdd2c8" headers="instruments id11bd9f60" class="indent2">Financial</th>
+<td align="right" headers="id11bd9f60 id11bdd2c8 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bdd2c8 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bdd2c8 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bdd2c8 col4" nowrap="nowrap">&nbsp;&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bdcf30" headers="instruments id11bd9f60 id11bdd2c8" class="indent3">1-month</th>
+<td align="right" headers="id11bd9f60 id11bdd2c8 id11bdcf30 col1" nowrap="nowrap">&nbsp;0.32&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bdd2c8 id11bdcf30 col2" nowrap="nowrap">&nbsp;0.46&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bdd2c8 id11bdcf30 col3" nowrap="nowrap">&nbsp;0.39&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bdd2c8 id11bdcf30 col4" nowrap="nowrap">&nbsp;0.44&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bdd098" headers="instruments id11bd9f60 id11bdd2c8" class="indent3">2-month</th>
+<td align="right" headers="id11bd9f60 id11bdd2c8 id11bdd098 col1" nowrap="nowrap">&nbsp;0.53&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bdd2c8 id11bdd098 col2" nowrap="nowrap">&nbsp;0.53&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bdd2c8 id11bdd098 col3" nowrap="nowrap">&nbsp;0.52&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bdd2c8 id11bdd098 col4" nowrap="nowrap">&nbsp;n.a.&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bdda48" headers="instruments id11bd9f60 id11bdd2c8" class="indent3">3-month</th>
+<td align="right" headers="id11bd9f60 id11bdd2c8 id11bdda48 col1" nowrap="nowrap">&nbsp;0.67&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bdd2c8 id11bdda48 col2" nowrap="nowrap">&nbsp;0.59&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bdd2c8 id11bdda48 col3" nowrap="nowrap">&nbsp;0.69&nbsp;</td>
+<td align="right" headers="id11bd9f60 id11bdd2c8 id11bdda48 col4" nowrap="nowrap">&nbsp;0.90&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bde4e8" headers="instruments">Eurodollar deposits (London) <a class="foot" title="Footnote 3" href="#fn3">3</a> <a class="foot" title="Footnote 7" href="#fn7">7</a>
+</th>
+<td align="right" headers="id11bde4e8 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11bde4e8 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11bde4e8 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11bde4e8 col4" nowrap="nowrap">&nbsp;&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bdf190" headers="instruments id11bde4e8" class="indent2">1-month</th>
+<td align="right" headers="id11bde4e8 id11bdf190 col1" nowrap="nowrap">&nbsp;0.48&nbsp;</td>
+<td align="right" headers="id11bde4e8 id11bdf190 col2" nowrap="nowrap">&nbsp;0.48&nbsp;</td>
+<td align="right" headers="id11bde4e8 id11bdf190 col3" nowrap="nowrap">&nbsp;0.48&nbsp;</td>
+<td align="right" headers="id11bde4e8 id11bdf190 col4" nowrap="nowrap">&nbsp;0.50&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bdf8c0" headers="instruments id11bde4e8" class="indent2">3-month</th>
+<td align="right" headers="id11bde4e8 id11bdf8c0 col1" nowrap="nowrap">&nbsp;0.68&nbsp;</td>
+<td align="right" headers="id11bde4e8 id11bdf8c0 col2" nowrap="nowrap">&nbsp;0.68&nbsp;</td>
+<td align="right" headers="id11bde4e8 id11bdf8c0 col3" nowrap="nowrap">&nbsp;0.68&nbsp;</td>
+<td align="right" headers="id11bde4e8 id11bdf8c0 col4" nowrap="nowrap">&nbsp;0.75&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bdfa28" headers="instruments id11bde4e8" class="indent2">6-month</th>
+<td align="right" headers="id11bde4e8 id11bdfa28 col1" nowrap="nowrap">&nbsp;0.95&nbsp;</td>
+<td align="right" headers="id11bde4e8 id11bdfa28 col2" nowrap="nowrap">&nbsp;0.95&nbsp;</td>
+<td align="right" headers="id11bde4e8 id11bdfa28 col3" nowrap="nowrap">&nbsp;0.95&nbsp;</td>
+<td align="right" headers="id11bde4e8 id11bdfa28 col4" nowrap="nowrap">&nbsp;1.15&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11be4a98" headers="instruments">Bank prime loan <a class="foot" title="Footnote 2" href="#fn2">2</a> <a class="foot" title="Footnote 3" href="#fn3">3</a> <a class="foot" title="Footnote 8" href="#fn8">8</a>
+</th>
+<td align="right" headers="id11be4a98 col1" nowrap="nowrap">&nbsp;3.50&nbsp;</td>
+<td align="right" headers="id11be4a98 col2" nowrap="nowrap">&nbsp;3.50&nbsp;</td>
+<td align="right" headers="id11be4a98 col3" nowrap="nowrap">&nbsp;3.50&nbsp;</td>
+<td align="right" headers="id11be4a98 col4" nowrap="nowrap">&nbsp;3.50&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11be5088" headers="instruments">Discount window primary credit <a class="foot" title="Footnote 2" href="#fn2">2</a> <a class="foot" title="Footnote 9" href="#fn9">9</a>
+</th>
+<td align="right" headers="id11be5088 col1" nowrap="nowrap">&nbsp;1.00&nbsp;</td>
+<td align="right" headers="id11be5088 col2" nowrap="nowrap">&nbsp;1.00&nbsp;</td>
+<td align="right" headers="id11be5088 col3" nowrap="nowrap">&nbsp;1.00&nbsp;</td>
+<td align="right" headers="id11be5088 col4" nowrap="nowrap">&nbsp;1.00&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11be5ab0" headers="instruments">U.S. government securities</th>
+<td align="right" headers="id11be5ab0 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 col4" nowrap="nowrap">&nbsp;&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11be6410" headers="instruments id11be5ab0" class="indent2">Treasury bills (secondary market) <a class="foot" title="Footnote 3" href="#fn3">3</a> <a class="foot" title="Footnote 4" href="#fn4">4</a>
+</th>
+<td align="right" headers="id11be5ab0 id11be6410 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 col4" nowrap="nowrap">&nbsp;&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11be6e10" headers="instruments id11be5ab0 id11be6410" class="indent3">4-week</th>
+<td align="right" headers="id11be5ab0 id11be6410 id11be6e10 col1" nowrap="nowrap">&nbsp;0.19&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 id11be6e10 col2" nowrap="nowrap">&nbsp;0.28&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 id11be6e10 col3" nowrap="nowrap">&nbsp;0.26&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 id11be6e10 col4" nowrap="nowrap">&nbsp;0.24&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11be7ae0" headers="instruments id11be5ab0 id11be6410" class="indent3">3-month</th>
+<td align="right" headers="id11be5ab0 id11be6410 id11be7ae0 col1" nowrap="nowrap">&nbsp;0.29&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 id11be7ae0 col2" nowrap="nowrap">&nbsp;0.29&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 id11be7ae0 col3" nowrap="nowrap">&nbsp;0.28&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 id11be7ae0 col4" nowrap="nowrap">&nbsp;0.26&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11be8328" headers="instruments id11be5ab0 id11be6410" class="indent3">6-month</th>
+<td align="right" headers="id11be5ab0 id11be6410 id11be8328 col1" nowrap="nowrap">&nbsp;0.39&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 id11be8328 col2" nowrap="nowrap">&nbsp;0.40&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 id11be8328 col3" nowrap="nowrap">&nbsp;0.41&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 id11be8328 col4" nowrap="nowrap">&nbsp;0.40&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11be8be8" headers="instruments id11be5ab0 id11be6410" class="indent3">1-year</th>
+<td align="right" headers="id11be5ab0 id11be6410 id11be8be8 col1" nowrap="nowrap">&nbsp;0.49&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 id11be8be8 col2" nowrap="nowrap">&nbsp;0.49&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 id11be8be8 col3" nowrap="nowrap">&nbsp;0.51&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be6410 id11be8be8 col4" nowrap="nowrap">&nbsp;0.50&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11be9728" headers="instruments id11be5ab0" class="indent2">Treasury constant maturities</th>
+<td align="right" headers="id11be5ab0 id11be9728 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 col4" nowrap="nowrap">&nbsp;&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bea0b0" headers="instruments id11be5ab0 id11be9728" class="indent3">Nominal <a class="foot" title="Footnote 10" href="#fn10">10</a>
+</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 col4" nowrap="nowrap">&nbsp;&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bead80" headers="instruments id11be5ab0 id11be9728 id11bea0b0" class="indent4">1-month</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bead80 col1" nowrap="nowrap">&nbsp;0.20&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bead80 col2" nowrap="nowrap">&nbsp;0.28&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bead80 col3" nowrap="nowrap">&nbsp;0.26&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bead80 col4" nowrap="nowrap">&nbsp;0.24&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bea9c0" headers="instruments id11be5ab0 id11be9728 id11bea0b0" class="indent4">3-month</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bea9c0 col1" nowrap="nowrap">&nbsp;0.29&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bea9c0 col2" nowrap="nowrap">&nbsp;0.29&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bea9c0 col3" nowrap="nowrap">&nbsp;0.28&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bea9c0 col4" nowrap="nowrap">&nbsp;0.26&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11beb7d0" headers="instruments id11be5ab0 id11be9728 id11bea0b0" class="indent4">6-month</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11beb7d0 col1" nowrap="nowrap">&nbsp;0.40&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11beb7d0 col2" nowrap="nowrap">&nbsp;0.41&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11beb7d0 col3" nowrap="nowrap">&nbsp;0.42&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11beb7d0 col4" nowrap="nowrap">&nbsp;0.41&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bfac50" headers="instruments id11be5ab0 id11be9728 id11bea0b0" class="indent4">1-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bfac50 col1" nowrap="nowrap">&nbsp;0.50&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bfac50 col2" nowrap="nowrap">&nbsp;0.50&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bfac50 col3" nowrap="nowrap">&nbsp;0.53&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bfac50 col4" nowrap="nowrap">&nbsp;0.51&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bf3900" headers="instruments id11be5ab0 id11be9728 id11bea0b0" class="indent4">2-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf3900 col1" nowrap="nowrap">&nbsp;0.67&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf3900 col2" nowrap="nowrap">&nbsp;0.67&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf3900 col3" nowrap="nowrap">&nbsp;0.67&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf3900 col4" nowrap="nowrap">&nbsp;0.64&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bf4260" headers="instruments id11be5ab0 id11be9728 id11bea0b0" class="indent4">3-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf4260 col1" nowrap="nowrap">&nbsp;0.78&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf4260 col2" nowrap="nowrap">&nbsp;0.79&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf4260 col3" nowrap="nowrap">&nbsp;0.78&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf4260 col4" nowrap="nowrap">&nbsp;0.76&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bf5070" headers="instruments id11be5ab0 id11be9728 id11bea0b0" class="indent4">5-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf5070 col1" nowrap="nowrap">&nbsp;1.06&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf5070 col2" nowrap="nowrap">&nbsp;1.07&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf5070 col3" nowrap="nowrap">&nbsp;1.07&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf5070 col4" nowrap="nowrap">&nbsp;1.03&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bf5930" headers="instruments id11be5ab0 id11be9728 id11bea0b0" class="indent4">7-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf5930 col1" nowrap="nowrap">&nbsp;1.33&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf5930 col2" nowrap="nowrap">&nbsp;1.36&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf5930 col3" nowrap="nowrap">&nbsp;1.35&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf5930 col4" nowrap="nowrap">&nbsp;1.31&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bf61c8" headers="instruments id11be5ab0 id11be9728 id11bea0b0" class="indent4">10-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf61c8 col1" nowrap="nowrap">&nbsp;1.51&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf61c8 col2" nowrap="nowrap">&nbsp;1.55&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf61c8 col3" nowrap="nowrap">&nbsp;1.55&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf61c8 col4" nowrap="nowrap">&nbsp;1.51&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bf6330" headers="instruments id11be5ab0 id11be9728 id11bea0b0" class="indent4">20-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf6330 col1" nowrap="nowrap">&nbsp;1.84&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf6330 col2" nowrap="nowrap">&nbsp;1.88&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf6330 col3" nowrap="nowrap">&nbsp;1.88&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf6330 col4" nowrap="nowrap">&nbsp;1.84&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bf6c68" headers="instruments id11be5ab0 id11be9728 id11bea0b0" class="indent4">30-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf6c68 col1" nowrap="nowrap">&nbsp;2.24&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf6c68 col2" nowrap="nowrap">&nbsp;2.29&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf6c68 col3" nowrap="nowrap">&nbsp;2.29&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bea0b0 id11bf6c68 col4" nowrap="nowrap">&nbsp;2.25&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bf7550" headers="instruments id11be5ab0 id11be9728" class="indent3">Inflation indexed <a class="foot" title="Footnote 11" href="#fn11">11</a>
+</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 col4" nowrap="nowrap">&nbsp;&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bf7de8" headers="instruments id11be5ab0 id11be9728 id11bf7550" class="indent4">5-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf7de8 col1" nowrap="nowrap">&nbsp;-0.21&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf7de8 col2" nowrap="nowrap">&nbsp;-0.18&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf7de8 col3" nowrap="nowrap">&nbsp;-0.21&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf7de8 col4" nowrap="nowrap">&nbsp;-0.27&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bf8630" headers="instruments id11be5ab0 id11be9728 id11bf7550" class="indent4">7-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf8630 col1" nowrap="nowrap">&nbsp;-0.11&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf8630 col2" nowrap="nowrap">&nbsp;-0.06&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf8630 col3" nowrap="nowrap">&nbsp;-0.09&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf8630 col4" nowrap="nowrap">&nbsp;-0.14&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bf8e28" headers="instruments id11be5ab0 id11be9728 id11bf7550" class="indent4">10-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf8e28 col1" nowrap="nowrap">&nbsp;0.05&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf8e28 col2" nowrap="nowrap">&nbsp;0.11&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf8e28 col3" nowrap="nowrap">&nbsp;0.09&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf8e28 col4" nowrap="nowrap">&nbsp;0.04&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bf9a08" headers="instruments id11be5ab0 id11be9728 id11bf7550" class="indent4">20-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf9a08 col1" nowrap="nowrap">&nbsp;0.42&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf9a08 col2" nowrap="nowrap">&nbsp;0.49&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf9a08 col3" nowrap="nowrap">&nbsp;0.48&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bf9a08 col4" nowrap="nowrap">&nbsp;0.42&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id11bfa138" headers="instruments id11be5ab0 id11be9728 id11bf7550" class="indent4">30-year</th>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bfa138 col1" nowrap="nowrap">&nbsp;0.63&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bfa138 col2" nowrap="nowrap">&nbsp;0.70&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bfa138 col3" nowrap="nowrap">&nbsp;0.68&nbsp;</td>
+<td align="right" headers="id11be5ab0 id11be9728 id11bf7550 id11bfa138 col4" nowrap="nowrap">&nbsp;0.62&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2f648" headers="instruments id11be5ab0" class="indent2">Inflation-indexed long-term average <a class="foot" title="Footnote 12" href="#fn12">12</a>
+</th>
+<td align="right" headers="id11be5ab0 id9e2f648 col1" nowrap="nowrap">&nbsp;0.49&nbsp;</td>
+<td align="right" headers="id11be5ab0 id9e2f648 col2" nowrap="nowrap">&nbsp;0.55&nbsp;</td>
+<td align="right" headers="id11be5ab0 id9e2f648 col3" nowrap="nowrap">&nbsp;0.53&nbsp;</td>
+<td align="right" headers="id11be5ab0 id9e2f648 col4" nowrap="nowrap">&nbsp;0.48&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2f738" headers="instruments">Interest rate swaps <a class="foot" title="Footnote 13" href="#fn13">13</a>
+</th>
+<td align="right" headers="id9e2f738 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2f738 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2f738 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2f738 col4" nowrap="nowrap">&nbsp;&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2f828" headers="instruments id9e2f738" class="indent2">1-year</th>
+<td align="right" headers="id9e2f738 id9e2f828 col1" nowrap="nowrap">&nbsp;0.84&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2f828 col2" nowrap="nowrap">&nbsp;0.86&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2f828 col3" nowrap="nowrap">&nbsp;0.88&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2f828 col4" nowrap="nowrap">&nbsp;0.87&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2f918" headers="instruments id9e2f738" class="indent2">2-year</th>
+<td align="right" headers="id9e2f738 id9e2f918 col1" nowrap="nowrap">&nbsp;0.90&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2f918 col2" nowrap="nowrap">&nbsp;0.92&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2f918 col3" nowrap="nowrap">&nbsp;0.94&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2f918 col4" nowrap="nowrap">&nbsp;0.91&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2be08" headers="instruments id9e2f738" class="indent2">3-year</th>
+<td align="right" headers="id9e2f738 id9e2be08 col1" nowrap="nowrap">&nbsp;0.96&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2be08 col2" nowrap="nowrap">&nbsp;0.98&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2be08 col3" nowrap="nowrap">&nbsp;1.00&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2be08 col4" nowrap="nowrap">&nbsp;0.96&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2bef8" headers="instruments id9e2f738" class="indent2">4-year</th>
+<td align="right" headers="id9e2f738 id9e2bef8 col1" nowrap="nowrap">&nbsp;1.01&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2bef8 col2" nowrap="nowrap">&nbsp;1.04&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2bef8 col3" nowrap="nowrap">&nbsp;1.06&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2bef8 col4" nowrap="nowrap">&nbsp;1.01&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2bd68" headers="instruments id9e2f738" class="indent2">5-year</th>
+<td align="right" headers="id9e2f738 id9e2bd68 col1" nowrap="nowrap">&nbsp;1.08&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2bd68 col2" nowrap="nowrap">&nbsp;1.11&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2bd68 col3" nowrap="nowrap">&nbsp;1.13&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2bd68 col4" nowrap="nowrap">&nbsp;1.07&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2c358" headers="instruments id9e2f738" class="indent2">7-year</th>
+<td align="right" headers="id9e2f738 id9e2c358 col1" nowrap="nowrap">&nbsp;1.21&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2c358 col2" nowrap="nowrap">&nbsp;1.25&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2c358 col3" nowrap="nowrap">&nbsp;1.28&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2c358 col4" nowrap="nowrap">&nbsp;1.21&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2bf48" headers="instruments id9e2f738" class="indent2">10-year</th>
+<td align="right" headers="id9e2f738 id9e2bf48 col1" nowrap="nowrap">&nbsp;1.39&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2bf48 col2" nowrap="nowrap">&nbsp;1.43&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2bf48 col3" nowrap="nowrap">&nbsp;1.45&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2bf48 col4" nowrap="nowrap">&nbsp;1.38&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2c038" headers="instruments id9e2f738" class="indent2">30-year</th>
+<td align="right" headers="id9e2f738 id9e2c038 col1" nowrap="nowrap">&nbsp;1.78&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2c038 col2" nowrap="nowrap">&nbsp;1.83&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2c038 col3" nowrap="nowrap">&nbsp;1.84&nbsp;</td>
+<td align="right" headers="id9e2f738 id9e2c038 col4" nowrap="nowrap">&nbsp;1.77&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2c128" headers="instruments">Corporate bonds</th>
+<td align="right" headers="id9e2c128 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2c128 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2c128 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2c128 col4" nowrap="nowrap">&nbsp;&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2c218" headers="instruments id9e2c128" class="indent2">Moody's seasoned</th>
+<td align="right" headers="id9e2c128 id9e2c218 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2c128 id9e2c218 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2c128 id9e2c218 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2c128 id9e2c218 col4" nowrap="nowrap">&nbsp;&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2c808" headers="instruments id9e2c128 id9e2c218" class="indent3">Aaa <a class="foot" title="Footnote 14" href="#fn14">14</a>
+</th>
+<td align="right" headers="id9e2c128 id9e2c218 id9e2c808 col1" nowrap="nowrap">&nbsp;3.32&nbsp;</td>
+<td align="right" headers="id9e2c128 id9e2c218 id9e2c808 col2" nowrap="nowrap">&nbsp;3.37&nbsp;</td>
+<td align="right" headers="id9e2c128 id9e2c218 id9e2c808 col3" nowrap="nowrap">&nbsp;3.46&nbsp;</td>
+<td align="right" headers="id9e2c128 id9e2c218 id9e2c808 col4" nowrap="nowrap">&nbsp;3.42&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2c8f8" headers="instruments id9e2c128 id9e2c218" class="indent3">Baa</th>
+<td align="right" headers="id9e2c128 id9e2c218 id9e2c8f8 col1" nowrap="nowrap">&nbsp;4.24&nbsp;</td>
+<td align="right" headers="id9e2c128 id9e2c218 id9e2c8f8 col2" nowrap="nowrap">&nbsp;4.30&nbsp;</td>
+<td align="right" headers="id9e2c128 id9e2c218 id9e2c8f8 col3" nowrap="nowrap">&nbsp;4.31&nbsp;</td>
+<td align="right" headers="id9e2c128 id9e2c218 id9e2c8f8 col4" nowrap="nowrap">&nbsp;4.27&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2c4e8" headers="instruments">State &amp; local bonds <a class="foot" title="Footnote 15" href="#fn15">15</a>
+</th>
+<td align="right" headers="id9e2c4e8 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2c4e8 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2c4e8 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2c4e8 col4" nowrap="nowrap">&nbsp;2.85&nbsp;</td>
+</tr><tr>
+<th align="left" nowrap="nowrap" id="id9e2c5d8" headers="instruments">Conventional mortgages <a class="foot" title="Footnote 16" href="#fn16">16</a>
+</th>
+<td align="right" headers="id9e2c5d8 col1" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2c5d8 col2" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2c5d8 col3" nowrap="nowrap">&nbsp;&nbsp;</td>
+<td align="right" headers="id9e2c5d8 col4" nowrap="nowrap">&nbsp;3.43&nbsp;</td>
+</tr>
+</tbody>
+</table><ul><table><tr>
+<td width="1%" align="right">n.a. </td><td> Not available.</td>
+</tr></table></ul><div class="footnotes">
+<h3>Footnotes</h3><p>
+<a name="fn1">1.</a> As of March 1, 2016, the daily effective federal funds rate (EFFR) is a volume-weighted median of transaction-level data collected from depository institutions in the Report of Selected Money Market Rates (FR 2420). Prior to March 1, 2016, the EFFR was a volume-weighted mean of rates on brokered trades.
+</p><p>
+<a name="fn2">2.</a> Weekly figures are averages of 7 calendar days ending on Wednesday of the current week; monthly figures include each calendar day in the month.
+</p><p>
+<a name="fn3">3.</a> Annualized using a 360-day year or bank interest.
+</p><p>
+<a name="fn4">4.</a> On a discount basis.
+</p><p>
+<a name="fn5">5.</a> Interest rates interpolated from data on certain commercial paper trades settled by The Depository Trust Company. The trades represent sales of commercial paper by dealers or direct issuers to investors (that is, the offer side). The 1-, 2-, and 3-month rates are equivalent to the 30-, 60-, and 90-day dates reported on the Board's Commercial Paper Web page (<a href="http://www.federalreserve.gov/releases/cp/">www.federalreserve.gov/releases/cp/</a>).
+</p><p>
+<a name="fn6">6.</a> Financial paper that is insured by the FDIC's Temporary Liquidity Guarantee Program is not excluded from relevant indexes, nor is any financial or nonfinancial commercial paper that may be directly or indirectly affected by one or more of the Federal Reserve's liquidity facilities. Thus the rates published after September 19, 2008, likely reflect the direct or indirect effects of the new temporary programs and, accordingly, likely are not comparable for some purposes to rates published prior to that period.
+</p><p>
+<a name="fn7">7.</a> Source: Bloomberg and CTRB ICAP Fixed Income &amp; Money Market Products.
+</p><p>
+<a name="fn8">8.</a> Rate posted by a majority of top 25 (by assets in domestic offices) insured U.S.-chartered commercial banks. Prime is one of several base rates used by banks to price short-term business loans.
+</p><p>
+<a name="fn9">9.</a> The rate charged for discounts made and advances extended under the Federal Reserve's primary credit discount window program, which became effective January 9, 2003. This rate replaces that for adjustment credit, which was discontinued after January 8, 2003. For further information, see <a href="http://www.federalreserve.gov/boarddocs/press/bcreg/2002/200210312/default.htm">www.federalreserve.gov/boarddocs/press/bcreg/2002/200210312/default.htm</a>. The rate reported is that for the Federal Reserve Bank of New York. Historical series for the rate on adjustment credit as well as the rate on primary credit are available at <a href="http://www.federalreserve.gov/releases/h15/data.htm">www.federalreserve.gov/releases/h15/data.htm</a>.
+</p><p>
+<a name="fn10">10.</a> Yields on actively traded non-inflation-indexed issues adjusted to constant maturities. The 30-year Treasury constant maturity series was discontinued on February 18, 2002, and reintroduced on February 9, 2006. From February 18, 2002, to February 9, 2006, the U.S. Treasury published a factor for adjusting the daily nominal 20-year constant maturity in order to estimate a 30-year nominal rate. The historical adjustment factor can be found at <a href="http://www.treasury.gov/resource-center/data-chart-center/interest-rates/">www.treasury.gov/resource-center/data-chart-center/interest-rates/</a>. Source: U.S. Treasury.
+</p><p>
+<a name="fn11">11.</a> Yields on Treasury inflation protected securities (TIPS) adjusted to constant maturities. Source: U.S. Treasury. Additional information on both nominal and inflation-indexed yields may be found at <a href="http://www.treasury.gov/resource-center/data-chart-center/interest-rates/">www.treasury.gov/resource-center/data-chart-center/interest-rates/</a>.
+</p><p>
+<a name="fn12">12.</a> Based on the unweighted average bid yields for all TIPS with remaining terms to maturity of more than 10 years.
+</p><p>
+<a name="fn13">13.</a> ICE Swap Rate mid-market par swap rates (previously known as ISDAFIX). Rates are for a Fixed Rate Payer in return for receiving three month LIBOR, and are based on tradable quotes sourced at 11:00 a.m. from regulated electronic trading venues. Source: ICE Benchmark Administration.
+</p><p>
+<a name="fn14">14.</a> As of December 7, 2001, Moody's Aaa rates are averages of Aaa industrial bond rates. Prior to December 7, 2001, these rates are averages of Aaa utility and Aaa industrial bonds. Data obtained from Bloomberg Finance L.P.
+</p><p>
+<a name="fn15">15.</a> Bond Buyer Index, general obligation, 20 years to maturity, mixed quality; Thursday quotations. Data obtained from Bloomberg Finance L.P.
+</p><p>
+<a name="fn16">16.</a> Contract interest rates on commitments for 30-year fixed-rate first mortgages. Source: Primary Mortgage Market Survey&#174; data provided by Freddie Mac.
+</p>
+</div><div class="note">Note: Weekly and monthly figures on this release, as well as annual figures available on the Board's historical H.15 web site (see below), are averages of business days unless otherwise noted.</div>
+<div class="note">Current and historical H.15 data are available on the Federal Reserve Board's web site (<a href="http://www.federalreserve.gov/">www.federalreserve.gov/</a>). For information about individual copies or subscriptions, contact Publications Services at the Federal Reserve Board (phone 202-452-3244, fax 202-728-5886).</div>
+<div class="note">
+<center><h3>Description of the Treasury Nominal and Inflation-Indexed Constant Maturity Series</h3></center>Yields on Treasury nominal securities at &#8220;constant maturity&#8221; are interpolated by the U.S. Treasury from the daily yield curve for non-inflation-indexed Treasury securities. This curve, which relates the yield on a security to its time to maturity, is based on the closing market bid yields on actively traded Treasury securities in the over-the-counter market. These market yields are calculated from composites of quotations obtained by the Federal Reserve Bank of New York. The constant maturity yield values are read from the yield curve at fixed maturities, currently 1, 3, and 6 months and 1, 2, 3, 5, 7, 10, 20, and 30 years. This method provides a yield for a 10-year maturity, for example, even if no outstanding security has exactly 10 years remaining to maturity. Similarly, yields on inflation-indexed securities at &#8220;constant maturity&#8221; are interpolated from the daily yield curve for Treasury inflation protected securities in the over-the-counter market. The inflation-indexed constant maturity yields are read from this yield curve at fixed maturities, currently 5, 7, 10, 20, and 30 years. </div>
+
+
+<!-- END OF DATA AND FOOTNOTES -->
+
+</div>
+<!-- ############################################################################-->
+<div id='lastUpdate'>Last update:  August 05, 2016</div>
+<!-- ############################################################################-->
+
+<div id="FooterLinks">
+
+
+ <a href="/default.htm">Home</a> | <a href="/econresdata/default.htm">Economic Research & Data</A>
+
+    
+
+</div> <!-- CLOSES FooterLinks -->
+
+
+
+ 
+<div id="secondaryFooterLinks">
+<div class="secondaryFooterLinksLeft">
+
+<a href="/accessibility.htm">Accessibility</a>
+<a href="/apps/contactus/Feedback.aspx">Contact us</a>
+<a href="/disclaimer.htm">Disclaimer</a>
+        <img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon" /><a href="/linkingpolicy.htm">Linking Policy</a> <a href="/foia/about_foia.htm">FOIA</a>
+
+ 
+
+
+
+</div>
+<div class="secondaryFooterLinksRight">
+<a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon" />
+</div>
+<div class="clear"></div>
+</div> <!-- CLOSES secondaryFooterLinks -->
+
+
+</div> <!-- CLOSES content -->
+<div class="clear"></div>
+</div> <!-- CLOSES contentContainer -->
+
+<div id="footer">
+<div id="Footer2"></div>
+</div> <!-- CLOSES footer -->
+
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>
+
+
+

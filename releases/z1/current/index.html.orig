@@ -1,0 +1,164 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<!--- New Verity title --->
+<TITLE>FRB: Z.1 Release--Financial Accounts of the United States--June 9, 2016</TITLE>
+
+<!--- New linked style sheets --->
+<BASE TARGET="_top"><link rel="STYLESHEET" type="text/css" href="../../releases.css">
+    <link rel="STYLESHEET" type="text/css" href="/resources/economic.css">
+    <link rel="STYLESHEET" type="text/css" href="/resources/statistics.css">
+<!-- uncomment line below to test page with production css -->
+<!-- base href="/releases/releases.css"/ -->
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(function() {_gat._anonymizeIp();});
+  _gaq.push(['_setAccount', 'UA-35121701-1']);
+  _gaq.push(['_setSessionCookieTimeout','0']);
+  _gaq.push(['_setVisitorCookieTimeout','0']);
+  _gaq.push(['_setCampaignCookieTimeout','0']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY>
+<table width="600">
+<tr>
+<td colspan="2">
+<A HREF="/Releases/"><img src="../../../GIFJPG/Z1_finAcc_header.gif" alt="Federal Reserve Statistical Release, Z.1, Financial Accounts of the United States; title with eagle logo links to Statistical Release home page" width="566" height="101" border="0"></A>
+<br>
+<a href="#content" class="skip">Skip to Content</a><br>
+<FONT SIZE=+1><I>Release Date: June 9, 2016</I></FONT><BR>
+<A HREF="../">Release dates</A> | 
+<a href="/feeds/z1.html">Announcements</a> | 
+<A HREF="Coded/">Coded tables</A> |
+<A HREF="data.htm">Historical data</A> | <a href="../about.htm">About</a> | <a href="../z1_technical_qa.htm">Technical Q&As</a><br>
+<font style="line-height: 20px;">
+Current release |  <a href="accessible/default.htm">Screen reader</a> |  <A HREF="z1.pdf">PDF (3 MB)</A> | <A href="/datadownload/Choose.aspx?rel=Z.1">Data Download Program (DDP)</A> | <a href="../preview/Coded/preliminary-code-changes.htm">Preliminary Z.1 Code Updates</A> 
+</font>
+
+<HR>
+</td>
+</tr>
+ <tr>
+<td colspan="2">
+<!-- <div align="center"><h3>December 9, 2010 Release Announcement</h3></div>
+
+<p>
+Beginning with the December 9, 2010 release of the Flow of Funds accounts, there have been changes to several table layouts and series identifiers.  Further information on the changes to the series codes and new table structures are available online at <a href="/Releases/Z1/preview/Code_Changes/">http://www.federalreserve.gov/Releases/Z1/preview/Code_Changes/</a>
+<hr>-->
+</td>
+</tr>  
+    <tr>
+        <td width="275" valign="top">
+            <a name="content"></a>
+            <div class="pghead">Z.1 Release</div>
+        </td>
+        <td valign="top" align="right">
+            <!-- <a href="../fofguide.pdf"><img src="../tbldesc.gif" width="76" height="53" alt="To see table descriptions in the Flow of Funds Guide" border="0"></a>
+            <a href="../ffguide.htm"><img src="../ffbutton.GIF" width=76 height=53 border=0 alt="To order updated Flow of Funds Guide"></a> -->
+
+
+            <a href="/apps/fof/"><img alt="Financial Accounts Guide" src="/gifjpg/z1Icon.gif" border="0"></a><br />
+            <a href="/apps/fof/efa/enhanced-financial-accounts.htm"><img alt="Enhanced Financial Accounts Guide" src="/gifjpg/efa-button.png" border="0" style="margin-top: 5px" /></a>
+        </td>
+        <td valign="top" align="right">
+            <a href="http://www.federalreserve.gov/datadownload/Choose.aspx?rel=Z.1"><img alt="Data Download Page" src="/gifjpg/ddpIcon.gif" border="0"></a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <div class="note">
+                <strong>Erratum for the June 9, 2016 Financial Accounts publication.</strong><br/>
+                The published values for mutual fund sectors’ holdings of Treasury bills and other Treasury securities, shown on table L.210 lines 45 and 46 in the June 9, 2016 Z.1 statistical release, are incorrect.  The corrected annual values for mutual funds’ holdings of Treasury bills (line 45) from 2010 to 2015 are $40.9, $36.4, $47.1, $4.3, $30.7, and $46.6 billion, respectively.  Corrected quarterly values from 2015:Q1 to 2016:Q1 for mutual funds’ holdings of Treasury bills (line 45) are $31.1, $32.6, $41.5, $46.6, and $49.3 billion. The corrected annual values for mutual funds’ holdings of other Treasury securities (line 46) from 2010 to 2015 are  $376.5, $432.9, $512.1, $468.6, $652.2, and $779.9 billion.  Corrected quarterly values for mutual funds’ holdings of other Treasury securities (line 46) from 2015:Q1 to 2016:Q1 are  $678.3, $693.0, $747.6, $779.9, and $800.0 billion.  The published values for total mutual fund holdings of Treasury securities, shown on line 44, are correct.  Complete time series with these corrected values are available for download from the Federal Reserve’s Data Download Program (DDP). Please use series mnemonic “FL653061113.Q” to download the Treasury bills series (line 45) and series mnemonic “FL653061125.Q” to download the other Treasury securities series (line 46)  from DDP.  All published files will be corrected with the September 16, 2016 Z.1 release.
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <dl>
+
+                <dt>Complete file <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="z1.pdf"> PDF (3 MB)</a></dt>
+                <p></p>
+
+                <dt>Cover page and Z.1 front matter <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="z1r-1.pdf"> PDF (1 MB)</a> | <a href="z1r-1.zip">CSV (15 KB)</a> </dt>
+                <p></p>
+                <dt>
+                    Summary tables <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="z1r-2.pdf">PDF (214 KB)</a> | <a href="z1r-2.zip">CSV (46 KB)</a> <p></p>
+                </dt>
+                <dt>
+                    Flow tables <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="z1r-3.pdf">PDF (755 KB)</a> | <a href="z1r-3.zip">CSV (135 KB)</a> <p></p>
+                </dt>
+                <dt>
+                    Level tables <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="z1r-4.pdf">PDF (750 KB)</a>  | <a href="z1r-4.zip">CSV (120 KB)</a> <p></p>
+                </dt>
+                <dt>
+                    Balance sheet tables <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="z1r-5.pdf">PDF(80 KB)</a> | <a href="z1r-5.zip">CSV (14 KB)</a> <p></p>
+                </dt>
+                <dt>
+                    Supplementary tables <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="z1r-6.pdf">PDF (40 KB)</a> | <a href="z1r-6.zip">CSV (10 KB)</a> <p></p>
+                </dt>
+                <dt>
+                    Integrated macroeconomic accounts tables <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="z1r-7.pdf">PDF (480 KB)</a> | <a href="z1r-7.zip">CSV (70 KB)</a> <p></p>
+                </dt>
+            </dl>
+
+            <table border=1>
+
+                <tr>
+                    <td>
+
+                        <font size="-1">
+                            These files are available in Acrobat (PDF 3) format only.<br>
+
+                            <a href="/faq.htm#WhyPDF">Obtaining the free Acrobat Reader from the Adobe Web Site</a>
+                        </font>
+                    </td>
+                </tr>
+            </table>
+
+            <br>
+
+            <a href="../">Release dates</a> |
+            <a href="/feeds/z1.html">Announcements</a> |
+            <a href="Coded/">Coded tables</a> |
+            <a href="data.htm">Historical data</a> | <a href="../about.htm">About</a> | <a href="../z1_technical_qa.htm">Technical Q&As</a><br>
+            <font style="line-height: 20px;">
+                Current release |
+                <a href="accessible/default.htm">Screen reader</a> |  <a href="z1.pdf">PDF (3 MB)</a> | <a href="/datadownload/Choose.aspx?rel=Z.1">Data Download Program (DDP)</a> | <a href="../preview/Coded/preliminary-code-changes.htm">Preliminary Z.1 Code Updates</a>
+            </font>
+
+            <p>
+                <a href="/Releases/">Statistical releases</a>
+
+                <hr noshade>
+                <div class="footer">
+                    <a href="/">Home</a> |
+                    <a href="/econresdata/default.htm">Economic research and data</a><br>
+                    <a href="/accessibility.htm">Accessibility</a> |
+                    <a href="/apps/contactus/feedback.aspx">Contact Us</a>
+                    <br>
+                    <font style="line-height: 16px;">
+                        <b>Last update: June 28, 2016</b>
+                    </font>
+                </div>
+
+        </td>
+    </tr>
+
+</table>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

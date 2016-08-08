@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+
+
+
+
+    <channel rdf:about="http://www.federalreserve.gov/feeds/s_t_brainard.xml">
+        <title>FRB: Governor Brainard: Speeches and Testimony</title>
+        <link>http://www.federalreserve.gov/feeds/default.htm</link>
+        <description>Speeches and Testimony of Governor Lael Brainard</description> 
+        <items>
+            <rdf:Seq>
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20160603a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20160414a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20160307a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20160226a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20151201a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20151106a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20151019a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20151012a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20150930a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20150709a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20150701a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20150602a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20150402a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20141203a.htm" />
+            
+
+            <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/speech/brainard20141202a.htm" />
+            
+            </rdf:Seq>
+        </items>
+    </channel>
+
+    
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20160603a.htm">
+<title>Brainard, The Economic Outlook and Implications for Monetary Policy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20160603a.htm</link>
+<description>Speech at the Council on Foreign Relations, Washington, District of Columbia</description> 
+<dc:date>2016-06-03T12:30:00-04:00</dc:date> 
+<dcterms:audience>Council on Foreign Relations</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>The Economic Outlook and Implications for Monetary Policy</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-06-03T12:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Council on Foreign Relations</cb:venue>
+    <cb:locationAsWritten>Washington, District of Columbia</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20160414a.htm">
+<title>Brainard, The Use of Distributed Ledger Technologies in Payment, Clearing, and Settlement</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20160414a.htm</link>
+<description>Speech at the Institute of International Finance Blockchain Roundtable, Washington, D.C.</description> 
+<dc:date>2016-04-14T13:15:00-04:00</dc:date> 
+<dcterms:audience>Institute of International Finance Blockchain Roundtable</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>The Use of Distributed Ledger Technologies in Payment, Clearing, and Settlement</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-04-14T13:15:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Institute of International Finance Blockchain Roundtable</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20160307a.htm">
+<title>Brainard, An Update on the Outlook, Liquidity, and Resilience</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20160307a.htm</link>
+<description>Speech at the Institute of International Bankers Annual Washington Conference, Washington, D.C.</description> 
+<dc:date>2016-03-07T13:00:00-05:00</dc:date> 
+<dcterms:audience>Institute of International Bankers Annual Washington Conference</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>An Update on the Outlook, Liquidity, and Resilience</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-03-07T13:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Institute of International Bankers Annual Washington Conference</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20160226a.htm">
+<title>Brainard, What Happened to the Great Divergence?</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20160226a.htm</link>
+<description>Speech at the 2016 U.S. Monetary Policy Forum, Washington, District of Columbia</description> 
+<dc:date>2016-02-26T13:30:00-05:00</dc:date> 
+<dcterms:audience>2016 U.S. Monetary Policy Forum</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>What Happened to the Great Divergence?</cb:simpleTitle> 
+  <cb:occurrenceDate>2016-02-26T13:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>2016 U.S. Monetary Policy Forum</cb:venue>
+    <cb:locationAsWritten>Washington, District of Columbia</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20151201a.htm">
+<title>Brainard, Normalizing Monetary Policy When the Neutral Interest Rate Is Low</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20151201a.htm</link>
+<description>Speech at the Stanford Institute for Economic Policy Research, Stanford, California</description> 
+<dc:date>2015-12-01T20:00:00-05:00</dc:date> 
+<dcterms:audience>Stanford Institute for Economic Policy Research</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Normalizing Monetary Policy When the Neutral Interest Rate Is Low</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-12-01T17:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Stanford Institute for Economic Policy Research</cb:venue>
+    <cb:locationAsWritten>Stanford, California</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>CA</cb:locationState>
+    <cb:locationCity>Stanford</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20151106a.htm">
+<title>Brainard, Unconventional Monetary Policy and Cross-Border Spillovers</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20151106a.htm</link>
+<description>Speech at the "Unconventional Monetary and Exchange Rate Policies," 16th International Monetary Fund Jacques Polak Research Conference, Washington, D.C.</description> 
+<dc:date>2015-11-06T16:15:00-05:00</dc:date> 
+<dcterms:audience>"Unconventional Monetary and Exchange Rate Policies," 16th International Monetary Fund Jacques Polak Research Conference</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Unconventional Monetary Policy and Cross-Border Spillovers</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-11-06T16:15:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>"Unconventional Monetary and Exchange Rate Policies," 16th International Monetary Fund Jacques Polak Research Conference</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20151019a.htm">
+<title>Brainard, Identifying Opportunities for Reducing Regulatory Burdens on Community Banks</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20151019a.htm</link>
+<description>Speech at the Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting, Federal Reserve Bank of Chicago, Chicago, Illinois</description> 
+<dc:date>2015-10-19T10:00:00-04:00</dc:date> 
+<dcterms:audience>Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting, Federal Reserve Bank of Chicago</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Identifying Opportunities for Reducing Regulatory Burdens on Community Banks</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-10-19T09:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting, Federal Reserve Bank of Chicago</cb:venue>
+    <cb:locationAsWritten>Chicago, Illinois</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>IL</cb:locationState>
+    <cb:locationCity>Chicago</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20151012a.htm">
+<title>Brainard, Economic Outlook and Monetary Policy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20151012a.htm</link>
+<description>Speech at the "North America's Place in a Changing World Economy," 57th National Association for Business Economics Annual Meeting, Washington, D.C.</description> 
+<dc:date>2015-10-12T16:30:00-04:00</dc:date> 
+<dcterms:audience>"North America's Place in a Changing World Economy," 57th National Association for Business Economics Annual Meeting</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Economic Outlook and Monetary Policy</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-10-12T16:30:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>"North America's Place in a Changing World Economy," 57th National Association for Business Economics Annual Meeting</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20150930a.htm">
+<title>Brainard, Community Banks, Small Business Credit, and Online Lending</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20150930a.htm</link>
+<description>Speech at the Community Banking in the 21st Century, The Third Annual Community Banking Research and Policy Conference, Cosponsored by the Federal Reserve System and Conference of State Bank Supervisors, Federal Reserve Bank of St. Louis, St. Louis, Missouri</description> 
+<dc:date>2015-09-30T20:15:00-04:00</dc:date> 
+<dcterms:audience>Community Banking in the 21st Century, The Third Annual Community Banking Research and Policy Conference, Cosponsored by the Federal Reserve System and Conference of State Bank Supervisors, Federal Reserve Bank of St. Louis</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Community Banks, Small Business Credit, and Online Lending</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-09-30T19:15:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Community Banking in the 21st Century, The Third Annual Community Banking Research and Policy Conference, Cosponsored by the Federal Reserve System and Conference of State Bank Supervisors, Federal Reserve Bank of St. Louis</cb:venue>
+    <cb:locationAsWritten>St. Louis, Missouri</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>MO</cb:locationState>
+    <cb:locationCity>St. Louis</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20150709a.htm">
+<title>Brainard, Dodd-Frank at Five: Assessing Progress on Too Big to Fail</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20150709a.htm</link>
+<description>Speech at the "Dodd-Frank at Five: Looking Back and Looking Forward" Bipartisan Policy Center and Managed Funds Association, Washington, D.C.</description> 
+<dc:date>2015-07-09T10:00:00-04:00</dc:date> 
+<dcterms:audience>"Dodd-Frank at Five: Looking Back and Looking Forward" Bipartisan Policy Center and Managed Funds Association</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Dodd-Frank at Five: Assessing Progress on Too Big to Fail</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-07-09T10:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>"Dodd-Frank at Five: Looking Back and Looking Forward" Bipartisan Policy Center and Managed Funds Association</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20150701a.htm">
+<title>Brainard, Recent Changes in the Resilience of Market Liquidity</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20150701a.htm</link>
+<description>Speech at the Policy Makers' Panel on Financial Intermediation: Complexities and Risks for "The Future of Financial Intermediation: Banking, Securities Markets, or Something New?" Salzburg Global Forum on Finance in a Changing World, Salzburg, Austria</description> 
+<dc:date>2015-07-01T09:00:00-04:00</dc:date> 
+<dcterms:audience>Policy Makers' Panel on Financial Intermediation: Complexities and Risks for "The Future of Financial Intermediation: Banking, Securities Markets, or Something New?" Salzburg Global Forum on Finance in a Changing World</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Recent Changes in the Resilience of Market Liquidity</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-07-01T15:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Policy Makers' Panel on Financial Intermediation: Complexities and Risks for "The Future of Financial Intermediation: Banking, Securities Markets, or Something New?" Salzburg Global Forum on Finance in a Changing World</cb:venue>
+    <cb:locationAsWritten>Salzburg, Austria</cb:locationAsWritten>
+    <cb:locationCountry>AT</cb:locationCountry>
+     
+    <cb:locationCity>Salzburg</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20150602a.htm">
+<title>Brainard, The U.S. Economic Outlook and Implications for Monetary Policy</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20150602a.htm</link>
+<description>Speech at the Center for Strategic and International Studies, Washington, D.C.</description> 
+<dc:date>2015-06-02T10:00:00-04:00</dc:date> 
+<dcterms:audience>Center for Strategic and International Studies</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>The U.S. Economic Outlook and Implications for Monetary Policy</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-06-02T10:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Center for Strategic and International Studies</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20150402a.htm">
+<title>Brainard, Coming of Age in the Great Recession</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20150402a.htm</link>
+<description>Speech at the "Economic Mobility:  Research and Ideas on Strengthening  Families, Communities, and the Economy" Ninth Biennial Federal Reserve System Community Development Research Conference, Washington, D.C.</description> 
+<dc:date>2015-04-02T15:45:00-04:00</dc:date> 
+<dcterms:audience>"Economic Mobility:  Research and Ideas on Strengthening  Families, Communities, and the Economy" Ninth Biennial Federal Reserve System Community Development Research Conference</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Coming of Age in the Great Recession</cb:simpleTitle> 
+  <cb:occurrenceDate>2015-04-02T15:45:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>"Economic Mobility:  Research and Ideas on Strengthening  Families, Communities, and the Economy" Ninth Biennial Federal Reserve System Community Development Research Conference</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20141203a.htm">
+<title>Brainard, The Federal Reserve's Financial Stability Agenda</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20141203a.htm</link>
+<description>Speech at the Hutchins Center on Fiscal and Monetary Policy, Washington, D.C.. Governor Brainard presented identical remarks to the Federal Reserve Bank of Cleveland and Office of Financial Research Conference on December 4, 2014.</description> 
+<dc:date>2014-12-03T14:00:00-05:00</dc:date> 
+<dcterms:audience>Hutchins Center on Fiscal and Monetary Policy</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>The Federal Reserve's Financial Stability Agenda</cb:simpleTitle> 
+  <cb:occurrenceDate>2014-12-03T14:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Hutchins Center on Fiscal and Monetary Policy</cb:venue>
+    <cb:locationAsWritten>Washington, D.C.</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>DC</cb:locationState>
+    <cb:locationCity>Washington</cb:locationCity>
+</cb:speech>
+</item>  
+
+
+
+
+<item rdf:about="http://www.federalreserve.gov/newsevents/speech/brainard20141202a.htm">
+<title>Brainard, Opening Remarks</title>
+<link>http://www.federalreserve.gov/newsevents/speech/brainard20141202a.htm</link>
+<description>Speech at the Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting, Los Angeles, California</description> 
+<dc:date>2014-12-02T12:00:00-05:00</dc:date> 
+<dcterms:audience>Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting</dcterms:audience>
+<cb:speech>
+  <cb:simpleTitle>Opening Remarks</cb:simpleTitle> 
+  <cb:occurrenceDate>2014-12-02T09:00:00</cb:occurrenceDate> 
+  <cb:person type="speaker">
+      <cb:givenName>Lael</cb:givenName>
+      <cb:surname>Brainard</cb:surname>
+      <cb:personalTitle>Dr.</cb:personalTitle>
+      <cb:nameAsWritten>Lael Brainard</cb:nameAsWritten>
+      <cb:role>
+        <cb:jobTitle>Governor</cb:jobTitle>
+        <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+      </cb:role>
+  </cb:person> 
+  <cb:venue>Economic Growth and Regulatory Paperwork Reduction Act Outreach Meeting</cb:venue>
+    <cb:locationAsWritten>Los Angeles, California</cb:locationAsWritten>
+    <cb:locationCountry>US</cb:locationCountry>
+    <cb:locationState>CA</cb:locationState>
+    <cb:locationCity>Los Angeles</cb:locationCity>
+</cb:speech>
+</item>  
+
+</rdf:RDF>

@@ -1,0 +1,429 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1"><title>
+	FRB: Report Forms, Business/consumer credit
+</title><meta name="robots" content="index, nofollow" /><link type="text/css" href="/resources/pubweb.css" rel="Stylesheet" /><link type="text/css" href="/resources/secondary.css" rel="Stylesheet" /><link type="text/css" href="/resources/reportforms.css" rel="stylesheet" /><link type="text/css" href="/resources/print.css" rel="Stylesheet" media="print" /><link type="text/css" href="/resources/print_reportforms.css" rel="Stylesheet" media="print" />
+
+   <script language="JavaScript" type="text/javascript" src="/resources/exit_new.js"></script>
+   <script language="JavaScript" type="text/javascript" src="/resources/swfLink.js"></script>    
+
+    <style type="text/css">
+        .secondaryContentLeftNav  li.menuHighlightRF a { color: #336633; text-decoration: none; }
+    </style> 
+
+    
+    <script type="text/javascript">
+        function lbtn_GetForm_Click(v) {
+            document.getElementById('HiddenField1').value = v;
+        }
+</script>
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+   <noscript><p>This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</p></noscript>
+   <span class="globalskip">
+      <a href="#mainNav">skip to main navigation</a>
+      <a href="#secondNav">skip to secondary navigation</a>
+      <a href="#content">skip to content</a>
+   </span>
+   <!-- HEADER STARTS -->
+   <table id="headerTopLinks" cellpadding="0" cellspacing="0">
+      <tr>
+         <td class="headerTopLinksLeft">
+            <a href="/whatsnew.htm">What's New</a> &middot; 
+            <a href="/whatsnext.htm">What's Next</a> &middot; 
+            <a href="/sitemap.htm">Site Map</a> &middot; 
+            <a href="/azindex.htm">A-Z Index</a> &middot; 
+            <a href="/careers/default.htm">Careers</a> &middot; 
+            <a href="/feeds/default.htm">RSS</a> &middot; 
+            <a href="/mediacenter/media.htm">All Videos</a> &middot; 
+            <a href="/faqs/faq.htm">Current FAQs</a>  &middot;
+            <a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+         </td>
+         <td class="curve1"></td>
+        <td class="headerTopLinksRight">
+            <form method="GET" action="http://search.newyorkfed.org/board_public/search"><label for="searchbox"></label><div id="skip2">Search</div><input type="text" id="searchbox" maxlength="100" 
+            size="12" name="text">&nbsp;<input border="0" type="image" alt="Search" name="Search" src="/gifjpg/searchbutton.gif" id="headerTopLinksSearchFormSubmit">&nbsp;<a class="search" 
+            href="http://search.newyorkfed.org/board_public"><a class="search" href="http://search.newyorkfed.org/board_public">Advanced Search</a></a></form>
+        </td> 
+         <td class="curve2"></td>
+      </tr>
+   </table>
+   <div id="top">
+      <div id="headerMasthead">
+         <a href="/default.htm"><img src="/GIFJPG/masthead2.jpg" alt="Board of Governors of the Federal Reserve System" /></a>
+      </div>
+      <a name="mainNav"></a>
+         <div class="navMenuBack">
+            <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+               <tr>
+                  <td>
+                     <div class="navItem">
+                        <a href="/aboutthefed/default.htm">About<br />the Fed</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/newsevents/default.htm">News<br />&amp; Events</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/monetarypolicy/default.htm">Monetary<br />Policy</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/bankinforeg/default.htm">Banking<br />Information<br />&amp; Regulation</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/paymentsystems/default.htm">Payment<br />Systems</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/econresdata/default.htm">Economic<br />Research<br />&amp; Data</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/consumerinfo/default.htm">Consumer<br /> Information</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/communitydev/default.htm">Community<br />Development</a>
+                     </div>
+                  </td>
+               <td id="selected">
+                  <div class="navItem">
+                     <a href="/apps/reportforms/default.aspx">Reporting<br />Forms</a>
+                  </div>
+               </td>
+               <td>
+                  <div class="navItem">
+                     <a href="/publications/default.htm">Publications</a>
+                  </div>
+               </td>
+            </tr>
+         </table>
+         <!-- HEADER ENDS -->
+      </div>
+   </div>
+   <div id="contentContainer">
+      <span class="globalskip">
+         <a name="secondNav"></a><a href="#content">skip secondary navigation</a>
+      </span>
+      <form method="post" action="./categoryindex.aspx?0Z5S1pJbSGg=" id="formSiteMaster">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3NTcxMzk5NzcPZBYCZg9kFgQCAw9kFgYCAw8WAh4LXyFJdGVtQ291bnQCCRYSZg9kFgICAQ8WAh4FY2xhc3NlFgICAQ8PFgQeBFRleHQFFEZpbmFuY2lhbCBzdGF0ZW1lbnRzHgtOYXZpZ2F0ZVVybAUfY2F0ZWdvcnlpbmRleC5hc3B4P3hUZFRhK0ZhU2xJPWRkAgEPZBYCAgEPFgIfAWUWAgIBDw8WBB8CBR1BcHBsaWNhdGlvbnMvc3RydWN0dXJlIGNoYW5nZR8DBR9jYXRlZ29yeWluZGV4LmFzcHg/K1Boa0p3aUJqYkE9ZGQCAg9kFgICAQ8WAh8BZRYCAgEPDxYEHwIFBUZGSUVDHwMFH2NhdGVnb3J5aW5kZXguYXNweD8xL1JJWE8vVWR1ST1kZAIDD2QWAgIBDxYCHwFlFgICAQ8PFgQfAgUPTW9uZXRhcnkgcG9saWN5HwMFH2NhdGVnb3J5aW5kZXguYXNweD9MS1pSY1ZlOGdzWT1kZAIED2QWAgIBDxYCHwFlFgICAQ8PFgQfAgUIUmVzZWFyY2gfAwUfY2F0ZWdvcnlpbmRleC5hc3B4P2RFYXBxMjJlQkk4PWRkAgUPZBYCAgEPFgIfAQUPbWVudUhpZ2hsaWdodFJGFgICAQ8PFgQfAgUYQnVzaW5lc3MvY29uc3VtZXIgY3JlZGl0HwMFH2NhdGVnb3J5aW5kZXguYXNweD8wWjVTMXBKYlNHZz1kZAIGD2QWAgIBDxYCHwFlFgICAQ8PFgQfAgUfU2VjdXJpdGllcyBFeGNoYW5nZSBBY3Qgb2YgMTkzNB8DBR9jYXRlZ29yeWluZGV4LmFzcHg/bWk0MUx2b3BiOW89ZGQCBw9kFgICAQ8WAh8BZRYCAgEPDxYEHwIFI011bmljaXBhbCBhbmQgZ292ZXJubWVudCBzZWN1cml0aWVzHwMFH2NhdGVnb3J5aW5kZXguYXNweD9MODc3VndFajlTcz1kZAIID2QWAgIBDxYCHwFlFgICAQ8PFgQfAgUVQWN0aXZpdGllcyBtb25pdG9yaW5nHwMFH2NhdGVnb3J5aW5kZXguYXNweD9LWjlNcFA4bUVRWT1kZAIFD2QWAgIBDw8WAh8DBQ1+L3Jldmlldy5hc3B4ZGQCDQ9kFgQCAQ8PFgIfAgUYQnVzaW5lc3MvY29uc3VtZXIgY3JlZGl0ZGQCBQ8WAh8AAgoWFAIBD2QWBgIBDw8WAh8DBSpyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEWjNadVB2WjVJeTlnPT1kFgJmDxUBB0ZSIDIwMDVkAgIPFQEeCSAJQXV0b21vYmlsZSBGaW5hbmNlIFRlcm1zDQoJZAIFDxUB0gFUaGlzIHJlcG9ydCBjb2xsZWN0cyBpbmZvcm1hdGlvbiBmcm9tIGxlbmRlcnMgYWZmaWxpYXRlZCB3aXRoIGF1dG9tb2JpbGUgbWFudWZhY3R1cmVycyBvbiBsb2FucyByZWxhdGVkIHRvIHB1cmNoYXNlcyBvZiBuZXcgYW5kIHVzZWQgdmVoaWNsZXMuIFRoZSByZXBvcnRzIGFyZSBwaG90b2NvcGllcyBvZiBpbnRlcm5hbCBjb21wYW55IG1hbmFnZW1lbnQgcmVwb3J0cy5kAgIPZBYGAgEPDxYCHwMFKnJlcG9ydGRldGFpbC5hc3B4P3NPb1lKKzVCekRhNUlUK3NXN0lHcGc9PWQWAmYPFQEHRlIgMjAxMmQCAg8VAS8JIAlQYXNzZW5nZXIgQXV0byBDb250cmFjdCBDb2xsZWN0aW9uIFRyZW5kcw0KCWQCBQ8VAcEBVGhpcyByZXBvcnQgY29sbGVjdHMgbW9udGhseSBpbmZvcm1hdGlvbiBmcm9tIGxlbmRlcnMgYWZmaWxpYXRlZCB3aXRoIGF1dG9tb2JpbGUgbWFudWZhY3R1cmVycyBvbiB0aGUgcGVyZm9ybWFuY2Ugb2YgdmVoaWNsZSBsb2FucywgaW5jbHVkaW5nIGRlbGlucXVlbmN5IHJhdGVzLCByZWZpbmFuY2luZ3MsIGFuZCByZXBvc3Nlc3Npb25zLmQCAw9kFgYCAQ8PFgIfAwUycmVwb3J0ZGV0YWlsLmFzcHg/c09vWUorNUJ6RGFTQ2VzWFRiMVVtSENveVU4cklIV3JkFgJmDxUBCkZSIDIwMjhhL3NkAgIPFQE/CSAJU3VydmV5IG9mIFRlcm1zIG9mIEJ1c2luZXNzIExlbmRpbmcvUHJpbWUgUmF0ZSBTdXBwbGVtZW50DQoJZAIFDxUBpAUJIAlUaGUgRlIgMjAyOEEgY29sbGVjdHMgaW5mb3JtYXRpb24gb24gY29tbWVyY2lhbCBhbmQgaW5kdXN0cmlhbCAoQyZJKSBsb2FucyBtYWRlIGJ5IGNvbW1lcmNpYWwgYmFua3MgYW5kIFUuUy4gYnJhbmNoZXMgYW5kIGFnZW5jaWVzIG9mIGZvcmVpZ24gYmFua3MgdG8gZG9tZXN0aWMgY3VzdG9tZXJzIGR1cmluZyBhIHJlcHJlc2VudGF0aXZlIHdlZWsgb2YgdGhlIHF1YXJ0ZXIsICBpbmNsdWRpbmcgcHJpY2UgYW5kIG5vbnByaWNlIHRlcm1zLiAgVGhlIHJlc3BvbmRlbnRzIHByb3ZpZGUgaW5mb3JtYXRpb24gb24gc3RhdGVkIHJhdGUgb2YgaW50ZXJlc3QsIGZyZXF1ZW5jeSBvZiBpbnRlcmVzdCBjb21wb3VuZGluZywgbG9hbiBzaXplLCBtYXR1cml0eSwgY29sbGF0ZXJhbGl6YXRpb24sIGFuZCBsb2FuIHJpc2sgcmF0aW5ncy4gIFRoZSBGUiAyMDI4UywgYSBjb21wYW5pb24gcmVwb3J0LCBjb2xsZWN0cyBpbnN0aXR1dGlvbnMnIHByaW1lIGludGVyZXN0IHJhdGVzIGZvciB0aGUgZGF5cyByZXBvcnRlZC4gIFRvZ2V0aGVyIHdpdGggdGhlIFN1cnZleSBvZiBUZXJtcyBvZiBCYW5rIExlbmRpbmcgdG8gRmFybWVycyAoRlIgMjAyOEIpLCB0aGVzZSByZXBvcnRzIGNvbnN0aXR1dGUgdGhlIFN1cnZleSBvZiBUZXJtcyBvZiBMZW5kaW5nIChTVEJMKSByZXBvcnQgc2VyaWVzLg0KCSAgZAIED2QWBgIBDw8WAh8DBTJyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEYUFHUjI0OE9mT2pkNEdOdERaNS9TQ2QWAmYPFQEKRlIgMjAyOGIvc2QCAg8VAUYJIAlTdXJ2ZXkgb2YgVGVybXMgb2YgQmFuayBMZW5kaW5nIHRvIEZhcm1lcnMvUHJpbWUgUmF0ZSBTdXBwbGVtZW50DQoJZAIFDxUBswUJIAlUaGUgRlIgMjAyOEIgY29sbGVjdHMgaW5mb3JtYXRpb24gb24gZmFybSBsb2FucyBtYWRlIGJ5IGNvbW1lcmNpYWwgYmFua3MgZHVyaW5nIGEgcmVwcmVzZW50YXRpdmUgd2Vlay4gIFRoZSBjb2xsZWN0ZWQgZGF0YSBpbmNsdWRlIHByaWNlIGFuZCBub25wcmljZSB0ZXJtcy4gIFRoZSByZXNwb25kZW50cyBwcm92aWRlIGluZm9ybWF0aW9uIG9uIHRoZSBzdGF0ZWQgcmF0ZSBvZiBpbnRlcmVzdCBvbiB0aGUgbG9hbiBhbmQgdGhlIGZyZXF1ZW5jeSB3aXRoIHdoaWNoIGludGVyZXN0IGlzIGNvbXBvdW5kZWQsIGFuZCBvdGhlciBpbXBvcnRhbnQgbG9hbiB0ZXJtcywgaW5jbHVkaW5nIGxvYW4gc2l6ZSwgY29tbWl0bWVudCBzdGF0dXMsIG1hdHVyaXR5LCBjb2xsYXRlcmFsaXphdGlvbiwgdGhlIHB1cnBvc2Ugb2YgdGhlIGxvYW4gYW5kIGxvYW4gcmlzayByYXRpbmdzLiAgVGhlIEZSIDIwMjhTLCBhIGNvbXBhbmlvbiByZXBvcnQsIGNvbGxlY3RzIGluc3RpdHV0aW9ucycgcHJpbWUgaW50ZXJlc3QgcmF0ZSBmb3IgdGhlIGRheXMgcmVwb3J0ZWQuICBUb2dldGhlciB3aXRoIHRoZSBTdXJ2ZXkgb2YgVGVybXMgb2YgQnVzaW5lc3MgTGVuZGluZyAoRlIgMjAyOEEpLCB0aGVzZSByZXBvcnRzIGNvbnN0aXR1dGUgdGhlIFN1cnZleSBvZiBUZXJtcyBvZiBMZW5kaW5nIChTVEJMKSByZXBvcnQgc2VyaWVzLg0KCSAgZAIFD2QWBgIBDw8WAh8DBSpyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEYlF0bDdVdHIxMzFRPT1kFgJmDxUBB0ZSIDIyNDhkAgIPFQFMCSAJRG9tZXN0aWMgRmluYW5jZSBDb21wYW55IFJlcG9ydCBvZiBDb25zb2xpZGF0ZWQgQXNzZXRzIGFuZCBMaWFiaWxpdGllcw0KCWQCBQ8VAfkCCSAJVGhpcyByZXBvcnQgY29sbGVjdHMgYmFsYW5jZSBzaGVldCBhbmQsIHdoZXJlIGFwcHJvcHJpYXRlLCBvZmYtYmFsYW5jZS1zaGVldCBkYXRhIG9uIG1ham9yIGNhdGVnb3JpZXMgb2YgY29uc3VtZXIgYW5kIGJ1c2luZXNzIGNyZWRpdCByZWNlaXZhYmxlcyBhbmQgb24gbWFqb3Igc2hvcnQtdGVybSBsaWFiaWxpdGllcyBoZWxkIG9yIHNlY3VyaXRpemVkIGJ5IGZpbmFuY2UgY29tcGFuaWVzLiBGb3IgcXVhcnRlci1lbmQgbW9udGhzIChNYXJjaCwgSnVuZSwgU2VwdGVtYmVyLCBhbmQgRGVjZW1iZXIpIGFkZGl0aW9uYWwgYXNzZXQgYW5kIGxpYWJpbGl0eSBpdGVtcyBhcmUgY29sbGVjdGVkIHRvIHByb3ZpZGUgYSBmdWxsIGJhbGFuY2Ugc2hlZXQuDQoJICBkAgYPZBYGAgEPDxYCHwMFKnJlcG9ydGRldGFpbC5hc3B4P3NPb1lKKzVCekRiYTZGMEVNMVRVSnc9PWQWAmYPFQEHRlIgMjUxMmQCAg8VARtBdXRvIEZpbmFuY2UgQ29tcGFueSBSZXBvcnRkAgUPFQGrAlRoaXMgcmVwb3J0IGNvbGxlY3RzIG1vbnRobHkgZGF0YSBvbiBsb2FucyByZWxhdGVkIHRvIHB1cmNoYXNlcyBvZiBuZXcgYW5kIHVzZWQgdmVoaWNsZXMsIGFzIHdlbGwgYXMgb24gdGhlIHBlcmZvcm1hbmNlIG9mIHZlaGljbGUgbG9hbnMsIGluY2x1ZGluZyBkZWxpbnF1ZW5jeSByYXRlcywgcmVmaW5hbmNpbmcgYW5kIHJlcG9zc2Vzc2lvbnMuICBEYXRhIGFyZSBjb2xsZWN0ZWQgZnJvbSBmaW5hbmNlIGNvbXBhbmllcyB3aXRoIHNpZ25pZmljYW50IHBhcnRpY2lwYXRpb24gaW4gdGhlIHZlaGljbGUgbG9hbiBtYXJrZXQuZAIHD2QWBgIBDw8WAh8DBSpyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEWXZMZ2tCVGFzbzVRPT1kFgJmDxUBB0ZSIDI1NzJkAgIPFQEqCSAJUmVwb3J0IG9mIFRlcm1zIG9mIENyZWRpdCBDYXJkIFBsYW5zDQoJZAIFDxUB3AEJIAlUaGlzIHJlcG9ydCBjb2xsZWN0cyBpbmZvcm1hdGlvbiBvbiB0ZXJtcyBvZmZlcmVkIGJ5IHRoZSBsYXJnZXN0IGlzc3VlcnMgb2YgYmFuayBjcmVkaXQgY2FyZHMgaW4gdGhlIG5hdGlvbi4gIFRoZSByZXNwb25kZW50cyBzdWJtaXQgaW5mb3JtYXRpb24gb24gdGhlIHByaWNpbmcgYW5kIGZlZXMgb2YgYXZhaWxhYmxlIHRoaXJkLXBhcnR5IGNyZWRpdCBjYXJkIHBsYW5zLg0KCSAgZAIID2QWBgIBDw8WAh8DBSpyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEWWNvcjkxM0h5SWZRPT1kFgJmDxUBB0ZSIDI4MzVkAgIPFQFWCSAJUXVhcnRlcmx5IFJlcG9ydCBvZiBJbnRlcmVzdCBSYXRlcyBvbiBTZWxlY3RlZCBEaXJlY3QgQ29uc3VtZXIgSW5zdGFsbG1lbnQgTG9hbnMNCglkAgUPFQGhAVRoaXMgcmVwb3J0IGNvbGxlY3RzIGludGVyZXN0IHJhdGUgaW5mb3JtYXRpb24gb24gY29uc3VtZXIgaW5zdGFsbG1lbnQgbG9hbnMgZm9yIG5ldyBhdXRvbW9iaWxlcyBhbmQgb24gbG9hbnMgZm9yIG90aGVyIGNvbnN1bWVyIGdvb2RzIGFuZCBwZXJzb25hbCBleHBlbmRpdHVyZXMuZAIJD2QWBgIBDw8WAh8DBTJyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEWndkN0kyWXZYY3VqMmNlUm0yd0YzR2QWAmYPFQEIRlIgMjgzNWFkAgIPFQErCSAJUXVhcnRlcmx5IFJlcG9ydCBvZiBDcmVkaXQgQ2FyZCBQbGFucw0KCWQCBQ8VAcwDCSAJVGhpcyByZXBvcnQgY29sbGVjdHMgaW5mb3JtYXRpb24gb24gdHdvIG1lYXN1cmVzIG9mIGNyZWRpdCBjYXJkIGludGVyZXN0IHJhdGVzLiBPbmUgbWVhc3VyZSBpcyB0aGUgYXZlcmFnZSBub21pbmFsIGZpbmFuY2UgcmF0ZSBmb3IgYWxsIGFjY291bnRzLiBUaGUgb3RoZXIgLS0gYXZlcmFnZSBjb21wdXRlZCBpbnRlcmVzdCByYXRlcyAtLSBpcyBkZXJpdmVkIGZyb20gdHdvIGl0ZW1zOiB0b3RhbCBmaW5hbmNlIGNoYXJnZXMgYXNzZXNzZWQgdG8gY2FyZGhvbGRlcnMgZHVyaW5nIHRoZSBwZXJpb2QgYW5kIHRoZSB0b3RhbCBvZiBiYWxhbmNlcyBvbiB3aGljaCB0aGUgZmluYW5jZSBjaGFyZ2VzIHdlcmUgZGV0ZXJtaW5lZC4gQWxzbywgdGhlIHJlcG9ydGluZyBmb3JtIGFza3MgZm9yIHRvdGFsIG51bWJlciBvZiBhY2NvdW50cyBhbmQgdG90YWwgYmFsYW5jZXMgZm9yIGFsbCBhY2NvdW50cy4NCgkgIGQCCg9kFgYCAQ8PFgIfAwUycmVwb3J0ZGV0YWlsLmFzcHg/c09vWUorNUJ6RGE5anlueXRpYk1rNjBlMGVEeVlDNFhkFgJmDxUBCkZSIDMwMzNwL3NkAgIPFQEjCSAJRmluYW5jZSBDb21wYW55IFF1ZXN0aW9ubmFpcmUNCglkAgUPFQG7BlRoaXMgcmVwb3J0IGlzIGEgdHdvLXN0YWdlIHN1cnZleSBvZiBmaW5hbmNlIGNvbXBhbmllcy4gIFRoZSBmaXJzdCBzdGFnZSBpcyB0aGUgQ2Vuc3VzIG9mIEZpbmFuY2UgQ29tcGFuaWVzIChGUiAzMDMzcCkgdGhhdCBpcyBzZW50IHRvIGFsbCBrbm93biBkb21lc3RpYyBjb21wYW5pZXMgdGhhdCBhcmUgbGlrZWx5IHRvIHN1cHBseSBjcmVkaXQgb3IgbGVhc2UgZmluYW5jaW5nIHRvIGhvdXNlaG9sZHMgYW5kIGJ1c2luZXNzZXMuICBJdCBhc2tzIGZvciBpbmZvcm1hdGlvbiBhYm91dCBlYWNoIGNvbXBhbnkncyB0b3RhbCBhc3NldHMsIGFyZWFzIG9mIHNwZWNpYWxpemF0aW9uLCBhbmQgb3RoZXIgY2hhcmFjdGVyaXN0aWNzLiAgRnJvbSB0aGUgcXVlc3Rpb25uYWlyZSByZXNwb25kZW50cywgdGhlIEZlZGVyYWwgUmVzZXJ2ZSBkcmF3cyBhIHN0cmF0aWZpZWQgcmFuZG9tIHNhbXBsZSBvZiBmaW5hbmNlIGNvbXBhbmllcyBmb3IgdGhlIHNlY29uZCBzdGFnZSwgdGhlIFN1cnZleSBvZiBGaW5hbmNlIENvbXBhbmllcyAoRlIgMzAzM3MpLiAgVGhlIHN1cnZleSByZXF1ZXN0cyBkZXRhaWxlZCBpbmZvcm1hdGlvbiBmcm9tIGJvdGggc2lkZXMgb2YgdGhlIHJlc3BvbmRlbnRzJyBiYWxhbmNlIHNoZWV0cy4gIFRoZSBCb2FyZCBpbml0aWF0ZXMgZGF0YSBjb2xsZWN0aW9uIGFuZCBhbmFseXNpcywgYW5kIHN0YWZmIGF0IHRoZSBGZWRlcmFsIFJlc2VydmUgQmFua3MgZm9sbG93IHVwIG9uIGRhdGEgcXVhbGl0eSBpc3N1ZXMsIGNvbGxlY3QgZGF0YSBmcm9tIG5vbnJlc3BvbmRlbnRzLCBhbmQgcmVzb2x2ZSBvdGhlciBvdXRzdGFuZGluZyBxdWVzdGlvbnMuZAIFDxYCHwIF7QQ8ZGl2IGNsYXNzPSJzZWNvbmRhcnlGb290ZXJMaW5rc0xlZnQiPgogICAgICAgICAgICAgICA8YSBocmVmPSIvYWNjZXNzaWJpbGl0eS5odG0iPkFjY2Vzc2liaWxpdHk8L2E+CiAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9hYm91dHRoZWZlZC9jb250YWN0LXVzLXRvcGljcy5odG0iPkNvbnRhY3QgdXM8L2E+CiAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9kaXNjbGFpbWVyLmh0bSI+RGlzY2xhaW1lcjwvYT4KICAgICAgICAgICAgICAgPGEgaHJlZj0iL3BvbGljaWVzLmh0bSI+V2Vic2l0ZSBwb2xpY2llczwvYT4KICAgICAgICAgICAgICAgPGEgaHJlZj0iL2ZvaWEvYWJvdXRfZm9pYS5odG0iPkZPSUE8L2E+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJzZWNvbmRhcnlGb290ZXJMaW5rc1JpZ2h0Ij4KICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cDovL3d3dy5hZG9iZS5jb20vcHJvZHVjdHMvYWNyb2JhdC9yZWFkc3RlcDIuaHRtbCI+UERGIFJlYWRlcjwvYT48aW1nIHNyYz0nL0dJRkpQRy9leGl0SWNvbi5naWYnIGFsdD0iTGVhdmluZyB0aGUgQm9hcmQiIGJvcmRlcj0iMCIgY2xhc3M9ImV4aXRJY29uIiAvPgogICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjbGVhciI+PC9kaXY+CjwvZGl2PgpkZK8986p8kdYL+Qfc6PovGO5K1O9mfElbEWD3TSprJUfG" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0482D1E9" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAK1by5Vg8JZH/wCZuknigsMYdYxf6gfAOYEwyV4iVhUgDV7gTAJlH5GF6olijceEJnbB9j30evDq7Kztc2M4XTX" />
+      <div id="leftnav">
+        <!-- Insert the Left Navigation Begins here -->
+         <div class="secondaryContentLeftNav">
+            <!---->
+            <a id="menuFirstLevelHeading">Forms by Category</a>
+            <ul>
+             
+
+                    <li id="rptr_ReportFormsCategories_li_Style_0" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_0" href="categoryindex.aspx?xTdTa+FaSlI=">Financial statements</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_1" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_1" href="categoryindex.aspx?+PhkJwiBjbA=">Applications/structure change</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_2" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_2" href="categoryindex.aspx?1/RIXO/UduI=">FFIEC</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_3" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_3" href="categoryindex.aspx?LKZRcVe8gsY=">Monetary policy</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_4" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_4" href="categoryindex.aspx?dEapq22eBI8=">Research</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_5" class="menuHighlightRF">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_5" href="categoryindex.aspx?0Z5S1pJbSGg=">Business/consumer credit</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_6" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_6" href="categoryindex.aspx?mi41Lvopb9o=">Securities Exchange Act of 1934</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_7" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_7" href="categoryindex.aspx?L877VwEj9Ss=">Municipal and government securities</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_8" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_8" href="categoryindex.aspx?KZ9MpP8mEQY=">Activities monitoring</a>
+                    </li>
+                
+            </ul>
+            <br/>
+            <a id="menuFirstLevelHeading1">Review and Updates</a>
+            <ul>
+                <li id="li_review">
+                    
+                   <a id="lnk_rfreview" href="review.aspx">Information collections under review</a>
+                </li>
+                <li>
+                	<a href="/reportforms/whats-new.htm">Recent Reporting Form Updates</a>
+                </li>
+            </ul>
+            
+            <script language="javascript" type="text/javascript">
+              <!--
+                //buildMenu();
+              -->
+            </script>
+
+         </div>
+         <img src="/GIFJPG/spacer.gif" alt=" " /> 
+      </div>
+      <div id="content">
+         <div id="BreadCrumbContainer">
+            <a href="/default.htm">Home</a>&nbsp;&gt;&nbsp;<a href="default.aspx" id="rfhome">Reporting Forms</a>
+            
+         </div>
+         <div class="generalContentText" id="printThis">
+
+            <a name="content"></a>
+            <img src="/GIFJPG/masthead2.jpg" id="defaultPrintImage" alt="Federal Reserve Board of Governors" />
+
+            <div id="TwoColumns">
+            
+            <a name="content"></a>
+
+            <div id="leftText3">
+               <div class="mainContentContainer">
+                
+    <h1 class="all">
+    <span id="MainContent_lbl_CategoryName">Business/consumer credit</span>
+</h1>
+      <input type="hidden" name="ctl00$MainContent$HiddenField1" id="HiddenField1" />
+      
+            <div id="TwoColumns">
+            <div id="leftText">
+            <br />
+        
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_0" href="reportdetail.aspx?sOoYJ+5BzDZ3ZuPvZ5Iy9g==">FR 2005</a></div>
+
+            <br/>
+		    <em>	 	Automobile Finance Terms
+	</em><br/>
+                
+			 This report collects information from lenders affiliated with automobile manufacturers on loans related to purchases of new and used vehicles. The reports are photocopies of internal company management reports.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_1" href="reportdetail.aspx?sOoYJ+5BzDa5IT+sW7IGpg==">FR 2012</a></div>
+
+            <br/>
+		    <em>	 	Passenger Auto Contract Collection Trends
+	</em><br/>
+                
+			 This report collects monthly information from lenders affiliated with automobile manufacturers on the performance of vehicle loans, including delinquency rates, refinancings, and repossessions.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_2" href="reportdetail.aspx?sOoYJ+5BzDaSCesXTb1UmHCoyU8rIHWr">FR 2028a/s</a></div>
+
+            <br/>
+		    <em>	 	Survey of Terms of Business Lending/Prime Rate Supplement
+	</em><br/>
+                
+			 	 	The FR 2028A collects information on commercial and industrial (C&I) loans made by commercial banks and U.S. branches and agencies of foreign banks to domestic customers during a representative week of the quarter,  including price and nonprice terms.  The respondents provide information on stated rate of interest, frequency of interest compounding, loan size, maturity, collateralization, and loan risk ratings.  The FR 2028S, a companion report, collects institutions' prime interest rates for the days reported.  Together with the Survey of Terms of Bank Lending to Farmers (FR 2028B), these reports constitute the Survey of Terms of Lending (STBL) report series.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_3" href="reportdetail.aspx?sOoYJ+5BzDaAGR248OfOjd4GNtDZ5/SC">FR 2028b/s</a></div>
+
+            <br/>
+		    <em>	 	Survey of Terms of Bank Lending to Farmers/Prime Rate Supplement
+	</em><br/>
+                
+			 	 	The FR 2028B collects information on farm loans made by commercial banks during a representative week.  The collected data include price and nonprice terms.  The respondents provide information on the stated rate of interest on the loan and the frequency with which interest is compounded, and other important loan terms, including loan size, commitment status, maturity, collateralization, the purpose of the loan and loan risk ratings.  The FR 2028S, a companion report, collects institutions' prime interest rate for the days reported.  Together with the Survey of Terms of Business Lending (FR 2028A), these reports constitute the Survey of Terms of Lending (STBL) report series.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_4" href="reportdetail.aspx?sOoYJ+5BzDbQtl7Utr131Q==">FR 2248</a></div>
+
+            <br/>
+		    <em>	 	Domestic Finance Company Report of Consolidated Assets and Liabilities
+	</em><br/>
+                
+			 	 	This report collects balance sheet and, where appropriate, off-balance-sheet data on major categories of consumer and business credit receivables and on major short-term liabilities held or securitized by finance companies. For quarter-end months (March, June, September, and December) additional asset and liability items are collected to provide a full balance sheet.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_5" href="reportdetail.aspx?sOoYJ+5BzDba6F0EM1TUJw==">FR 2512</a></div>
+
+            <br/>
+		    <em>Auto Finance Company Report</em><br/>
+                
+			 This report collects monthly data on loans related to purchases of new and used vehicles, as well as on the performance of vehicle loans, including delinquency rates, refinancing and repossessions.  Data are collected from finance companies with significant participation in the vehicle loan market.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_6" href="reportdetail.aspx?sOoYJ+5BzDYvLgkBTaso5Q==">FR 2572</a></div>
+
+            <br/>
+		    <em>	 	Report of Terms of Credit Card Plans
+	</em><br/>
+                
+			 	 	This report collects information on terms offered by the largest issuers of bank credit cards in the nation.  The respondents submit information on the pricing and fees of available third-party credit card plans.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_7" href="reportdetail.aspx?sOoYJ+5BzDYcor913HyIfQ==">FR 2835</a></div>
+
+            <br/>
+		    <em>	 	Quarterly Report of Interest Rates on Selected Direct Consumer Installment Loans
+	</em><br/>
+                
+			 This report collects interest rate information on consumer installment loans for new automobiles and on loans for other consumer goods and personal expenditures.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_8" href="reportdetail.aspx?sOoYJ+5BzDZwd7I2YvXcuj2ceRm2wF3G">FR 2835a</a></div>
+
+            <br/>
+		    <em>	 	Quarterly Report of Credit Card Plans
+	</em><br/>
+                
+			 	 	This report collects information on two measures of credit card interest rates. One measure is the average nominal finance rate for all accounts. The other -- average computed interest rates -- is derived from two items: total finance charges assessed to cardholders during the period and the total of balances on which the finance charges were determined. Also, the reporting form asks for total number of accounts and total balances for all accounts.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_9" href="reportdetail.aspx?sOoYJ+5BzDa9jynytibMk60e0eDyYC4X">FR 3033p/s</a></div>
+
+            <br/>
+		    <em>	 	Finance Company Questionnaire
+	</em><br/>
+                
+			 This report is a two-stage survey of finance companies.  The first stage is the Census of Finance Companies (FR 3033p) that is sent to all known domestic companies that are likely to supply credit or lease financing to households and businesses.  It asks for information about each company's total assets, areas of specialization, and other characteristics.  From the questionnaire respondents, the Federal Reserve draws a stratified random sample of finance companies for the second stage, the Survey of Finance Companies (FR 3033s).  The survey requests detailed information from both sides of the respondents' balance sheets.  The Board initiates data collection and analysis, and staff at the Federal Reserve Banks follow up on data quality issues, collect data from nonrespondents, and resolve other outstanding questions.
+		    </p>
+       
+            </div>
+            </div>
+       
+
+
+                </div>
+            </div><!--closes Left-->
+
+            <div id="stayconnectedrightSidebar">
+                
+
+	    		<h4>Related</h4>
+	    		<div class="ulbackground">
+	    		<ul class="stayconnected2">
+	    		<li class="stayconnected2"><a href="/reportforms/whats-new.htm">Recent Reporting Form Updates</a></li>
+	    		</ul>
+
+
+            </div><!--closes Right-->
+
+            </div><!--closes 2 columns-->
+<!-- Changes Made 12-4-12 -->
+         <div class="clear"></div>
+         <!--</div>-->
+<!-- 12-4-12-->
+
+         <div id="lastUpdate">
+            
+Last Update: July 6, 2012
+    </div>
+
+            
+         </div>
+
+        </form>
+
+         <div id="FooterLinks">
+            <a href="/default.htm">Home</a> | <a href="/apps/reportforms/default.aspx">Reporting Forms</a>
+         </div>
+         <!-- CLOSES FooterLinks -->
+         <div id="secondaryFooterLinks">
+            <div class="secondaryFooterLinksLeft">
+               <a href="/accessibility.htm">Accessibility</a>
+               <a href="/aboutthefed/contact-us-topics.htm">Contact us</a>
+               <a href="/disclaimer.htm">Disclaimer</a>
+               <a href="/policies.htm">Website policies</a>
+               <a href="/foia/about_foia.htm">FOIA</a>
+</div>
+<div class="secondaryFooterLinksRight">
+               <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src='/GIFJPG/exitIcon.gif' alt="Leaving the Board" border="0" class="exitIcon" />
+               <div class="clear"></div>
+</div>
+
+
+         </div> 
+         <div class="clear"></div>
+      </div>
+</div>
+
+   </div>
+   
+   <div id="footer">
+      <div id="Footer2"></div>               
+   </div>
+   
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>
+
+
+
+

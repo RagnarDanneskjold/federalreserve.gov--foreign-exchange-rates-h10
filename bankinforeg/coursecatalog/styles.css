@@ -1,0 +1,154 @@
+/* ---------- Basic/Main ---------- */
+
+body {
+	background-color : #ffffff;
+	margin : 0 0 0 0;
+	padding : 0 0 0 0;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+td {
+	font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+	/* The following item creates padding/space between the paragraphs. */
+	margin : .5ex 0 1.25ex 0;
+}
+
+li {
+	margin : 0 0 1ex 0;
+}
+
+.nobreak {
+	white-space : nowrap;
+}
+
+.footer {
+	font-size: 90%;
+}
+
+.contentfull {
+	width : 600px;
+	padding : 10px 0 10px 15px;
+}
+
+.note {
+	font-size : 85%;
+}
+
+a:link          {color: #006666;}	
+	
+a:visited 	{color: #800080;}
+
+/* 508, skip navigation, for invisible */
+                                                                
+a.skip:link    {font-size: 1pt;
+           font-weight: normal;
+           text-decoration: none;
+           color: #ffffff;}
+		   
+a.skip:hover    {font-size: 1pt;
+           font-weight: normal;
+           text-decoration: none;
+           color: #ffffff;}
+		   
+a.skip:visited    {font-size: 1pt;
+           font-weight: normal;
+           text-decoration: none;
+           color: #ffffff;}
+
+.pagetitle {
+	/* Used as second title after site name */
+	margin : 1ex 0 2ex 1ex;
+	font-size : 160%;
+}
+
+.section {
+	/* Used to set up spacing for sections */
+	padding: 0 0 0 0;
+	margin : 0 0 2ex 1ex;
+	width : 100%;
+}
+
+.section_content {
+	margin : 2ex 0 0 3ex;
+}
+
+.heading_bar {
+	background-color :#99cccc;
+	border-top : 1px solid #006666;
+	border-bottom : 1px solid #006666;
+	padding: .75ex 0 .75ex 1ex;
+	margin-right : 1ex;
+	margin-bottom : 1ex;
+}
+
+.heading_text {
+	font-size : 130%;
+}
+
+.sub_heading {
+	font-size : 100%;
+	font-weight : 600;
+	margin : 1ex 0 1ex 0;
+}
+
+.heading_date {
+	float : right;
+	font-size : 85%;
+	padding : .5ex 1ex 0 0;
+}
+
+.heading_note {
+	text-align : right;
+	font-size : 80%;
+	padding-right : 2ex;
+}
+
+.pdf {
+	font-family : helv;
+	font-size : 75%;
+	color : 666666;
+	text-decoration : none;
+	white-space : nowrap;
+}
+
+.course {
+	margin : 1.5ex 0 1ex 4ex;
+}
+
+.indentl1 {
+	margin: 0 0 0 2.5ex;
+}
+
+ul.nav {
+	margin : 0 0 2ex 0;
+	list-style-type: none;
+}
+
+li.nav {
+	margin : .5ex 0 .5ex 1ex;
+}
+
+ul.nav2 {
+	margin : .5ex 0 .5ex 4ex;
+	list-style-type: none;
+}
+
+.nav3 {
+	margin : 1ex 0 1ex 4ex;
+}
+
+.indentedlist {
+	margin: 2ex 0 0 4ex;
+}
+
+ul.cpe {
+	margin : 0 0 2ex 5ex;
+}
+
+li.cpe {
+	margin : 0 0 0 0;
+}
+

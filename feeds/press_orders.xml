@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+
+
+
+
+    <channel rdf:about="http://www.federalreserve.gov/feeds/press_orders.xml">
+        <title>FRB: Press Release - Banking Applications</title>
+        <link>http://www.federalreserve.gov/feeds/default.htm</link>
+        <description>Press releases about orders on banking applications from the Federal Reserve Board</description> 
+        <items>
+            <rdf:Seq>
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160808a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160729a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160712a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160628b.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160628a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160624a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160617a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160610a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160602a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160505a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160502a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160422a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160321a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160314a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160119a.htm" />
+            
+            </rdf:Seq>
+        </items>
+    </channel>
+
+
+    
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160808a.htm">
+        <title>Federal Reserve Board announces approval of application by Chemical Financial Corporation</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160808a.htm</link>
+        <description>Federal Reserve Board announces approval of application by Chemical Financial Corporation</description>
+        <dc:date>2016-08-08T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Chemical Financial Corporation</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-08T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160729a.htm">
+        <title>Federal Reserve Board announces approval of application by Huntington Bancshares Incorporated</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160729a.htm</link>
+        <description>Federal Reserve Board announces approval of application by Huntington Bancshares Incorporated</description>
+        <dc:date>2016-07-29T11:45:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Huntington Bancshares Incorporated</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-29T11:45:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160712a.htm">
+        <title>Federal Reserve Board announces approval of application by KeyCorp</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160712a.htm</link>
+        <description>Federal Reserve Board announces approval of application by KeyCorp</description>
+        <dc:date>2016-07-12T16:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by KeyCorp</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-12T16:00:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160628b.htm">
+        <title>Federal Reserve Board announces approval of application by Bank of the Ozarks, Inc.</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160628b.htm</link>
+        <description>Federal Reserve Board announces approval of application by Bank of the Ozarks, Inc.</description>
+        <dc:date>2016-06-28T17:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Bank of the Ozarks, Inc.</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-28T17:00:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160628a.htm">
+        <title>Federal Reserve Board announces approval of application by Ohio Valley Banc Corp.</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160628a.htm</link>
+        <description>Federal Reserve Board announces approval of application by Ohio Valley Banc Corp.</description>
+        <dc:date>2016-06-28T17:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Ohio Valley Banc Corp.</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-28T17:00:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160624a.htm">
+        <title>Federal Reserve Board announces approval of application by Banque SYZ SA</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160624a.htm</link>
+        <description>Federal Reserve Board announces approval of application by Banque SYZ SA</description>
+        <dc:date>2016-06-24T15:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Banque SYZ SA</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-24T15:00:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160617a.htm">
+        <title>Federal Reserve Board announces approval of application by Compass Bank</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160617a.htm</link>
+        <description>Federal Reserve Board announces approval of application by Compass Bank</description>
+        <dc:date>2016-06-17T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Compass Bank</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-17T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160610a.htm">
+        <title>Federal Reserve Board announces approval of notice by Sumitomo Mitsui Trust Holdings, Inc., and Sumitomo Mitsui Trust Bank, Limited</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160610a.htm</link>
+        <description>Federal Reserve Board announces approval of notice by Sumitomo Mitsui Trust Holdings, Inc., and Sumitomo Mitsui Trust Bank, Limited</description>
+        <dc:date>2016-06-10T15:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of notice by Sumitomo Mitsui Trust Holdings, Inc., and Sumitomo Mitsui Trust Bank, Limited</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-10T15:30:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160602a.htm">
+        <title>Federal Reserve Board announces approval of application by BNC Bancorp</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160602a.htm</link>
+        <description>Federal Reserve Board announces approval of application by BNC Bancorp</description>
+        <dc:date>2016-06-02T17:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by BNC Bancorp</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-02T17:00:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160505a.htm">
+        <title>Federal Reserve Board announces approval of application by Origin Bank</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160505a.htm</link>
+        <description>Federal Reserve Board announces approval of application by Origin Bank</description>
+        <dc:date>2016-05-05T14:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Origin Bank</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-05T14:30:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160502a.htm">
+        <title>Federal Reserve Board announces approval of application by Republic Bancorp, Inc.</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160502a.htm</link>
+        <description>Federal Reserve Board announces approval of application by Republic Bancorp, Inc.</description>
+        <dc:date>2016-05-02T17:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Republic Bancorp, Inc.</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-02T17:00:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160422a.htm">
+        <title>Federal Reserve Board announces public comment period has been extended through May 16, 2016, on application by Huntington Bancshares Incorporated</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160422a.htm</link>
+        <description>Federal Reserve Board announces public comment period has been extended through May 16, 2016, on application by Huntington Bancshares Incorporated</description>
+        <dc:date>2016-04-22T15:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces public comment period has been extended through May 16, 2016, on application by Huntington Bancshares Incorporated</cb:simpleTitle>
+        <cb:occurrenceDate>2016-04-22T15:30:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160321a.htm">
+        <title>Federal Reserve Board announces approval of application by Goldman Sachs Bank USA</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160321a.htm</link>
+        <description>Federal Reserve Board announces approval of application by Goldman Sachs Bank USA</description>
+        <dc:date>2016-03-21T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Goldman Sachs Bank USA</cb:simpleTitle>
+        <cb:occurrenceDate>2016-03-21T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160314a.htm">
+        <title>Federal Reserve Board announces approval of application by Frost Bank</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160314a.htm</link>
+        <description>Federal Reserve Board announces approval of application by Frost Bank</description>
+        <dc:date>2016-03-14T17:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Frost Bank</cb:simpleTitle>
+        <cb:occurrenceDate>2016-03-14T17:00:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160119a.htm">
+        <title>Federal Reserve Board announces approval of application by Unione di Banche Italiane, S.p.A.</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160119a.htm</link>
+        <description>Federal Reserve Board announces approval of application by Unione di Banche Italiane, S.p.A.</description>
+        <dc:date>2016-01-19T11:30:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Unione di Banche Italiane, S.p.A.</cb:simpleTitle>
+        <cb:occurrenceDate>2016-01-19T11:30:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+</rdf:RDF>

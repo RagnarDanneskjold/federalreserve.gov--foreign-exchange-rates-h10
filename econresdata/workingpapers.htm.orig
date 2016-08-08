@@ -1,0 +1,755 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+
+
+
+
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="Board of Governors of the Federal Reserve System, Federal Reserve Board of Governors, Federal Reserve Board, Federal Reserve" />
+<meta name="description" content="The Federal Reserve Board of Governors in Washington DC." />
+<title>FRB: Working Papers</title>
+
+<link href="/resources/main.css" rel="stylesheet" type="text/css" />
+<link href="/resources/print2.css" rel="stylesheet" type="text/css" media="print"/>
+
+
+<script language="JavaScript" type="text/javascript" src="/resources/jquery_min_1_4_2.js"></script>
+
+
+
+<!--/econresdata/temp_lav.js-->
+
+
+<script language="JavaScript" type="text/javascript" src="/resources/exit_new.js"></script>
+<script language="JavaScript" type="text/javascript" src="/resources/swfLink.js"></script>
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<span class="skip2">
+<a href="#mainNav">skip to main navigation</a>
+<a href="#secondNav">skip to secondary navigation</a>
+<a href="#content">skip to content</a>
+</span>
+
+
+
+<!-- HEADER STARTS -->
+<table id="headerTopLinks" cellpadding="0" cellspacing="0">
+<tr><td class="headerTopLinksLeft">
+
+<a href="/whatsnew.htm">What's New</a> &middot; 
+<a href="/whatsnext.htm">What's Next</a> &middot; 
+<a href="/sitemap.htm">Site Map</a> &middot; 
+<a href="/azindex.htm">A-Z Index</a> &middot; 
+<a href="/careers/default.htm">Careers</a> &middot; 
+<a href="/feeds/default.htm">RSS</a> &middot; 
+<a href="/mediacenter/media.htm">All Videos</a> &middot; 
+<a href="/faqs/faq.htm">Current FAQs</a> &middot; 
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+
+</td>
+<td class="curve1"></td>
+<td class="headerTopLinksRight">
+<form action="http://search.newyorkfed.org/board_public/search" method="get"><div class="skip2"><label for="searchbox">Search</label></div><input type="text" name="text" size="12" maxlength="100" id="searchbox" >&nbsp;<input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search" border="0">&nbsp;<a href="http://search.newyorkfed.org/board_public" class="search">Advanced Search</a></form>
+</td>
+<td class="curve2"></td>
+</tr></table>
+
+<div id="top">
+
+    <div id="headerMasthead"><a href="/default.htm"><img src="/econresdata/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"></a></div>
+
+<a name="mainNav"></a>
+<div class="navMenuBack">
+<table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+<tr>
+    <td>
+        <div class="navItem"><a href="/aboutthefed/default.htm">About<BR>the Fed</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/newsevents/default.htm">News<BR>&amp; Events</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/monetarypolicy/default.htm">Monetary<BR>Policy</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/bankinforeg/default.htm">Banking<BR>Information<BR>&amp; Regulation</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/paymentsystems/default.htm">Payment<BR>Systems</a></div>
+    </td>
+    <td id="selected">
+        <div class="navItem"><a href="/econresdata/default.htm">Economic<BR>Research<BR>&amp; Data</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/consumerinfo/default.htm">Consumer<BR> Information</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/communitydev/default.htm">Community<BR>Development</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/apps/reportforms/default.aspx">Reporting<BR>Forms</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/publications/default.htm">Publications</a></div>
+    </td>
+
+</tr>
+</table>
+<!-- HEADER ENDS -->
+ 
+ 
+</div>
+</div>
+<div id="contentwrapper">
+<a name="secondNav"></a><span class="skip2"><a href="#content">skip to content</a></span>
+        
+
+
+<div id="breadcrumbwrapper">
+<div id="BreadCrumbContainer">
+<a href="/default.htm">Home</a>
+
+ &gt; <a href="/econresdata/default.htm">Economic Research & Data</a>
+
+</div> 
+</div>
+
+<div id="content">
+
+
+
+
+<a name="content"></a>
+
+
+ <div id="pagetitle">
+
+        <h2>Working Papers</h2>
+        <!--<p>Economists at the Federal Reserve Board conduct innovative research on a broad range of topics in economics and finance. In addition to presenting their research to policymakers, Board economists share their research at academic conferences and publish it in peer-reviewed journals and other scholarly outlets.</p>-->
+<div id="printIcon"><a href="javascript:window.print()"><img src="/gifjpg/printIcon.gif">Print</a></div>
+<div class="clear"></div>
+      </div>
+      <div id="layout">
+        <div id="main">
+         <div id="feature-con" class="fed-ifdp-notes">
+              <ul>
+            <li class="feature">
+             <ul>              
+<li><span class="header-feds"><h3>Finance <em>and</em> Economics Discussion Series</h3></span>
+              <a href="Javascript:void(0);" onclick="Javascript:letsGo(document.FEDS_dropdown.feds_select.options[0].value);"><img src="/gifjpg/logo_feds.gif" alt="Finance and Economic Discussion Series" width="108" height="108" border="0" class="workingPapers" /></a>
+                <p>
+       Staff working papers in the Finance and Economics Discussion Series (FEDS) investigate a broad range of issues in economics and finance, with a focus on the U.S. economy and domestic financial markets.
+    </p>
+                </li>
+                <li class="action no-top-padding">
+                <script type="text/javascript">
+var thisHost = (location.host.indexOf('federalreserve.gov')!=-1)?'http://www.federalreserve.gov':'http://mpstage.frb.gov';
+    //alert(thisHost);
+letsGo = function (url) {
+    //alert(document.FEDS_dropdown.feds_select.selectedIndex);
+    var validURL = (url.indexOf('http://')!=-1)?url:thisHost + url;
+    //alert(validURL);
+    //location.replace(validURL);
+    location.href=validURL;
+}
+</script>
+
+                <div style="display:none;">
+                <form name="FEDS_dropdown">
+                <select name="feds_select">
+                    <option value="/econresdata/feds/2016/index.htm">
+<script type="text/javascript">
+document.write('/econresdata/feds/2016/index.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2012/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2012/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2011/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2011/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2010/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2010/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2009/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2009/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2008/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2008/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2007/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2007/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2006/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2006/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2005/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2005/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2004/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2004/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2003/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2003/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2002/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2002/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2001/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2001/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/2000/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/2000/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/1999/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/1999/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/1998/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/1998/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/1997/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/1997/index.html'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/feds/1996/index.html">
+<script type="text/javascript">
+document.write('/pubs/feds/1996/index.html'.match(/\d{4}/));
+</script></option>
+                </select>
+                <input name="feds_button" type="button" value="Go" onclick="Javascript:letsGo(document.FEDS_dropdown.feds_select.options[document.FEDS_dropdown.feds_select.selectedIndex].value);">
+                </form>
+                </div>
+                <a href="Javascript:void(0);" onclick="Javascript:letsGo(document.FEDS_dropdown.feds_select.options[0].value);">View All &gt;</a>
+             <li style="margin-top: 55px;"><h3>FEDS Notes</h3>
+              <a href="Javascript:void(0);" onclick="Javascript:letsGo('/econresdata/notes/feds-notes/default.html');"><img src="/gifjpg/feds-notes-icon.png" style="float:right;border:0;"></a>
+
+              <p>
+       FEDS Notes are articles in which Board economists offer their own views and present analysis on a range of topics in economics and finance. These articles are shorter and less technically oriented than FEDS Working Papers.
+    </p>
+              </li>
+              <li class="action">
+<a href="Javascript:void(0);" onclick="Javascript:letsGo('/econresdata/notes/feds-notes/default.html');">View All &gt;</a></li>
+              <!--</li>-->
+              </ul>
+              </li>
+              <li class="feature">
+                <ul>
+               <li>
+<span class="header-feds">
+                <h3>International Finance Discussion Papers</h3></span>
+<a href="Javascript:void(0);" onclick="Javascript:letsGo(document.IFDP_dropdown.ifdp_select.options[0].value);"><img src="/gifjpg/logo_ifdp.gif" alt="International Finance Disuccion Papers" border="0" width="108" height="108" class="workingPapers" /></a> 
+
+                <p class="ifdp-notes-margin-left">
+       Staff working papers in the International Finance and Discussion Papers (IFDP) series are primarily materials produced by staff in the Division of International Finance. These topics are focused on, though by no means limited to, international macroeconomics, international trade, global finance, financial institutions, and markets, as well as international capital flows.
+    </p>
+                </li>
+                <li class="action no-top-padding">
+
+                <div style="display:none;"><form name="IFDP_dropdown">
+                <select name="ifdp_select">
+                    <option value="/econresdata/ifdp/2016/index.htm">
+<script type="text/javascript">
+document.write('/econresdata/ifdp/2016/index.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2012/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2012/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2011/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2011/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2010/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2010/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2009/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2009/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2008/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2008/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2007/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2007/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2006/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2006/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2005/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2005/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2004/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2004/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2003/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2003/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2002/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2002/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2001/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2001/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/2000/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/2000/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1999/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1999/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1998/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1998/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1997/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1997/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1996/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1996/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1995/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1995/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1994/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1994/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1993/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1993/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1992/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1992/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1991/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1991/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1990/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1990/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1989/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1989/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1988/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1988/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1987/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1987/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1986/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1986/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1985/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1985/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1984/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1984/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1983/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1983/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1982/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1982/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1981/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1981/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1980/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1980/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1979/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1979/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1978/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1978/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1977/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1977/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1976/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1976/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1975/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1975/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1974/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1974/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1973/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1973/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1972/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1972/default.htm'.match(/\d{4}/));
+</script></option>                    <option value="/pubs/ifdp/1971/default.htm">
+<script type="text/javascript">
+document.write('/pubs/ifdp/1971/default.htm'.match(/\d{4}/));
+</script></option>
+                </select>
+                <input name="ifdp_button" type="button" value="Go" onclick="Javascript:letsGo(document.FEDS_dropdown.feds_select.options[0].value);">
+                </form></div>
+                   <a href="Javascript:void(0);" onclick="Javascript:letsGo(document.IFDP_dropdown.ifdp_select.options[0].value);">View All &gt;</a>
+                </li>
+            <li>
+              <h3>IFDP Notes</h3>
+              <a href="Javascript:void(0);" onclick="Javascript:letsGo('/econresdata/notes/ifdp-notes/default.html');"><img src="/gifjpg/ifdp-notes-icon.png" style="float:right;border:0"></a>
+
+             <p>
+       IFDP Notes are articles in which Board economists offer their own views and present analysis on a range of topics in economics and finance. These articles are shorter and less technically oriented than IFDP Working Papers.
+    </p>
+              </li>
+              <li class="action"><a href="Javascript:void(0);" onclick="Javascript:letsGo('/econresdata/notes/ifdp-notes/default.html');">View All &gt;</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <!-- end .featured -->
+          
+       <!--   <h2>By Topic</h2>
+          <br />-->
+<div class="wp">
+  <h3 class="us_icon">Models and<br> Tools</h3>
+
+          <p class="wp_desc">
+       
+       Links to the right present information and, where applicable, programs and data sets for a number of tools that Federal Reserve staff use in research and policy analysis.
+    
+    </p>
+          </div>
+          <ul class="workingPapers clearfix">
+            
+             <li>
+<h4><a href="/econresdata/frbus/us-models-about.htm">FRB/US Model</a></h4></li><li>
+<h4><a href="/econresdata/edo/edo-models-about.htm">Estimated Dynamic Optimization (EDO) Model</a></h4></li><li>
+<h4><a href="/econresdata/ama/index.htm">Anderson-Moore Algorithm (AMA)</a></h4></li><li>
+<h4><a href="/econresdata/scf/scfindex.htm">Survey of Consumer Finances (SCF)</a></h4></li>
+           
+         </ul>               
+                  
+          <br>
+          <hr align="center" width="400">
+          <br>
+          <div class="wp">
+          <h3 class="wp_icon">Occasional Staff<br> Studies</h3>
+
+          <p class="wp_desc">
+       Occasional Staff Studies (OSS) are research materials distributed to stimulate discussion and critical comment. The analysis and conclusions set forth are those of the authors and do not indicate concurrence by other members of the research staff or the Board of Governors. References in publications to Occasional Staff Studies (other than acknowledgment of sources) should be cleared with the authors to protect the tentative character of these studies.
+    </p>
+          </div>
+          <ul class="workingPapers clearfix">
+            <li>
+              <ul class="column">
+                <li>
+                  <h3>OSS-4</h3>
+
+                </li>
+                                <li><h4><a href="/econresdata/ama/index.htm">The Anderson-Moore Algorithm (AMA)</a></h4></li>
+                <li>
+                  <h3>OSS-2</h3>
+                </li>
+                <li><h4><a href="/econresdata/scf/scfindex.htm">Survey of Consumer Finances</a></h4>
+</li>
+              </ul>
+              
+              <ul class="column">
+                <li>
+                  <h3>OSS-3</h3>
+
+                </li>
+              <li><h4><a href="Javascript:void(0);" onclick="Javascript:letsGo('/pubs/oss/oss3/nssbftoc.htm');">Survey of Small Business Finances</a></h4></li>
+             
+                <li>
+                  <h3>OSS-1</h3>
+
+                </li>
+              <li><h4><a href="Javascript:void(0);" onclick="Javascript:letsGo('/pubs/oss/oss1/oss1.doc.html');">Decomposition of Productivity and Unit Costs</a></h4></li>
+              </ul>
+            </li>
+          </ul>
+          <br>
+          <hr width="400" align="center">
+          <br>
+          <div class="wp">
+          <h3 class="wp_icon">Staff <br>Studies</h3>
+          <p>
+       The staff members of the Board of Governors of the Federal Reserve System and of the Federal Reserve Banks undertake studies that cover a wide range of economic and financial subjects. From time to time the studies that are of general interest are published in the Staff Studies series and summarized in the Federal Reserve Bulletin. The analyses and conclusions set forth are those of the authors and do not necessarily indicate concurrence by the Board of Governors, by the Federal Reserve Banks, or by members of their staffs.
+    </p>
+          </div>
+          <ul class="workingPapers clearfix">
+            <li>
+              <ul style="float:left">
+                <li><a href="Javascript:void(0);" onclick="Javascript:letsGo('/pubs/staffstudies/2000-present/default.htm');">2000-present</a></li>
+                <li><a href="Javascript:void(0);" onclick="Javascript:letsGo('/pubs/staffstudies/1990-99/default.htm');">1990-99</a></li>
+                <li><a href="Javascript:void(0);" onclick="Javascript:letsGo('/pubs/staffstudies/1980-89/default.htm');">1980-89</a></li>
+                <li><a href="Javascript:void(0);" onclick="Javascript:letsGo('/pubs/staffstudies/1970-79/default.htm');">1970-79</a></li>
+                <li><a href="Javascript:void(0);" onclick="Javascript:letsGo('/pubs/staffstudies/1960-69/default.htm');">1960-69</a></li>
+              </ul>
+</li>
+          </ul>
+          <br class="clear">
+          <hr color="#000000">
+          <br>
+          <div class="wp" style="margin-bottom:10px;">
+          <h3 class="wp_icon">Review <em>of</em> Foreign Developments</h3>
+
+<p>
+       The Review of Foreign Developments (RFD) series begins in 1945 and ends in 1975. Starting in August 1971, papers in the RFD series also appear in the International Finance Discussion Paper (IFDP) series. The analyses and conclusions set forth in the RFD series are those of the authors and do not indicate concurrence by other members of the research staff or the Board of Governors. All papers in the RFD series are public and may be quoted or cited. Some of the papers in the RFD series were initially marked "Confidential," "Restricted," or "Not for publication," but these markings no longer apply.
+    </p>
+          </div>
+         <ul class="workingPapers clearfix">
+            <li>
+              <ul style="float:left">
+                <li style="padding-top:100px">
+
+
+<form name="RFD_dropdown">
+                <select name="rdf_select">
+    <option value="/pubs/rfd/1971/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1971/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1970/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1970/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1969/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1969/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1968/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1968/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1967/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1967/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1966/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1966/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1965/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1965/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1964/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1964/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1963/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1963/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1962/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1962/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1961/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1961/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1960/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1960/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1959/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1959/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1958/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1958/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1957/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1957/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1956/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1956/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1955/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1955/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1954/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1954/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1953/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1953/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1952/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1952/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1951/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1951/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1950/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1950/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1949/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1949/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1948/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1948/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1947/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1947/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1946/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1946/default.htm'.match(/\d{4}/));
+</script></option><option value="/pubs/rfd/1945/default.htm">
+<script type="text/javascript">
+document.write('/pubs/rfd/1945/default.htm'.match(/\d{4}/));
+</script></option>
+</select>
+                <input name="" type="button" value="Go" onclick="Javascript:letsGo(document.RFD_dropdown.rdf_select.options[document.RFD_dropdown.rdf_select.selectedIndex].value);">
+</form>
+                </li>
+              </ul>
+              </li>
+              </ul>
+<div id="four_way_box"></div>
+<script type="text/javascript" src="/resources/jquery-1.3.2.min.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function(){ 
+      if($('#four_way_box'))$.ajax({
+            type: "GET",
+            url: "/econresdata/4_way_box.txt",
+            dataType: "html",
+            error: function(){
+              alert('Error loading 4-way box');
+          },
+          success: function(data){
+              //alert("Data Loaded: " + data);
+              //if(document.getElementById('four_way_box'))document.getElementById('four_way_box').innerHTML = data;
+              if($('#four_way_box')){
+                    $('#four_way_box').html(data);
+                }
+      }
+      });
+      if($('#stay_connected'))$.ajax({
+            type: "GET",
+            url: "/econresdata/stay_connected_box.txt",
+            dataType: "html",
+            error: function(){
+              alert('Error loading stay connected box');
+          },
+          success: function(data){
+               if($('#stay_connected')){
+                    $('#stay_connected').html(data);
+                }
+      }
+      });
+      if($('#meet_econ'))$.ajax({
+            type: "GET",
+            url: "/econresdata/meeteconomists.htm",
+            dataType: "html",
+            error: function(){
+              alert('Error loading Meet Economist box');
+          },
+          success: function(data){
+               if($('#meet_econ')){
+                    $('#meet_econ').html(data);
+                }
+      }
+      });
+
+ });
+        
+</script>
+        </div><!--closes main-->        
+<div id="relatedInfo">
+<style type="text/css">
+#relatedInfo .search {padding: 5px 0 5px 0;}
+#relatedInfo .search #search input {margin-bottom: 10px; width: 120px;}
+#relatedInfo .search #search input#search {width: 60px;}
+#relatedInfo .search #search select {margin-bottom: 10px; font-size:11px; margin-top: 10px;}
+</style>
+<h2>Search Working Papers</h2>
+<div class="search">
+<form method="GET" action="http://search.newyorkfed.org/board_public/search" class="fsearchform" name="search" id="search">
+<select name="source">
+<option selected="" value="board_pub_discussion_series|board_pub_ifdp|board_pub_staff_studies">All Working Papers</option>
+                    <option value="board_pub_discussion_series">Finance and Economics Discussion Series</option>             
+                    <option value="board_pub_ifdp">International Finance Discussion Papers</option>             
+                    <option value="board_pub_staff_studies">Staff Studies</option>          
+</select><br/>
+<input type="text" value="" maxlength="140" size="30" name="text"/> <input type="submit" id="search" value="Search" name="submit"/>
+</form>
+</div>
+
+          <h2>About Working Papers</h2>
+
+          <p>
+       Federal Reserve economists produce original research on a broad range of topics relevant to the U.S. and foreign economies. These working papers are preliminary versions that are being shared in a timely manner to a broad research community, with the aim of contributing to scholarly debate and soliciting constructive feedback. This work is also often presented at research conferences and many of the papers are later published in peer-reviewed journals and other scholarly outlets.
+    </p>
+<!--Stay Meet Econ Box above-->
+ <div id="meet_econ"></div>
+<!--Stay Meet Econ above-->
+<!--Stay Connectd Box below-->
+        <div id="stay_connected"></div>
+<!--Stay Connectd Box above-->
+        </div><!--closes relatedInfo-->
+        
+        <div class="clear"></div>
+      
+      </div> <!--closes layout--> 
+    <div class="clear"></div><div id="lastUpdate">Last update: 
+
+
+     January 29, 2016 
+          
+</div>
+ 
+
+<div id="FooterLinks">
+
+
+    <a href="/default.htm">Home</a>
+     | <a href="/econresdata/default.htm">Economic Research & Data</a>
+
+</div> <!-- CLOSES FooterLinks -->
+
+
+ 
+<div id="secondaryFooterLinks">
+<div class="secondaryFooterLinksLeft">
+
+<a href="/accessibility.htm">Accessibility</a>
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+<a href="/disclaimer.htm">Disclaimer</a>
+<a href="/policies.htm">Website Policies</a>
+<a href="/foia/about_foia.htm">FOIA</a>
+ 
+
+
+
+</div>
+<div class="secondaryFooterLinksRight">
+<a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon" />
+</div>
+<div class="clear"></div>
+</div> <!-- CLOSES secondaryFooterLinks -->
+
+</div> <!-- CLOSES content -->
+<div class="clear"></div>
+</div> <!-- CLOSES contentwrapper -->
+<div id="footer">
+<div id="Footer2"></div>
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+    // hide #back-top first
+    $("#back-top").hide();
+    
+    // fade in #back-top
+    $(function () {
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 100) {
+                $('#back-top').fadeIn();
+            } else {
+                $('#back-top').fadeOut();
+            }
+        });
+        // scroll body to 0px on click
+        $('#back-top a').click(function () {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+    });
+});
+</script>
+</div> <!-- CLOSES footer -->
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>
+ 

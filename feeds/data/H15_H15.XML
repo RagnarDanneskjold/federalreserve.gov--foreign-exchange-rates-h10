@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+  <channel rdf:about="http://www.federalreserve.gov/releases/H15">
+    <title>FRB:Data:H.15 Selected Interest Rates</title>
+    <link>http://www.federalreserve.gov/releases/H15/about.htm</link>
+    <description>FRB:Data:H.15 Selected Interest Rates</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#1"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#2"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#3"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#4"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#5"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#6"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#7"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#8"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#9"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#10"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#11"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#12"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#13"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#14"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#15"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#16"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#17"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#18"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#19"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#20"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#21"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#22"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#23"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#24"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#25"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#26"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#27"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#28"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#29"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#30"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#31"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#32"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#33"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#34"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#35"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#36"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#37"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#38"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#39"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#40"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#41"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#42"/>
+        <rdf:li rdf:resource="http://www.federalreserve.gov/releases/H15#43"/>
+      </rdf:Seq>
+    </items>
+    <dc:language>en</dc:language>
+    <dc:date>2016-08-08T16:15:00-05:00</dc:date>
+    <dc:publisher>Board of Governors of the Federal Reserve</dc:publisher>
+  </channel>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#1">
+    <title>US: H15 0.40 2016-08-05 FRB Federal funds</title>
+    <link>http://www.federalreserve.gov/releases/H15#1</link>
+    <description>Federal funds</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.40</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>Federal funds</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#2">
+    <title>US: H15 0.36 2016-08-05 FRB 1-month nonfinancial commercial paper</title>
+    <link>http://www.federalreserve.gov/releases/H15#2</link>
+    <description>1-month nonfinancial commercial paper</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.36</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>1-month nonfinancial commercial paper</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#3">
+    <title>US: H15 0.42 2016-08-05 FRB 2-month nonfinancial commercial paper</title>
+    <link>http://www.federalreserve.gov/releases/H15#3</link>
+    <description>2-month nonfinancial commercial paper</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.42</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>2-month nonfinancial commercial paper</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#4">
+    <title>US: H15 0.48 2016-08-05 FRB 3-month nonfinancial commercial paper</title>
+    <link>http://www.federalreserve.gov/releases/H15#4</link>
+    <description>3-month nonfinancial commercial paper</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.48</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>3-month nonfinancial commercial paper</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#5">
+    <title>US: H15 0.40 2016-08-05 FRB 1-month financial commercial paper</title>
+    <link>http://www.federalreserve.gov/releases/H15#5</link>
+    <description>1-month financial commercial paper</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.40</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>1-month financial commercial paper</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#6">
+    <title>US: H15 0.53 2016-08-05 FRB 2-month financial commercial paper</title>
+    <link>http://www.federalreserve.gov/releases/H15#6</link>
+    <description>2-month financial commercial paper</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.53</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>2-month financial commercial paper</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#7">
+    <title>US: H15 0.67 2016-08-05 FRB 3-month financial commercial paper</title>
+    <link>http://www.federalreserve.gov/releases/H15#7</link>
+    <description>3-month financial commercial paper</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent">0.67</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>3-month financial commercial paper</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#8">
+    <title>US: H15 0.50 2016-08-05 FRB 1-month eurodollar deposit rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#8</link>
+    <description>1-month eurodollar deposit rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.50</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>1-month eurodollar deposit rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#9">
+    <title>US: H15 0.75 2016-08-05 FRB 3-month eurodollar deposit rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#9</link>
+    <description>3-month eurodollar deposit rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.75</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>3-month eurodollar deposit rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#10">
+    <title>US: H15 1.15 2016-08-05 FRB 6-month eurodollar deposit rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#10</link>
+    <description>6-month eurodollar deposit rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">1.15</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>6-month eurodollar deposit rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#11">
+    <title>US: H15 3.50 2016-08-05 FRB Prime rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#11</link>
+    <description>Prime rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">3.50</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>Prime rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#12">
+    <title>US: H15 1.00 2016-08-05 FRB Discount rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#12</link>
+    <description>Discount rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">1.00</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>Discount rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#13">
+    <title>US: H15 0.23 2016-08-05 FRB 4-week Treasury bill</title>
+    <link>http://www.federalreserve.gov/releases/H15#13</link>
+    <description>4-week Treasury bill</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.23</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>4-week Treasury bill</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#14">
+    <title>US: H15 0.27 2016-08-05 FRB 3-month Treasury bill</title>
+    <link>http://www.federalreserve.gov/releases/H15#14</link>
+    <description>3-month Treasury bill</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.27</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>3-month Treasury bill</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#15">
+    <title>US: H15 0.44 2016-08-05 FRB 6-month Treasury bill</title>
+    <link>http://www.federalreserve.gov/releases/H15#15</link>
+    <description>6-month Treasury bill</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.44</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>6-month Treasury bill</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#16">
+    <title>US: H15 0.54 2016-08-05 FRB 1-year Treasury bill</title>
+    <link>http://www.federalreserve.gov/releases/H15#16</link>
+    <description>1-year Treasury bill</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.54</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>1-year Treasury bill</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#17">
+    <title>US: H15 0.23 2016-08-05 FRB 1-month Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#17</link>
+    <description>1-month Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.23</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>1-month Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#18">
+    <title>US: H15 0.28 2016-08-05 FRB 3-month Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#18</link>
+    <description>3-month Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.28</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>3-month Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#19">
+    <title>US: H15 0.45 2016-08-05 FRB 6-month Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#19</link>
+    <description>6-month Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.45</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>6-month Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#20">
+    <title>US: H15 0.56 2016-08-05 FRB 1-year Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#20</link>
+    <description>1-year Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.56</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>1-year Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#21">
+    <title>US: H15 0.72 2016-08-05 FRB 2-year Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#21</link>
+    <description>2-year Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.72</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>2-year Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#22">
+    <title>US: H15 0.86 2016-08-05 FRB 3-year Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#22</link>
+    <description>3-year Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.86</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>3-year Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#23">
+    <title>US: H15 1.13 2016-08-05 FRB 5-year Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#23</link>
+    <description>5-year Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">1.13</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>5-year Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#24">
+    <title>US: H15 1.41 2016-08-05 FRB 7-year Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#24</link>
+    <description>7-year Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">1.41</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>7-year Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#25">
+    <title>US: H15 1.59 2016-08-05 FRB 10-year Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#25</link>
+    <description>10-year Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">1.59</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>10-year Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#26">
+    <title>US: H15 1.91 2016-08-05 FRB 20-year Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#26</link>
+    <description>20-year Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">1.91</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>20-year Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#27">
+    <title>US: H15 2.32 2016-08-05 FRB 30-year Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#27</link>
+    <description>30-year Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">2.32</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>30-year Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#28">
+    <title>US: H15 -0.20 2016-08-05 FRB 5-year inflation indexed Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#28</link>
+    <description>5-year inflation indexed Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">-0.20</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>5-year inflation indexed Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#29">
+    <title>US: H15 -0.08 2016-08-05 FRB 7-year inflation indexed Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#29</link>
+    <description>7-year inflation indexed Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">-0.08</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>7-year inflation indexed Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#30">
+    <title>US: H15 0.09 2016-08-05 FRB 10-year inflation indexed Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#30</link>
+    <description>10-year inflation indexed Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.09</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>10-year inflation indexed Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#31">
+    <title>US: H15 0.44 2016-08-05 FRB 20-year inflation indexed Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#31</link>
+    <description>20-year inflation indexed Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.44</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>20-year inflation indexed Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#32">
+    <title>US: H15 0.64 2016-08-05 FRB 30-year inflation indexed Treasury constant maturity</title>
+    <link>http://www.federalreserve.gov/releases/H15#32</link>
+    <description>30-year inflation indexed Treasury constant maturity</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.64</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>30-year inflation indexed Treasury constant maturity</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#33">
+    <title>US: H15 0.51 2016-08-05 FRB Inflation indexed long-term average</title>
+    <link>http://www.federalreserve.gov/releases/H15#33</link>
+    <description>Inflation indexed long-term average</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.51</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>Inflation indexed long-term average</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#34">
+    <title>US: H15 0.91 2016-08-05 FRB 1-year swap rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#34</link>
+    <description>1-year swap rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.91</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>1-year swap rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#35">
+    <title>US: H15 0.99 2016-08-05 FRB 2-year swap rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#35</link>
+    <description>2-year swap rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">0.99</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>2-year swap rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#36">
+    <title>US: H15 1.04 2016-08-05 FRB 3-year swap rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#36</link>
+    <description>3-year swap rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">1.04</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>3-year swap rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#37">
+    <title>US: H15 1.10 2016-08-05 FRB 4-year swap rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#37</link>
+    <description>4-year swap rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">1.10</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>4-year swap rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#38">
+    <title>US: H15 1.17 2016-08-05 FRB 5-year swap rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#38</link>
+    <description>5-year swap rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">1.17</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>5-year swap rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#39">
+    <title>US: H15 1.30 2016-08-05 FRB 7-year swap rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#39</link>
+    <description>7-year swap rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">1.30</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>7-year swap rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#40">
+    <title>US: H15 1.46 2016-08-05 FRB 10-year swap rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#40</link>
+    <description>10-year swap rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">1.46</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>10-year swap rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#41">
+    <title>US: H15 1.83 2016-08-05 FRB 30-year swap rate</title>
+    <link>http://www.federalreserve.gov/releases/H15#41</link>
+    <description>30-year swap rate</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">1.83</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>30-year swap rate</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#42">
+    <title>US: H15 3.42 2016-08-05 FRB Moody's Aaa</title>
+    <link>http://www.federalreserve.gov/releases/H15#42</link>
+    <description>Moody's Aaa</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">3.42</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>Moody's Aaa</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+  <item rdf:about="http://www.federalreserve.gov/releases/H15#43">
+    <title>US: H15 4.32 2016-08-05 FRB Moody's Baa</title>
+    <link>http://www.federalreserve.gov/releases/H15#43</link>
+    <description>Moody's Baa</description>
+    <dc:date>2016-08-05T12:00:00-05:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:creator>FRB</dc:creator>
+    <cb:statistics>
+      <cb:country>US</cb:country>
+      <cb:institutionAbbrev>FRB</cb:institutionAbbrev>
+      <cb:otherStatistic>
+        <cb:value decimals="2" unit_mult="1" units="Percent:_Per_Year">4.32</cb:value>
+        <cb:topic>H15</cb:topic>
+        <cb:coverage>Moody's Baa</cb:coverage>
+        <cb:observationPeriod frequency="business">2016-08-05</cb:observationPeriod>
+        <cb:dataType/>
+      </cb:otherStatistic>
+    </cb:statistics>
+  </item>
+
+</rdf:RDF>

@@ -1,0 +1,58 @@
+﻿/*enforcement actions*/
+
+#enforcementcallout {margin: 7px -160px 0 0px; width:275px; float:right; padding:0 0 0 0; background-color:#f7f6f0; border-bottom: 4px solid #3f523e;  border-right: 1px solid #96b795;}
+#enforcementcallout h1 {margin:0 -0.51em 0.75em 0; padding:0.15em 0.15em 0.15em 0.25em; width: 380px; font-size:1.4em; color: #3f523e; background-color:#266ea9;}
+#enforcementcallout a {color:#314732;}
+#enforcementcallout ul {list-style:none; margin:0 0 0 0; padding:0 0 0 0; background-color: #e4eef0; border-top: 1px solid #96b795;}
+#enforcementcallout li.title {background:url(../../GIFJPG/gradient.gif); font-family: "Times New Roman", Times, serif; color: #fff; margin-top: 0px; font-size: 16px; list-style: none; padding-left: 10px; margin-right: 25px; border-right: 1px solid #3f523e; border-left: none; border-top: none; width: 45px;}
+#enforcementcallout ul li {float: left; padding-right: 10px; list-style: none; padding-bottom: 5px; padding-top: 5px; margin-top: 2px;}
+img.logo {padding-right: 20px; }
+table.enforcementsearch{font-family:Verdana, Geneva, sans-serif; font-size:0.90em; border-left: 1px solid #999999; border-top: 1px solid #999999;}
+table.enforcementsearch th {text-align:center; font-weight:bold; color:white; background-color:#3e5d3d; border-bottom:1px solid #999999; border-right: 1px solid #999999; padding: .5em; }
+table.enforcementsearch th.nocolor {text-align:left; background-color:#fdfaec; color:#043502; font-weight:bold; border-right: 1px solid #999999; border-bottom: 1px solid #999999; padding: .5em;}
+table.enforcementsearch th a:link {color:white;}
+table.enforcementsearch th a:visited {color:white;}
+table.enforcementsearch td {border-right: 1px solid #999999; border-bottom: 1px solid #999999; }
+table.enforcementsearch td.left {text-align:left; background-color:#f7f6f0; color:#043502; font-weight:none; border-right: 1px solid #999999; border-bottom: 1px solid #999999; padding: .5em; }
+table.enforcementsearch td.left2 {text-align:left; background-color:#fdfaec; color:#043502; font-weight:none; border-right: 1px solid #999999; border-bottom: 1px solid #999999; }
+table.enforcementsearch td.left3 {vertical-align:top; text-align:left; background-color:#fff; color:#043502; font-weight:none; border-right: 1px solid #999999; border-bottom: 1px solid #999999; }
+table.enforcementsearch td.left4 {vertical-align:top; text-align:left; background-color:#f7f6f0; color:#043502; font-weight:none; border-right: 1px solid #999999; border-bottom: 1px solid #999999; }
+table.enforcementsearch td.left5 {text-align:right; background-color:#f7f6f0; color:#043502; font-weight:none; border-bottom: 1px solid #999999; border-right: none; padding: .5em; }
+table.enforcementsearch td.left5v2 {text-align:right; background-color:#f7f6f0; color:#043502; font-weight:none; border-bottom: none; border-right:none; padding: .5em; }
+table.enforcementsearch td.left6 {text-align:right; background-color:#f7f6f0; color:#043502; font-weight:none; border-bottom: 1px solid #999999; border-right: none; border-left:none; padding: .5em; }
+table.enforcementsearch td.leftnoline {text-align:left; background-color:#f7f6f0; color:#043502; font-weight:none; border-bottom: 1px solid #999999; border-left: none;padding: .5em; }
+table.enforcementsearch td.leftnolinev2 {text-align:left; background-color:#f7f6f0; color:#043502; font-weight:none; border-bottom: none; border-left: none; padding: .5em;}
+table.enforcementsearch td.leftnolinev3 {text-align:left; background-color:#f7f6f0; color:#043502; font-weight:none; border-bottom: none; border-left: none;  border-right: none; padding: .5em; }
+table.enforcementsearch td.data {text-align:center; background-color:#f7fbf7; color:#043502; border:2px solid white;}
+table.enforcementsearch td.data2 {text-align:center; background-color:#f7f6f0; color:#043502; border-right: 1px solid #999999; border-bottom: 1px solid #999999; border-top: none; padding-top: 8px; padding-bottom: 10px;}
+table.enforcementsearch td.data2a {text-align:left; background-color:#f7fbf7; color:#043502; border-right: 1px solid #999999; border-bottom: 1px solid #999999;}
+table.enforcementsearch td.data3 {text-align:right; padding:0.5em; background-color:#f7fbf7; color:#043502; border:2px solid white; vertical-align:top;}
+table.enforcementsearch td.shade {text-align:right; background-color:#ccc; color:#043502; border-right: 1px solid #999999; border-bottom: 1px solid #999999;  }
+
+/*enforcement actions institution/regulator table*/
+
+table.earegulate {border-top:1px solid #999999; border-left:1px solid #999999; empty-cells:show; font-family: Verdana, Geneva, sans-serif; font-size: .85em; margin-bottom: 1em;}
+table.earegulate td {padding:5px; text-align:right; border-bottom:1px solid #999999; border-right: 1px solid #999999;}
+table.earegulate td.text{text-align:left;}
+table.earegulate td.right {text-align:right;}
+table.earegulate th {padding:5px; text-align:left; border-bottom: 1px solid #999999; border-right: 1px solid #999999; background-color:#3e5d3d; color:white;}
+table.earegulate th.center{padding:5px; text-align:center; border-bottom: 1px solid #999999; border-right: 1px solid #999999; background-color:#74aeb7; color:white;}
+table.earegulate th.left {text-align: left;}
+table.earegulate th a:link {color:white;}
+table.earegulate th a:visited {color:white;}
+table.earegulate th.subhead{background-color: #74aeb7; color: #000;}
+table.earegulate th.subhead2{background-color: #74aeb7; color: #000; text-align: left;}
+table.earegulate td.left{text-align:left; font-weight:none; color: #3e5d3d; border-right:1px solid #999999;}
+table.earegulate td.left2{text-align:left; border-right:1px solid #999999;}
+table.earegulate td.left3{text-align:center; font-weight:none; border-right:1px solid #999999;}
+table.earegulate td.center{text-align:center;}
+table.earegulate td.right{text-align:right;}
+table.earegulate tr.shade1 {background-color:#f7f6f0;}
+table.earegulate tr.shade2 {background-color: #f7f6f0;}
+table.earegulate .subhead{text-align: left; border-bottom: 1px solid #fff; font-weight: bold;}
+table.earegulate tr.header {background-color: #999999; }
+
+
+
+span.smalltext {font-size:0.80em;}
+span.smalltext2 {font-size:0.90em; font-weight:bold;}

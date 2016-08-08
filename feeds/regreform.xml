@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+
+
+
+
+    <channel rdf:about="http://www.federalreserve.gov/feeds/regreform.xml">
+        <title>FRB: Regulatory Reform</title>
+        <link>http://www.federalreserve.gov/feeds/default.htm</link>
+        <description>Recent developments in regulatory reform from the Federal Reserve Board</description> 
+        <items>
+            <rdf:Seq>
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160722b.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160722a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160602a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/reform_meetings.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/reform_meetings.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/reform_meetings.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/reform_meetings.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/reform_meetings.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20150602a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/reform_meetings.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/reform_meetings.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/reform_meetings.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20150218b.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/reform_meetings.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/reform_meetings.htm" />
+            
+            </rdf:Seq>
+        </items>
+    </channel>
+
+
+    
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160722b.htm">
+        <title>Agencies propose method to adjust threshold for exempting small loans from special appraisal requirements</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160722b.htm</link>
+        <description>Agencies propose method to adjust threshold for exempting small loans from special appraisal requirements</description>
+        <dc:date>2016-07-22T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160722a.htm">
+        <title>Agencies issue proposal on method to adjust thresholds for exempting certain consumer credit and lease transactions</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160722a.htm</link>
+        <description>Agencies issue proposal on method to adjust thresholds for exempting certain consumer credit and lease transactions</description>
+        <dc:date>2016-07-22T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160602a.htm">
+        <title>Federal Reserve Board announces schedule for results from Dodd-Frank Act stress tests and Comprehensive Capital Analysis and Review (CCAR)</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160602a.htm</link>
+        <description>Federal Reserve Board announces schedule for results from Dodd-Frank Act stress tests and Comprehensive Capital Analysis and Review (CCAR)</description>
+        <dc:date>2016-06-02T16:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/reform_meetings.htm">
+        <title>Communications with the public through January 11, 2016</title>
+        <link>http://www.federalreserve.gov/newsevents/reform_meetings.htm</link>
+        <description>Communications with the public through January 11, 2016</description>
+        <dc:date>2016-01-11T13:00:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/reform_meetings.htm">
+        <title>Communications with the public through October 26, 2015</title>
+        <link>http://www.federalreserve.gov/newsevents/reform_meetings.htm</link>
+        <description>Communications with the public through October 26, 2015</description>
+        <dc:date>2015-10-26T13:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/reform_meetings.htm">
+        <title>Communications with the public through October 5, 2015</title>
+        <link>http://www.federalreserve.gov/newsevents/reform_meetings.htm</link>
+        <description>Communications with the public through October 5, 2015</description>
+        <dc:date>2015-10-05T13:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/reform_meetings.htm">
+        <title>Communications with the public through July 20, 2015</title>
+        <link>http://www.federalreserve.gov/newsevents/reform_meetings.htm</link>
+        <description>Communications with the public through July 20, 2015</description>
+        <dc:date>2015-07-20T16:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/reform_meetings.htm">
+        <title>Communications with the public through July 1, 2015</title>
+        <link>http://www.federalreserve.gov/newsevents/reform_meetings.htm</link>
+        <description>Communications with the public through July 1, 2015</description>
+        <dc:date>2015-07-01T16:35:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20150602a.htm">
+        <title>Agencies release statement on Dodd-Frank Act company-run stress tests at medium-sized financial companies</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20150602a.htm</link>
+        <description>Agencies release statement on Dodd-Frank Act company-run stress tests at medium-sized financial companies</description>
+        <dc:date>2015-06-02T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/reform_meetings.htm">
+        <title>Communications with the public through May 14, 2015</title>
+        <link>http://www.federalreserve.gov/newsevents/reform_meetings.htm</link>
+        <description>Communications with the public through May 14, 2015</description>
+        <dc:date>2015-05-14T10:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/reform_meetings.htm">
+        <title>Communications with the public through March 9, 2015</title>
+        <link>http://www.federalreserve.gov/newsevents/reform_meetings.htm</link>
+        <description>Communications with the public through March 9, 2015</description>
+        <dc:date>2015-03-09T13:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/reform_meetings.htm">
+        <title>Communications with the public through February 23, 2015</title>
+        <link>http://www.federalreserve.gov/newsevents/reform_meetings.htm</link>
+        <description>Communications with the public through February 23, 2015</description>
+        <dc:date>2015-02-23T13:00:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20150218b.htm">
+        <title>Agencies announce extension of resolution plan submission for three financial institutions</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20150218b.htm</link>
+        <description>Agencies announce extension of resolution plan submission for three financial institutions</description>
+        <dc:date>2015-02-18T15:30:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/reform_meetings.htm">
+        <title>Communications with the public through February 6, 2015</title>
+        <link>http://www.federalreserve.gov/newsevents/reform_meetings.htm</link>
+        <description>Communications with the public through February 6, 2015</description>
+        <dc:date>2015-02-06T14:05:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/reform_meetings.htm">
+        <title>Communications with the public through December 22, 2014</title>
+        <link>http://www.federalreserve.gov/newsevents/reform_meetings.htm</link>
+        <description>Communications with the public through December 22, 2014</description>
+        <dc:date>2014-12-22T13:00:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+</rdf:RDF>

@@ -1,0 +1,567 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/otherReports-new.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>FRB: Report to the Congress on the Use of the Automated Clearinghouse System for Remittance Transfers to Foreign Countries</title>
+<!-- InstanceEndEditable -->
+<link href="/resources/pubweb.css" rel="stylesheet" type="text/css" />
+<link href="/resources/secondary.css" rel="stylesheet" type="text/css" />
+<link href="/resources/print.css" rel="stylesheet" type="text/css" media="print"/>
+<link href="/resources/publications.css" rel="stylesheet" type="text/css" />
+<link href="/resources/print_publications.css" rel="stylesheet" type="text/css" media="print"/>
+<script language="JavaScript" type="text/javascript" src="/resources/publicationsLeftNav.js"></script>
+<script language="JavaScript" type="text/javascript" src="/resources/exit_new.js"></script>
+<script language="JavaScript" type="text/javascript" src="/resources/swfLink.js"></script>
+<script type="text/javascript" src="/resources/jquery.min.js"></script>
+
+<script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="Keywords" content="Board of Governors of the Federal Reserve System, Federal Reserve Board of Governors, Federal Reserve Board, Federal Reserve" />
+<meta name="Description" content="The Federal Reserve Board of Governors in Washington DC." />
+
+<style type="text/css" media="screen">
+<!--
+H1 {
+	margin-bottom: 2px;
+}
+.overflow {
+	width: 700px;
+	overflow: auto;
+	margin-bottom: 50px;
+}
+pre {
+	margin: 1px;
+}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" -->
+<script type="text/javascript">
+    <!-- FOR ALTERNATING TABLE ROWS//-->
+    $(document).ready(function() {
+						   
+							   $(".pubtables tr:even").addClass("alt"); 
+							 
+});
+							   </script>
+							   <script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
+                               
+ <script type="text/javascript">
+$(document).ready(function(){
+
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+</script>                                   
+    <!-- InstanceEndEditable -->
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+<body>
+<span class="skip2">
+<a href="#mainNav">skip to main navigation</a>
+<a href="#secondNav">skip to secondary navigation</a>
+<a href="#content">skip to content</a>
+</span>
+<!-- HEADER STARTS -->
+<table id="headerTopLinks" cellpadding="0" cellspacing="0">
+  <tr>
+<td class="headerTopLinksLeft">
+<a href="/whatsnew.htm">What's New</a> &middot; 
+<a href="/whatsnext.htm">What's Next</a> &middot; 
+<a href="/sitemap.htm">Site Map</a> &middot; 
+<a href="/azindex.htm">A-Z Index</a> &middot; 
+<a href="/careers/default.htm">Careers</a> &middot; 
+<a href="/feeds/default.htm">RSS</a> &middot; 
+<a href="/mediacenter/media.htm">All Videos</a> &middot; 
+<a href="/faqs/faq.htm">Current FAQs</a> &middot; 
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a></td>
+<td class="curve1"></td>
+    <td class="headerTopLinksRight"><form action="http://search.newyorkfed.org/board_public/search" method="get">
+        <label for="searchbox" class="skip2">Search</label>
+        <input type="text" name="text" size="12" maxlength="100" id="searchbox" /> <input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search"/> <a href="http://search.newyorkfed.org/board_public" class="search">Advanced Search</a>
+      </form></td>
+    <td class="curve2"></td>
+  </tr>
+</table>
+<div id="top">
+<div id="headerMasthead"><a href="/default.htm"><img src="/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"/></a>
+</div>
+<a name="mainNav"></a>
+  <div class="navMenuBack">
+    <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><div class="navItem"><a href="/aboutthefed/default.htm">About<br/>
+            the Fed</a></div></td>
+        <td><div class="navItem"><a href="/newsevents/default.htm">News<br/>
+            &amp; Events</a></div></td>
+        <td><div class="navItem"><a href="/monetarypolicy/default.htm">Monetary<br/>
+            Policy</a></div></td>
+        <td><div class="navItem"><a href="/bankinforeg/default.htm">Banking<br/>
+            Information<br/>
+            &amp; Regulation</a></div></td>
+        <td><div class="navItem"><a href="/paymentsystems/default.htm">Payment<br/>
+            Systems</a></div></td>
+        <td><div class="navItem"><a href="/econresdata/default.htm">Economic<br/>
+            Research<br/>
+            &amp; Data</a></div></td>
+        <td><div class="navItem"><a href="/consumerinfo/default.htm">Consumer<br/>
+            Information</a></div></td>
+        <td><div class="navItem"><a href="/communitydev/default.htm">Community<br/>
+            Development</a></div></td>
+        <td><div class="navItem"><a href="/apps/reportforms/default.aspx">Reporting<br/>
+            Forms</a></div></td>
+        <td id="selected"><div class="navItem"><a href="/publications/default.htm">Publications</a></div></td>
+      </tr>
+    </table>
+    <!-- HEADER ENDS -->
+
+    
+  </div>
+</div>
+<div id="contentContainer"> <a name="secondNav"></a><a href="#content" class="invisible">skip to content</a>
+  <div id="leftnav"> 
+    <!-- Insert the Left Navigation Begins here -->
+    
+    <div class="secondaryContentLeftNav"> 
+      <script language="javascript" type="text/javascript">
+        <!--
+        buildMenu();
+        -->
+        </script>
+      <noscript>
+      <a href="/resources/publicationsLeftNav.htm">Menu</a>
+      </noscript>
+      <img src="/publications/gifjpg/spacer.gif" alt=""/> <!-- FOR IE ONLY added this image to correct leftnav spacing in IE only --> 
+      
+    </div>
+    <!-- closes 'secondaryContentLeftNav' div --> 
+    
+  </div>
+  <!-- CLOSES leftnav --> 
+  <!-- Left Navigation ENDS -->
+  
+  <div id="content">
+    <div id="BreadCrumbContainer"> <a href="/default.htm">Home</a> &gt; <a href="/publications/default.htm">Publications</a> </div>
+    <!-- CLOSES BreadCrumbContainer -->
+    
+    <div class="generalContentText" id="printThis">
+      <div id="printIcon_header_generic"><!--<a href="javascript:printable('/resources/print_news.css');">
+  	<img alt="Print" src="/gifjpg/printIcon.gif">Print</a>--> 
+      </div><!-- CLOSES #printIcon_header_generic -->
+      <div class="header" id="reports_to_congress">
+      	<h2 class="pubpage">Other Reports to the Congress</h2>
+      	<div id="printIcon"><a href="javascript:printable('/resources/print_publications.css');"><img src="/gifjpg/printIcon.gif" alt="Print">Print</a></div>
+      </div><!-- CLOSES #reports_to_congress .header -->
+      <a name="content"></a>
+      <div id="textArea" class="1column"><!-- InstanceBeginEditable name="Content" -->
+<a name="top"></a><h2>Report to the Congress on the Use of the Automated Clearinghouse System<br />for Remittance Transfers to Foreign Countries</h2>
+<div class="jumpArea jumpPage">
+<h4 class="jumpHeader"><span style="float: right; font-size: 11px; font-family: Arial,Helvetica,sans-serif; display: block; margin-top: -20px;">July 2011&nbsp;&nbsp;&nbsp;&nbsp;<a href="/boarddocs/rptcongress/ACH_report_201107.pdf">PDF</a></span></h4>
+<div class="jumpBox">
+<ul class="floatLeft">
+<li><a href="#1">Preface: Implementing the Dodd-Frank Act</a></li>
+<li><a href="#2">Executive Summary</a></li>
+<li><a href="#3">Background</a></li>
+<li><a href="#4">Automated Clearinghouse System</a></li></ul>
+<ul class="floatLeft">
+<li><a href="#5">FedGlobal ACH Payments</a></li>
+<li><a href="#6">Lessons Learned and Potential Recommendations</a></li>
+<li><a href="#7">Appendix: FedGlobal Services Country-by-Country</a></li>
+</ul>
+<div class="clear">
+</div>
+</div>
+<!--  CLOSES .jumpBox .jumpPage  -->
+</div>
+<!--  CLOSES .jumpArea  -->
+ <div class="section">
+<a name="1" id="1"></a><h3 class="border">Preface: Implementing the Dodd-Frank Act</h3>
+<p>The Board of Governors of the Federal Reserve System (the Board) is responsible for implementing numerous provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank Act). The Dodd-Frank Act requires, among other things, that the Board produce reports to the Congress on a number of potential reform topics.</p>
+<p>See the Board's website for an overview of the Dodd-Frank Act regulatory reform effort (<a href="http://www.federalreserve.gov/newsevents/reform_about.htm">www.federalreserve.gov/newsevents/reform_about.htm</a>) and a list of the implementation initiatives recently completed by the Board as well as several of the most significant initiatives that the Board expects to address in the future (<a href="http://www.federalreserve.gov/newsevents/reform_milestones.htm">www.federalreserve.gov/newsevents/reform_milestones.htm</a>).</p>
+<p id="backtotop"><a href="#1">Back to section top</a></p>
+</div>
+<div class="section">
+<a name="2" id="2"></a><h3 class="border">Executive Summary</h3>
+<p>Section 1073 of the Dodd-Frank Act directs the Board to provide biennial reports to the Congress for 10 years covering (1) the status of the automated clearinghouse (ACH) system as well as the Board's progress in complying with the requirements of section 1073(b) of the act, which directs the Board to work with the Federal Reserve Banks (Reserve Banks) and the Department of the Treasury to expand the use of the ACH system and other payment mechanisms for remittance transfers to foreign countries, and (2) an analysis of adoption rates of international ACH transfer rules and formats, the efficacy of increasing adoption rates, and potential recommendations to increase adoption.<a href="#f1" name="f1r" id="f1r" title="footnote 1"><sup>1</sup></a> The Board worked with the Reserve Banks and the U.S. Treasury to develop this report.</p>
+<p>This first report is intended to provide a baseline by giving a brief overview of remittance transfers and the methods available to transmit these payments, with a specific focus on the ACH network. The report discusses the ACH system and outlines the legal and regulatory framework and formats relevant for international ACH transfers. The report also explains in detail the Reserve Banks' international ACH service, called FedGlobal ACH Payments (FedGlobal), and describes some of the lessons learned from establishing this service and potential recommendations.<a href="#f2" name="f2r" id="f2r" title="footnote 2"><sup>2</sup></a> </p>
+<p>International ACH transfers are still a relatively new phenomenon for depository institutions and their customers.<a href="#f3" name="f3r" id="f3r" title="footnote 3"><sup>3</sup></a> Most U.S. depository institutions process international wire transfers or checks on behalf of their customers. Consumers also often use nonbank money transmitters rather than depository institutions for sending remittance transfers. Thus, neither the supply nor the demand side has extensive experience with international ACH transfers.</p>
+<p>Over the past 12 years of providing FedGlobal services, the Reserve Banks have gained a better understanding of the associated challenges and complexities associated with regulatory compliance, format conversions between countries, the business case for depository institutions, marketing, education, and the needs of the unbanked. The Reserve Banks have implemented changes to address some of these issues, such as adding an option to send remittance transfers to receivers without deposit accounts at depository institutions (referred to as account-to-receiver services) to several potentially high-traffic destination countries, expanding the foreign exchange conversion options, and working with the industry to enhance formats to assist in regulatory compliance and develop conversion standards between domestic and foreign payment formats. Because many of these changes have only recently taken effect, however, it is too soon to assess their overall impact.</p>
+<p>In addition, the Reserve Banks intend to continue to work on other challenges in an effort to increase adoption of international ACH transfers. First, the Reserve Banks plan to continue to pursue opportunities that maximize their access to multiple countries to increase the reach of FedGlobal services. This effort is intended to help improve the business-case economics for depository institutions to use these services through broader accessibility. Second, the Reserve Banks will continue to reach out to depository institutions and encourage their education and marketing to consumers. Third, the Reserve Banks will continue to assess opportunities to deploy account-to-receiver service offerings. Fourth, the Federal Reserve and the U.S. Treasury will work collaboratively to assess and encourage the use of international ACH transfers for remittances. Lastly, the Federal Reserve may be able to facilitate additional dialogue with depository institutions with respect to the risks and compliance requirements for sending and receiving international ACH transfers.</p>
+<p id="backtotop"><a href="#2">Back to section top</a></p>
+</div>
+<div class="section">
+<a name="3" id="3"></a><h3 class="border">Background</h3>
+<div class="jumpArea jumpSection">
+<h4 class="jumpHeader">Jump to:</h4>
+<div class="jumpBox">
+<ul>
+<li><a href="#3.1">Methods for Sending Remittance Transfers</a></li>
+</ul>
+<div class="clear">
+</div>
+</div>
+<!-- CLOSES .jumpBox .jumpSection -->
+</div>
+<!-- CLOSES .jumpBox -->
+ <p>A remittance transfer under section 919(g)(2) of the Electronic Fund Transfer Act (EFTA), as amended by section 1073 of the Dodd-Frank Act, includes an electronic transfer of funds requested by a consumer located in any state to a person in a foreign country that is initiated by a remittance transfer provider.<a href="#f4" name="f4r" id="f4r" title="footnote 4"><sup>4</sup></a> As explained in the Board's proposed rule to implement section 919, the statute applies to both person-to-person and person-to-business remittance transfers.<a href="#f5" name="f5r" id="f5r" title="footnote 5"><sup>5</sup></a> The majority of sources that examine remittance transfers, however, typically exclude transactions that are intended to support person-to-business transactions and focus on person-to-person payments of relatively low value that are intended for another natural person.<a href="#f6" name="f6r" id="f6r" title="footnote 6"><sup>6</sup></a> </p>
+<p>In practice, remittance transfers are often payments originated by expatriates, typically workers who send money to their families in their home countries regularly. In many cases, these payments may be transmitted on a regular basis. The World Bank reported that, in 2010, worldwide remittance flows exceeded $440 billion, primarily by many of the 215 million international migrants. From that amount, recipients in developing countries received $325 billion, which represents a 6 percent increase from the 2009 level.<a href="#f7" name="f7r" id="f7r" title="footnote 7"><sup>7</sup></a> However, the total value of remittance transfers, including unrecorded flows through formal and informal channels, is believed to be significantly larger. The World Bank estimates that recorded remittances have been nearly three times the amount of official aid and almost as large as foreign direct investment flows to developing countries. <a href="#Figure1.TopRemittance-receivingCoun-7F885272" name="Figure1.TopRemittance-receivingCoun-7F885272r" id="Figure1.TopRemittance-receivingCoun-7F885272r">Figure 1</a> shows the top 10 countries where remittance recipients are located, and <a href="#Figure2.TopRemittance-sendingCountr-7F887808" name="Figure2.TopRemittance-sendingCountr-7F887808r" id="Figure2.TopRemittance-sendingCountr-7F887808r">Figure 2</a> shows the top 10 countries where remittances are originated.</p>
+<div class="imgArea imgSmall">
+<div class="imgHeader">
+<a href="Figure1.TopRemittance-receivingCoun-7F885272r" name="Figure1.TopRemittance-receivingCoun-7F885272" id="Figure1.TopRemittance-receivingCoun-7F885272"></a><caption>Figure 1. Top remittance-receiving countries, 2010</caption>
+</div>
+<img src="gifjpg/ach_201107_fig01.gif" alt="Bar Graph. Remittance received in billions of U.S. dollars.  India 55.0, China 51.0, Mexico 22.6, Phillipines 21.3, France 15.9, Germany 11.6, Bangladesh 11.1, Belgium 10.4, Spain 10.2, Nigeria 10.0."/>
+<div class="footnotes">
+<a href="#Figure1.TopRemittance-receivingCoun-7F885272r" title="Return to text">Return to text</a><p>Source: World Bank, <em>Migration and Factbook 2011</em>.</p>
+</div>
+<!-- CLOSES .footnotes -->
+</div>
+<!-- CLOSES .imgArea -->
+ <div class="imgArea imgSmall">
+<div class="imgHeader">
+<a href="Figure2.TopRemittance-sendingCountr-7F887808r" name="Figure2.TopRemittance-sendingCountr-7F887808" id="Figure2.TopRemittance-sendingCountr-7F887808"></a><caption>Figure 2. Top remittance-sending countries, 2010</caption>
+</div>
+<img src="gifjpg/ach_201107_fig02.gif" alt="Bar Graph.  Remittance sent in billions of U.S. dollars. United States 48.3, Saudi Arabia 26.0, Switzerland 19.6, Russian Federation 18.6, Germany 15.9, Italy 13.0, Spain 12.6, Luxembourg 10.6, Kuwait 9.9, Netherlands 8.1."/>
+<div class="footnotes">
+  <a href="#Figure2.TopRemittance-sendingCountr-7F887808r" title="Return to text">Return to text</a><p>Source: World Bank, <em>Migration and Factbook 2011</em>.</p>
+</div>
+<!-- CLOSES .footnotes -->
+</div>
+<!-- CLOSES .imgArea -->
+<div><p>As one of the most important destinations of global migration, the United States is the largest estimated source of international remittances. The opportunity to send or bring remittances home is one of the important motivations for migration. <a href="#Figure3.TopMigrationCorridors2010-7F889170" name="Figure3.TopMigrationCorridors2010-7F889170r" id="Figure3.TopMigrationCorridors2010-7F889170r">Figure 3</a> shows the top U.S. migration corridors based upon the number of migrants.</p></div>
+<div class="imgArea imgSmall">
+  <div class="imgHeader">
+<a href="Figure3.TopMigrationCorridors2010-7F889170r" name="Figure3.TopMigrationCorridors2010-7F889170" id="Figure3.TopMigrationCorridors2010-7F889170"></a><caption>Figure 3. Top migration corridors, 2010</caption>
+</div>
+<img src="gifjpg/ach_201107_fig03.gif" alt="Bar Graph.  Number of migrants in millions.  Mexico - United States 11.6, China - United States 1.7, Phillipenes - United States 1.7, India - United States 1.7, Vietnam - United States 1.2, El Salvador - United states 1.1, Korea,Republic - United States 1.1, Cuba - United States - 1.0."/>
+<div class="footnotes">
+<a href="#Figure3.TopMigrationCorridors2010-7F889170r" title="Return to text">Return to text</a><p>Source: World Bank, <em>Migration and Factbook 2011</em>.</p>
+</div>
+<!-- CLOSES .footnotes -->
+</div>
+<!-- CLOSES .imgArea -->
+ <p>The Bureau of Economic Analysis (BEA) estimates that migrants' remittances originating from the United States totaled about $48 billion in 2009.<a href="#f8" name="f8r" id="f8r" title="footnote 8"><sup>8</sup></a> Nearly $38 billion of that amount was personal transfers by foreign-born residents of the United States to households abroad. The balance, about $10 billion, reflected the compensation of employees who were in the United States for less than one year. For 2009, the BEA estimates that about two-thirds of remittance transfers went to countries in the Western Hemisphere, one-quarter went to countries in Asia and the Pacific, and the rest went to countries in Europe and Africa.<a href="#f9" name="f9r" id="f9r" title="footnote 9"><sup>9</sup></a> </p>
+<p>The corridors of migration and value of remittance flows by country can provide helpful data in assessing possible remittance transfer opportunities for ACH.<a href="#f10" name="f10r" id="f10r" title="footnote 10"><sup>10</sup></a> In fact, the Reserve Banks recently launched a new service that encompasses the largest migration corridor, Mexico, and one other from the top list of migration corridors, El Salvador. The service specifically targets remittance transfers as an account-to-receiver service to Mexico and other Latin American countries.<a href="#f11" name="f11r" id="f11r" title="footnote 11"><sup>11</sup></a> This service has taken years to develop and implement. Establishing viable services to support remittances can be complex and challenging, especially when formal and informal channels already exist and the migrant population has historically not used depository institutions for remittance transfers or other basic banking functions.</p>
+<a name="3.1" id="3.1"></a><h4>Methods for Sending Remittance Transfers</h4>
+<p>U.S. consumers have a number of possible channels for sending remittance transfers, and the method chosen may depend on a variety of factors, including convenience and access, destination country availability, and sender's and recipient's access to deposit accounts at depository institutions.</p>
+<p>Historically, consumers have largely chosen to send remittance transfers through money transmitters. A money transmitter engages in the transmission of funds domestically or internationally outside of conventional depository institutions.<a href="#f12" name="f12r" id="f12r" title="footnote 12"><sup>12</sup></a> Money transmitters can be used for payments to some businesses as well as for money transfers to individuals. They include networks such as Western Union and MoneyGram, Internet payment systems such as PayPal, and other electronic systems that engage in the business of transmitting funds.<a href="#f13" name="f13r" id="f13r" title="footnote 13"><sup>13</sup></a> </p>
+<p>Money transmitters commonly facilitate the transmission of money through brick-and-mortar agent locations, by telephone, or through an Internet website. A money transmitter may operate through its own office or through an agent, such as a grocery store or neighborhood convenience store, in locations that are heavily populated by migrants. By acting through retail store locations, money transmitters often have extensive collection and distribution networks in the countries in which they operate. Money transmitters usually price the transfer based on both the locations of the sender and receiver and the amount of the payment. The transfers are generally referred to as cash-to-cash remittances.</p>
+<p>Although less common, individuals may also send remittance transfers using services provided by depository institutions, primarily through international wire transfers.<a href="#f14" name="f14r" id="f14r" title="footnote 14"><sup>14</sup></a> A wire transfer is an available option when both the sender and receiver have access to deposit accounts at depository institutions. Wire transfer fees are usually flat fees that may vary based on the destination country but not usually by the amount of the transfer. Although wire transfers are the prominent method used by depository institutions to send funds internationally, more recently depository institutions have had the option of transmitting remittance transfers through the ACH system. International ACH transfer services through depository institutions are generally referred to as account-to-account remittances whereby both the originator and receiver of the transfer hold deposit accounts at depository institutions that are debited and credited for the transfer. However, some services are emerging with account-to-receiver options where the receiver does not need a deposit account at a depository institution in the foreign country.</p>
+<p id="backtotop"><a href="#3">Back to section top</a></p>
+</div>
+<div class="section">
+<a name="4" id="4"></a><h3 class="border">Automated Clearinghouse System</h3>
+<div class="jumpArea jumpSection">
+<h4 class="jumpHeader">Jump to:</h4>
+<div class="jumpBox">
+<ul>
+<li><a href="#4.1">Legal and Regulatory Framework</a></li>
+<li><a href="#4.2">Formats</a></li>
+</ul>
+<div class="clear">
+</div>
+</div>
+<!-- CLOSES .jumpBox .jumpSection -->
+</div>
+<!-- CLOSES .jumpBox -->
+ <p>The ACH system is a funds transfer system that provides for the clearing and settlement of batched electronic transfers for participating depository institutions. Domestically, the ACH system is primarily governed by the rules and guidelines published by the National Automated Clearing House Association (NACHA).<a href="#f15" name="f15r" id="f15r" title="footnote 15"><sup>15</sup></a> ACH transfers are either credit or debit transfers, typically of relatively low value, that are made between deposit accounts at depository institutions and are either recurring or one-time transfers.<a href="#f16" name="f16r" id="f16r" title="footnote 16"><sup>16</sup></a> Recurring ACH transfers typically occur on a set schedule and are preauthorized by the individual or entity whose account is being credited or debited. Recurring credit transfers include payroll direct deposit payments, while recurring debit transfers include mortgage and other bill payments. One-time ACH transfers are authorized at the time the payment is initiated and include consumer payments made by check that are converted to ACH debit transfers and consumer payments originated using the Internet (e.g., through online banking and biller payment sites).</p>
+<p>The originator of an ACH transfer generally authorizes its depository institution to send a payment instruction. The depository institution combines the payment instruction with payment instructions from its other customers and sends them to an ACH operator--the Reserve Banks' FedACH or The Clearing House's Electronic Payments Network--for processing.<a href="#f17" name="f17r" id="f17r" title="footnote 17"><sup>17</sup></a> The ACH operator will then sort and deliver the payment instructions to the appropriate receiving depository institutions and complete the interbank settlement process. The receiving depository institutions then post the payments, either credits or debits, to the receivers' accounts. Today, almost all depository institutions receive ACH transfers on behalf of their customers, and nearly 87 percent of depository institutions originate ACH transfers.</p>
+<p>The fees charged to depository institutions for ACH transfers may vary by ACH operator but are usually based on a per-item fee for each transfer within the batch. The fees charged to depository institutions do not vary by the value of the transfer. The fees charged to individuals or other persons sending or receiving the ACH transfer, however, are subject to wide variability based on the depository institutions that originate or receive these payments.</p>
+<p>The ACH system supports both domestic and international credit and debit transfers.<a href="#f18" name="f18r" id="f18r" title="footnote 18"><sup>18</sup></a> In 2010, more than 15 billion credit and debit transfers worth nearly $32 trillion passed through the ACH network.<a href="#f19" name="f19r" id="f19r" title="footnote 19"><sup>19</sup></a> Over the past 10 years, the number of ACH transfers has increased nearly 11 percent per year, although this growth has declined significantly in recent years. A substantial portion of the growth had been attributed to the ability of consumers to initiate one-time payments over the telephone or Internet and the ability of companies to convert consumer payments made by check to ACH debits. International ACH transfers are a very small fraction of the overall ACH network. In 2010, the ACH operators processed more than 6 million international ACH transfers valued at $46 billion--much less than 1 percent of the overall ACH network volume and value.<a href="#f20" name="f20r" id="f20r" title="footnote 20"><sup>20</sup></a> </p>
+<p>International ACH transfers are made through an interface with other countries' national payments systems. This interface between two national payments systems is commonly accomplished through an "originating gateway operator" in the originator's country and a "receiving gateway operator" in the receiver's country. Both the originating and receiving gateway operators are participants in their respective national payments systems and capable of clearing and settling payments in their respective systems. In the United States, the gateway operator can be a depository institution or, with the appropriate agreements in place, an ACH operator.</p>
+<p>Today, the Reserve Banks are the only U.S. ACH operator providing gateway operator services to other countries.<a href="#f21" name="f21r" id="f21r" title="footnote 21"><sup>21</sup></a> The involvement of the Reserve Banks in international ACH transfers dates back over 10 years. In January 1998, the Committee on the Federal Reserve in the Payments Mechanism issued a report outlining observations and recommendations based on its examination of retail payment services provided by Reserve Banks to depository institutions.<a href="#f22" name="f22r" id="f22r" title="footnote 22"><sup>22</sup></a> In its report, the committee noted that the lack of a robust cross-border payment infrastructure could limit the potential growth of the ACH system and that the ACH system was not well adapted to international payments. The committee recommended that the Reserve Banks enhance their infrastructure to support cross-border ACH transfers and work with the industry to develop robust ACH cross-border capabilities.<a href="#f23" name="f23r" id="f23r" title="footnote 23"><sup>23</sup></a> </p>
+<p>International ACH transfers are aimed at a range of cross-border payments. Important international ACH transfers include government payments such as social security and other benefit payments, business transactions such as vendor payments, and consumer transactions such as bill payments and remittance transfers.<a href="#f24" name="f24r" id="f24r" title="footnote 24"><sup>24</sup></a> As a batch-payment system, the ACH is designed to carry a range of payments, supporting high volumes and leveraging economies of scale.</p>
+<p>The fees charged to depository institutions for international ACH transfers are typically higher, but similar in structure to domestic ACH transfers. Also similar to domestic transfers, the fees charged by depository institutions to customers can vary widely and can depend on local business practices.</p>
+<a name="4.1" id="4.1"></a><h4>Legal and Regulatory Framework</h4>
+<p>Various aspects of ACH transfers are governed by federal or state law. The Electronic Fund Transfer Act (implemented through Regulation E, 12 CFR 205), establishes the basic rights, liabilities, and responsibilities of consumers who use ACH credit or ACH debit services and of financial institutions that offer those services. The Expedited Funds Availability Act (implemented through Regulation CC, 12 CFR 229) governs the availability of funds deposited to transaction accounts through ACH credit transfers. Article 4A of the Uniform Commercial Code (a uniform state law) governs ACH credit transfers that are not otherwise covered by the Electronic Fund Transfer Act (largely business-to-business transfers). In addition, U.S. Treasury Department rules govern all federal government transactions through the ACH (31 CFR 210).</p>
+<p>In addition, the rights and obligations of the participants in the U.S. ACH network are governed by a standard set of operating rules published and maintained by NACHA.<a href="#f25" name="f25r" id="f25r" title="footnote 25"><sup>25</sup></a> The rules apply to the participants by means of a network of agreements binding the ACH operators, participating depository institutions, and originators and receivers of ACH transfers.<a href="#f26" name="f26r" id="f26r" title="footnote 26"><sup>26</sup></a> The ACH operators specify in their agreements with participating depository institutions that the institutions are bound by the NACHA rules, with certain exceptions that are specified in each operator's agreements.<a href="#f27" name="f27r" id="f27r" title="footnote 27"><sup>27</sup></a> </p>
+<p>The NACHA rules cover domestic ACH transfers from origination to receipt. The rules also apply to international ACH payments that are originated from U.S. depository institutions or are delivered to U.S. receiving institutions via the ACH network. NACHA's operating rules include provisions regarding the format for ACH transactions; the obligations of originators of transactions; the warranties made by participating U.S. depository institutions; and, subject to the requirements of the aforementioned laws and regulations, protections for U.S. consumers who receive transactions.</p>
+<p>In the context of international ACH transfers, the NACHA rules have limited application to those portions of an international transaction that occur outside the United States. The relationship between a U.S. gateway operator and a foreign gateway operator is structured by agreement, and the relationship between the foreign gateway operator and the foreign depository institutions that originate or receive international payments is governed by foreign laws and regulations and by agreements among the foreign entities. The payment transfer bound from a foreign country to a deposit account in the United States becomes subject to the NACHA rules only when the U.S. gateway operator receives the payment and clears it through the U.S. ACH network.</p>
+<p>The NACHA rules establish certain requirements that would apply to any ACH operator or depository institution that assumes the role of a gateway operator to or from another country.<a href="#f28" name="f28r" id="f28r" title="footnote 28"><sup>28</sup></a> In the case of inbound transactions, the originating gateway operator in the foreign country receives the entry from the originating foreign institution through a messaging system or payment network and then transmits the entry to the receiving gateway operator in the United States. The receiving gateway operator then transmits the entry to the depository institution in the United States that holds the receiver's account.</p>
+<p>For outbound transactions, the process is reversed. A U.S. depository institution transmits the entry to the originating gateway operator in the United States, which then transmits the entry to the receiving gateway operator for further transmission to the receiver's depository institution. The U.S. originating gateway operator warrants to the sending U.S. depository institution and any U.S. ACH operator involved in the entry that it has edited and processed the entry in accordance with the NACHA rules.<a href="#f29" name="f29r" id="f29r" title="footnote 29"><sup>29</sup></a> </p>
+<p>Depository institutions, like all individuals in the United States, also must comply with the Treasury Department's Office of Foreign Assets Control (OFAC) requirements.<a href="#f30" name="f30r" id="f30r" title="footnote 30"><sup>30</sup></a> OFAC compliance is an obligation of depository institutions by operation of federal law and regulation. OFAC maintains and regularly updates the List of Specially Designated Nationals and Blocked Persons (SDN). All U.S. persons are prohibited from dealing with the individuals and entities appearing on the list and must block all property of these individuals and entities that comes into their possession.</p>
+<p>As applied to the ACH transfer system, OFAC compliance characteristically involves the use of automated information processing tools to identify transactions that may involve a SDN.<a href="#f31" name="f31r" id="f31r" title="footnote 31"><sup>31</sup></a> For domestic ACH transfers, the requirement to perform due diligence to ensure that the payments comply with OFAC regulations is primarily considered the responsibility of the originating depository institution with respect to an originator and the receiving depository institution with respect to a receiver.<a href="#f32" name="f32r" id="f32r" title="footnote 32"><sup>32</sup></a> For international ACH transfers, the burden of OFAC compliance rests with the U.S. depository institution that originates or receives the payment. For example, the originating U.S. depository institution bears the compliance burden for an outbound transaction, and the receiving U.S. depository institution bears the compliance burden for an inbound transaction.<a href="#f33" name="f33r" id="f33r" title="footnote 33"><sup>33</sup></a> </p>
+<p>In addition to OFAC requirements, depository institutions that handle international payments must operate programs to comply with laws, regulations, best practices, and supervisory expectations centered on anti-money-laundering, counterterrorist financing, and anti-corruption laws and policies. (See, for example, the Bank Secrecy Act (BSA) of 1970 and the USA Patriot Act of 2001.) <a href="#f34" name="f34r" id="f34r" title="footnote 34"><sup>34</sup></a></p>
+<p>The federal banking agencies have established and communicated their supervisory expectations regarding the BSA requirements for depository institutions' international ACH activity in the <em>FFIEC Bank Secrecy Act/Anti-Money Laundering Examination Manual</em>.<a href="#f35" name="f35r" id="f35r" title="footnote 35"><sup>35</sup></a> The manual includes a detailed discussion of the application of the BSA and anti-money-laundering (AML) principles to ACH payments, including international ACH payments. The discussion reviews the BSA and AML risks associated with international ACH payments, includes examples of ways in which depository institutions can mitigate those risks, and specifies the procedures federal banking examiners follow when reviewing a depository institution's international ACH activity for compliance with the BSA.<a href="#f36" name="f36r" id="f36r" title="footnote 36"><sup>36</sup></a> The manual also includes a corresponding discussion about international ACH compliance expectations with regard to OFAC sanctions.<a href="#f37" name="f37r" id="f37r" title="footnote 37"><sup>37</sup></a> </p>
+<p>In the development of their policies and procedures, U.S. depository institutions are also encouraged to consider the recommendations of the Financial Action Task Force (FATF). FATF is an intergovernmental body that develops and promotes policies, both at national and international levels, to combat money laundering and terrorist financing. FATF monitors members' progress in implementing necessary measures, reviews money-laundering and terrorist-financing techniques and countermeasures, and promotes the adoption and implementation of appropriate measures globally.</p>
+<p>Additionally, in September 2006, the Office of the Comptroller of the Currency (OCC) issued a bulletin discussing general risk-management expectations for depository institutions that conduct ACH activity.<a href="#f38" name="f38r" id="f38r" title="footnote 38"><sup>38</sup></a> The OCC bulletin outlines a number of risk-management practices for a depository institution's ACH activity, including ways to manage appropriately credit risk, compliance risk, third-party service providers, transaction risk, and information-security and technology risks.</p>
+<p id="backtotop"><a href="#4">Back to section top</a></p>
+<a name="4.2" id="4.2"></a><h4>Formats</h4>
+<p>The NACHA operating rules specify common formats, referred to as standard entry classification codes, and standards associated with those formats for ACH transfers. The uniform formats and standards under the NACHA operating rules allow for interoperability among ACH operators as well as for bilateral or multilateral ACH transaction exchanges. The domestic ACH is highly efficient in no small part because depository institutions and ACH operators employ the NACHA formats with minimal variation or customization.</p>
+<p>For international ACH transfers, NACHA adopted in September 2009 a new standard entry classification code, called the International ACH Transaction or IAT. The IAT covers all international ACH transfers and does not distinguish between consumer, business, or government transactions. The IAT code replaced two prior codes--consumer cross-border payment and corporate cross-border payment--that were determined to be inadequate for OFAC and regulatory compliance purposes.<a href="#f39" name="f39r" id="f39r" title="footnote 39"><sup>39</sup></a> The IAT classification code, as well as the prior cross-border codes, allows depository institutions and ACH operators to easily identify these payments to facilitate any special handling requirements.</p>
+<p>In particular, the IAT format facilitates the transmission of specific data elements, such as the full name and address of all parties involved in the transfer, that are required for international wire transfers under the U.S. Treasury Department's "Travel Rule," which implements provisions of the Bank Secrecy Act.<a href="#f40" name="f40r" id="f40r" title="footnote 40"><sup>40</sup></a> ACH transactions are excluded from the Travel Rule's definitions of "funds transfer" and "transmittal of funds" and therefore are exempt from the Travel Rule's recordkeeping requirements.<a href="#f41" name="f41r" id="f41r" title="footnote 41"><sup>41</sup></a> Nevertheless, the inclusion of the Travel Rule information in the IAT format is intended to ensure that all parties to an international ACH transfer have the information necessary to identify each of the participants involved in handling the transfer and to make OFAC screening a more effective tool against money laundering and terrorist financing.<a href="#f42" name="f42r" id="f42r" title="footnote 42"><sup>42</sup></a> </p>
+<p>Although the new IAT format became effective under the NACHA operating rules in September 2009, the inclusion of the new format in software supporting ACH origination and receipt has lagged significantly. Given that only a very small portion of depository institutions are sending international ACH transfers, not all vendors updated their software to include full functionality supporting the IAT format on the effective date. At the time, software vendors largely focused on the ability to receive the IAT format rather than the ability to send. Today, some depository institutions continue to report format access as a barrier to originating international ACH transfers.</p>
+<p>In addition to challenges faced with access to the new format, the interoperability of IAT stops at the U.S. border. The U.S. gateway operator and its counterpart in the foreign country need to establish a method for exchanging files so that the payment message can be processed by each respective payment system. Either the sending or receiving gateway operator (or another intermediary) needs to translate between the respective formats for the countries involved. This translation can be complex, as each format requires a line-by-line mapping to ensure full interoperability and straight-through processing. The mapping can also be costly, as it requires proprietary software to be developed for each format pair.</p>
+<p>To facilitate this mapping process, the Federal Reserve Bank of Atlanta joined with U.S. and foreign depository institutions, international clearing and settlement service providers, and other interested parties to form the International Payments Framework Association (IPFA). The IPFA is a nonprofit membership association comprising 29 members representing Brazil, Canada, Europe, Japan, South Africa, the United Kingdom, and the United States whose purpose is to create a framework for bridging national formats for non-urgent international credit transfers. IPFA establishes rules, standards, and operating procedures for the exchange of these payments.</p>
+<p>The first effort by IPFA was to create rules that would facilitate a bridge between the IAT format for ACH credit transfers and the payment format, ISO 20022, which supports the several retail networks within the single euro payments area (also known as SEPA), under the SEPA credit transfer scheme. The next step underway is to leverage the framework created for the United States and SEPA in order to add other countries--such as Brazil, Canada, and South Africa--that want to exchange payments with the United States or SEPA ACH networks.</p>
+<p id="backtotop"><a href="#4">Back to section top</a></p>
+</div>
+<div class="section">
+<a name="5" id="5"></a><h3 class="border">FedGlobal ACH Payments</h3>
+<p>The Reserve Banks, through FedGlobal, launched their first commercial international ACH service with Canada in 1999.<a href="#f43" name="f43r" id="f43r" title="footnote 43"><sup>43</sup></a> The service began as a pilot program for outbound commercial ACH transfers from the United States to Canada and became a production service in December 2001. Subsequent to the Canadian service, the Reserve Banks launched individual services to Europe, Mexico, Panama, and Latin America, covering 34 countries in total.<a href="#f44" name="f44r" id="f44r" title="footnote 44"><sup>44</sup></a> In 2010, the Reserve Banks processed 1.3 million international ACH transfers--accounting for about 20 percent of the total volume of international payments being cleared and settled through the U.S. ACH network.<a href="#f45" name="f45r" id="f45r" title="footnote 45"><sup>45</sup></a> </p>
+<p>While the characteristics of each of the FedGlobal services differ slightly, there are common elements to all the services. FedGlobal conforms to the requirements discussed in the "Legal and Regulatory Framework" and "Formats" sections. In addition, as a gateway operator, the Reserve Banks have outlined recommendations in their FedGlobal Services Origination Manual for U.S. depository institutions participating in international ACH transfers.<a href="#f46" name="f46r" id="f46r" title="footnote 46"><sup>46</sup></a> The recommendations encourage participating depository institutions to have a compliance officer and a compliance program with policies and procedures designed to ensure compliance with the Bank Secrecy Act and with U.S. laws, regulations, and bank supervisory policies regarding anti-money-laundering, antiterrorism-financing, know-your-customer policies and procedures, customer-identification programs, data security and data privacy, OFAC requirements, and mandatory consumer protections. The recommendations support adherence to these policies and procedures and suggest due diligence with respect to all persons, entities, and associated data and follow up on any compliance issues. Lastly, the recommendations encourage monitoring, recording, and reporting of suspicious activity for international ACH transfers.</p>
+<p>For several FedGlobal services--Canada, Europe, Mexico (account-to-account), and Panama--both the originator and receiver of the ACH transfer generally have deposit accounts at depository institutions. To originate the ACH transfer, the originator would access the ACH network through the services offered by his or her depository institution, which could include in-person branch or Internet options for originating the payment instruction. The ACH transfer would flow as outlined earlier between the respective depository institutions and gateway operators to the foreign recipient's deposit account at his or her depository institution. The foreign recipient would have access to the funds based on local rules for availability once deposited in his or her account. For some consumers, account-to-account ACH transfers are a practicable means of sending remittance transfers home. In many instances, however, receivers of remittance transfers do not have deposit accounts in their home countries. Consequently, account-to-account ACH transfers typically support government and commercial payments. For example, account-to-account ACH transfers to Mexico consist almost exclusively of government social security and other benefit payments.<a href="#f47" name="f47r" id="f47r" title="footnote 47"><sup>47</sup></a> Only about 300 U.S. depository institutions offer the account-to-account service to Mexico, and of those, only 25 percent send payments in an average month.</p>
+<p>In contrast, for FedGlobal's Latin American service, the receiver does not need a deposit account at a depository institution. The Latin American service was introduced in 2010 and is a significant change for international ACH transfers in support of remittance transfers. The service is intended to serve the increasing number of Latin American migrants who hold deposit accounts at depository institutions in the United States.<a href="#f48" name="f48r" id="f48r" title="footnote 48"><sup>48</sup></a> In this service, the international ACH transfer must be originated from a deposit account in the United States, but the funds may be sent to a specifically approved depository institution or a trusted third-party provider in the foreign country where the receiver may pick up the funds in cash without a deposit account at the receiving institution. The account-to-receiver option requires supplemental information about the receiver, a unique password, and a way to ensure proper identification when the receiver picks up the funds. For example, the receiver must provide a valid government identification card that includes his or her date of birth, as well as the unique password to access the funds. The account-to-receiver delivery option, in particular, is designed to facilitate remittance transfers. To date, just over 30 U.S. depository institutions have enrolled to offer the account-to-receiver service for their customers.</p>
+<p>In addition, many international ACH transfers need to undergo a foreign exchange conversion.<a href="#f49" name="f49r" id="f49r" title="footnote 49"><sup>49</sup></a> FedGlobal accommodates fixed-to-variable and fixed-to-fixed foreign exchange conversions for outbound payments.<a href="#f50" name="f50r" id="f50r" title="footnote 50"><sup>50</sup></a> The Reserve Banks only settle in U.S. dollars. Thus, the foreign exchange transaction is managed either by the originating U.S. depository institution, if they choose, or by the foreign gateway operator through its agreements with foreign depository institutions. The foreign gateway operator may have established correspondent relationships to perform the foreign exchange transaction or arranged for the receiving depository institutions to perform the foreign exchange transaction. Under the current structure, U.S. depository institutions do not have to arrange for the foreign exchange transaction (unless they choose to), providing flexibility and greater accessibility, especially to smaller U.S. depository institutions.</p>
+<p>Table 1 shows the available FedGlobal payment delivery and foreign exchange options for the destinations currently served.</p>
+<div class="page">
+<a name="7F8A749C"></a><table id="7F8A749C" class="pubtables">
+<caption class="tablehead">Table 1. FedGlobal foreign exchange and delivery options</caption>
+<thead>
+<tr>
+<th rowspan="2" id="7F8A749Ca1" class="colhead">Payment destinations <a href="#t1f1" name="t1f1r" id="t1f1r" title="footnote 1"><sup>1</sup></a></th>
+<th colspan="3" id="7F8A749Ca2" class="colhead">Foreign exchange options</th>
+<th colspan="2" id="7F8A749Ca3" class="colhead">Delivery options</th>
+</tr>
+<tr>
+<th id="7F8A749Cb1" class="colhead" headers="7F8A749Ca2">Fixed-to-fixed U.S. dollar</th>
+<th id="7F8A749Cb2" class="colhead" headers="7F8A749Ca2">Fixed-to-fixed F3X<a href="#t1f2" name="t1f2r" id="t1f2r" title="footnote 2"><sup>2</sup></a></th>
+<th id="7F8A749Cb3" class="colhead" headers="7F8A749Ca2">Fixed-to-variable</th>
+<th id="7F8A749Cb4" class="colhead" headers="7F8A749Ca3">Account-to-account</th>
+<th id="7F8A749Cb5" class="colhead" headers="7F8A749Ca3">Account-to-receiver</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="stub" id="7F8A749Cr1" headers="7F8A749Ca1">Canada</th>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb1 7F8A749Cr1">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb2 7F8A749Cr1"></td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb3 7F8A749Cr1">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca3 7F8A749Cb4 7F8A749Cr1">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca3 7F8A749Cb5 7F8A749Cr1"></td>
+</tr>
+<tr>
+<th class="stub" id="7F8A749Cr2" headers="7F8A749Ca1">Europe</th>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb1 7F8A749Cr2">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb2 7F8A749Cr2">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb3 7F8A749Cr2">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca3 7F8A749Cb4 7F8A749Cr2">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca3 7F8A749Cb5 7F8A749Cr2"></td>
+</tr>
+<tr>
+<th class="stub" id="7F8A749Cr3" headers="7F8A749Ca1">Mexico</th>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb1 7F8A749Cr3"></td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb2 7F8A749Cr3">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb3 7F8A749Cr3">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca3 7F8A749Cb4 7F8A749Cr3">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca3 7F8A749Cb5 7F8A749Cr3">&bull;</td>
+</tr>
+<tr>
+<th class="stub" id="7F8A749Cr4" headers="7F8A749Ca1">Panama</th>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb1 7F8A749Cr4">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb2 7F8A749Cr4"></td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb3 7F8A749Cr4"></td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca3 7F8A749Cb4 7F8A749Cr4">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca3 7F8A749Cb5 7F8A749Cr4"></td>
+</tr>
+<tr>
+<th class="stub" id="7F8A749Cr5" headers="7F8A749Ca1">Latin America</th>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb1 7F8A749Cr5">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb2 7F8A749Cr5"></td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca2 7F8A749Cb3 7F8A749Cr5">&bull;</td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca3 7F8A749Cb4 7F8A749Cr5"></td>
+<td align="center" valign="middle" nowrap="nowrap" class="data " headers="7F8A749Ca3 7F8A749Cb5 7F8A749Cr5">&bull;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="footnotes">
+<hr width="100" align="left"/>
+<p class="fntext"><a name="t1f1" id="t1f1">1.</a> See note 44 for a list of countries included in each service. <a href="t1f1r" class="return">Return to table</a></p>
+<p class="fntext"><a name="t1f2" id="t1f2">2.</a> See text note 50 for an explanation of F3X. For Mexico, F3X is only available for the account-to-account delivery option. <a href="t1f2r" class="return">Return to table</a></p>
+</div>
+<p id="backtotop"><a href="#5">Back to section top</a></p>
+</div>
+<div class="section">
+<a name="6" id="6"></a><h3 class="border">Lessons Learned and Potential Recommendations</h3>
+<p>Over the past 12 years of providing FedGlobal services, the Reserve Banks have gained insight into the opportunities and challenges of offering international ACH transfers. The Reserve Banks have identified shortcomings and perceived limitations of international ACH services and have implemented changes in attempt to address these issues, such as adding an account-to-receiver option for remittance transfers to several potentially high-traffic destination countries, expanding the foreign exchange conversion options, and working with the industry to enhance formats and develop conversion standards between domestic and foreign formats. In each of these examples, the changes have only recently taken effect, so it is too soon to assess their overall impact. At the same time, the Reserve Banks are aware of additional challenges, including the general complexity that arises from differences in countries' banking rules and payments infrastructures, and efforts that may be necessary to increase adoption of international ACH transfers.<a href="#f51" name="f51r" id="f51r" title="footnote 51"><sup>51</sup></a> The Reserve Banks have taken leadership roles in helping efforts, such as the International Payments Framework Association, move forward.</p>
+<p>Importantly, international ACH transfers generally and remittances in particular are still a relatively new phenomenon among depository institutions and their customers. Historically, most U.S. depository institutions processed international wire transfers or checks on behalf of their customers through international correspondent banks. Consumers sending remittance transfers also would more often seek out money transmitters, as discussed earlier. Thus, neither the supply nor the demand side has extensive experience with international ACH transfers.</p>
+<p>Depository institutions have indicated reluctance to use FedGlobal due to the lack of ubiquitous global reach. Depository institutions may not want to invest in infrastructure to support a payment method that reaches only certain countries, especially if their current international correspondent arrangements access a broad range of countries. Lack of ubiquity would also be a concern for consumers if FedGlobal is not connected to their destination country. Ubiquity issues were especially acute when FedGlobal began with one country, Canada, and then added Mexico. Since then, the Reserve Banks have largely pursued multicountry access through a hub model where the Reserve Banks contract with one gateway operator that distributes the international ACH transfers to multiple countries. The European service and account-to-receiver options that began in 2010 reach 22 and 11 countries, respectively. The hub model has helped establish greater economies of scale, simplify legal arrangements, and reduce the complexity and cost of adding countries to the service. Reserve Banks plan to continue to pursue opportunities that maximize their access to multiple countries to increase the reach of FedGlobal services. As part of this process, the Reserve Banks will continue to assess for any new service offering the business-case economics to determine the feasibility and future viability of the service.<a href="#f52" name="f52r" id="f52r" title="footnote 52"><sup>52</sup></a> </p>
+<p>Depository institutions may also be reluctant to offer international ACH transfer services if they would affect the profitability of other business lines, by, for example, diverting higher-margin international wire transfer volume to lower-margin ACH volume. Each institution would need to assess the effect of originating international ACH transfers on its overall costs and revenues.</p>
+<p>Consumers, meanwhile, may be unaware of international ACH transfer services and may have limited options for accessing international ACH transfer services if few depository institutions are offering the services. Today, around 410 U.S. depository institutions--or about 4 percent of depository institutions that originate ACH transfers--have enrolled in the FedGlobal service to send ACH transfers to one or more of the cross-border payment destinations, but only 33 percent of them originate payments in a typical month.<a href="#f53" name="f53r" id="f53r" title="footnote 53"><sup>53</sup></a> Also, as mentioned previously, some vendors that provide ACH software to depository institutions have not yet upgraded their software to accommodate the IAT format. The Federal Reserve does not have much information regarding the level of marketing and outreach by institutions that offer the service to their customers and the community more broadly. The Reserve Banks will continue to reach out to depository institutions to encourage greater adoption of FedGlobal services and to encourage education and marketing by institutions.</p>
+<p>Another significant adoption constraint is that many consumers who send and receive remittance transfers do not have access to deposit accounts at depository institutions. Until recently, access to international ACH transfers required that the sender and receiver both have deposit accounts at depository institutions. Consumers in the United States and abroad may be unbanked for a range of reasons, including language, cultural, and economic barriers. The new account-to-receiver service to Latin America, however, has partially addressed this constraint by allowing international ACH transfer access to receivers of remittance transfers that are unbanked.</p>
+<p>In addition, the U.S. Treasury continues to focus on financial access issues and is working to integrate its effort in this area with existing federal programs that serve low- and moderate-income individuals. The Treasury's goal is to coordinate across programs and maximize its opportunities to promote financial access for unbanked and underbanked populations. One such program, Bank On USA, which is expected to begin in 2012, aims to provide safe, low-cost accounts for unbanked residents. The Treasury program is based largely on existing Bank On programs that are collaborations between depository institutions, local governments, financial regulators, and community-based organizations to promote access for the unbanked to traditional financial services through depository institutions. The Reserve Banks will continue to assess opportunities to deploy account-to-receiver service offerings. The Federal Reserve and the U.S. Treasury will also work collaboratively to assess and encourage the use of international ACH transfers for remittances.</p>
+<p>Lastly, for depository institutions, regulatory compliance continues to be a leading concern. The availability of the Reserve Banks' international ACH service, which began commercially in 1999, has largely coincided with an increased focus on regulatory compliance and the prevention of money laundering and criminal financing. Thus, depository institutions may be taking a cautious approach to offering international ACH transfers to their customers due to compliance-risk concerns. It may take additional time for institutions to become accustomed to this option (versus wire transfers through international correspondent banks) and to assess fully how to comply with legal requirements. The Federal Reserve may be able to facilitate additional dialogue with depository institutions with respect to the risks and compliance requirements for sending and receiving international ACH transfers.</p>
+<p id="backtotop"><a href="#6">Back to section top</a></p>
+</div>
+<div class="section">
+<a name="7" id="7"></a><h3 class="border">Appendix: FedGlobal Services Country-by-Country</h3>
+<div class="jumpArea jumpSection">
+<h4 class="jumpHeader">Jump to:</h4>
+<div class="jumpBox">
+<ul>
+<li><a href="#7.1">Mexican Service</a></li>
+<li><a href="#7.2">Latin American Service</a></li>
+<li><a href="#7.3">Canadian Service</a></li>
+<li><a href="#7.4">European Service</a></li>
+<li><a href="#7.5">Panama Service</a></li>
+</ul>
+<div class="clear">
+</div>
+</div>
+<!-- CLOSES .jumpBox .jumpSection -->
+</div>
+<!-- CLOSES .jumpBox -->
+ <a name="7.1" id="7.1"></a><h4>Mexican Service</h4>
+<p>In 2001, the United States and Mexico launched the Partnership for Prosperity initiative, which was designed to foster economic development.<a href="#f54" name="f54r" id="f54r" title="footnote 54"><sup>54</sup></a> One of its objectives of this initiative was to lower the cost of cross-border remittance payments from individuals in the United States to individuals in Mexico. Developing a FedACH service to Mexico was intended to advance this objective while also supporting public policy goals to bring more low-income individuals into the formal banking system of each country. The U.S. Treasury's Financial Management Service provided further impetus for a FedACH service to Mexico when it sought to convert around 28,000 monthly Social Security checks to Mexico into electronic transfers made over the ACH network.</p>
+<p>Beginning in late 2003, the Reserve Banks and Banco de México (Mexico's central bank) initiated a service to provide a channel for government transfers via ACH from the United States to Mexico. In 2004, the option for depository institutions to send commercial ACH transfers was introduced.<a href="#f55" name="f55r" id="f55r" title="footnote 55"><sup>55</sup></a> The government and commercial transfers to Mexico are processed through FedACH as the U.S. gateway operator and exchanged with Banco de México as Mexico's gateway operator, which then processes the payments and distributes to depository institutions in the Mexican payments system. In Mexico, the payments are distributed through the SPEI payment mechanism and can reach almost any bank account in the country.<a href="#f56" name="f56r" id="f56r" title="footnote 56"><sup>56</sup></a> The transfers are converted from U.S. dollars to Mexican pesos and are not limited to a specific value. The service provides for a fixed-to-variable currency value exchange option but also allows U.S. depository institutions to manage directly their own foreign exchange.</p>
+<p>When the commercial service began in 2004, the number of banked consumers in Mexico was quite low by international standards, inhibiting service adoption and usage. As part of a larger financial inclusion effort to encourage participation in the formal financial system, the Reserve Banks collaborated with representatives of the Mexican government, including the Banco de México and the Institute of Mexicans Abroad in the Mexican Foreign Ministry. The effort sought to inform Mexicans living in the United States that depository institutions offer affordable remittance transfers to Mexico and other financial services products.</p>
+<p>In an effort to market the ACH service, the Reserve Banks, in collaboration with the Banco de México, worked to create awareness and reduce barriers to adoption. The first step was the creation of the "Directo a México" brand name so that U.S. depository institutions could readily offer customers a branded service for transfers to Mexico. Reserve Banks made available branded, customizable, bilingual promotional materials, including a marketing poster, brochure, and dedicated website, to depository institutions to attract customers. The marketing effort also included many coordinated promotions between local depository institutions, community groups, the Reserve Banks, the Federal Deposit Insurance Corporation, Mexican consulates, Banco de México, and the Mexican development bank Bansefi in cities with high migrant populations.<a href="#f57" name="f57r" id="f57r" title="footnote 57"><sup>57</sup></a> </p>
+<p>In 2010, the Reserve Banks processed about 375,000 payments valued near $196 million under FedGlobal's Mexican account-to-account services.</p>
+<p id="backtotop"><a href="#7">Back to section top</a></p>
+<a name="7.2" id="7.2"></a><h4>Latin American Service</h4>
+<p>The Latin American service, which only provides account-to-receiver transfers, was launched in 2010. The impetus for this service was to help overcome the challenge of sending payments to receivers without deposit accounts. The account-to-receiver service allows funds to be picked up by unbanked receivers. The payments are originated from an account at a depository institution in the United States, but the ACH transfer may be picked up in cash at select locations upon presentment of proper identification and a unique password.</p>
+<p>This functionality was initially developed in collaboration with the Banco de México and adapted to additional destinations in Central and South America--Argentina, Brazil, Colombia, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Peru and Uruguay--by the Reserve Banks.<a href="#f58" name="f58r" id="f58r" title="footnote 58"><sup>58</sup></a> These payments are distributed in U.S. dollars or local currency, depending on the destination country. The service supports U.S. dollar to U.S. dollar transfers and the fixed-to-variable currency value exchange option. By agreement, all fees are paid by the sender. The fees assessed by the Reserve Banks are considerably higher than the fees for account-to-account ACH transfers due to the unique costs associated with account-to-receiver (or account-to-cash) transfers. These costs include maintaining distribution networks, compliance screening and monitoring, and the costs associated with maintaining cash available for distribution. This service is also branded in the United States under the name Globe<em>Now</em>.</p>
+<p>For the nine months of operation in 2010, the volume and value of international ACH transfers through the Latin American service were negligible.</p>
+<p id="backtotop"><a href="#7">Back to section top</a></p>
+<a name="7.3" id="7.3"></a><h4>Canadian Service</h4>
+<p>Business payments were the target of the Canadian Service, which was the Reserve Banks' first effort toward developing an international ACH service. It was first offered as a pilot program in 1999 with credit and debit payments to Canadian account holders. Government pension payments were introduced in 2006.<a href="#f59" name="f59r" id="f59r" title="footnote 59"><sup>59</sup></a> </p>
+<p>Payments in the Canadian service remain limited to one direction--from the United States to Canada. This is largely because most Canadian depository institutions participate in the U.S. banking system through their branches or subsidiaries and do not require a gateway to make payments into the United States.</p>
+<p>Business-to-business payments continue to comprise the largest share of payments in the Canadian service along with a smaller percentage of consumer-to-business payments, payroll, and some person-to-person payments. The service offers the option of U.S. dollar to U.S. dollar transfers to accounts denominated in that currency and the fixed-to-variable foreign exchange conversion option for U.S. to Canadian dollar payments. The use of the Canadian service for remittance transfers is minimal.</p>
+<p>In 2010, the Reserve Banks processed about 815,000 payments valued near $921 million under the FedGlobal Canadian service.</p>
+<p id="backtotop"><a href="#7">Back to section top</a></p>
+<a name="7.4" id="7.4"></a><h4>European Service</h4>
+<p>The current European service began in 2010 and allows bidirectional payments between the United States and 22 countries of SEPA--Austria, Belgium, Cyprus, Czech Republic, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxemburg, Malta, Netherlands, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, and the United Kingdom.<a href="#f60" name="f60r" id="f60r" title="footnote 60"><sup>60</sup></a> Payments from the United States to Europe can be originated in U.S. dollars and reach European bank accounts in euros, British pounds, or U.S. dollars where those U.S. dollar accounts exist. The European service also featured the first usage of the Reserve Banks' option to allow U.S. depository institutions to manage directly their own foreign exchange for participating countries.</p>
+<p>In practice, the service carries largely business-to-business payments. Some of the countries served in this arrangement could eventually be a target for remittance payments.</p>
+<p>For the three months of operation in 2010, the volume and value of international ACH transfers through the European service were negligible.</p>
+<p id="backtotop"><a href="#7">Back to section top</a></p>
+<a name="7.5" id="7.5"></a><h4>Panama Service</h4>
+<p>The Reserve Banks began a payments service to Panama in 2004.<a href="#f61" name="f61r" id="f61r" title="footnote 61"><sup>61</sup></a> The service originally processed only pension payments from the United States to Panama, where a relatively large number of U.S. government retirees are located. Panama is the largest recipient of international payments from the U.S. Office of Personnel Management, which sends about 75,000 benefit payments to the country annually. Because Panama uses the U.S. dollar for its national currency, all payments are sent and received in U.S. dollars. In 2009, commercial credit payments to and from Panama were introduced to allow individuals and corporations to utilize the channel as well.</p>
+<p>In 2010, the Reserve Banks processed to Panama about 86,000 payments valued near $95 million, of which the vast majority was government benefit payments.</p>
+<p id="backtotop"><a href="#7">Back to section top</a></p>
+</div>
+<div class="footnotes">
+<hr width="100" align="left"/>
+<p class="fntext"><a name="f1" id="f1"></a>1. Pub L. No. 111-203, 124 Stat. 2065 (2010). <a href="#f1r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f2" id="f2"></a>2. The Reserve Banks' Retail Payments Office centrally manages the Reserve Banks' check and ACH services, including the FedGlobal service. <a href="#f2r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f3" id="f3"></a>3. The term "depository institution" includes commercial banks, savings institutions, or credit unions. <a href="#f3r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f4" id="f4"></a>4. EFTA section 919(g)(2) defines "remittance transfer provider" to mean any person or financial institution that provides remittance transfers to a consumer in the normal course of its business, whether or not the consumer holds an account with such person or financial institution. EFTA section 903(8) defines "financial institution" to mean a bank, savings institution, or credit union, or any other person that directly or indirectly holds an account belonging to a consumer. <a href="#f4r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f5" id="f5"></a>5. See 76 FR 29954 (May 23, 2011), proposed commentary to section 205.30(c). <a href="#f5r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f6" id="f6"></a>6. The International Monetary Fund collaborated recently with the World Bank and a select group of compilers from 16 countries around the world (Luxembourg Group) to unify the methodology and compilation of data on remittances, which resulted in the preparation of the <em>International Transactions in Remittances: Guide for Compilers and Users</em>(RCG). The RCG was officially released in June 2009 and is available at <a href="http://www.imf.org/external/np/sta/bop/2008/rcg/pdf/guide.pdf">www.imf.org/external/np/sta/bop/2008/rcg/pdf/guide.pdf (PDF)</a>. <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/> <a href="#f6r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f7" id="f7"></a>7. World Bank (2011), <em>Migration and Remittances Factbook 2011</em>, 2nd ed. (Washington, DC: World Bank), <a href="http://siteresources.worldbank.org/INTLAC/Resources/Factbook2011-Ebook.pdf">http://siteresources.worldbank.org/INTLAC/Resources/Factbook2011-Ebook.pdf (PDF)</a>. <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/> The World Bank includes cash and in-kind transfers, earnings of temporary workers, and other transactions in its calculations. <a href="#f7r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f8" id="f8"></a>8. The phrase used by BEA is "gross outflows of personal transfers by foreign-born residents in the United States to households abroad plus gross outflows of compensation of employees." <a href="#f8r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f9" id="f9"></a>9. Congressional Budget Office (2011), <em>Migrants' Remittances and Related Economic Flows</em>(Washington, DC: CBO, February), <a href="http://www.cbo.gov/ftpdocs/120xx/doc12053/02-24-Remittances_chartbook.pdf">www.cbo.gov/ftpdocs/120xx/doc12053/02-24-Remittances_chartbook.pdf (PDF)</a>. <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/> <a href="#f9r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f10" id="f10"></a>10. The Pew Hispanic Center's recent report, <em>U.S. Hispanic Country-of-Origin Counts for Nation, Top 30 Metropolitan Areas</em>(<a href="http://pewhispanic.org/reports/report.php?ReportID=142">http://pewhispanic.org/reports/report.php?ReportID=142</a>&nbsp; <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/>), states that Hispanics of Mexican, Puerto Rican, and Cuban origin or descent remain the nation's three largest Hispanic country-of-origin groups, according to the 2010 U.S. Census. However, according to the 2010 U.S. Census, the Salvadoran, Dominican, Guatemalan, and Colombian Hispanic subgroups were the fastest growing subgroups during the past decade. The Reserve Banks' FedGlobal service offering includes remittance transfers to Colombia, El Salvador, and Guatemala. <a href="#f10r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f11" id="f11"></a>11. For Mexico, the Reserve Banks also have an international ACH service that transfers funds between deposit accounts at depository institutions (referred to as account-to-account services) from the United States to Mexico. The account-to-account service for Mexico was launched in 2003 for government payments and in 2004 for commercial payments. <a href="#f11r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f12" id="f12"></a>12. In some cases, depository institutions have partnered with money transmitters to offer services. <a href="#f12r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f13" id="f13"></a>13. Western Union and MoneyGram provide consumer-to-consumer money transfer services that enable individuals to send money around the world through a network of approximately 445,000 and 227,000 agent locations, respectively. Both companies reach nearly 200 countries and territories. Individuals can send or receive money through the following money transfer services: in person, online, telephone, account-based, or mobile money. PayPal was founded in 1998 and allows businesses and individuals to send and receive payments online. Accounts can be funded or defunded using services provided by depository institutions, such as ACH transfers and card payments. In some cases, money transmitters may also offer products other than traditional funds transfers to consumers as a vehicle to deliver funds to a person located abroad. For example, consumers may send funds to recipients abroad using reloadable prepaid cards that can be used at an ATM or point of sale. Additionally, other card-based products permit the cardholder to send funds using his or her debit or credit card to the pay-out location of the recipient. <a href="#f13r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f14" id="f14"></a>14. A wire transfer system means a system through which an unconditional order to a depository institution to pay a fixed or determinable amount of money to a beneficiary upon receipt, or on a day stated in the order, is transmitted by electronic or other means through the network between depository institutions, or on the books of a depository institution (12 CFR 233.2(cc)). <a href="#f14r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f15" id="f15"></a>15. NACHA and its operating rules are discussed more fully later in the report. <a href="#f15r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f16" id="f16"></a>16. According to data from the <em>2010 Federal Reserve Payments Study </em>(<a href="http://www.frbservices.org/files/communications/pdf/press/2010_payments_study.pdf">www.frbservices.org/files/communications/pdf/press/2010_payments_study.pdf (PDF)</a> <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/>), the average value of an ACH transfer was $1,947 in 2009. In contrast, wires transfers are typically high-dollar, individual (not batched) credit transactions that settle between depository institutions immediately. Wire transfer fees are typically higher than ACH fees for depository institutions. A similar division between low-value, non-urgent batched payment systems and a high-value, urgent credit transfer system exists in many countries. <a href="#f16r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f17" id="f17"></a>17. In some cases, depository institutions have established bilateral clearing and settlement arrangements for ACH transfers that would not be processed by either operator. <a href="#f17r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f18" id="f18"></a>18. Today, the Reserve Banks only offer international ACH debit transfers outbound to Canada. <a href="#f18r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f19" id="f19"></a>19. The 2010 ACH network volume and value figures represent both commercial and government payments. Transfer volume cleared and settled between a defined set of depository institutions that bypasses an ACH operator is excluded. Additional volume and value figures may be found at <a href="http://admin.nacha.org/userfiles/File/Year-End%202010%282%29.pdf">http://admin.nacha.org/userfiles/File/Year-End%202010%282%29.pdf (PDF)</a>. <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/> <a href="#f19r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f20" id="f20"></a>20. ACH operators processed 2.1 million international ACH debit transfers and 4.1 million international ACH credit transfers in 2010 valued at $9.5 billion and $36.6 billion, respectively. Prior to NACHA's new SEC code for international ACH transactions, many ACH transfers that were international in nature were initiated as domestic transactions in the U.S. ACH network and settled internationally through correspondent banking relationships, making it difficult to identify the international volume. <a href="#f20r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f21" id="f21"></a>21. The Reserve Banks process international ACH transfers through the Federal Reserve Bank of Atlanta, which serves as the gateway operator. See the Reserve Banks' Operating Circular 4 for additional information (<a href="http://www.frbservices.org/files/regulations/pdf/operating_circular_4_010111.pdf">www.frbservices.org/files/regulations/pdf/operating_circular_4_010111.pdf (PDF)</a> <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/>). 
+<p class="fntext">Today, depository institutions also act as gateway operators for their customers. <a href="#f21r" class="return">Return to text</a>
+  </p>
+<p class="fntext"><a name="f22" id="f22"></a>22. The committee was appointed by Chairman Greenspan in October 1996 to examine the payment services provided by the Reserve Banks to depository institutions in recognition of the rapid changes occurring in the financial services and technology sectors. The committee report, issued in January 1998, can be found at <a href="http://www.federalreserve.gov/boarddocs/press/general/1998/19980105/19980105.pdf">www.federalreserve.gov/boarddocs/press/general/1998/19980105/19980105.pdf (PDF)</a>. <a href="#f22r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f23" id="f23"></a>23. At that time, the Federal Reserve Bank of New York had relationships with only a relatively small number of foreign central banks and correspondent banks to process international direct deposits for some government payments. <a href="#f23r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f24" id="f24"></a>24. The U.S. Treasury's Financial Management Service uses the Reserve Banks to send and receive international payments on behalf of U.S. government agencies and instrumentalities for monthly recurring benefit payments, foreign payroll, vendor, and miscellaneous payments in nearly 200 countries. The Reserve Banks process U.S. government payments both through FedGlobal as well as a proprietary service that specifically supports the needs of the U.S. government. <a href="#f24r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f25" id="f25"></a>25. NACHA manages the development, administration, and governance of the ACH network for participating depository institutions. Further information about NACHA, its membership, and its rulemaking processes can be found at <a href="http://www.nacha.org">www.nacha.org</a>. <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/> <a href="#f25r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f26" id="f26"></a>26. Transfers not handled by an ACH operator may not be subject to the NACHA rules, depending on the agreements between the institutions that are parties to the transfer. <a href="#f26r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f27" id="f27"></a>27. The Reserve Banks' agreement is Operating Circular 4, which is available at <a href="http://www.frbservices.org/files/regulations/pdf/operating_circular_4_010111.pdf">www.frbservices.org/files/regulations/pdf/operating_circular_4_010111.pdf (PDF)</a>. For international ACH transfers, Operating Circular 4 modifies NACHA rules, in particular, regarding the bank-to-bank warranties. The U.S. Treasury Department's ACH rules specify those provisions of the NACHA rules that do not apply to government ACH transfers (31 CFR 210.2(d)). <a href="#f27r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f28" id="f28"></a>28. The rights and obligations of a gateway operator are detailed in agreements between the gateway operator and the depository institutions that use the operator's services. These agreements may vary the provisions of NACHA rules that would otherwise be applicable to the gateway operator. <a href="#f28r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f29" id="f29"></a>29. If the originating gateway operator is a U.S. depository institution, it also assumes the responsibilities and warranties of a receiving depository institution under NACHA rules. <a href="#f29r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f30" id="f30"></a>30. Information on OFAC regulations can be found on the OFAC website at <a href="http://www.treas.gov/ofac/">www.treas.gov/ofac/</a>. <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/> <a href="#f30r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f31" id="f31"></a>31. If a potential OFAC "hit" is identified, OFAC rules require a depository institution to resolve the potential hit through its own efforts or in consultation with OFAC. If a payment involves a verified OFAC hit, the depository institution must block the payment and freeze the proceeds of the payment by placing those funds into a segregated, interest-bearing account. <a href="#f31r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f32" id="f32"></a>32. OFAC has clarified the application of its rules for domestic and international ACH transactions and provided more detailed guidance on international ACH. Refer to Interpretive Note 041214-FACRL-GN-02 at <a href="http://www.treasury.gov/resource-center/sanctions/Documents/gn121404.pdf">www.treasury.gov/resource-center/sanctions/Documents/gn121404.pdf (PDF)</a>. <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/> NACHA rules refer to this guidance. <a href="#f32r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f33" id="f33"></a>33. For inbound transactions, OFAC guidance also requires the receiving U.S. gateway operator to screen the transactions and identify potential "hits" by flagging them. The receiving depository institution is then under a duty to resolve the potential hits and block property as appropriate. The gateway operator also must send a daily report to OFAC listing all of the potential hits for that day. Depository institutions acting as gateway operators on behalf of their customers, however, must screen their customers' transactions before initiating an ACH transfer and resolve any potential OFAC "hits." Receiving depository institutions are still responsible for ensuring that the international ACH transactions they receive do not represent property that must be blocked under OFAC regulations. <a href="#f33r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f34" id="f34"></a>34. Because Reserve Banks are not federally insured institutions that hold deposits for corporations and individuals, they are not subject to some of the specific laws and regulations in this area. Nonetheless, with respect to the international ACH transactions that they handle as a gateway operator, the Reserve Banks have adopted policies and procedures designed to meet the requirements of these laws and regulations, including the portions thereof that may not apply directly to the Reserve Banks. <a href="#f34r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f35" id="f35"></a>35. The <em>FFIEC Bank Secrecy Act/Anti-Money Laundering Examination Manual </em>was last revised in April 2010 and can be found at <a href="http://www.ffiec.gov/bsa_aml_infobase/default.htm">www.ffiec.gov/bsa_aml_infobase/default.htm</a>. <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/> <a href="#f35r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f36" id="f36"></a>36. For additional information on an overview of ACH and examination procedures from the <em>FFIEC Bank Secrecy Act/Anti-Money Laundering Examination Manual</em>, see pages 224 and 232, respectively. <a href="#f36r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f37" id="f37"></a>37. For additional information on screening ACH transactions from the <em>FFIEC Bank Secrecy Act/Anti-Money Laundering Examination Manual</em>, see pages 153-55. <a href="#f37r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f38" id="f38"></a>38. The OCC Bulletin 2006-39, <em>Automated Clearinghouse Activities--Risk Management Guidance</em> (September 1, 2006), is available at <a href="http://www.occ.gov/news-issuances/bulletins/2006/bulletin-2006-39.html">www.occ.gov/news-issuances/bulletins/2006/bulletin-2006-39.html</a>. <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/> <a href="#f38r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f39" id="f39"></a>39. The prior cross-border ACH transfer formats were originally established in 1999. <a href="#f39r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f40" id="f40"></a>40. See 31 CFR 1010.410(e) and (f). For convenience, this information is referred to as "Travel Rule" information. <a href="#f40r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f41" id="f41"></a>41. 31 CFR 1010.100(w) and (ddd). <a href="#f41r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f42" id="f42"></a>42. A key component of the IAT format is the adoption of two optional, single-character fields within the record to convey the results of OFAC screening on the transaction. For inbound IAT entries, the first field is available to convey the results of an OFAC screen by a gateway operator, and a secondary screening indicator is available to be used by a correspondent bank or other third-party service provider to convey screening results. The screening indicators assist the receiving depository institution of an IAT transfer with their compliance obligations. Under IAT standards, a value of "0" indicates that the party conducting the screening has not found a potential blocked party, as identified by OFAC on its list of specially designated nationals. A value of "1" indicates the potential presence of a blocked party. The field is space-filled if no screening has been conducted. <a href="#f42r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f43" id="f43"></a>43. At the time, the Reserve Bank service was known as FedACH International Services. The Federal Reserve rebranded the name in 2010 to FedGlobal Payments Service. <a href="#f43r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f44" id="f44"></a>44. The European service today includes Austria, Belgium, Cyprus, Czech Republic, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Malta, Netherlands, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, and United Kingdom. The Latin American service includes Argentina, Brazil, Columbia, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Peru, and Uruguay. The Latin American service, which only involves account-to-receiver ACH transfers, is in addition to the account-to-account service for Mexico. <a href="#f44r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f45" id="f45"></a>45. Depository institutions processed the balance of international ACH transfer volume. Any U.S. depository institution may act as a gateway operator to send or receive ACH transfers destined to or originating from a foreign country. <a href="#f45r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f46" id="f46"></a>46. FedGlobal is a priced service of the Reserve Banks, and Federal Reserve policy creates a strict wall of separation between the provision of priced services to depository institutions and the regulation and supervision of those institutions. Accordingly, FedGlobal staff does not play any role with respect to the supervision and regulation of depository institutions, including evaluation of the compliance posture of an institution. <a href="#f46r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f47" id="f47"></a>47. The Reserve Banks' initial focus on processing commercial and government payments into Mexico was influenced by two unrelated developments. In 2001, the Bush Administration launched the "Partnership for Prosperity" with the Mexican government to foster economic development. In addition, the U.S. Treasury's Financial Management Service sought to convert 28,000 monthly Social Security payments to Mexico residents from checks to ACH transfers. The appendix has additional information on this service. <a href="#f47r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f48" id="f48"></a>48. The Inter-American Dialogue noted that the percentage of Mexican migrants with a U.S. bank account rose from about 30 percent in 2005 to over 50 percent in 2010, while Colombian migrants with U.S. bank accounts rose from 60 percent to about 95 percent in the same period. See M. Orozco, E. Burgess, and N. Ascoli (2010), <em>Is There a Match among Migrants, Remittances and Technology? </em>(Washington, DC: Inter-American Dialogue, September 30), <a href="http://www.thedialogue.org/PublicationFiles/a%20match%20in%20migrants%20remittances%20and%20technology%20MO_FINAL_11.4.101.pdf">www.thedialogue.org/PublicationFiles/a%20match%20in%20migrants%20remittances%20and%20technology%20MO_FINAL_11.4.101.pdf</a>. <img alt="Leaving the Board" src="/gifjpg/exitIcon.gif" class="exitIcon" border="0"/> <a href="#f48r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f49" id="f49"></a>49. All inbound payments are U.S. dollar payments. The FedGlobal service offers U.S. depository institutions several foreign exchange options for outbound payments. The option chosen and specified in the IAT format, however, may not be honored in the destination country under some circumstances. For example, if the IAT format specifies that the currency at the destination should be U.S. dollars but the receiver's deposit account is denominated in euros, then the receiving depository institution may, pursuant to instructions from its account holder or pursuant to local rules or practices, convert and post the payment in euros. <a href="#f49r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f50" id="f50"></a>50. The fixed-to-variable currency value exchange converts U.S. dollars to a variable amount of destination currency based on a foreign exchange rate, which is typically a base rate that fluctuates with the market and a spread that has been negotiated by the Reserve Banks with each foreign gateway operator. There are two options for the fixed-to-fixed currency value exchange. The first option, which can be used in countries that have U.S. dollar accounts, enables the originating depository institution to send the transfer in U.S. dollars and for the receiving depository institution to receive the transfer in U.S. dollar denominated accounts. The second version, known as F3X, enables the originating depository institution to manage its own foreign exchange to participating countries. Settlement is conducted outside of the ACH network through a foreign correspondent. <a href="#f50r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f51" id="f51"></a>51. Although this report focuses on issues relevant for remittance transfers, corporate ACH transfers have had their own unique challenges, such as the lack of corporate remittance information included with the ACH transfer, and the Reserve Banks continue to work to address these outstanding issues. Corporate and government payment volume is essential to support the continued viability of the international ACH transfer services. In particular, government benefit payments have helped greatly in supporting and, in some cases, driving the evolution of the international ACH service. The phenomenon of government involvement is not unique to the international ACH transfer service. The need for electronic government payments also originally spurred change and helped the initial development of the current domestic ACH network in the 1970s and 1980s. <a href="#f51r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f52" id="f52"></a>52. The Monetary Control Act of 1980 requires that the Federal Reserve establish fees for priced services provided to depository institutions so as to recover, over the long run, all the direct and indirect costs actually incurred as well as the imputed costs that would have been incurred--including financing costs, taxes, and certain other expenses--and the return on equity (profit) that would have been earned if a private business firm had provided the services. <a href="#f52r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f53" id="f53"></a>53. Initially, smaller, community-based depository institutions were the first to offer FedGlobal services to their customers, but more recently some of the largest depository institutions as well as regional depository institutions have started using the services. In some cases, depository institutions are only offering the FedGlobal services to corporate or institutional customers. <a href="#f53r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f54" id="f54"></a>54. See text note 47. <a href="#f54r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f55" id="f55"></a>55. In 2010, the Reserve Banks introduced the account-to-receiver service for Mexico and several other countries. This option is discussed under the "Latin American Service" section of the appendix. <a href="#f55r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f56" id="f56"></a>56. Banco de México's real time gross settlement system is called SPEI, which is an acronym for Sistema de pagos electronicos interbancarios, or the Interbanking Electronic Payment System. SPEI is a large-value funds transfer system in which participants can make transfers among themselves on behalf of themselves or their customers. Each payment order contains information allowing identification of the sender client and the client to whom the payment should be credited. The system began operating in August 2004. <a href="#f56r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f57" id="f57"></a>57. The National Savings and Financial Services, Bansefi, is a development bank of the Mexican federal government and started operations in 2002. Its predecessor was the National Savings Trust, Patronato del Ahorro Nacional (PAHNAL), which promoted savings among the working classes. Since the transformation of PANHAL into Bansefi, savings account ownership has increased from 850,000 to more than 3.1 million in 2005. <a href="#f57r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f58" id="f58"></a>58. The FedGlobal Latin American service is a collaboration with Microfinance International Corporation (MFIC), a U.S.-based processor of remittances and other payments, and Banco Rendimento, a Brazilian commercial bank. MFIC's distribution network reaches more than 80 countries and its platform features a robust compliance module. Banco Rendimento is the gateway operator for the service providing settlement and MFIC processes and distributes the payments among its network. <a href="#f58r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f59" id="f59"></a>59. TD Bank in Canada served as the Canadian gateway operator until 2006, when the contract was awarded to the Bank of Nova Scotia. <a href="#f59r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f60" id="f60"></a>60. In 2003, the Reserve Banks launched a European service with Eurogiro, as the gateway operator, and five pilot European countries. The service only allowed for outbound ACH transfers initially due to compliance concerns with inbound transfers. As a result of several service limitations, the service was not successful in attracting volume and was ended in September 2009. In October 2010, the current European service was launched and is a collaboration between the Reserve Banks and Equens, one of Europe's largest payment processors, and DZ Bank in Germany acting as the gateway operator. DZ Bank is the shortened name for Deutsche Zentral-Genossenschaftsbank, a commercial depository institution that also offers services to the cooperative institutions in that country. <a href="#f60r" class="return">Return to text</a></p>
+<p class="fntext"><a name="f61" id="f61"></a>61. The Panama service is collaboration with Telered, the national payments processor, and the Banco Nacional de Panamá, a commercial bank that also acts as the fiscal agent of the Panamanian government. <a href="#f61r" class="return">Return to text</a></p>
+</div>
+<p><a href="#top">Back to top</a></p>
+<!-- InstanceEndEditable -->
+      
+      </div><!-- CLOSES #textArea .1column -->
+      <div class="clear"></div>
+    </div><!-- CLOSES .generalContentText #printThis -->
+    
+    <div id="lastUpdate"><!-- InstanceBeginEditable name="Date" -->Last update: October 12, 2011<!-- InstanceEndEditable --></div><!-- CLOSES #lastUpdate -->
+    <div id="FooterLinks"> <a href="/">Home</a> | <a href="/publications/default.htm">Publications</a> </div>
+    <!-- CLOSES #FooterLinks -->
+    
+<div id="secondaryFooterLinks">
+<div class="secondaryFooterLinksLeft">
+
+<a href="/accessibility.htm">Accessibility</a>
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+<a href="/disclaimer.htm">Disclaimer</a>
+<a href="/policies.htm">Website Policies</a>
+<a href="/foia/about_foia.htm">FOIA</a>
+ 
+
+
+
+</div>
+<div class="secondaryFooterLinksRight">
+<a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon" />
+</div>
+<div class="clear"></div>
+</div> <!-- CLOSES secondaryFooterLinks -->
+
+
+</div> <!-- CLOSES content -->
+<div class="clear"></div>
+</div> <!-- CLOSES contentContainer -->
+
+<div id="footer">
+<div id="Footer2"></div>
+</div> <!-- CLOSES footer -->
+
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+<!-- InstanceEnd --></html>

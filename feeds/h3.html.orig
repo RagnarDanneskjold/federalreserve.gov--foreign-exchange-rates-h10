@@ -1,0 +1,253 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1- transitional.dtd">
+<html xmlns:ms="urn:schemas-microsoft-com:xslt" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rss="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:frb="http://www.federalreserve.gov/feeds/" xmlns:cb="http://www.centralbanks.org/rss-cb/1.0/" xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>FRB: DDP: Aggregate Reserves of Depository Institutions and the Monetary Base (H.3)</title>
+    <link href="/resources/pubweb.css" rel="stylesheet" type="text/css">
+    <link href="/resources/secondary.css" rel="stylesheet" type="text/css">
+    <link href="/resources/print.css" rel="stylesheet" type="text/css" media="print">
+    <link href="/resources/economic.css" rel="stylesheet" type="text/css">
+    <link href="/resources/statistics.css" rel="stylesheet" type="text/css">
+    <base target="_top"><script language="javascript" type="text/javascript" src="/exit_new.js"></script><script language="javascript" type="text/javascript">
+          var cnt = 0;
+        </script><script language="javascript" type="text/javascript">
+          window.onload = function() {
+            if(document.implementation && document.implementation.createDocument) {
+              for(var i=0; i < cnt; i++) {
+                document.getElementById("divContent" + (i+1)).innerHTML = document.getElementById("div2Content" + (i+1)).innerHTML;
+              }
+            }
+          }
+        </script><script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+  <body><a href="#mainNav" class="invisible">skip to main navigation</a><a href="#secondNav" class="invisible">skip to secondary navigation</a><a href="#content" class="invisible">skip to content</a><table id="headerTopLinks" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="headerTopLinksLeft"><a href="/whatsnew.htm">What's New</a> ·
+              <a href="/whatsnext.htm">What's Next</a> ·
+              <a href="/sitemap.htm">Site Map</a> ·
+              <a href="/azindex.htm">A-Z Index</a> ·
+              <a href="/careers/default.htm">Careers</a> ·
+              <a href="/feeds/default.htm">RSS</a> ·
+              <a href="/mediacenter/media.htm">All Videos</a> ·
+              <a href="/faqs.htm">Current FAQs</a></td>
+        <td class="curve1"></td>
+        <td class="headerTopLinksRight">
+          <form action="http://search.newyorkfed.org/search/search.jsp" method="GET"><label><span class="invisible">Search</span><input type="text" name="text" size="12" maxlength="100"></label><input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search" border="0"><input type="hidden" name="template" value="BOARD"><input type="hidden" name="type" value="adv"><input type="hidden" name="who" value="patx">  <a href="http://search.newyorkfed.org/search/search.jsp?who=patx&amp;template=BOARD" class="search">Advanced Search</a></form>
+        </td>
+        <td class="curve2"></td>
+      </tr>
+    </table>
+    <div id="top">
+      <div id="headerMasthead"><a href="/default.htm"><img src="/econresdata/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"></a></div><a name="mainNav"></a><div class="navMenuBack">
+        <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td>
+              <div class="navItem"><a href="/aboutthefed/default.htm">
+                      About<br>the Fed</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/newsevents/default.htm">
+                      News<br>&amp; Events</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/monetarypolicy/default.htm">
+                      Monetary<BR>Policy</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/bankinforeg/default.htm">
+                      Banking<BR>
+                        Information<BR>&amp; Regulation</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/paymentsystems/default.htm">
+                      Payment<BR>Systems</a></div>
+            </td>
+            <td id="selected">
+              <div class="navItem"><a href="/econresdata/default.htm">
+                      Economic<BR>
+                        Research<BR>&amp; Data</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/consumerinfo/default.htm">
+                      Consumer<BR> Information</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/communitydev/default.htm">
+                      Community<BR>Development</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/reportforms/default.cfm">
+                      Reporting<BR>Forms</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/publications/default.htm">Publications</a></div>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <div id="contentContainer">
+      <div id="content">
+        <div id="BreadCrumbContainer"><a href="/default.htm">Home</a> &gt; <a href="/econresdata/releases/statisticsdata.htm">Statistical Releases and Historical Data</a></div>
+        <div class="generalContentText" id="printThis">
+          <div id="printIcon"><a href="http://www.federalreserve.gov/feeds"><img src="../../GIFJPG/rssIcon.gif" border="0"></a><a href="http://www.federalreserve.gov/datadownload/"><img src="../../GIFJPG/ddpIcon_smallest.gif" border="0"></a><a href="javascript:printable('../../resources/print_news.css');"><img src="../../gifjpg/printIcon.gif">Print</a></div><a name="content"></a><A NAME="pagetop"></A><h1 class="border"><span style="font-size:larger; font-weight:bold;"> Aggregate Reserves of Depository Institutions and the Monetary Base (H.3)</span></h1>
+          <div id="TwoColumns">
+            <h2 class="border">Announcements</h2><span style="font-size:normal; font-weight:normal;">This feed provides information about aggregate reserves data available from the Federal Reserve Board through the Data Download Program (DDP).</span><br><ul><br><li><span style="font-style:italic;">August 06, 2015</span><br><span style="font-weight:bold;"><A NAME="958">Change to the Payment of Interest on Excess Reserve Balances</A></span><br><DIV ID="&#xA;                          divContent1">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The interest rates paid on reserve balances published at a maintenance period frequency in table 1 of the Board's H.3 statistical release, "Aggregate Reserves of Depository Institutions and the Monetary Base," have been discontinued.  As <a href="http://www.federalreserve.gov/newsevents/press/bcreg/20150618a.htm">previously announced</a>, effective July 23, 2015, the Federal Reserve Board changed the formula for calculating interest for depository institutions with excess balances to be based on the daily interest rate on excess reserves (IOER rate) and the daily balance maintained, rather than the maintenance period IOER rate and the average balance maintained over the maintenance period.  The IOER and IORR rates effective for a given day are now published on the "<a href="http://www.federalreserve.gov/monetarypolicy/reqresbalances.htm">Interest on Required Balances and Excess Balances</a>" page on the Federal Reserve Board's public website and are available in the Policy Rates <a href="http://www.federalreserve.gov/datadownload/default.htm">Data Download Program</a>.  Historical data for all discontinued series, including maintenance period interest rates, remain available through the H.3 <a href="http://www.federalreserve.gov/datadownload/default.htm">Data Download Program</a>.  For more information on this change, see the <a href="http://www.federalreserve.gov/releases/h3/h3_technical_qa.htm">H.3 Technical Q&amp;As</a>.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 1;
+                      </script></li><br><li><span style="font-style:italic;">July 30, 2015</span><br><span style="font-weight:bold;"><A NAME="956">Change to the Payment of Interest on Excess Reserve Balances</A></span><br><DIV ID="&#xA;                          divContent2">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">As <a href="http://www.federalreserve.gov/newsevents/press/bcreg/20150618a.htm">previously announced</a>, effective July 23, 2015, the Federal Reserve Board changed the formula for calculating interest for depository institutions with excess balances. The new formula is based on the daily interest rate on excess reserves (IOER rate) and the daily balance maintained, rather than the maintenance period IOER rate and the average balance maintained over the maintenance period. The IOER and IORR rates effective for a given day are now published on the "<a href="http://www.federalreserve.gov/monetarypolicy/reqresbalances.htm">Interest on Required Balances and Excess Balances</a>" page on the Federal Reserve Board's public website and are available in the Policy Rates <a href="http://www.federalreserve.gov/datadownload/default.htm">Data Download Program</a>. The interest rates paid on reserve balances published at a maintenance period frequency in table 1 of the Board's H.3 statistical release, "Aggregate Reserves of Depository Institutions and the Monetary Base," will be discontinued with the H.3 release published on August 6, 2015. Historical data for all discontinued series, including maintenance period interest rates, will remain available through the H.3 <a href="http://www.federalreserve.gov/datadownload/default.htm">Data Download Program</a>. For more information on this change, see the <a href="http://www.federalreserve.gov/releases/h3/h3_technical_qa.htm">H.3 Technical Q&amp;As</a>.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 2;
+                      </script></li><br><li><span style="font-style:italic;">July 23, 2015</span><br><span style="font-weight:bold;"><A NAME="952">Change to the Payment of Interest on Excess Reserve Balances</A></span><br><DIV ID="&#xA;                          divContent3">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">As <a href="http://www.federalreserve.gov/newsevents/press/bcreg/20150618a.htm">previously announced</a>, effective July 23, 2015, the Federal Reserve Board changed the formula for calculating interest for depository institutions with excess balances.  The new formula is based on the daily interest rate on excess reserves (IOER rate) and the daily balance maintained, rather than the maintenance period IOER rate and the average balance maintained over the maintenance period.  The IOER and IORR rates effective for a given day are now published on the "<a href="http://www.federalreserve.gov/monetarypolicy/reqresbalances.htm">Interest on Required Balances and Excess Balances</a>" page on the Federal Reserve Board's public website and are available in the Policy Rates <a href="http://www.federalreserve.gov/datadownload/default.htm">Data Download Program</a>.  The interest rates paid on reserve balances published at a maintenance period frequency in table 1 of the Board's H.3 statistical release, "Aggregate Reserves of Depository Institutions and the Monetary Base," will be discontinued with the H.3 release published on August 6, 2015. Historical data for all discontinued series, including maintenance period interest rates, will remain available through the H.3 <a href="http://www.federalreserve.gov/datadownload/default.htm">Data Download Program</a>.  For more information on this change, see the <a href="http://www.federalreserve.gov/releases/h3/h3_technical_qa.htm">H.3 Technical Q&amp;As</a>.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 3;
+                      </script></li><br><li><span style="font-style:italic;">February 20, 2014</span><br><span style="font-weight:bold;"><A NAME="766">Changes to the Reporting of Balances Maintained by Entities Designated as Systemically Important Financial Market Utilities in the H.3 Release</A></span><br><DIV ID="&#xA;                          divContent4">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Effective February 18, 2014, balances maintained at the Reserve Banks by entities that were designated as systemically important financial market utilities by the Financial Stability Oversight Council under Title VIII of the Dodd-Frank Wall Street Reform and Consumer Protection Act will no longer be reported in the Board's H.3 statistical release, "Aggregate Reserves of Depository Institutions and the Monetary Base." These balances will be reported in "Other" under the line for "Deposits with F.R. Banks, other than reserve balances" in table 1 and in "Other" under the line for "Deposits" in tables 8 and 9 of the Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks."</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 4;
+                      </script></li><br><li><span style="font-style:italic;">July 11, 2013</span><br><span style="font-weight:bold;"><A NAME="676">Changes to the H.3 statistical release, including changes due to the Simplification of Reserve Requirements, Phase 2</A></span><br><DIV ID="&#xA;                          divContent5">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release at <br />4:30 p.m. EDT <br />July 11, 2013 <br />
+                    <br />
+                    <br />The Board's H.3 statistical release, "Aggregate Reserves of Depository Institutions and the Monetary Base," includes data for the first time depicting (1) the penalty-free band around reserve balance requirements provided for in the final phase of the <a href="http://www.frbservices.org/centralbank/reservescentral/reserves_administration_resource_center.html">simplification of reserves administration</a>, (2) interest rates paid on balances maintained to satisfy reserve balance requirements and balances maintained that exceed the top of the penalty-free band, and (3) a monetary base series calculated based on a simplified formula.  At the same time, several series formerly published in the H.3 statistical release have been discontinued, including the break-adjusted, seasonally adjusted monetary base.  Historical data for all discontinued series remain available through the <a href="http://www.federalreserve.gov/datadownload/default.htm">Data Download Program</a>.  For supplemental information on the new H.3 statistical release, see: <a href="http://www.federalreserve.gov/releases/h3/h3_technical_qa.htm"> www.federalreserve.gov/releases/h3/h3_technical_qa.htm</a>.<br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 5;
+                      </script></li><br><li><span style="font-style:italic;">June 06, 2013</span><br><span style="font-weight:bold;"><A NAME="662">Upcoming changes to the H.3 statistical release, including changes due to the Simplification of Reserve Requirements, Phase 2</A></span><br><DIV ID="&#xA;                          divContent6">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release at <br />4:30 p.m. EDT <br />June 6, 2013 <br />
+                    <br />The Board's H.3 statistical release, "Aggregate Reserves of Depository Institutions and the Monetary Base," will be modified on July 11, 2013, to include data for the first time depicting (1) the penalty-free band around reserve balance requirements provided for in the final phase of the <a href="http://www.frbservices.org/centralbank/reservescentral/reserves_administration_resource_center.html">simplification of reserves administration</a>, (2) interest rates paid on balances maintained to satisfy reserve balance requirements and balances maintained that exceed the top of the penalty-free band, and (3) a monetary base series calculated based on a simplified formula.  At the same time, several series currently published in the H.3 statistical release will be discontinued, including the break-adjusted, seasonally adjusted monetary base.  Historical data for all discontinued series will remain available through the <a href="http://www.federalreserve.gov/datadownload/default.htm">Data Download Program</a>.  A template for the modified H.3 statistical release, along with supplemental information, can be found here: http://www.federalreserve.gov/releases/h3/upcoming-changes.htm.<br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 6;
+                      </script></li><br><li><span style="font-style:italic;">November 29, 2012</span><br><span style="font-weight:bold;"><A NAME="596">Annual Review of Break and Seasonal Factors for Reserves and the Monetary Base</A></span><br><DIV ID="&#xA;                          divContent7">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release at<br />4:30 P.M. EST<br />November 29, 2012<br />
+                    <br />SPECIAL NOTICE<br />
+                    <br />Data on reserves and the monetary base have been revised to reflect the result of annual reviews of seasonal factors and break factors. Revisions to seasonal factors start in January 1999, while revisions to break factors begin in January 2011. Break factors remove discontinuities (or "breaks") associated with regulatory changes in reserve requirements, such as the annual indexations of the low-reserve tranche and the reserve requirement exemption.[1] The maximum revision to total reserves, nonborrowed reserves, required reserves, and the monetary base in any maintenance period was $956 million; most revisions were less than $500 million. <br />
+                    <br />A more detailed description of the methods for constructing break factors and seasonal factors is available under <a href="http://www.federalreserve.gov/releases/h3/annualreview.htm">"Annual review of break and seasonal factors"</a> on the Federal Reserve's website. Historical data, updated each week, are available from the <a href="http://www.federalreserve.gov/datadownload/default.htm">Data Download Program</a> website.<br />
+                    <br />--------------------------------------------------------------------------------------------<br />1. The Monetary Control Act of 1980 established a reserve ratio of 3 percent against the first $25 million in net transaction deposits (low-reserve tranche) at each depository institution.  Since 1982, the low-reserve tranche has been indexed each January by 80 percent of the previous year's (June 30 to June 30) growth rate of net transaction deposits at all depository institutions.  For all reserve maintenance periods ending in 2012, the low-reserve tranche is $71.0 million, rising to $79.5 million for maintenance periods ending in 2013.  <br />Under the Garn-St Germain Depository Institutions Act of 1982, the first $2 million of reservable liabilities of each depository institution was exempted from reserve requirements.  Since 1983, this exemption amount has been indexed each year by 80 percent of the rate of increase of the reservable liabilities at all depository institutions over the preceding year (June 30 to June 30).  For all reserve maintenance periods ending in 2012, the reserve requirement exemption is $11.5 million, rising to $12.4 million for maintenance periods ending in 2013.<br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 7;
+                      </script></li><br><li><span style="font-style:italic;">July 26, 2012</span><br><span style="font-weight:bold;"><A NAME="554">Simplification of Reserve Requirements, Phase 1</A></span><br><DIV ID="&#xA;                          divContent8">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release at <br />4:30 P.M. EDT <br />July 26, 2012 <br />
+                    <br />As stated in the April 5, 2012, <a href="http://www.federalreserve.gov/newsevents/press/other/20120405a.htm">press release</a>, the Federal Reserve Board is in the process of simplifying the administration of reserve requirements. The first steps in this process include discontinuing "as of" adjustments related to deposit revisions, replacing all other as-of adjustments with direct compensation, and eliminating the contractual clearing balance program. As a result, required clearing balances and adjustments to compensate for float are zero beginning with the two weeks ending July 25, 2012. All other as-of adjustments are zero beginning with the two weeks ending August 8, 2012. These items are referenced in several footnotes in table 2 of the release.<br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 8;
+                      </script></li><br><li><span style="font-style:italic;">November 08, 2011</span><br><span style="font-weight:bold;"><A NAME="462">New graphics options are now available from the Data Download Program (DDP)</A></span><br><DIV ID="&#xA;                          divContent9">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Users can now view plotted data as column charts, and add U.S. recession shading, while using the "View chart" function of the Data Download Program (DDP). <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 9;
+                      </script></li><br><li><span style="font-style:italic;">October 27, 2011</span><br><span style="font-weight:bold;"><A NAME="457">Annual Review of Break and Seasonal Factors for Reserves and the Monetary Base</A></span><br><DIV ID="&#xA;                          divContent10">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release at <br />4:30 P.M. EDT <br />October 27, 2011 <br />
+                    <br />SPECIAL NOTICE <br />
+                    <br />Data on reserves and the monetary base have been revised to reflect the result <br />of annual reviews of seasonal factors and break factors. Revisions to seasonal <br />factors start in January 1999, while revisions to break factors begin in January <br />2010. Break factors remove discontinuities (or "breaks") associated with regulatory <br />changes in reserve requirements, such as the annual indexations of the low-reserve <br />tranche and the reserve requirement exemption.1 The maximum revision to total <br />reserves, nonborrowed reserves, required reserves, and the monetary base in any <br />maintenance period was $2.0 billion; most revisions were less than $700 million. <br />
+                    <br />A more detailed description of the methods for constructing break factors and <br />seasonal factors is available under "Annual review of break and seasonal factors" <br />on the Federal Reserve's website (<a href="http://www.federalreserve.gov/releases/h3/hist/">http://www.federalreserve.gov/releases/h3/hist/</a>). <br />Historical data, updated each week, are available there as well. <br />
+                    <br />------------------------------------------------------------------------------------ <br />1. The Monetary Control Act of 1980 established a reserve ratio of 3 percent <br />against the first $25 million in net transaction deposits (low-reserve tranche) at <br />each depository institution. Since 1982, the low-reserve tranche has been indexed <br />each January by 80 percent of the previous year's (June 30 to June 30) growth rate <br />of net transaction deposits at all depository institutions. For all reserve <br />maintenance periods ending in 2011, the low-reserve tranche is $58.8 million, <br />rising to $71.0 million for maintenance periods ending in 2012. <br />Under the Garn-St Germain Depository Institutions Act of 1982, the first $2 <br />million of reservable liabilities of each depository institution was exempted from <br />reserve requirements. Since 1983, this exemption amount has been indexed each year <br />by 80 percent of the rate of increase of the reservable liabilities at all <br />depository institutions over the preceding year (June 30 to June 30). For all <br />reserve maintenance periods ending in 2011, the reserve requirement exemption is <br />$10.7 million, rising to $11.5 million for maintenance periods ending in 2012. <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 10;
+                      </script></li><br><li><span style="font-style:italic;">May 26, 2011</span><br><span style="font-weight:bold;"><A NAME="399">Revision to the amount of loans outstanding under the Term Asset-Backed Securities Loan Facility for the two weeks ending May 18, 2011</A></span><br><DIV ID="&#xA;                          divContent11">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <br /> <br />For release on <br />May 26, 2011 <br /> <br />The Board's H.3 statistical release ("Aggregate Reserves of Depository Institutions and <br />the Monetary Base") for May 26, 2011, includes a revision to the amount of loans <br />outstanding under the Term Asset-Backed Securities Loan Facility for the two weeks <br />ending May 18, 2011.  For more information on the revision, please see the cover note <br />attached to the corrected H.4.1 release dated May 12, 2011. <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 11;
+                      </script></li><br><li><span style="font-style:italic;">January 27, 2011</span><br><span style="font-weight:bold;"><A NAME="361">Closing of the American International Group, Inc. (AIG) Capitalization Plan</A></span><br><DIV ID="&#xA;                          divContent12">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release at <br />4:30 p.m. EST <br />January 27, 2011 <br />
+                    <br />The Board's H.3 statistical release, "Aggregate Reserves of Depository<br />Institutions and the Monetary Base," reflects the closing of the American<br />International Group, Inc. (AIG), recapitalization plan, which occurred on<br />January 14, 2011. The recapitalization plan was designed to restructure and<br />facilitate repayment of the financial support provided to AIG by the U.S.<br />Department of the Treasury and the Federal Reserve. Upon closing of the<br />recapitalization plan, the credit extended to AIG by the Federal Reserve Bank<br />of New York under the revolving credit facility (AIG loan), including accrued<br />interest and fees, was repaid in full. The AIG loan is reported in the "Credit<br />extended to American International Group, Inc., net" category of total and<br />other borrowings from the Federal Reserve, which is shown in table 1a of the<br />H.3 statistical release. <br />
+                    <br />The average value of "Credit extended to American International Group, Inc.,<br />net" for the two-week period ending January 26, 2011, reflects the closing of<br />the AIG recapitalization plan. The average value for the two-week period<br />ending January 26, 2011, is greater than zero because the AIG loan was repaid<br />in full on January 14, the second day of this two-week period. Table 1a will<br />continue to show historical values for "Credit extended to American<br />International Group, Inc., net" to provide a complete disaggregation of total<br />and other borrowings from the Federal Reserve for past periods.<br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 12;
+                      </script></li><br><li><span style="font-style:italic;">December 02, 2010</span><br><span style="font-weight:bold;"><A NAME="341">New interactive graphics feature of Data Download Program (DDP)</A></span><br><DIV ID="&#xA;                          divContent13">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Users will now be able to create and view interactive graphics of data packages from the program before downloading the underlying data and charts. The charting feature allows users to view multiple data series on a single chart as well as to display individual data points. The charts can be saved as PDFs or in a standard image file format (PNG) for publication and redistribution.<br />
+                    <br />"Graphics play an important role in identifying data trends and relationships," said Federal Reserve Vice Chair Janet L. Yellen. "With the help of this intuitive new user interface, it's now possible to create customized charts directly from Federal Reserve statistical data."<br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 13;
+                      </script></li><br><li><span style="font-style:italic;">December 29, 2008</span><br><span style="font-weight:bold;"><A NAME="102">Note on Nonborrowed Reserves</A></span><br><DIV ID="&#xA;                          divContent14">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>The H.3 statistical release indicates that nonborrowed reserves of depository institutions were negative for much of 2008 but more recently have turned positive.</p>
+<p>By definition, nonborrowed reserves are equal to total reserves minus borrowed reserves. Borrowed reserves are equal to the sum of credit extended through the Federal Reserve's regular discount window programs and credit extended through certain Federal Reserve liquidity facilities.  Total borrowings from the Federal Reserve are presented in table 1a of the release.  Over much of 2008, in order to maintain a level of total reserves consistent with the Federal Open Market Committee's objective for the federal funds rate, increases in borrowed reserves were offset through a nearly commensurate decrease in nonborrowed reserves, which was accomplished through a reduction in the Federal Reserve's holdings of securities and other assets.  The negative level of nonborrowed reserves was an arithmetic result of the fact that borrowings from the Federal Reserve liquidity facilities were larger than total reserves.<br />
+                    </p>
+<p>More recently, nonborrowed reserves have again turned positive.  This development is purely an arithmetic result, in this case of the fact that a large volume of reserves has recently been provided through channels that, for purposes of the Federal Reserve's statistical releases, are not considered borrowings.  These channels include foreign currency swap arrangements with foreign central banks and certain special purpose vehicles.  Credit extended to these special purpose vehicles are not shown on the Federal Reserve's balance sheet.  Rather, as noted on the H.4.1 statistical release, the assets of these vehicles are consolidated onto the Federal Reserve's balance sheet, and consequently credit extended to these special purpose entities is not treated as a borrowing for purposes of the H.3 statistical release.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 14;
+                      </script></li><br><li><span style="font-style:italic;">February 08, 2008</span><br><span style="font-weight:bold;"><A NAME="73">Recent Declines in Nonborrowed Reserves</A></span><br><DIV ID="&#xA;                          divContent15">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>
+The H.3 statistical release indicates that nonborrowed reserves of
+depository institutions have declined substantially since mid-December
+to a level that is now negative. This development reflects the
+provision of a large volume of reserves through the Term Auction
+Facility (TAF) and has no adverse implications for the availability of
+reserves to the banking system.</p>
+
+<p>By definition, nonborrowed reserves are equal to total reserves
+minus borrowed reserves. Borrowed reserves are equal to credit extended
+through the Federal Reserve's regular discount window programs as well
+as credit extended through the TAF. To maintain a level of total
+reserves consistent with the Federal Open Market Committee's target
+federal funds rate, increases in borrowed reserves must generally be
+met by a commensurate decrease in nonborrowed reserves, which is
+accomplished through a reduction in the Federal Reserve's holdings of
+securities and other assets. The negative level of nonborrowed reserves
+is an arithmetic result of the fact that TAF borrowings are larger than
+total reserves.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 15;
+                      </script></li><br><li><span style="font-style:italic;">September 18, 2007</span><br><span style="font-weight:bold;"><A NAME="64">H.3 Data Update</A></span><br><DIV ID="&#xA;                          divContent16">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>The DDP values for 09/5/07 and 09/12/07 for Total borrowings of Depository Institutions from the Federal Reserve (RESBR14A_N.WW) have been updated to reflect the correct values as posted on the H.3 release and H.3 Weekly Historical Aggregate Table 6: Memorandum Items dated 09/13/2007. </p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 16;
+                      </script></li><br><li><span style="font-style:italic;">June 14, 2007</span><br><span style="font-weight:bold;"><A NAME="59">H.3 - Aggregate Reserves of Depository Institutions and the Monetary Base</A></span><br><DIV ID="&#xA;                          divContent17">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Annual Seasonal Factor Review</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 17;
+                      </script></li><br><li><span style="font-style:italic;">April 30, 2007</span><br><span style="font-weight:bold;"><A NAME="54">Aggregate Reserves data are now available from the Data Download</A></span><br><DIV ID="&#xA;                          divContent18">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The Federal Reserve Board announces that data from the Aggregate Reserves of Depository Institutions and the Monetary Base release (H.3) are now available for customizeable download through the Data Download Program (DDP). These data will updated weekly with the H.3 release on Thursday afternoon after 4:30 p.m.<br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 18;
+                      </script></li>
+            </ul><br></div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="lastUpdate">
+              Last update: August 06, 2015</div>
+      <div id="FooterLinks"><a href="/default.htm">Home</a> | <a href="/econresdata/default.htm">Economic research and data</a></div>
+      <div id="secondaryFooterLinks">
+        <div class="secondaryFooterLinksLeft"><a href="/accessibility.htm">Accessibility</a><a href="/disclaimer.htm">Disclaimer</a><a href="/feedback.cfm">Contact us</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon"><a href="/linkingpolicy.htm">Linking Policy</a><a href="/generalinfo/foia/default.cfm">FOIA</a></div>
+        <div class="secondaryFooterLinksRight"><a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon"></div>
+        <div class="clear"></div>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <div id="footer">
+      <div id="Footer2"></div>
+    </div>
+  <script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

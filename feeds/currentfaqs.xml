@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+
+
+
+
+    <channel rdf:about="http://www.federalreserve.gov/feeds/currentfaqs.xml">
+        <title>FRB: Current FAQs</title>
+        <link>http://www.federalreserve.gov/feeds/default.htm</link>
+        <description>Current Frequently Asked Questions from the Federal Reserve Board</description> 
+        <items>
+            <rdf:Seq>
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/are-the-reserve-banks-boards-of-directors-involved-in-banking-supervision-matters.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/what-is-the-process-for-reappointing-reserve-bank-presidents.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/why-is-it-important-to-separate-federal-reserve-monetary-policy-decisions-from-political-influence.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/how-does-the-federal-reserve-board-determine-how-much-currency-to-order-each-year.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/how-is-a-federal-reserve-bank-president-selected.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/cat_21427.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/currency_21338.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/does-the-federal-reserve-own-or-hold-gold.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/what-were-the-federal-reserves-large-scale-asset-purchases.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/how-does-the-federal-reserve-buying-and-selling-of-securities-relate-to-the-borrowing-decisions-of-the-federal-government.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/is-the-federal-reserve-act-going-to-expire.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/I-received-a-suspicious-looking-e-mail-that-claims-to-be-from-the-Federal-Reserve-is-it-a-scam.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/currency_12773.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/why-did-the-Federal-Reserve-lend-to-banks-and-other-financial-institutions-during-the-financial-crisis.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/faqs/how-long-is-the-life-span-of-us-paper-money.htm" />
+            
+            </rdf:Seq>
+        </items>
+    </channel>
+
+
+    
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/are-the-reserve-banks-boards-of-directors-involved-in-banking-supervision-matters.htm">
+        <title>Are the Reserve Banks' boards of directors involved in banking supervision matters?</title>
+        <link>http://www.federalreserve.gov/faqs/are-the-reserve-banks-boards-of-directors-involved-in-banking-supervision-matters.htm</link>
+        <description>Are the Reserve Banks' boards of directors involved in banking supervision matters?</description>
+        <dc:date>2016-04-19T16:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/what-is-the-process-for-reappointing-reserve-bank-presidents.htm">
+        <title>What is the process for reappointing Reserve Bank presidents?</title>
+        <link>http://www.federalreserve.gov/faqs/what-is-the-process-for-reappointing-reserve-bank-presidents.htm</link>
+        <description>What is the process for reappointing Reserve Bank presidents?</description>
+        <dc:date>2016-01-21T12:05:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/why-is-it-important-to-separate-federal-reserve-monetary-policy-decisions-from-political-influence.htm">
+        <title>Why is it important to separate Federal Reserve monetary policy decisions from political influence?</title>
+        <link>http://www.federalreserve.gov/faqs/why-is-it-important-to-separate-federal-reserve-monetary-policy-decisions-from-political-influence.htm</link>
+        <description>Why is it important to separate Federal Reserve monetary policy decisions from political influence?</description>
+        <dc:date>2015-03-03T12:30:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/how-does-the-federal-reserve-board-determine-how-much-currency-to-order-each-year.htm">
+        <title>How does the Federal Reserve Board determine how much currency to order each year?</title>
+        <link>http://www.federalreserve.gov/faqs/how-does-the-federal-reserve-board-determine-how-much-currency-to-order-each-year.htm</link>
+        <description>How does the Federal Reserve Board determine how much currency to order each year?</description>
+        <dc:date>2014-12-19T13:00:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/how-is-a-federal-reserve-bank-president-selected.htm">
+        <title>How is a Federal Reserve Bank president selected?</title>
+        <link>http://www.federalreserve.gov/faqs/how-is-a-federal-reserve-bank-president-selected.htm</link>
+        <description>How is a Federal Reserve Bank president selected?</description>
+        <dc:date>2014-12-10T16:45:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/cat_21427.htm">
+        <title>What is the difference between a bank's liquidity and its capital?</title>
+        <link>http://www.federalreserve.gov/faqs/cat_21427.htm</link>
+        <description>What is the difference between a bank's liquidity and its capital?</description>
+        <dc:date>2013-10-24T08:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/currency_21338.htm">
+        <title>When did the redesigned $100 note begin circulating?</title>
+        <link>http://www.federalreserve.gov/faqs/currency_21338.htm</link>
+        <description>When did the redesigned $100 note begin circulating?</description>
+        <dc:date>2013-10-08T09:31:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/does-the-federal-reserve-own-or-hold-gold.htm">
+        <title>Does the Federal Reserve own or hold gold?</title>
+        <link>http://www.federalreserve.gov/faqs/does-the-federal-reserve-own-or-hold-gold.htm</link>
+        <description>Does the Federal Reserve own or hold gold?</description>
+        <dc:date>2013-08-19T16:45:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/what-were-the-federal-reserves-large-scale-asset-purchases.htm">
+        <title>What were the Federal Reserve's large-scale asset purchases?</title>
+        <link>http://www.federalreserve.gov/faqs/what-were-the-federal-reserves-large-scale-asset-purchases.htm</link>
+        <description>What were the Federal Reserve's large-scale asset purchases?</description>
+        <dc:date>2012-09-14T10:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/how-does-the-federal-reserve-buying-and-selling-of-securities-relate-to-the-borrowing-decisions-of-the-federal-government.htm">
+        <title>How does the Federal Reserve's buying and selling of securities relate to the borrowing decisions of the federal government?</title>
+        <link>http://www.federalreserve.gov/faqs/how-does-the-federal-reserve-buying-and-selling-of-securities-relate-to-the-borrowing-decisions-of-the-federal-government.htm</link>
+        <description>How does the Federal Reserve's buying and selling of securities relate to the borrowing decisions of the federal government?</description>
+        <dc:date>2012-09-14T10:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/is-the-federal-reserve-act-going-to-expire.htm">
+        <title>Is the Federal Reserve Act going to expire?</title>
+        <link>http://www.federalreserve.gov/faqs/is-the-federal-reserve-act-going-to-expire.htm</link>
+        <description>Is the Federal Reserve Act going to expire?</description>
+        <dc:date>2012-05-08T14:50:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/I-received-a-suspicious-looking-e-mail-that-claims-to-be-from-the-Federal-Reserve-is-it-a-scam.htm">
+        <title>I received a suspicious-looking e-mail that claims to be from the Federal Reserve. Is it a scam?</title>
+        <link>http://www.federalreserve.gov/faqs/I-received-a-suspicious-looking-e-mail-that-claims-to-be-from-the-Federal-Reserve-is-it-a-scam.htm</link>
+        <description>I received a suspicious-looking e-mail that claims to be from the Federal Reserve. Is it a scam?</description>
+        <dc:date>2011-12-16T12:40:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/currency_12773.htm">
+        <title>How much U.S. currency is in circulation?</title>
+        <link>http://www.federalreserve.gov/faqs/currency_12773.htm</link>
+        <description>How much U.S. currency is in circulation?</description>
+        <dc:date>2011-11-30T10:30:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/why-did-the-Federal-Reserve-lend-to-banks-and-other-financial-institutions-during-the-financial-crisis.htm">
+        <title>Why did the Federal Reserve lend to banks and other financial institutions during the financial crisis?</title>
+        <link>http://www.federalreserve.gov/faqs/why-did-the-Federal-Reserve-lend-to-banks-and-other-financial-institutions-during-the-financial-crisis.htm</link>
+        <description>Why did the Federal Reserve lend to banks and other financial institutions during the financial crisis?</description>
+        <dc:date>2011-11-29T16:00:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/faqs/how-long-is-the-life-span-of-us-paper-money.htm">
+        <title>How long is the lifespan of U.S. paper money?</title>
+        <link>http://www.federalreserve.gov/faqs/how-long-is-the-life-span-of-us-paper-money.htm</link>
+        <description>How long is the lifespan of U.S. paper money?</description>
+        <dc:date>2011-11-10T14:00:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+    </item>
+    
+</rdf:RDF>

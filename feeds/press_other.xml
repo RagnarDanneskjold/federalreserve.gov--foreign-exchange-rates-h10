@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+
+
+
+
+    <channel rdf:about="http://www.federalreserve.gov/feeds/press_other.xml">
+        <title>FRB: Press Release - Other Announcements</title>
+        <link>http://www.federalreserve.gov/feeds/default.htm</link>
+        <description>Press releases about other announcements from the Federal Reserve Board</description> 
+        <items>
+            <rdf:Seq>
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160802a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160721a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160706a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160525a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160511a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160509a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160505a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160421a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160420a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160330a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160329a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160324a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160323a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160317a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160219a.htm" />
+            
+            </rdf:Seq>
+        </items>
+    </channel>
+
+
+    
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160802a.htm">
+        <title>Statement regarding progress on the review of the U.S. Treasury market structure since the July 2015 joint staff report</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160802a.htm</link>
+        <description>Statement regarding progress on the review of the U.S. Treasury market structure since the July 2015 joint staff report</description>
+        <dc:date>2016-08-02T10:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Statement regarding progress on the review of the U.S. Treasury market structure since the July 2015 joint staff report</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-02T10:30:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160721a.htm">
+        <title>Federal Reserve Board announces adoption of changes to part II of the Federal Reserve Policy on Payment System Risk</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160721a.htm</link>
+        <description>Federal Reserve Board announces adoption of changes to part II of the Federal Reserve Policy on Payment System Risk</description>
+        <dc:date>2016-07-21T16:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces adoption of changes to part II of the Federal Reserve Policy on Payment System Risk</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-21T16:00:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160706a.htm">
+        <title>Technical error occurred during release of June FOMC minutes</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160706a.htm</link>
+        <description>Technical error occurred during release of June FOMC minutes</description>
+        <dc:date>2016-07-06T17:45:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Technical error occurred during release of June FOMC minutes</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-06T17:45:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160525a.htm">
+        <title>Federal Reserve Board issues Report on the Economic Well-Being of U.S. Households</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160525a.htm</link>
+        <description>Federal Reserve Board issues Report on the Economic Well-Being of U.S. Households</description>
+        <dc:date>2016-05-25T12:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board issues Report on the Economic Well-Being of U.S. Households</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-25T12:30:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160511a.htm">
+        <title>Federal Reserve Board announces Office of Financial Policy and Research has been designated a division of the Board and renamed Division of Financial Stability</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160511a.htm</link>
+        <description>Federal Reserve Board announces Office of Financial Policy and Research has been designated a division of the Board and renamed Division of Financial Stability</description>
+        <dc:date>2016-05-11T16:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces Office of Financial Policy and Research has been designated a division of the Board and renamed Division of Financial Stability</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-11T16:00:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160509a.htm">
+        <title>Federal Reserve Board accepting applications for its Community Advisory Council</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160509a.htm</link>
+        <description>Federal Reserve Board accepting applications for its Community Advisory Council</description>
+        <dc:date>2016-05-09T10:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board accepting applications for its Community Advisory Council</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-09T10:30:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160505a.htm">
+        <title>Federal Reserve Board to host conference on rural housing issues</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160505a.htm</link>
+        <description>Federal Reserve Board to host conference on rural housing issues</description>
+        <dc:date>2016-05-05T15:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board to host conference on rural housing issues</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-05T15:30:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160421a.htm">
+        <title>Matthew J. Eichner appointed new director of Division of Reserve Bank Operations and Payment Systems</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160421a.htm</link>
+        <description>Matthew J. Eichner appointed new director of Division of Reserve Bank Operations and Payment Systems</description>
+        <dc:date>2016-04-21T15:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Matthew J. Eichner appointed new director of Division of Reserve Bank Operations and Payment Systems</cb:simpleTitle>
+        <cb:occurrenceDate>2016-04-21T15:30:00</cb:occurrenceDate>
+        
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160420a.htm">
+        <title>Statement by Chair Yellen on U.S. Treasury's currency redesign announcement</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160420a.htm</link>
+        <description>Statement by Chair Yellen on U.S. Treasury's currency redesign announcement</description>
+        <dc:date>2016-04-20T16:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Statement by Chair Yellen on U.S. Treasury's currency redesign announcement</cb:simpleTitle>
+        <cb:occurrenceDate>2016-04-20T16:00:00</cb:occurrenceDate>
+        
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160330a.htm">
+        <title>Federal Reserve survey provides information on mobile financial services</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160330a.htm</link>
+        <description>Federal Reserve survey provides information on mobile financial services</description>
+        <dc:date>2016-03-30T10:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve survey provides information on mobile financial services</cb:simpleTitle>
+        <cb:occurrenceDate>2016-03-30T10:30:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160329a.htm">
+        <title>Federal Reserve engages in effort to assess faster payments solutions</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160329a.htm</link>
+        <description>Federal Reserve engages in effort to assess faster payments solutions</description>
+        <dc:date>2016-03-29T15:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve engages in effort to assess faster payments solutions</cb:simpleTitle>
+        <cb:occurrenceDate>2016-03-29T15:00:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160324a.htm">
+        <title>Federal Reserve Board begins 2016 Survey of Consumer Finances</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160324a.htm</link>
+        <description>Federal Reserve Board begins 2016 Survey of Consumer Finances</description>
+        <dc:date>2016-03-24T10:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board begins 2016 Survey of Consumer Finances</cb:simpleTitle>
+        <cb:occurrenceDate>2016-03-24T10:00:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160323a.htm">
+        <title>Federal Reserve begins 2016 Survey of Finance Companies</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160323a.htm</link>
+        <description>Federal Reserve begins 2016 Survey of Finance Companies</description>
+        <dc:date>2016-03-23T15:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve begins 2016 Survey of Finance Companies</cb:simpleTitle>
+        <cb:occurrenceDate>2016-03-23T15:00:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160317a.htm">
+        <title>Federal Reserve System publishes annual financial statements</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160317a.htm</link>
+        <description>Federal Reserve System publishes annual financial statements</description>
+        <dc:date>2016-03-18T12:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve System publishes annual financial statements</cb:simpleTitle>
+        <cb:occurrenceDate>2016-03-18T12:00:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160219a.htm">
+        <title>Federal Reserve Board approves reappointment of Reserve Bank presidents and first vice presidents</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160219a.htm</link>
+        <description>Federal Reserve Board approves reappointment of Reserve Bank presidents and first vice presidents</description>
+        <dc:date>2016-02-19T14:00:00-05:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board approves reappointment of Reserve Bank presidents and first vice presidents</cb:simpleTitle>
+        <cb:occurrenceDate>2016-02-19T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+</rdf:RDF>

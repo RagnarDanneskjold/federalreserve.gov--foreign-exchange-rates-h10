@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+
+
+
+
+    <channel rdf:about="http://www.federalreserve.gov/feeds/press_all.xml">
+        <title>FRB: Press Release - All Releases</title>
+        <link>http://www.federalreserve.gov/feeds/default.htm</link>
+        <description>All recent press releases from the Federal Reserve Board</description> 
+        <items>
+            <rdf:Seq>
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160808a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160804a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160803a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160802b.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160802a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160802a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160802a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160801b.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160801a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/orders/20160729a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160729a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160728b.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160728a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160727a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160725a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160722b.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160722a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/other/20160721a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/enforcement/20160719a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/bcreg/20160715a.htm" />
+            
+            </rdf:Seq>
+        </items>
+    </channel>
+
+
+    
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160808a.htm">
+        <title>Federal Reserve Board announces approval of application by Chemical Financial Corporation</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160808a.htm</link>
+        <description>Federal Reserve Board announces approval of application by Chemical Financial Corporation</description>
+        <dc:date>2016-08-08T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Chemical Financial Corporation</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-08T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160804a.htm">
+        <title>Federal Reserve to offer seven-day term deposits through its Term Deposit Facility on August 11</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160804a.htm</link>
+        <description>Federal Reserve to offer seven-day term deposits through its Term Deposit Facility on August 11</description>
+        <dc:date>2016-08-04T10:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve to offer seven-day term deposits through its Term Deposit Facility on August 11</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-04T10:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160803a.htm">
+        <title>Federal Reserve Board orders Goldman Sachs Group to pay $36.3 million civil money penalty and announces it is instituting enforcement proceedings against former Goldman Sachs managing director</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160803a.htm</link>
+        <description>Federal Reserve Board orders Goldman Sachs Group to pay $36.3 million civil money penalty and announces it is instituting enforcement proceedings against former Goldman Sachs managing director</description>
+        <dc:date>2016-08-03T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board orders Goldman Sachs Group to pay $36.3 million civil money penalty and announces it is instituting enforcement proceedings against former Goldman Sachs managing director</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-03T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160802b.htm">
+        <title>Regulated institutions to submit self-assessments of diversity policies and practices</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160802b.htm</link>
+        <description>Regulated institutions to submit self-assessments of diversity policies and practices</description>
+        <dc:date>2016-08-02T16:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Regulated institutions to submit self-assessments of diversity policies and practices</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-02T16:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160802a.htm">
+        <title>Agencies extend deadline for 38 resolution plan submissions</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160802a.htm</link>
+        <description>Agencies extend deadline for 38 resolution plan submissions</description>
+        <dc:date>2016-08-02T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Agencies extend deadline for 38 resolution plan submissions</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-02T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160802a.htm">
+        <title>Federal Reserve Board announces termination of enforcement actions with Calwest Bancorp, Elgin Bancshares, Inc., FEB Bancshares, Inc., and Village Bank and Trust Financial Corp</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160802a.htm</link>
+        <description>Federal Reserve Board announces termination of enforcement actions with Calwest Bancorp, Elgin Bancshares, Inc., FEB Bancshares, Inc., and Village Bank and Trust Financial Corp</description>
+        <dc:date>2016-08-02T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces termination of enforcement actions with Calwest Bancorp, Elgin Bancshares, Inc., FEB Bancshares, Inc., and Village Bank and Trust Financial Corp</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-02T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160802a.htm">
+        <title>Statement regarding progress on the review of the U.S. Treasury market structure since the July 2015 joint staff report</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160802a.htm</link>
+        <description>Statement regarding progress on the review of the U.S. Treasury market structure since the July 2015 joint staff report</description>
+        <dc:date>2016-08-02T10:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Statement regarding progress on the review of the U.S. Treasury market structure since the July 2015 joint staff report</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-02T10:30:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160801b.htm">
+        <title>Agencies finalize rule exempting certain commercial and financial end users from initial and variation margin requirements</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160801b.htm</link>
+        <description>Agencies finalize rule exempting certain commercial and financial end users from initial and variation margin requirements</description>
+        <dc:date>2016-08-01T16:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Agencies finalize rule exempting certain commercial and financial end users from initial and variation margin requirements</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-01T16:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160801a.htm">
+        <title>Federal Reserve Board invites comment on interim final rule adjusting the Board's maximum civil money penalties</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160801a.htm</link>
+        <description>Federal Reserve Board invites comment on interim final rule adjusting the Board's maximum civil money penalties</description>
+        <dc:date>2016-08-01T15:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board invites comment on interim final rule adjusting the Board's maximum civil money penalties</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-01T15:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/orders/20160729a.htm">
+        <title>Federal Reserve Board announces approval of application by Huntington Bancshares Incorporated</title>
+        <link>http://www.federalreserve.gov/newsevents/press/orders/20160729a.htm</link>
+        <description>Federal Reserve Board announces approval of application by Huntington Bancshares Incorporated</description>
+        <dc:date>2016-07-29T11:45:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces approval of application by Huntington Bancshares Incorporated</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-29T11:45:00</cb:occurrenceDate>
+        <cb:keyword>Orders on Banking Applications</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160729a.htm">
+        <title>Shared National Credit review finds risk remains high, but underwriting and risk management improve</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160729a.htm</link>
+        <description>Shared National Credit review finds risk remains high, but underwriting and risk management improve</description>
+        <dc:date>2016-07-29T09:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Shared National Credit review finds risk remains high, but underwriting and risk management improve</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-29T09:30:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160728b.htm">
+        <title>Federal Reserve Board permanently bars Thomas H. Huston and T. Mark Huston from participating in the banking industry</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160728b.htm</link>
+        <description>Federal Reserve Board permanently bars Thomas H. Huston and T. Mark Huston from participating in the banking industry</description>
+        <dc:date>2016-07-28T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board permanently bars Thomas H. Huston and T. Mark Huston from participating in the banking industry</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-28T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160728a.htm">
+        <title>Federal Reserve Board announces termination of enforcement action with CCF Holding Company</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160728a.htm</link>
+        <description>Federal Reserve Board announces termination of enforcement action with CCF Holding Company</description>
+        <dc:date>2016-07-28T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces termination of enforcement action with CCF Holding Company</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-28T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160727a.htm">
+        <title>Federal Reserve issues FOMC statement</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160727a.htm</link>
+        <description>Federal Reserve issues FOMC statement</description>
+        <dc:date>2016-07-27T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve issues FOMC statement</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-27T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160725a.htm">
+        <title>Federal Reserve Board extends comment period for advanced notice of proposed rulemaking detailing conceptual frameworks for capital standards until September 16, 2016</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160725a.htm</link>
+        <description>Federal Reserve Board extends comment period for advanced notice of proposed rulemaking detailing conceptual frameworks for capital standards until September 16, 2016</description>
+        <dc:date>2016-07-25T11:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board extends comment period for advanced notice of proposed rulemaking detailing conceptual frameworks for capital standards until September 16, 2016</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-25T11:30:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160722b.htm">
+        <title>Agencies propose method to adjust threshold for exempting small loans from special appraisal requirements</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160722b.htm</link>
+        <description>Agencies propose method to adjust threshold for exempting small loans from special appraisal requirements</description>
+        <dc:date>2016-07-22T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Agencies propose method to adjust threshold for exempting small loans from special appraisal requirements</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-22T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160722a.htm">
+        <title>Agencies issue proposal on method to adjust thresholds for exempting certain consumer credit and lease transactions</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160722a.htm</link>
+        <description>Agencies issue proposal on method to adjust thresholds for exempting certain consumer credit and lease transactions</description>
+        <dc:date>2016-07-22T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Agencies issue proposal on method to adjust thresholds for exempting certain consumer credit and lease transactions</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-22T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/other/20160721a.htm">
+        <title>Federal Reserve Board announces adoption of changes to part II of the Federal Reserve Policy on Payment System Risk</title>
+        <link>http://www.federalreserve.gov/newsevents/press/other/20160721a.htm</link>
+        <description>Federal Reserve Board announces adoption of changes to part II of the Federal Reserve Policy on Payment System Risk</description>
+        <dc:date>2016-07-21T16:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board announces adoption of changes to part II of the Federal Reserve Policy on Payment System Risk</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-21T16:00:00</cb:occurrenceDate>
+        <cb:keyword>Other Announcements</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/enforcement/20160719a.htm">
+        <title>Federal Reserve Board prohibits former foreign exchange (FX) trader from participating in banking industry for his manipulation of FX pricing benchmarks</title>
+        <link>http://www.federalreserve.gov/newsevents/press/enforcement/20160719a.htm</link>
+        <description>Federal Reserve Board prohibits former foreign exchange (FX) trader from participating in banking industry for his manipulation of FX pricing benchmarks</description>
+        <dc:date>2016-07-19T15:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board prohibits former foreign exchange (FX) trader from participating in banking industry for his manipulation of FX pricing benchmarks</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-19T15:30:00</cb:occurrenceDate>
+        <cb:keyword>Enforcement Actions</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/bcreg/20160715a.htm">
+        <title>Agencies release final revisions to interagency questions and answers regarding community reinvestment</title>
+        <link>http://www.federalreserve.gov/newsevents/press/bcreg/20160715a.htm</link>
+        <description>Agencies release final revisions to interagency questions and answers regarding community reinvestment</description>
+        <dc:date>2016-07-15T11:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Agencies release final revisions to interagency questions and answers regarding community reinvestment</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-15T11:00:00</cb:occurrenceDate>
+        <cb:keyword>Banking and Consumer Regulatory Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+</rdf:RDF>

@@ -1,0 +1,358 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="Board of Governors of the Federal Reserve System, Federal Reserve Board of Governors, Federal Reserve Board, Federal Reserve" />
+<meta name="description" content="The Federal Reserve Board of Governors in Washington DC." />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>FRB: Fine Arts Program</title>
+<!-- InstanceEndEditable -->
+<link rel="stylesheet" type="text/css" href="lib/jquery.ad-gallery.css">
+<link href="/resources/main.css" rel="stylesheet" type="text/css" />
+<link href="/resources/print2.css" rel="stylesheet" type="text/css" media="print"/>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="/resources/exit_new.js"></script>
+<script type="text/javascript" src="lib/jquery.ad-gallery.js"></script>
+<script type="text/javascript">
+  $(function() {
+
+  
+   //var galleries = $('.ad-gallery').adGallery();
+	
+var galleries = $('.ad-gallery').adGallery({
+ description_wrapper: $('#descriptions')
+});
+
+   
+    
+    $('#switch-effect').change(
+      function() {
+        galleries[0].settings.effect = $(this).val();
+        return false;
+      }
+    );
+    $('#toggle-slideshow').click(
+      function() {
+        galleries[0].slideshow.toggle();
+        return false;
+      }
+    );
+    $('#toggle-description').click(
+      function() {
+        if(!galleries[0].settings.description_wrapper) {
+          galleries[0].settings.description_wrapper = $('#descriptions');
+        } else {
+          galleries[0].settings.description_wrapper = false;
+        }
+        return false;
+      }
+    );
+	
+	galleries[0].addAnimation('no_desc',
+    function(img_container, direction, desc) {    
+        if (this.current_description) {
+            this.current_description.remove();
+            this.current_description = undefined;
+        }
+        return galleries[0].animations["slide-hori"].apply(this, [img_container, direction]);
+    }
+);
+galleries[0].settings.effect = "no_desc";
+  });
+  </script>
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+
+<body>
+<span class="skip2">
+<a href="#mainNav">skip to main navigation</a>
+<a href="#secondNav">skip to secondary navigation</a>
+<a href="#content">skip to content</a>
+</span>
+<!-- HEADER STARTS -->
+<table id="headerTopLinks" cellpadding="0" cellspacing="0">
+  <tr>
+<td class="headerTopLinksLeft">
+<a href="/whatsnew.htm">What's New</a> &middot; 
+<a href="/whatsnext.htm">What's Next</a> &middot; 
+<a href="/sitemap.htm">Site Map</a> &middot; 
+<a href="/azindex.htm">A-Z Index</a> &middot; 
+<a href="/careers/default.htm">Careers</a> &middot; 
+<a href="/feeds/default.htm">RSS</a> &middot; 
+<a href="/mediacenter/media.htm">All Videos</a> &middot; 
+<a href="/faqs/faq.htm">Current FAQs</a> &middot; 
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a></td>
+<td class="curve1"></td>
+    <td class="headerTopLinksRight"><form action="http://search.newyorkfed.org/board_public/search" method="get">
+        <label for="searchbox" class="skip2">Search</label>
+        <input type="text" name="text" size="12" maxlength="100" id="searchbox" /> <input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search"/> <a href="http://search.newyorkfed.org/board_public" class="search">Advanced Search</a>
+      </form></td>
+    <td class="curve2"></td>
+  </tr>
+</table>
+<div id="top">
+<div id="headerMasthead"><a href="/default.htm"><img src="/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"/></a>
+</div>
+<a name="mainNav"></a>
+  <div class="navMenuBack">
+    <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td id="selected"><div class="navItem"><a href="/aboutthefed/default.htm">About<br/>
+            the Fed</a></div></td>
+        <td><div class="navItem"><a href="/newsevents/default.htm">News<br/>
+            &amp; Events</a></div></td>
+        <td><div class="navItem"><a href="/monetarypolicy/default.htm">Monetary<br/>
+            Policy</a></div></td>
+        <td><div class="navItem"><a href="/bankinforeg/default.htm">Banking<br/>
+            Information<br/>
+            &amp; Regulation</a></div></td>
+        <td><div class="navItem"><a href="/paymentsystems/default.htm">Payment<br/>
+            Systems</a></div></td>
+        <td><div class="navItem"><a href="/econresdata/default.htm">Economic<br/>
+            Research<br/>
+            &amp; Data</a></div></td>
+        <td><div class="navItem"><a href="/consumerinfo/default.htm">Consumer<br/>
+            Information</a></div></td>
+        <td><div class="navItem"><a href="/communitydev/default.htm">Community<br/>
+            Development</a></div></td>
+        <td><div class="navItem"><a href="/apps/reportforms/default.aspx">Reporting<br/>
+            Forms</a></div></td>
+        <td><div class="navItem"><a href="/publications/default.htm">Publications</a></div></td>
+      </tr>
+    </table>
+    <!-- HEADER ENDS --> 
+
+    
+  </div>
+</div>
+<div id="contentwrapper"> <a name="secondNav"></a><span id="skip2"><a href="#content">skip to content</a></span><!-- InstanceBeginEditable name="BreadCrumbs" -->
+  <div id="breadcrumbwrapper">
+    <div id="BreadCrumbContainer"><a href="/default.htm">Home</a> &gt; <a href="/aboutthefed/default.htm">About the Fed</a> &gt; <a href="/aboutthefed/aroundtheboard/default.htm">Around the Board</a> &gt; Fine Arts Program</div>
+  </div>
+<!-- InstanceEndEditable -->
+  <div id="content"> <a name="content"></a>
+    <div style="display:none"> 
+      <script type="text/javascript">
+roundSize = function(x){
+    if (!isNaN(x)&&(Math.round(x)<1000))document.write(Math.round(x)+" KB");
+    if (!isNaN(x)&&(Math.round(x)>=1000))document.write(Math.round((Math.round(x)/1000)*10)/10+" MB");
+}
+typeIt = function(x,z){
+    var y = x.substring(x.lastIndexOf(".")).toLowerCase();
+    var p = z; 
+    z = " " + z;
+    switch(y){
+        case ".xls":
+        (p == "Unknown")?document.write(" Excel"):document.write(z);
+        break;
+        case ".xlsx":
+        (p == "Unknown")?document.write(" Excel"):document.write(z);
+        break;    
+        case ".pdf":
+        (p == "Unknown")?document.write(" PDF"):document.write(z);
+        break;        
+        case ".bat":
+        (p == "Unknown")?document.write(" MS-DOS Batch file"):document.write(z);
+        break;        
+        case ".txt":
+        (p == "Unknown")?document.write(" ASCII"):document.write(z);
+        break;        
+        case ".ps":
+        (p == "Unknown")?document.write(" Postscript"):document.write(z);
+        break;        
+        case ".exe":
+        (p == "Unknown")?document.write(" EXE"):document.write(z);
+        break;   
+        case ".zip":
+        (p == "Unknown")?document.write(" ZIP"):document.write(z);
+        break;    
+        default:
+        (p == "Unknown")?document.write(y):document.write(z);;                                                                 
+    }
+}
+</script> 
+      <script type="text/javascript">
+$(document).ready(function(){ 
+           if($('#stay_connected'))$.ajax({
+            type: "GET",
+            url: "/econresdata/stay_connected_box.txt",
+            dataType: "html",
+            error: function(){
+              alert('Error loading stay connected box');
+          },
+          success: function(data){
+               if($('#stay_connected')){
+                    $('#stay_connected').html(data);
+                }
+      }
+      });
+ });
+</script> 
+    </div>
+    
+    <!-- <link href="/resources/scf_secondary.css" rel="stylesheet" type="text/css" />
+<link href="/resources/scf_economic.css" rel="stylesheet" type="text/css" /> --> 
+    
+    <A NAME="pagetop"></A>
+    <div id="pagetitle">
+      <h2>Around The Board</h2>
+      <div id="printIcon"><a href="javascript:window.print()"><img src="/gifjpg/printIcon.gif">Print</a></div>
+      <div class="clear"></div>
+    </div>
+    <div id="layout">
+      <div id="main"><!--closes contentNav-->
+        <!-- InstanceBeginEditable name="Content" -->
+        <h2 class="noborder">Fine Arts Program</h2>
+        <p>The Federal Reserve Board's Fine Arts Program was established in 1975 by former Chairman Arthur F. Burns in response to a White House directive encouraging federal partnership with the arts. In a 1971 letter from the White House, Richard Nixon wrote, "It is my urgent desire that the growing partnership between Government and the arts continue to be developed to the benefit of both and more particularly to the benefit of the people of America." Chairman Burns saw this as an opportunity to both enhance the working environment at the Board and to provide its visitors with a memorable visual experience. He created the Fine Arts Program to collect and care for artwork and to organize exhibitions for display in the historic Marriner S. Eccles building.</p>
+        <div class="imgArea imgSmallFigure floatRight smallerImage"> <img src="images/kushner-fine-arts.jpg" width="326" height="327" alt="Robert Kushner - 'American Tapestry'" class="nopadding" />
+          <div class="footnotes"> Robert Kushner - "American Tapestry," 2008, oil, acrylic, metallic leaf on canvas</div>
+        </div>
+        <p>As  with all federal agencies, the Board may receive gifts of artwork on behalf of  the American people. The Board is dependent on these donations, as well as the  funds given by private citizens expressly for the purpose of acquiring artwork,  to build its collection. In addition to the <a href="/aboutthefed/aroundtheboard/gallery.htm">permanent collection</a>,  which  includes drawings, paintings, photographs, prints, and sculptures, there are  pieces on long-term loan from museums and private collections. The artworks are  on display in public areas and private meeting rooms throughout the Board's  buildings in Washington, D.C.</p>
+<p>Over its history, the Fine Arts Program has organized more than 150 special exhibitions. These exhibitions highlight individual artists, art movements, and thematic trends. Numerous museums, galleries, libraries, artists, private collectors, and central banks from around the world have generously loaned their collections for exhibition at the Board. Learn more about our exhibitions <a href="/aboutthefed/aroundtheboard/exhibitions.htm">here</a>.</p>
+        <p>The  Federal Reserve Board presents a series of exhibitions annually, which are  displayed in the Eccles building. <em>Color, Line, and Form: Works from the Federal Reserve Board Collection</em> is on view from April  25 through October 14, 2016. This exhibition is open to the public Monday  through Friday from 10:00 a.m. to 3:30 p.m. except federal holidays.  Reservations are required at least five business days in advance. For  reservations and further information, please use the <a href="/apps/ContactUs/feedback.aspx">Contact Us</a> form.</p><!-- InstanceEndEditable -->
+        <hr width=100% size="1" class="space">
+
+<form class="descripSelect">
+  <select name="SelectBox">
+    <option value="#">Select an exhibition</option>
+    <option value="/aboutthefed/aroundtheboard/color-line-and-form.htm">Color, Line, and Form: Works from the Federal Reserve Board Collection</option>
+    <option value="/aboutthefed/aroundtheboard/recent-acquisitions-2012-2014.htm">Recent Acquisitions: 2012-2014</option>
+    <option value="/aboutthefed/aroundtheboard/japans-social-and-economic-landscape.htm">Japan’s Social &amp; Economic Landscape: 19<sup>th</sup>-Century Woodblock Prints from the Currency Museum</option>
+    <option value="/aboutthefed/aroundtheboard/art-of-the-print.htm">Art of the Print</option>
+    <option value="/aboutthefed/aroundtheboard/documenting-america-photographs-from-1936-1948.htm">Documenting America: Photographs from 1936–1948</option>
+    <option value="/aboutthefed/aroundtheboard/in-the-landscape.htm">Eric Aho: In the Landscape</option>
+    <option value="/aboutthefed/aroundtheboard/photographs-of-american-life.htm">Photographs of American Life, 1910-60</option>
+    <option value="/aboutthefed/aroundtheboard/land-water-sky.htm">Land, Water, and Sky: Watercolors by Donald Holden and Photographs by  Cam Garner</option>
+    <option value="/aboutthefed/aroundtheboard/a-passion-for-flowers.htm">A Passion for Flowers: Photographs by Bert GF Shankman</option>
+    <option value="/aboutthefed/aroundtheboard/transparent-barricades.htm">Ian Hornak: Transparent Barricades</option>
+    <option value="/aboutthefed/aroundtheboard/acquisitions09to11.htm">Acquisitions: 2009-2011</option>
+    <option value="/aboutthefed/aroundtheboard/faces130to713.htm">Arnold Newman: Famous Faces</option>
+    <option value="/aboutthefed/aroundtheboard/christenberry.htm">Revisiting Spaces and Places: Drawings and Photographs by William Christenberry </option>
+    <option value="/aboutthefed/aroundtheboard/moments_photography.htm">Moments in American Photography, 1850 to the Present</option>
+    <option value="/aboutthefed/aroundtheboard/banquedefrance.htm">Views of Paris and Its Festivals: Works from Banque de France and Musée Carnavalet</option>
+    <option value="/aboutthefed/aroundtheboard/fish.htm">Janet Fish: Color, Light, Pattern</option>
+    <option value="/aboutthefed/aroundtheboard/rauzier.htm">Jean-François Rauzier: Hyper-Photo Dreamscapes</option>
+    <option value="/aboutthefed/aroundtheboard/namingha.htm">Dan Namingha: A Painterly Approach to Native American Symbolism</option>
+    <option value="/aboutthefed/aroundtheboard/kushner2009.htm">Robert Kushner: American Tapestry and Recent Acquisitions</option>
+    <option value="/aboutthefed/aroundtheboard/penley2009.htm">Steve Penley's Portraits of Presidents of the United States</option>
+    <option value="/aboutthefed/aroundtheboard/holston.htm">Joseph Holston: Harmony, Color, and Form</option>
+    <option value="/aboutthefed/aroundtheboard/baseball.htm">Baseball at the Board</option>
+    <option value="/aboutthefed/aroundtheboard/littlefield.htm">Light of the Southwest: Paintings by Cynthia Littlefield</option>
+    <option value="/aboutthefed/aroundtheboard/kelly.htm">Selected Paintings from the Kelly Collection of American Illustration</option>
+    <option value="/aboutthefed/aroundtheboard/turkey.htm">Contemporary Turkish Painting from the Art Collection of the Central Bank of Turkey</option>
+    <option value="/aboutthefed/aroundtheboard/kushner.htm">Robert Kushner: Wild Gardens</option>
+    <option value="/aboutthefed/aroundtheboard/brandywine.htm">Howard Pyle and Illustrators of the Brandywine School</option>
+    <option value="/aboutthefed/aroundtheboard/china.htm">The Face of Contemporary Art in China</option>
+    <option value="/aboutthefed/aroundtheboard/hungary.htm">The Art of Hungary: 1915 Revisited</option>
+    <option value="/aboutthefed/aroundtheboard/30th_anniversary.htm">A Collection in Formation, 1975-2005</option>
+    <option value="/aboutthefed/aroundtheboard/brown.htm">Roger Brown </option>
+    <option value="/aboutthefed/aroundtheboard/romania.htm">Romanian Artists in Paris, 1880-1910 </option>
+    <option value="/aboutthefed/aroundtheboard/rodin.htm">Rodin: In His Own Words</option>
+    <option value="/aboutthefed/aroundtheboard/dow.htm">The Photography of Arthur Wesley Dow</option>
+    <option value="/aboutthefed/aroundtheboard/complexity.htm">Complexity</option>
+    <option value="/aboutthefed/aroundtheboard/ossorio.htm">Synergy: Alfonso Ossorio and Jackson Pollack, 1950-51</option>
+  </select>
+  <input type="button" onclick="window.open(this.form.SelectBox.options[this.form.SelectBox.selectedIndex].value,'_top')" value="Go" />
+</form>
+<p></p>
+<!--<h2 class="noborder">Recent Exhibitions</h2>
+<div class="galleryImages"><a href="/aboutthefed/aroundtheboard/faces130to713.htm"><img src="images/art-exhibition1.jpg" width="229" height="97" alt="Past Exhibition" /></a></div>
+<div class="galleryImages"><a href="/aboutthefed/aroundtheboard/penley2009.htm"><img src="images/art-exhibition2.jpg" width="226" height="97" alt="Past Exhibition" /></a></div>
+<div class="galleryImages"><a href="/aboutthefed/aroundtheboard/kushner2009.htm"><img src="images/art-exhibition3.jpg" width="228" height="97" alt="Past Exhibition" /></a></div>
+<br clear="all" />-->
+        <!--
+<div id="leftText3">
+        --><!--closes skinny--> 
+      </div>
+      <!-- CLOSES main-->
+      <div id="relatedInfo"> 
+        <!-- Closes classic--> 
+        <!--Stay Connectd Box below-->
+        <ul class="socialBox clearfix">
+          <li class="heading">
+            <h3 class="">Stay Connected</h3>
+          </li>
+           <li><span class="medCon twitter"><a href="javascript:exitWindow('https://twitter.com/federalreserve','ext')">Twitter</a></span></li>
+    
+        <li><span class="medCon youtube"> <a href="javascript:exitWindow('http://www.youtube.com/FedReserveBoard','ext')">YouTube</a></span></li> 
+    
+        <li><span class="medCon flickr"><a href="javascript:exitWindow('http://www.flickr.com/photos/federalreserve/','ext')">Flickr</a></span></li>
+     
+    <li><span class="medCon rss"><a href="/feeds/default.htm">RSS Feeds</a></span></li>
+ 
+    <li><span class="medCon email"><a href="/newsevents/subscribe.htm">Subscribe</a></span></li>
+        </ul>
+        <br />
+        <a name="skipStayConnected"></a>
+        <ul class="socialBox clearfix">
+          <li class="heading">
+            <h3 class="">Contact Us</h3>
+          </li>
+          <li class="contactUs"><a href="http://www.federalreserve.gov/aboutthefed/contact-us-topics.htm">Contact Us: Select by Topic</a><br />
+            <a href="/foia/about_foia.htm">Request Information: <br />
+            Freedom of Information Act (FOIA)</a><br />
+            <a href="/aboutthefed/ombudsman.htm">Ombudsman</a></li>
+        </ul>
+        <!--Stay Connectd Box above--> 
+      </div>
+     <!-- CLOSES relatedInfo --> 
+      
+    </div>
+    <!-- CLOSES layout-->
+    <div class="clear"></div>
+    <!-- InstanceBeginEditable name="LastUpdated" -->
+    <div id="lastUpdate">Last update: 
+      
+      
+      April 28, 2016</div>
+    <!-- InstanceEndEditable -->
+    <script type="text/javascript">
+//alert(document.getElementById('sumBlock').innerHTML);
+if(document.getElementById('sumBlock'))document.getElementById('sumBlock').style.display = "none";
+//if(document.getElementById('sumBlock2'))document.getElementById('sumBlock2').innerHTML = "<br/>" + document.getElementById('sumBlock').innerHTML; 
+</script> 
+    <!--
+Laundry List as follows: 
+/econresdata/ama/code-ama.htm /econresdata/ama/downloadable-papers.htm /econresdata/ama/contact.htm /econresdata/ama/firm-value-model.htm /econresdata/ama/habit-formation-model.htm /econresdata/ama/ama-output-desc.htm /econresdata/ama/gensys-to-ama.htm /econresdata/ama/eviews-r.htm /econresdata/ama/package-ama.htm /econresdata/ama/rama-how-to.htm /econresdata/ama/using-aim-better.htm /econresdata/ama/css92paper.htm 
+-->
+    
+    <div id="FooterLinks"> <a href="/default.htm">Home</a> | <a href="#">About the Fed</a> </div>
+    <!-- CLOSES FooterLinks -->
+       <div id="secondaryFooterLinks">
+    <div class="secondaryFooterLinksLeft">
+<a href="/accessibility.htm">Accessibility</a>
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+<a href="/disclaimer.htm">Disclaimer</a>
+<a href="/policies.htm">Website Policies</a>
+<a href="/foia/about_foia.htm">FOIA</a>
+</div>
+
+      <div class="secondaryFooterLinksRight"> <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon" /> </div>
+      <div class="clear"></div>
+    </div>
+    <!-- CLOSES secondaryFooterLinks --> 
+    
+  </div>
+  <!-- CLOSES content -->
+  <div class="clear"></div>
+</div>
+<!-- CLOSES contentwrapper -->
+
+<div id="footer">
+  <div id="Footer2"></div>
+</div>
+<!-- CLOSES footer -->
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+<!-- InstanceEnd --></html>

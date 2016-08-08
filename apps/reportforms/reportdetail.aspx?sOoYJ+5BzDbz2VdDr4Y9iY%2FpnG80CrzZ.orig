@@ -1,0 +1,385 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1"><title>
+	FRB: Report Forms, FR_2950cb
+</title><meta name="robots" content="index, nofollow" /><link type="text/css" href="/resources/pubweb.css" rel="Stylesheet" /><link type="text/css" href="/resources/secondary.css" rel="Stylesheet" /><link type="text/css" href="/resources/reportforms.css" rel="stylesheet" /><link type="text/css" href="/resources/print.css" rel="Stylesheet" media="print" /><link type="text/css" href="/resources/print_reportforms.css" rel="Stylesheet" media="print" />
+
+   <script language="JavaScript" type="text/javascript" src="/resources/exit_new.js"></script>
+   <script language="JavaScript" type="text/javascript" src="/resources/swfLink.js"></script>    
+
+    <style type="text/css">
+        .secondaryContentLeftNav  li.menuHighlightRF a { color: #336633; text-decoration: none; }
+    </style> 
+
+    
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+   <noscript><p>This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</p></noscript>
+   <span class="globalskip">
+      <a href="#mainNav">skip to main navigation</a>
+      <a href="#secondNav">skip to secondary navigation</a>
+      <a href="#content">skip to content</a>
+   </span>
+   <!-- HEADER STARTS -->
+   <table id="headerTopLinks" cellpadding="0" cellspacing="0">
+      <tr>
+         <td class="headerTopLinksLeft">
+            <a href="/whatsnew.htm">What's New</a> &middot; 
+            <a href="/whatsnext.htm">What's Next</a> &middot; 
+            <a href="/sitemap.htm">Site Map</a> &middot; 
+            <a href="/azindex.htm">A-Z Index</a> &middot; 
+            <a href="/careers/default.htm">Careers</a> &middot; 
+            <a href="/feeds/default.htm">RSS</a> &middot; 
+            <a href="/mediacenter/media.htm">All Videos</a> &middot; 
+            <a href="/faqs/faq.htm">Current FAQs</a>  &middot;
+            <a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+         </td>
+         <td class="curve1"></td>
+        <td class="headerTopLinksRight">
+            <form method="GET" action="http://search.newyorkfed.org/board_public/search"><label for="searchbox"></label><div id="skip2">Search</div><input type="text" id="searchbox" maxlength="100" 
+            size="12" name="text">&nbsp;<input border="0" type="image" alt="Search" name="Search" src="/gifjpg/searchbutton.gif" id="headerTopLinksSearchFormSubmit">&nbsp;<a class="search" 
+            href="http://search.newyorkfed.org/board_public"><a class="search" href="http://search.newyorkfed.org/board_public">Advanced Search</a></a></form>
+        </td> 
+         <td class="curve2"></td>
+      </tr>
+   </table>
+   <div id="top">
+      <div id="headerMasthead">
+         <a href="/default.htm"><img src="/GIFJPG/masthead2.jpg" alt="Board of Governors of the Federal Reserve System" /></a>
+      </div>
+      <a name="mainNav"></a>
+         <div class="navMenuBack">
+            <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+               <tr>
+                  <td>
+                     <div class="navItem">
+                        <a href="/aboutthefed/default.htm">About<br />the Fed</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/newsevents/default.htm">News<br />&amp; Events</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/monetarypolicy/default.htm">Monetary<br />Policy</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/bankinforeg/default.htm">Banking<br />Information<br />&amp; Regulation</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/paymentsystems/default.htm">Payment<br />Systems</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/econresdata/default.htm">Economic<br />Research<br />&amp; Data</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/consumerinfo/default.htm">Consumer<br /> Information</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/communitydev/default.htm">Community<br />Development</a>
+                     </div>
+                  </td>
+               <td id="selected">
+                  <div class="navItem">
+                     <a href="/apps/reportforms/default.aspx">Reporting<br />Forms</a>
+                  </div>
+               </td>
+               <td>
+                  <div class="navItem">
+                     <a href="/publications/default.htm">Publications</a>
+                  </div>
+               </td>
+            </tr>
+         </table>
+         <!-- HEADER ENDS -->
+      </div>
+   </div>
+   <div id="contentContainer">
+      <span class="globalskip">
+         <a name="secondNav"></a><a href="#content">skip secondary navigation</a>
+      </span>
+      <form method="post" action="./reportdetail.aspx?sOoYJ+5BzDbz2VdDr4Y9iY%2fpnG80CrzZ" id="formSiteMaster">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA0MzgxMTEzNw8WBB4Hc0Zvcm1JZAUJRlJfMjk1MGNiHgZpQ2F0SWQCBBYCZg9kFgQCAw9kFggCAw8WAh4LXyFJdGVtQ291bnQCCRYSZg9kFgICAQ8WAh4FY2xhc3NlFgICAQ8PFgQeBFRleHQFFEZpbmFuY2lhbCBzdGF0ZW1lbnRzHgtOYXZpZ2F0ZVVybAUfY2F0ZWdvcnlpbmRleC5hc3B4P3hUZFRhK0ZhU2xJPWRkAgEPZBYCAgEPFgIfA2UWAgIBDw8WBB8EBR1BcHBsaWNhdGlvbnMvc3RydWN0dXJlIGNoYW5nZR8FBR9jYXRlZ29yeWluZGV4LmFzcHg/K1Boa0p3aUJqYkE9ZGQCAg9kFgICAQ8WAh8DZRYCAgEPDxYEHwQFBUZGSUVDHwUFH2NhdGVnb3J5aW5kZXguYXNweD8xL1JJWE8vVWR1ST1kZAIDD2QWAgIBDxYCHwMFD21lbnVIaWdobGlnaHRSRhYCAgEPDxYEHwQFD01vbmV0YXJ5IHBvbGljeR8FBR9jYXRlZ29yeWluZGV4LmFzcHg/TEtaUmNWZThnc1k9ZGQCBA9kFgICAQ8WAh8DZRYCAgEPDxYEHwQFCFJlc2VhcmNoHwUFH2NhdGVnb3J5aW5kZXguYXNweD9kRWFwcTIyZUJJOD1kZAIFD2QWAgIBDxYCHwNlFgICAQ8PFgQfBAUYQnVzaW5lc3MvY29uc3VtZXIgY3JlZGl0HwUFH2NhdGVnb3J5aW5kZXguYXNweD8wWjVTMXBKYlNHZz1kZAIGD2QWAgIBDxYCHwNlFgICAQ8PFgQfBAUfU2VjdXJpdGllcyBFeGNoYW5nZSBBY3Qgb2YgMTkzNB8FBR9jYXRlZ29yeWluZGV4LmFzcHg/bWk0MUx2b3BiOW89ZGQCBw9kFgICAQ8WAh8DZRYCAgEPDxYEHwQFI011bmljaXBhbCBhbmQgZ292ZXJubWVudCBzZWN1cml0aWVzHwUFH2NhdGVnb3J5aW5kZXguYXNweD9MODc3VndFajlTcz1kZAIID2QWAgIBDxYCHwNlFgICAQ8PFgQfBAUVQWN0aXZpdGllcyBtb25pdG9yaW5nHwUFH2NhdGVnb3J5aW5kZXguYXNweD9LWjlNcFA4bUVRWT1kZAIFD2QWAgIBDw8WAh8FBQ1+L3Jldmlldy5hc3B4ZGQCCQ9kFgICAQ8PFgQfBAUPTW9uZXRhcnkgcG9saWN5HwUFH2NhdGVnb3J5aW5kZXguYXNweD9MS1pSY1ZlOGdzWT1kZAIND2QWCgIBDw8WAh8EBRpGUiAyOTUwIChDb21tZXJjaWFsIEJhbmtzKWRkAgMPDxYCHwQFMQkgCVJlcG9ydCBvbiBDZXJ0YWluIEV1cm9jdXJyZW5jeSBUcmFuc2FjdGlvbnMNCglkZAIHDw8WAh4HVmlzaWJsZWdkFgQCAQ8PFgQfBAUVSGlzdG9yaWNhbCAoNSBLQiBQREYpHwUFKi9yZXBvcnRmb3Jtcy9mb3Jtcy9GUl8yOTUwY2IyMDAzMDgwN19mLnBkZmRkAgMPDxYEHwQFF0hpc3RvcmljYWwgKDgzMyBLQiBQREYpHwUFKi9yZXBvcnRmb3Jtcy9mb3Jtcy9GUl8yOTUwY2IyMDAzMDgwN19pLnBkZmRkAg0PFgIfBmcWBGYPZBYCAgMPDxYCHwQFCkhpc3RvcmljYWxkZAIBD2QWAgIBDw8WAh8GZ2QWAgIBDxYCHwICAxYGAgEPZBYGAgEPDxYEHwQFFkF1Z3VzdCAyMDAwICg0IEtCIFBERikfBQUqL3JlcG9ydGZvcm1zL2Zvcm1zL0ZSXzI5NTBjYjIwMDAwODIzX2YucGRmZGQCAw8PFgQfBAUYQXVndXN0IDIwMDAgKDIyOSBLQiBQREYpHwUFKi9yZXBvcnRmb3Jtcy9mb3Jtcy9GUl8yOTUwY2IyMDAwMDgyM19pLnBkZmRkAgUPDxYEHwQFF0ZSXzI5NTBjYjIwMDAwODIzX2kucGRmHwZoZGQCAg9kFgYCAQ8PFgQfBAUUSnVseSAxOTk5ICg3IEtCIFBERikfBQUoL3JlcG9ydGZvcm1zL2Zvcm1zL0ZSXzI5NTAxOTk5MDcyOV9mLnBkZmRkAgMPDxYEHwQFFkp1bHkgMTk5OSAoMjI0IEtCIFBERikfBQUqL3JlcG9ydGZvcm1zL2Zvcm1zL0ZSXzI5MDBjYjE5OTkwNzI5X0kucGRmZGQCBQ8PFgQfBAUXRlJfMjkwMGNiMTk5OTA3MjlfSS5wZGYfBmhkZAIDD2QWBgIBDw8WBB8EBRZBdWd1c3QgMTk5NyAoNyBLQiBQREYpHwUFKC9yZXBvcnRmb3Jtcy9mb3Jtcy9GUl8yOTUwMTk5NzA4MTJfZi5wZGZkZAIDDw8WBB8EBRhBdWd1c3QgMTk5NyAoMjIxIEtCIFBERikfBQUqL3JlcG9ydGZvcm1zL2Zvcm1zL0ZSXzI5MDBjYjE5OTkwNDE5X0kucGRmZGQCBQ8PFgQfBAUXRlJfMjkwMGNiMTk5OTA0MTlfSS5wZGYfBmhkZAIRDw8WAh8EBaILVGhlIEJvYXJkIG9mIEdvdmVybm9ycyBvZiB0aGUgRmVkZXJhbCBSZXNlcnZlIFN5c3RlbSBkaXNjb250aW51ZWQgVGhlIFJlcG9ydCBvZiBDZXJ0YWluIEV1cm9jdXJyZW5jeSBUcmFuc2FjdGlvbnMgZnJvbSBhbGwgRGVwb3NpdG9yeSBJbnN0aXR1dGlvbnMgT3RoZXIgVGhhbiBVLlMuIEJyYW5jaGVzIGFuZCBBZ2VuY2llcyBvZiBGb3JlaWduIEJhbmtzIChGUiAyOTUwOyBPTUIgTm8uIDcxMDAtMDA4NyksIGVmZmVjdGl2ZSBhZnRlciB0aGUgcmVwb3J0IHdlZWsgZW5kaW5nIEp1bmUgNywgMjAwNC4gIFF1YXJ0ZXJseSByZXBvcnRlcnMgb2YgdGhlIFJlcG9ydCBvZiBUcmFuc2FjdGlvbiBBY2NvdW50cywgT3RoZXIgRGVwb3NpdHMgYW5kIFZhdWx0IENhc2ggKEZSIDI5MDA7IE9NQiBOby4gNzEwMC0wMDg3KSBzdWJtaXR0ZWQgdGhlaXIgbGFzdCBGUiAyOTUwIGZvciB0aGUgcmVwb3J0IHdlZWsgZW5kaW5nIE1hcmNoIDIyLCAyMDA0LiAgVGhlIEZSIDI5NTAgZGF0YSBoYWQgYmVlbiB1c2VkIGluIHRoZSBjYWxjdWxhdGlvbiBvZiByZXNlcnZlIHJlcXVpcmVtZW50cyBvbiBuZXQgRXVyb2N1cnJlbmN5IGxpYWJpbGl0aWVzLiAgQWx0aG91Z2ggdGhlIEJvYXJkIHJlZHVjZWQgdGhlIHJlc2VydmUgcmVxdWlyZW1lbnQgcmF0aW8gb24gbmV0IEV1cm9jdXJyZW5jeSBsaWFiaWxpdGllcyB0byB6ZXJvIGluIDE5OTEsIHRoZSBkYXRhIHdlcmUgc3RpbGwgY29sbGVjdGVkIGp1c3QgaW4gY2FzZSB0aGUgcmF0aW8gd2FzIHJhaXNlZCBhYm92ZSB6ZXJvIGF0IGEgbGF0ZXIgZGF0ZS4gIA0KDQoJUmVjb2duaXppbmcgdGhhdCB0aGVzZSBkYXRhIGFyZSBuZWNlc3Nhcnkgb25seSBmb3IgYW5udWFsIGluZGV4YXRpb24gcHVycG9zZXMgYW5kIG5vdCBmb3IgcHVycG9zZXMgb2YgY2FsY3VsYXRpbmcgcmVzZXJ2ZSByZXF1aXJlbWVudHMgb3IgdGhlIG1vbmV0YXJ5IGFnZ3JlZ2F0ZXMsIHRoZSBGZWRlcmFsIFJlc2VydmUgaGFzIGFkZGVkICJuZXQgRXVyb2N1cnJlbmN5IGxpYWJpbGl0aWVzIiB0byB0aGUgRlIgMjkwMCByZXBvcnRpbmcgZm9ybS4gIENlcnRhaW4gRXVyb2N1cnJlbmN5IGl0ZW1zIHdlcmUgYWRkZWQgdG8gdGhlIGZhbWlseSBvZiBiYW5rIGNyZWRpdCByZXBvcnRzIChXZWVrbHkgUmVwb3J0IG9mIEFzc2V0cyBhbmQgTGlhYmlsaXRpZXMgZm9yIExhcmdlIEJhbmtzOiBGUiAyNDE2OyBPTUIgTm8uIDcxMDAtMDA3NTsgV2Vla2x5IFJlcG9ydCBvZiBTZWxlY3RlZCBBc3NldHM6IEZSIDI2NDQ7IE9NQiBOby4gNzEwMC0wMDc1OyBhbmQgV2Vla2x5IFJlcG9ydCBvZiBBc3NldHMgYW5kIExpYWJpbGl0aWVzIGZvciBMYXJnZSBVLlMgQnJhbmNoZXMgYW5kIEFnZW5jaWVzIG9mIEZvcmVpZ24gQmFua3M6IEZSIDIwNjk7IE9NQiBOby4gNzEwMC0wMDMwKSwgZWZmZWN0aXZlIHdpdGggdGhlIEp1bmUgMiwgMjAwNCwgcmVwb3J0IGRhdGUuDQpkZAIFDxYCHwQF7QQ8ZGl2IGNsYXNzPSJzZWNvbmRhcnlGb290ZXJMaW5rc0xlZnQiPgogICAgICAgICAgICAgICA8YSBocmVmPSIvYWNjZXNzaWJpbGl0eS5odG0iPkFjY2Vzc2liaWxpdHk8L2E+CiAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9hYm91dHRoZWZlZC9jb250YWN0LXVzLXRvcGljcy5odG0iPkNvbnRhY3QgdXM8L2E+CiAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9kaXNjbGFpbWVyLmh0bSI+RGlzY2xhaW1lcjwvYT4KICAgICAgICAgICAgICAgPGEgaHJlZj0iL3BvbGljaWVzLmh0bSI+V2Vic2l0ZSBwb2xpY2llczwvYT4KICAgICAgICAgICAgICAgPGEgaHJlZj0iL2ZvaWEvYWJvdXRfZm9pYS5odG0iPkZPSUE8L2E+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJzZWNvbmRhcnlGb290ZXJMaW5rc1JpZ2h0Ij4KICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cDovL3d3dy5hZG9iZS5jb20vcHJvZHVjdHMvYWNyb2JhdC9yZWFkc3RlcDIuaHRtbCI+UERGIFJlYWRlcjwvYT48aW1nIHNyYz0nL0dJRkpQRy9leGl0SWNvbi5naWYnIGFsdD0iTGVhdmluZyB0aGUgQm9hcmQiIGJvcmRlcj0iMCIgY2xhc3M9ImV4aXRJY29uIiAvPgogICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjbGVhciI+PC9kaXY+CjwvZGl2PgpkGAEFIGN0bDAwJE1haW5Db250ZW50JEhpc3RvcmljYWxWaWV3Dw9kZmSi5uxUqQUy9MXOPGDiKM0IYQ9fDLctMap2NguVXplQzw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="68A8F6DC" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAT64dOz3jvrcFbz4jjhbt7ZE1dlX5lKNOwghc7l17vCuq4539zISIy+291AUCbiurIC5/qx64Ael3ejvlSVwWCEnxufRJe6YVhXZ2tVHTgavVrxbWmJJ01PewSCTkF5T2U=" />
+      <div id="leftnav">
+        <!-- Insert the Left Navigation Begins here -->
+         <div class="secondaryContentLeftNav">
+            <!---->
+            <a id="menuFirstLevelHeading">Forms by Category</a>
+            <ul>
+             
+
+                    <li id="rptr_ReportFormsCategories_li_Style_0" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_0" href="categoryindex.aspx?xTdTa+FaSlI=">Financial statements</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_1" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_1" href="categoryindex.aspx?+PhkJwiBjbA=">Applications/structure change</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_2" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_2" href="categoryindex.aspx?1/RIXO/UduI=">FFIEC</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_3" class="menuHighlightRF">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_3" href="categoryindex.aspx?LKZRcVe8gsY=">Monetary policy</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_4" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_4" href="categoryindex.aspx?dEapq22eBI8=">Research</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_5" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_5" href="categoryindex.aspx?0Z5S1pJbSGg=">Business/consumer credit</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_6" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_6" href="categoryindex.aspx?mi41Lvopb9o=">Securities Exchange Act of 1934</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_7" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_7" href="categoryindex.aspx?L877VwEj9Ss=">Municipal and government securities</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_8" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_8" href="categoryindex.aspx?KZ9MpP8mEQY=">Activities monitoring</a>
+                    </li>
+                
+            </ul>
+            <br/>
+            <a id="menuFirstLevelHeading1">Review and Updates</a>
+            <ul>
+                <li id="li_review">
+                    
+                   <a id="lnk_rfreview" href="review.aspx">Information collections under review</a>
+                </li>
+                <li>
+                	<a href="/reportforms/whats-new.htm">Recent Reporting Form Updates</a>
+                </li>
+            </ul>
+            
+            <script language="javascript" type="text/javascript">
+              <!--
+                //buildMenu();
+              -->
+            </script>
+
+         </div>
+         <img src="/GIFJPG/spacer.gif" alt=" " /> 
+      </div>
+      <div id="content">
+         <div id="BreadCrumbContainer">
+            <a href="/default.htm">Home</a>&nbsp;&gt;&nbsp;<a href="default.aspx" id="rfhome">Reporting Forms</a>
+            
+    
+    &nbsp;&gt;&nbsp;<a id="BreadCrumbPlaceholder_hlnk_Category" href="categoryindex.aspx?LKZRcVe8gsY=">Monetary policy</a>
+
+         </div>
+         <div class="generalContentText" id="printThis">
+
+            <a name="content"></a>
+            <img src="/GIFJPG/masthead2.jpg" id="defaultPrintImage" alt="Federal Reserve Board of Governors" />
+
+            <div id="TwoColumns">
+            
+    <h1 class="border">Reporting forms</h1> 
+
+            <a name="content"></a>
+
+            <div id="leftText3">
+               <div class="mainContentContainer">
+                
+
+<div>
+
+<h2 class="border"><span id="MainContent_lbl_FormTitle">FR 2950 (Commercial Banks)</span> </h2>
+
+        <em><span id="MainContent_lbl_FormName">	 	Report on Certain Eurocurrency Transactions
+	</span></em>
+        <br/>
+        <br/>
+
+
+
+
+
+<div id="MainContent_panel_Current">
+	
+<table id="formLinks" border="1" cellpadding="6" cellspacing="1" width="80%">
+        <tr class="color"><td>Forms</td><td>Instructions</td></tr>
+    	<tr bgcolor="#f0ead0">
+        <td align="center">
+            <a id="MainContent_lnk_CurrentReportForm" href="/reportforms/forms/FR_2950cb20030807_f.pdf">Historical (5 KB PDF)</a>
+        </td>
+        <td align="center">
+            <a id="MainContent_lnk_CurrentInstruction" href="/reportforms/forms/FR_2950cb20030807_i.pdf">Historical (833 KB PDF)</a>
+        </td>
+        </tr>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+   
+    <tr bgcolor="#f0ead0">
+					    <td colspan="2" align="center">
+					    <a id="MainContent_showHistoricalImgL" href="javascript:__doPostBack(&#39;ctl00$MainContent$showHistoricalImgL&#39;,&#39;&#39;)"><img src="/reportforms/gifs/arrow.gif" border="0"></a>
+					    &nbsp;&nbsp;&nbsp;
+					    <a id="MainContent_showHistorical" href="javascript:__doPostBack(&#39;ctl00$MainContent$showHistorical&#39;,&#39;&#39;)">Historical</a>
+					    &nbsp;&nbsp;&nbsp;
+					    <a id="MainContent_showHistoricalImgR" href="javascript:__doPostBack(&#39;ctl00$MainContent$showHistoricalImgR&#39;,&#39;&#39;)"><img src="/reportforms/gifs/arrow.gif" border="0"></a>
+					    </td>
+    </tr>
+    
+
+</table>
+	
+    <div style="width:90%; margin-top: 10px;"> 
+        <p>
+        <b><span id="MainContent_lbl_Description">Description: </span></b>
+        <span id="MainContent_lbl_Description_data">The Board of Governors of the Federal Reserve System discontinued The Report of Certain Eurocurrency Transactions from all Depository Institutions Other Than U.S. Branches and Agencies of Foreign Banks (FR 2950; OMB No. 7100-0087), effective after the report week ending June 7, 2004.  Quarterly reporters of the Report of Transaction Accounts, Other Deposits and Vault Cash (FR 2900; OMB No. 7100-0087) submitted their last FR 2950 for the report week ending March 22, 2004.  The FR 2950 data had been used in the calculation of reserve requirements on net Eurocurrency liabilities.  Although the Board reduced the reserve requirement ratio on net Eurocurrency liabilities to zero in 1991, the data were still collected just in case the ratio was raised above zero at a later date.  
+
+	Recognizing that these data are necessary only for annual indexation purposes and not for purposes of calculating reserve requirements or the monetary aggregates, the Federal Reserve has added "net Eurocurrency liabilities" to the FR 2900 reporting form.  Certain Eurocurrency items were added to the family of bank credit reports (Weekly Report of Assets and Liabilities for Large Banks: FR 2416; OMB No. 7100-0075; Weekly Report of Selected Assets: FR 2644; OMB No. 7100-0075; and Weekly Report of Assets and Liabilities for Large U.S Branches and Agencies of Foreign Banks: FR 2069; OMB No. 7100-0030), effective with the June 2, 2004, report date.
+</span>
+        </p>
+        <p>
+		<b> </b>
+		</p>
+        <p>
+		<b></b> 
+		</p>
+        <p>
+        <b> </b>	 	
+        
+        </p>
+
+        <p>
+		<b></b>
+        
+		</p>
+        <p>
+		<b></b>
+        
+		</p>
+        <p>
+		<b></b> 
+        
+		</p>
+        </div>
+
+
+
+
+</div>
+</div>
+
+
+
+                </div>
+            </div><!--closes Left-->
+
+            <div id="stayconnectedrightSidebar">
+                
+
+	    		<h4>Related</h4>
+	    		<div class="ulbackground">
+	    		<ul class="stayconnected2">
+	    		<li class="stayconnected2"><a href="/reportforms/whats-new.htm">Recent Reporting Form Updates</a></li>
+	    		</ul>
+
+
+            </div><!--closes Right-->
+
+            </div><!--closes 2 columns-->
+<!-- Changes Made 12-4-12 -->
+         <div class="clear"></div>
+         <!--</div>-->
+<!-- 12-4-12-->
+
+         <div id="lastUpdate">
+            
+Last Update: <span id="LastUpdate_lbl_LastUpdate"></span>
+    </div>
+
+            
+         </div>
+
+        </form>
+
+         <div id="FooterLinks">
+            <a href="/default.htm">Home</a> | <a href="/apps/reportforms/default.aspx">Reporting Forms</a>
+         </div>
+         <!-- CLOSES FooterLinks -->
+         <div id="secondaryFooterLinks">
+            <div class="secondaryFooterLinksLeft">
+               <a href="/accessibility.htm">Accessibility</a>
+               <a href="/aboutthefed/contact-us-topics.htm">Contact us</a>
+               <a href="/disclaimer.htm">Disclaimer</a>
+               <a href="/policies.htm">Website policies</a>
+               <a href="/foia/about_foia.htm">FOIA</a>
+</div>
+<div class="secondaryFooterLinksRight">
+               <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src='/GIFJPG/exitIcon.gif' alt="Leaving the Board" border="0" class="exitIcon" />
+               <div class="clear"></div>
+</div>
+
+
+         </div> 
+         <div class="clear"></div>
+      </div>
+</div>
+
+   </div>
+   
+   <div id="footer">
+      <div id="Footer2"></div>               
+   </div>
+   
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>
+
+
+
+

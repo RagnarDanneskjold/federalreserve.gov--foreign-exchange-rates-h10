@@ -1,0 +1,2339 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="Board of Governors of the Federal Reserve System, Federal Reserve Board of Governors, Federal Reserve Board, Federal Reserve" />
+<meta name="description" content="The Federal Reserve Board of Governors in Washington DC." />
+<TITLE>FRB: H.10 Release--Foreign Exchange Rates--Nominal/Real Indexes August 01, 2016</TITLE>
+
+
+
+<link href="/resources/pubweb.css" rel="stylesheet" type="text/css" />
+<link href="/resources/secondary.css" rel="stylesheet" type="text/css" />
+<link href="/resources/print.css" rel="stylesheet" type="text/css" media="print"/>
+<link href="/resources/economic.css" rel="stylesheet" type="text/css" />
+<link href="/resources/statistics.css" rel="stylesheet" type="text/css" />
+
+<script language="JavaScript" type="text/javascript" src="/resources/economicLeftNav.js"></script>
+<script language="JavaScript" type="text/javascript" src="/resources/exit_new.js"></script>
+<script language="JavaScript" type="text/javascript" src="/resources/swfLink.js"></script>
+<script type="text/javascript">
+<!--
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+//-->
+</script>
+
+
+<script src="../../jsfiles/jquery.js"></script>
+<script language="javascript">
+$(document).ready(function(){
+
+		$(".statistics tr:even").addClass("alt");
+						   });
+
+</script>
+
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+<body>
+
+<a href="#mainNav" class="invisible">skip to main navigation</a>
+<a href="#secondNav" class="invisible">skip to secondary navigation</a>
+<a href="#content" class="invisible">skip to content</a>
+
+
+<!-- HEADER STARTS -->
+<table id="headerTopLinks" cellpadding="0" cellspacing="0">
+<tr><td class="headerTopLinksLeft">
+
+<a href="/whatsnew.htm">What's New</a> &middot;
+<a href="/whatsnext.htm">What's Next</a> &middot;
+<a href="/sitemap.htm">Site Map</a> &middot;
+<a href="/azindex.htm">A-Z Index</a> &middot;
+<a href="/careers/default.htm">Careers</a> &middot;
+<a href="/feeds/default.htm">RSS</a> &middot;
+<a href="/mediacenter/media.htm">All Videos</a> &middot;
+<a href="/faqs/faq.htm">Current FAQs</a>
+
+</td>
+<td class="curve1"></td>
+<td class="headerTopLinksRight">
+<form action="http://search.newyorkfed.org/board_public/search" method="get"><label for="searchbox" class="globalskip">Search</label><input type="text" name="text" size="12" maxlength="100" id="searchbox"/>&nbsp;<input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search" border="0"/>&nbsp;<a href="http://search.newyorkfed.org/board_public/" class="search">Advanced Search</a></form>
+</td>
+<td class="curve2"></td>
+</tr></table>
+
+<div id="top">
+
+    <div id="headerMasthead"><a href="/default.htm"><img src="/econresdata/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"></a></div>
+
+<a name="mainNav"></a>
+<div class="navMenuBack">
+<table id="navMenu"  border="0" cellpadding="0" cellspacing="0">
+<tr>
+    <td>
+        <div class="navItem"><a href="/aboutthefed/default.htm">About<BR>the Fed</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/newsevents/default.htm">News<BR>&amp; Events</a></div>
+
+    </td>
+    <td>
+        <div class="navItem"><a href="/monetarypolicy/default.htm">Monetary<BR>Policy</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/bankinforeg/default.htm">Banking<BR>Information<BR>&amp; Regulation</a></div>
+
+    </td>
+    <td>
+        <div class="navItem"><a href="/paymentsystems/default.htm">Payment<BR>Systems</a></div>
+    </td>
+    <td id="selected">
+        <div class="navItem"><a href="/econresdata/default.htm">Economic<BR>Research<BR>&amp; Data</a></div>
+
+    </td>
+    <td>
+        <div class="navItem"><a href="/consumerinfo/default.htm">Consumer<BR> Information</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/communitydev/default.htm">Community<BR>Development</a></div>
+
+    </td>
+    <td>
+        <div class="navItem"><a href="/apps/reportforms/default.aspx">Reporting<BR>Forms</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/publications/default.htm">Publications</a></div>
+    </td>
+
+</tr>
+</table>
+<!-- HEADER ENDS -->
+
+
+</div>
+</div>
+<div id="contentContainer">
+<a name="secondNav"></a><a href="#content" class="invisible">skip to content</a>
+
+<div id="leftnav">
+        <!-- Insert the Left Navigation Begins here -->
+
+        <div class="secondaryContentLeftNav">
+
+        <script language="javascript" type="text/javascript">
+        <!--
+        buildMenu();
+        -->
+        </script>
+
+        <noscript>
+        <a href="/resources/economicLeftNav.htm">Menu</a>
+        </noscript>
+
+        </div><!-- closes 'secondaryContentLeftNav' div -->
+
+</div> <!-- CLOSES leftnav -->
+<!-- Left Navigation ENDS -->
+
+<div id="content">
+<div id="BreadCrumbContainer">
+<a href="/default.htm">Home</a> > <a href="/econresdata/">Economic Research & Data</a> > <a href="/econresdata/releases/statisticsdata.htm">Statistical Releases and Historical Data</a>
+
+</div> <!-- CLOSES BreadCrumbContainer -->
+
+
+<div class="generalContentText" id="printThis">
+
+  <div id="printIcon"><a href="/feeds/"><img src="/GIFJPG/rssIcon.gif" border="0" /></a>    <a href="/datadownload/Choose.aspx?rel=h10"> <img src="/GIFJPG/ddpIcon_smallest.gif" border="0"/> DDP</a>    <a href="javascript:printable('../../resources/print_news.css');"><img src="/GIFJPG/printIcon.gif">Print</a></div>
+
+<h1 class="border">Foreign Exchange Rates - H.10</h1>
+
+
+<div class="statsNav">
+<ul>
+<li><a href="../current/default.htm">Current Release</a></li>
+<li><a href="../default.htm">Release Dates</a></li>
+<li><a href="../hist/">Country Data</a></li>
+<li class="selected"><a href="default.htm">Nominal/Real Indexes</a></li>
+<li><a href="../weights/default.htm">Currency Weights</a></li>
+
+<li><a href="/releases/g5/current/default.htm">G.5</a></li>
+<li><a href="/releases/g5a/current/default.htm">G.5A</a></li>
+<li><a href="../about.htm">About</a></li><li><a href="/feeds/h10.html">Announcements</a></li>
+
+
+</ul>
+</div>
+
+
+<a name="content"></a>
+<A NAME="pagetop"></A>
+
+<!-- BEGIN DATA-->
+
+<div class="dates">Release Date: Monday, August 01, 2016       </div>
+<h3>Nominal Broad Dollar Index -- Monthly Index                            </h3>
+<div class="tableunit">(Rates in currency units per U.S. dollar except as noted)</div>
+<table border="0" cellpadding="0" cellspacing="0" class="statistics">
+<tr>
+<th id="r1" headers="a1">JAN 1973  </th>
+<td headers="a2 a1 r1">                   33.9689                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1973  </th>
+<td headers="a2 a1 r1">                   32.5799                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1973  </th>
+<td headers="a2 a1 r1">                   31.5849                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1973  </th>
+<td headers="a2 a1 r1">                   31.7681                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1973  </th>
+<td headers="a2 a1 r1">                   31.5727                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1973  </th>
+<td headers="a2 a1 r1">                   31.0864                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1973  </th>
+<td headers="a2 a1 r1">                   30.6380                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1973  </th>
+<td headers="a2 a1 r1">                   30.9817                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1973  </th>
+<td headers="a2 a1 r1">                   31.0687                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1973  </th>
+<td headers="a2 a1 r1">                   30.9637                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1973  </th>
+<td headers="a2 a1 r1">                   31.9322                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1973  </th>
+<td headers="a2 a1 r1">                   32.3099                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1974  </th>
+<td headers="a2 a1 r1">                   33.2966                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1974  </th>
+<td headers="a2 a1 r1">                   32.7832                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1974  </th>
+<td headers="a2 a1 r1">                   32.2859                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1974  </th>
+<td headers="a2 a1 r1">                   31.9676                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1974  </th>
+<td headers="a2 a1 r1">                   31.7863                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1974  </th>
+<td headers="a2 a1 r1">                   32.1004                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1974  </th>
+<td headers="a2 a1 r1">                   32.3673                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1974  </th>
+<td headers="a2 a1 r1">                   32.8170                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1974  </th>
+<td headers="a2 a1 r1">                   32.9800                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1974  </th>
+<td headers="a2 a1 r1">                   32.9278                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1974  </th>
+<td headers="a2 a1 r1">                   32.8329                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1974  </th>
+<td headers="a2 a1 r1">                   32.8350                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1975  </th>
+<td headers="a2 a1 r1">                   32.6697                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1975  </th>
+<td headers="a2 a1 r1">                   32.3875                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1975  </th>
+<td headers="a2 a1 r1">                   32.2864                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1975  </th>
+<td headers="a2 a1 r1">                   32.7536                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1975  </th>
+<td headers="a2 a1 r1">                   32.8936                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1975  </th>
+<td headers="a2 a1 r1">                   33.0442                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1975  </th>
+<td headers="a2 a1 r1">                   33.8632                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1975  </th>
+<td headers="a2 a1 r1">                   34.4933                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1975  </th>
+<td headers="a2 a1 r1">                   34.8020                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1975  </th>
+<td headers="a2 a1 r1">                   34.8849                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1975  </th>
+<td headers="a2 a1 r1">                   34.8980                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1975  </th>
+<td headers="a2 a1 r1">                   35.1408                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1976  </th>
+<td headers="a2 a1 r1">                   35.0989                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1976  </th>
+<td headers="a2 a1 r1">                   35.0785                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1976  </th>
+<td headers="a2 a1 r1">                   35.3543                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1976  </th>
+<td headers="a2 a1 r1">                   35.5790                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1976  </th>
+<td headers="a2 a1 r1">                   35.6959                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1976  </th>
+<td headers="a2 a1 r1">                   35.8105                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1976  </th>
+<td headers="a2 a1 r1">                   35.6818                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1976  </th>
+<td headers="a2 a1 r1">                   35.6569                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1976  </th>
+<td headers="a2 a1 r1">                   36.0674                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1976  </th>
+<td headers="a2 a1 r1">                   36.3137                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1976  </th>
+<td headers="a2 a1 r1">                   36.7548                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1976  </th>
+<td headers="a2 a1 r1">                   36.8179                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1977  </th>
+<td headers="a2 a1 r1">                   36.7763                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1977  </th>
+<td headers="a2 a1 r1">                   36.9765                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1977  </th>
+<td headers="a2 a1 r1">                   37.0694                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1977  </th>
+<td headers="a2 a1 r1">                   36.9700                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1977  </th>
+<td headers="a2 a1 r1">                   37.0205                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1977  </th>
+<td headers="a2 a1 r1">                   37.0311                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1977  </th>
+<td headers="a2 a1 r1">                   36.7710                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1977  </th>
+<td headers="a2 a1 r1">                   37.0361                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1977  </th>
+<td headers="a2 a1 r1">                   37.1626                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1977  </th>
+<td headers="a2 a1 r1">                   36.8890                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1977  </th>
+<td headers="a2 a1 r1">                   36.6512                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1977  </th>
+<td headers="a2 a1 r1">                   36.1587                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1978  </th>
+<td headers="a2 a1 r1">                   35.9432                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1978  </th>
+<td headers="a2 a1 r1">                   35.9357                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1978  </th>
+<td headers="a2 a1 r1">                   35.7324                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1978  </th>
+<td headers="a2 a1 r1">                   35.6907                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1978  </th>
+<td headers="a2 a1 r1">                   35.9918                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1978  </th>
+<td headers="a2 a1 r1">                   35.5401                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1978  </th>
+<td headers="a2 a1 r1">                   34.8406                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1978  </th>
+<td headers="a2 a1 r1">                   34.2486                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1978  </th>
+<td headers="a2 a1 r1">                   34.3306                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1978  </th>
+<td headers="a2 a1 r1">                   33.7305                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1978  </th>
+<td headers="a2 a1 r1">                   34.4819                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1978  </th>
+<td headers="a2 a1 r1">                   34.6557                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1979  </th>
+<td headers="a2 a1 r1">                   34.6560                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1979  </th>
+<td headers="a2 a1 r1">                   34.8596                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1979  </th>
+<td headers="a2 a1 r1">                   34.9715                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1979  </th>
+<td headers="a2 a1 r1">                   35.3069                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1979  </th>
+<td headers="a2 a1 r1">                   35.5728                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1979  </th>
+<td headers="a2 a1 r1">                   35.5731                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1979  </th>
+<td headers="a2 a1 r1">                   35.0481                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1979  </th>
+<td headers="a2 a1 r1">                   35.2184                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1979  </th>
+<td headers="a2 a1 r1">                   35.2723                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1979  </th>
+<td headers="a2 a1 r1">                   35.7240                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1979  </th>
+<td headers="a2 a1 r1">                   36.2129                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1979  </th>
+<td headers="a2 a1 r1">                   35.8850                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1980  </th>
+<td headers="a2 a1 r1">                   35.8600                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1980  </th>
+<td headers="a2 a1 r1">                   36.2089                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1980  </th>
+<td headers="a2 a1 r1">                   37.1465                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1980  </th>
+<td headers="a2 a1 r1">                   37.4326                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1980  </th>
+<td headers="a2 a1 r1">                   36.2590                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1980  </th>
+<td headers="a2 a1 r1">                   35.6922                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1980  </th>
+<td headers="a2 a1 r1">                   35.7021                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1980  </th>
+<td headers="a2 a1 r1">                   36.1026                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1980  </th>
+<td headers="a2 a1 r1">                   35.8811                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1980  </th>
+<td headers="a2 a1 r1">                   36.0536                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1980  </th>
+<td headers="a2 a1 r1">                   36.7653                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1980  </th>
+<td headers="a2 a1 r1">                   37.1358                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1981  </th>
+<td headers="a2 a1 r1">                   37.0637                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1981  </th>
+<td headers="a2 a1 r1">                   38.0500                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1981  </th>
+<td headers="a2 a1 r1">                   38.2959                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1981  </th>
+<td headers="a2 a1 r1">                   39.0399                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1981  </th>
+<td headers="a2 a1 r1">                   40.1449                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1981  </th>
+<td headers="a2 a1 r1">                   40.9463                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1981  </th>
+<td headers="a2 a1 r1">                   41.8342                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1981  </th>
+<td headers="a2 a1 r1">                   42.5119                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1981  </th>
+<td headers="a2 a1 r1">                   41.8378                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1981  </th>
+<td headers="a2 a1 r1">                   41.7382                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1981  </th>
+<td headers="a2 a1 r1">                   41.2352                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1981  </th>
+<td headers="a2 a1 r1">                   41.4273                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1982  </th>
+<td headers="a2 a1 r1">                   42.1104                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1982  </th>
+<td headers="a2 a1 r1">                   43.5598                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1982  </th>
+<td headers="a2 a1 r1">                   44.8249                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1982  </th>
+<td headers="a2 a1 r1">                   45.2875                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1982  </th>
+<td headers="a2 a1 r1">                   44.8653                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1982  </th>
+<td headers="a2 a1 r1">                   46.8101                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1982  </th>
+<td headers="a2 a1 r1">                   47.5219                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1982  </th>
+<td headers="a2 a1 r1">                   48.6651                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1982  </th>
+<td headers="a2 a1 r1">                   49.1017                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1982  </th>
+<td headers="a2 a1 r1">                   49.8821                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1982  </th>
+<td headers="a2 a1 r1">                   50.0780                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1982  </th>
+<td headers="a2 a1 r1">                   49.2939                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1983  </th>
+<td headers="a2 a1 r1">                   49.2986                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1983  </th>
+<td headers="a2 a1 r1">                   50.1162                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1983  </th>
+<td headers="a2 a1 r1">                   50.7947                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1983  </th>
+<td headers="a2 a1 r1">                   51.5031                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1983  </th>
+<td headers="a2 a1 r1">                   51.6810                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1983  </th>
+<td headers="a2 a1 r1">                   52.7268                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1983  </th>
+<td headers="a2 a1 r1">                   53.2555                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1983  </th>
+<td headers="a2 a1 r1">                   54.2500                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1983  </th>
+<td headers="a2 a1 r1">                   54.5880                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1983  </th>
+<td headers="a2 a1 r1">                   54.3601                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1983  </th>
+<td headers="a2 a1 r1">                   55.1389                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1983  </th>
+<td headers="a2 a1 r1">                   55.9662                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1984  </th>
+<td headers="a2 a1 r1">                   56.6598                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1984  </th>
+<td headers="a2 a1 r1">                   56.4816                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1984  </th>
+<td headers="a2 a1 r1">                   56.2779                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1984  </th>
+<td headers="a2 a1 r1">                   57.0130                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1984  </th>
+<td headers="a2 a1 r1">                   58.3156                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1984  </th>
+<td headers="a2 a1 r1">                   59.0032                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1984  </th>
+<td headers="a2 a1 r1">                   60.7986                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1984  </th>
+<td headers="a2 a1 r1">                   61.1534                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1984  </th>
+<td headers="a2 a1 r1">                   62.8506                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1984  </th>
+<td headers="a2 a1 r1">                   63.8490                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1984  </th>
+<td headers="a2 a1 r1">                   63.7735                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1984  </th>
+<td headers="a2 a1 r1">                   65.1475                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1985  </th>
+<td headers="a2 a1 r1">                   66.5187                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1985  </th>
+<td headers="a2 a1 r1">                   68.5337                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1985  </th>
+<td headers="a2 a1 r1">                   69.2367                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1985  </th>
+<td headers="a2 a1 r1">                   67.8008                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1985  </th>
+<td headers="a2 a1 r1">                   68.3559                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1985  </th>
+<td headers="a2 a1 r1">                   68.2042                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1985  </th>
+<td headers="a2 a1 r1">                   67.0258                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1985  </th>
+<td headers="a2 a1 r1">                   67.0263                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1985  </th>
+<td headers="a2 a1 r1">                   67.7718                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1985  </th>
+<td headers="a2 a1 r1">                   65.4388                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1985  </th>
+<td headers="a2 a1 r1">                   64.9168                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1985  </th>
+<td headers="a2 a1 r1">                   65.0381                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1986  </th>
+<td headers="a2 a1 r1">                   64.9783                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1986  </th>
+<td headers="a2 a1 r1">                   63.5747                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1986  </th>
+<td headers="a2 a1 r1">                   62.9331                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1986  </th>
+<td headers="a2 a1 r1">                   62.7122                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1986  </th>
+<td headers="a2 a1 r1">                   61.8118                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1986  </th>
+<td headers="a2 a1 r1">                   62.3251                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1986  </th>
+<td headers="a2 a1 r1">                   61.4561                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1986  </th>
+<td headers="a2 a1 r1">                   60.9089                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1986  </th>
+<td headers="a2 a1 r1">                   61.1942                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1986  </th>
+<td headers="a2 a1 r1">                   61.4934                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1986  </th>
+<td headers="a2 a1 r1">                   62.3702                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1986  </th>
+<td headers="a2 a1 r1">                   62.4267                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1987  </th>
+<td headers="a2 a1 r1">                   60.8462                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1987  </th>
+<td headers="a2 a1 r1">                   60.5291                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1987  </th>
+<td headers="a2 a1 r1">                   60.4773                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1987  </th>
+<td headers="a2 a1 r1">                   59.7043                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1987  </th>
+<td headers="a2 a1 r1">                   59.6325                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1987  </th>
+<td headers="a2 a1 r1">                   60.5782                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1987  </th>
+<td headers="a2 a1 r1">                   61.6028                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1987  </th>
+<td headers="a2 a1 r1">                   61.6380                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1987  </th>
+<td headers="a2 a1 r1">                   60.9387                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1987  </th>
+<td headers="a2 a1 r1">                   61.0368                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1987  </th>
+<td headers="a2 a1 r1">                   59.4714                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1987  </th>
+<td headers="a2 a1 r1">                   58.6431                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1988  </th>
+<td headers="a2 a1 r1">                   59.1040                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1988  </th>
+<td headers="a2 a1 r1">                   59.7802                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1988  </th>
+<td headers="a2 a1 r1">                   59.2901                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1988  </th>
+<td headers="a2 a1 r1">                   59.0075                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1988  </th>
+<td headers="a2 a1 r1">                   59.4392                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1988  </th>
+<td headers="a2 a1 r1">                   60.5403                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1988  </th>
+<td headers="a2 a1 r1">                   62.1886                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1988  </th>
+<td headers="a2 a1 r1">                   63.0768                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1988  </th>
+<td headers="a2 a1 r1">                   63.3727                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1988  </th>
+<td headers="a2 a1 r1">                   62.3440                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1988  </th>
+<td headers="a2 a1 r1">                   61.3602                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1988  </th>
+<td headers="a2 a1 r1">                   61.5591                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1989  </th>
+<td headers="a2 a1 r1">                   62.9025                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1989  </th>
+<td headers="a2 a1 r1">                   63.2856                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1989  </th>
+<td headers="a2 a1 r1">                   64.3096                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1989  </th>
+<td headers="a2 a1 r1">                   64.8369                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1989  </th>
+<td headers="a2 a1 r1">                   66.4300                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1989  </th>
+<td headers="a2 a1 r1">                   68.0355                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1989  </th>
+<td headers="a2 a1 r1">                   67.3819                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1989  </th>
+<td headers="a2 a1 r1">                   68.2819                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1989  </th>
+<td headers="a2 a1 r1">                   69.4326                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1989  </th>
+<td headers="a2 a1 r1">                   68.9528                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1989  </th>
+<td headers="a2 a1 r1">                   69.3945                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1989  </th>
+<td headers="a2 a1 r1">                   69.6101                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1990  </th>
+<td headers="a2 a1 r1">                   70.1345                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1990  </th>
+<td headers="a2 a1 r1">                   71.1232                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1990  </th>
+<td headers="a2 a1 r1">                   72.9546                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1990  </th>
+<td headers="a2 a1 r1">                   73.3941                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1990  </th>
+<td headers="a2 a1 r1">                   72.9620                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1990  </th>
+<td headers="a2 a1 r1">                   73.2249                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1990  </th>
+<td headers="a2 a1 r1">                   72.0906                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1990  </th>
+<td headers="a2 a1 r1">                   71.0147                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1990  </th>
+<td headers="a2 a1 r1">                   70.5077                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1990  </th>
+<td headers="a2 a1 r1">                   69.3448                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1990  </th>
+<td headers="a2 a1 r1">                   69.4716                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1990  </th>
+<td headers="a2 a1 r1">                   70.6934                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1991  </th>
+<td headers="a2 a1 r1">                   71.0738                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1991  </th>
+<td headers="a2 a1 r1">                   70.7005                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1991  </th>
+<td headers="a2 a1 r1">                   73.3824                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1991  </th>
+<td headers="a2 a1 r1">                   74.5544                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1991  </th>
+<td headers="a2 a1 r1">                   75.0827                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1991  </th>
+<td headers="a2 a1 r1">                   76.2585                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1991  </th>
+<td headers="a2 a1 r1">                   76.4080                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1991  </th>
+<td headers="a2 a1 r1">                   75.8928                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1991  </th>
+<td headers="a2 a1 r1">                   75.1196                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1991  </th>
+<td headers="a2 a1 r1">                   75.1015                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1991  </th>
+<td headers="a2 a1 r1">                   74.4726                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1991  </th>
+<td headers="a2 a1 r1">                   74.1260                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1992  </th>
+<td headers="a2 a1 r1">                   74.4082                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1992  </th>
+<td headers="a2 a1 r1">                   75.6435                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1992  </th>
+<td headers="a2 a1 r1">                   77.3368                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1992  </th>
+<td headers="a2 a1 r1">                   77.4242                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1992  </th>
+<td headers="a2 a1 r1">                   77.0866                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1992  </th>
+<td headers="a2 a1 r1">                   76.2443                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1992  </th>
+<td headers="a2 a1 r1">                   75.3025                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1992  </th>
+<td headers="a2 a1 r1">                   75.1183                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1992  </th>
+<td headers="a2 a1 r1">                   75.8731                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1992  </th>
+<td headers="a2 a1 r1">                   77.5271                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1992  </th>
+<td headers="a2 a1 r1">                   80.1583                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1992  </th>
+<td headers="a2 a1 r1">                   80.8499                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1993  </th>
+<td headers="a2 a1 r1">                   82.0023                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1993  </th>
+<td headers="a2 a1 r1">                   82.5443                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1993  </th>
+<td headers="a2 a1 r1">                   82.4072                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1993  </th>
+<td headers="a2 a1 r1">                   81.5063                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1993  </th>
+<td headers="a2 a1 r1">                   81.8694                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1993  </th>
+<td headers="a2 a1 r1">                   82.7197                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1993  </th>
+<td headers="a2 a1 r1">                   84.0634                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1993  </th>
+<td headers="a2 a1 r1">                   84.2420                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1993  </th>
+<td headers="a2 a1 r1">                   84.4005                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1993  </th>
+<td headers="a2 a1 r1">                   85.4585                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1993  </th>
+<td headers="a2 a1 r1">                   86.6715                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1993  </th>
+<td headers="a2 a1 r1">                   87.5180                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1994  </th>
+<td headers="a2 a1 r1">                   90.3880                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1994  </th>
+<td headers="a2 a1 r1">                   90.4705                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1994  </th>
+<td headers="a2 a1 r1">                   90.9911                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1994  </th>
+<td headers="a2 a1 r1">                   91.6541                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1994  </th>
+<td headers="a2 a1 r1">                   91.7219                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1994  </th>
+<td headers="a2 a1 r1">                   92.0166                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1994  </th>
+<td headers="a2 a1 r1">                   90.8465                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1994  </th>
+<td headers="a2 a1 r1">                   90.8400                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1994  </th>
+<td headers="a2 a1 r1">                   90.0052                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1994  </th>
+<td headers="a2 a1 r1">                   89.5426                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1994  </th>
+<td headers="a2 a1 r1">                   89.9678                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1994  </th>
+<td headers="a2 a1 r1">                   92.0418                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1995  </th>
+<td headers="a2 a1 r1">                   94.0871                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1995  </th>
+<td headers="a2 a1 r1">                   93.6275                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1995  </th>
+<td headers="a2 a1 r1">                   92.7380                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1995  </th>
+<td headers="a2 a1 r1">                   90.1488                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1995  </th>
+<td headers="a2 a1 r1">                   90.1369                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1995  </th>
+<td headers="a2 a1 r1">                   90.3097                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1995  </th>
+<td headers="a2 a1 r1">                   90.3452                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1995  </th>
+<td headers="a2 a1 r1">                   92.4834                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1995  </th>
+<td headers="a2 a1 r1">                   93.8448                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1995  </th>
+<td headers="a2 a1 r1">                   93.6617                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1995  </th>
+<td headers="a2 a1 r1">                   94.8835                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1995  </th>
+<td headers="a2 a1 r1">                   95.5670                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1996  </th>
+<td headers="a2 a1 r1">                   96.4501                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1996  </th>
+<td headers="a2 a1 r1">                   96.6093                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1996  </th>
+<td headers="a2 a1 r1">                   96.6007                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1996  </th>
+<td headers="a2 a1 r1">                   96.8903                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1996  </th>
+<td headers="a2 a1 r1">                   97.3537                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1996  </th>
+<td headers="a2 a1 r1">                   97.8128                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1996  </th>
+<td headers="a2 a1 r1">                   97.6823                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1996  </th>
+<td headers="a2 a1 r1">                   97.2600                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1996  </th>
+<td headers="a2 a1 r1">                   97.7927                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1996  </th>
+<td headers="a2 a1 r1">                   98.2434                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1996  </th>
+<td headers="a2 a1 r1">                   97.8598                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1996  </th>
+<td headers="a2 a1 r1">                   98.9296                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1997  </th>
+<td headers="a2 a1 r1">                  100.0000                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1997  </th>
+<td headers="a2 a1 r1">                  101.8516                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1997  </th>
+<td headers="a2 a1 r1">                  102.6546                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1997  </th>
+<td headers="a2 a1 r1">                  103.4520                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1997  </th>
+<td headers="a2 a1 r1">                  102.4414                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1997  </th>
+<td headers="a2 a1 r1">                  102.0955                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1997  </th>
+<td headers="a2 a1 r1">                  103.2968                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1997  </th>
+<td headers="a2 a1 r1">                  105.1786                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1997  </th>
+<td headers="a2 a1 r1">                  105.6641                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1997  </th>
+<td headers="a2 a1 r1">                  106.2741                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1997  </th>
+<td headers="a2 a1 r1">                  108.0039                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1997  </th>
+<td headers="a2 a1 r1">                  112.2393                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1998  </th>
+<td headers="a2 a1 r1">                  115.9906                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1998  </th>
+<td headers="a2 a1 r1">                  114.4475                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1998  </th>
+<td headers="a2 a1 r1">                  114.1786                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1998  </th>
+<td headers="a2 a1 r1">                  113.9345                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1998  </th>
+<td headers="a2 a1 r1">                  114.8202                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1998  </th>
+<td headers="a2 a1 r1">                  117.3693                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1998  </th>
+<td headers="a2 a1 r1">                  117.6859                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1998  </th>
+<td headers="a2 a1 r1">                  119.6039                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1998  </th>
+<td headers="a2 a1 r1">                  118.2007                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1998  </th>
+<td headers="a2 a1 r1">                  115.0699                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1998  </th>
+<td headers="a2 a1 r1">                  115.0556                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1998  </th>
+<td headers="a2 a1 r1">                  114.3004                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 1999  </th>
+<td headers="a2 a1 r1">                  114.4695                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 1999  </th>
+<td headers="a2 a1 r1">                  116.0623                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 1999  </th>
+<td headers="a2 a1 r1">                  117.4558                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 1999  </th>
+<td headers="a2 a1 r1">                  116.8531                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 1999  </th>
+<td headers="a2 a1 r1">                  116.6287                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 1999  </th>
+<td headers="a2 a1 r1">                  117.2634                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 1999  </th>
+<td headers="a2 a1 r1">                  117.3431                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 1999  </th>
+<td headers="a2 a1 r1">                  116.2869                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 1999  </th>
+<td headers="a2 a1 r1">                  115.6097                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 1999  </th>
+<td headers="a2 a1 r1">                  115.0946                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 1999  </th>
+<td headers="a2 a1 r1">                  115.3723                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 1999  </th>
+<td headers="a2 a1 r1">                  115.4373                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2000  </th>
+<td headers="a2 a1 r1">                  115.2332                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2000  </th>
+<td headers="a2 a1 r1">                  116.6821                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2000  </th>
+<td headers="a2 a1 r1">                  116.6730                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2000  </th>
+<td headers="a2 a1 r1">                  117.3314                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2000  </th>
+<td headers="a2 a1 r1">                  119.9301                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2000  </th>
+<td headers="a2 a1 r1">                  118.7033                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2000  </th>
+<td headers="a2 a1 r1">                  119.0338                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2000  </th>
+<td headers="a2 a1 r1">                  119.8199                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2000  </th>
+<td headers="a2 a1 r1">                  121.2941                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2000  </th>
+<td headers="a2 a1 r1">                  123.0204                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2000  </th>
+<td headers="a2 a1 r1">                  123.9700                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2000  </th>
+<td headers="a2 a1 r1">                  122.9904                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2001  </th>
+<td headers="a2 a1 r1">                  122.8517                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2001  </th>
+<td headers="a2 a1 r1">                  123.5410                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2001  </th>
+<td headers="a2 a1 r1">                  125.5652                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2001  </th>
+<td headers="a2 a1 r1">                  126.5339                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2001  </th>
+<td headers="a2 a1 r1">                  126.3929                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2001  </th>
+<td headers="a2 a1 r1">                  127.2445                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2001  </th>
+<td headers="a2 a1 r1">                  127.6702                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2001  </th>
+<td headers="a2 a1 r1">                  125.5711                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2001  </th>
+<td headers="a2 a1 r1">                  125.9268                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2001  </th>
+<td headers="a2 a1 r1">                  126.7673                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2001  </th>
+<td headers="a2 a1 r1">                  127.2869                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2001  </th>
+<td headers="a2 a1 r1">                  127.3640                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2002  </th>
+<td headers="a2 a1 r1">                  128.9497                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2002  </th>
+<td headers="a2 a1 r1">                  129.6882                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2002  </th>
+<td headers="a2 a1 r1">                  128.9432                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2002  </th>
+<td headers="a2 a1 r1">                  128.5672                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2002  </th>
+<td headers="a2 a1 r1">                  127.0078                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2002  </th>
+<td headers="a2 a1 r1">                  125.5704                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2002  </th>
+<td headers="a2 a1 r1">                  123.8086                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2002  </th>
+<td headers="a2 a1 r1">                  125.2352                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2002  </th>
+<td headers="a2 a1 r1">                  126.1598                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2002  </th>
+<td headers="a2 a1 r1">                  127.0670                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2002  </th>
+<td headers="a2 a1 r1">                  125.7830                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2002  </th>
+<td headers="a2 a1 r1">                  125.1346                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2003  </th>
+<td headers="a2 a1 r1">                  123.5893                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2003  </th>
+<td headers="a2 a1 r1">                  123.4354                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2003  </th>
+<td headers="a2 a1 r1">                  122.9623                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2003  </th>
+<td headers="a2 a1 r1">                  121.9868                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2003  </th>
+<td headers="a2 a1 r1">                  118.0147                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2003  </th>
+<td headers="a2 a1 r1">                  117.3739                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2003  </th>
+<td headers="a2 a1 r1">                  118.5844                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2003  </th>
+<td headers="a2 a1 r1">                  119.8917                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2003  </th>
+<td headers="a2 a1 r1">                  118.5507                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2003  </th>
+<td headers="a2 a1 r1">                  116.2083                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2003  </th>
+<td headers="a2 a1 r1">                  116.0766                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2003  </th>
+<td headers="a2 a1 r1">                  114.5054                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2004  </th>
+<td headers="a2 a1 r1">                  112.6030                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2004  </th>
+<td headers="a2 a1 r1">                  113.1418                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2004  </th>
+<td headers="a2 a1 r1">                  114.2572                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2004  </th>
+<td headers="a2 a1 r1">                  115.0670                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2004  </th>
+<td headers="a2 a1 r1">                  116.9377                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2004  </th>
+<td headers="a2 a1 r1">                  115.8277                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2004  </th>
+<td headers="a2 a1 r1">                  115.0165                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2004  </th>
+<td headers="a2 a1 r1">                  115.1841                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2004  </th>
+<td headers="a2 a1 r1">                  114.7120                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2004  </th>
+<td headers="a2 a1 r1">                  113.1031                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2004  </th>
+<td headers="a2 a1 r1">                  110.2266                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2004  </th>
+<td headers="a2 a1 r1">                  109.0097                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2005  </th>
+<td headers="a2 a1 r1">                  109.5752                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2005  </th>
+<td headers="a2 a1 r1">                  109.7872                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2005  </th>
+<td headers="a2 a1 r1">                  109.1907                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2005  </th>
+<td headers="a2 a1 r1">                  110.1137                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2005  </th>
+<td headers="a2 a1 r1">                  110.5925                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2005  </th>
+<td headers="a2 a1 r1">                  111.6753                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2005  </th>
+<td headers="a2 a1 r1">                  112.1163                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2005  </th>
+<td headers="a2 a1 r1">                  110.6810                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2005  </th>
+<td headers="a2 a1 r1">                  110.5886                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2005  </th>
+<td headers="a2 a1 r1">                  111.6309                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2005  </th>
+<td headers="a2 a1 r1">                  112.4064                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2005  </th>
+<td headers="a2 a1 r1">                  111.6948                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2006  </th>
+<td headers="a2 a1 r1">                  110.1633                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2006  </th>
+<td headers="a2 a1 r1">                  110.4101                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2006  </th>
+<td headers="a2 a1 r1">                  110.5750                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2006  </th>
+<td headers="a2 a1 r1">                  109.8023                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2006  </th>
+<td headers="a2 a1 r1">                  107.5585                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2006  </th>
+<td headers="a2 a1 r1">                  108.8334                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2006  </th>
+<td headers="a2 a1 r1">                  108.5632                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2006  </th>
+<td headers="a2 a1 r1">                  107.8440                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2006  </th>
+<td headers="a2 a1 r1">                  108.1132                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2006  </th>
+<td headers="a2 a1 r1">                  108.3838                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2006  </th>
+<td headers="a2 a1 r1">                  107.4980                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2006  </th>
+<td headers="a2 a1 r1">                  106.6751                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2007  </th>
+<td headers="a2 a1 r1">                  107.6971                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2007  </th>
+<td headers="a2 a1 r1">                  107.3298                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2007  </th>
+<td headers="a2 a1 r1">                  106.7851                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2007  </th>
+<td headers="a2 a1 r1">                  105.4372                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2007  </th>
+<td headers="a2 a1 r1">                  104.5442                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2007  </th>
+<td headers="a2 a1 r1">                  104.2830                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2007  </th>
+<td headers="a2 a1 r1">                  102.9463                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2007  </th>
+<td headers="a2 a1 r1">                  103.5230                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2007  </th>
+<td headers="a2 a1 r1">                  102.0819                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2007  </th>
+<td headers="a2 a1 r1">                  100.0667                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2007  </th>
+<td headers="a2 a1 r1">                   98.6530                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2007  </th>
+<td headers="a2 a1 r1">                   99.4776                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2008  </th>
+<td headers="a2 a1 r1">                   98.6456                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2008  </th>
+<td headers="a2 a1 r1">                   97.8280                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2008  </th>
+<td headers="a2 a1 r1">                   95.9081                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2008  </th>
+<td headers="a2 a1 r1">                   95.5365                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2008  </th>
+<td headers="a2 a1 r1">                   95.8980                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2008  </th>
+<td headers="a2 a1 r1">                   96.0750                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2008  </th>
+<td headers="a2 a1 r1">                   95.3700                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2008  </th>
+<td headers="a2 a1 r1">                   97.8858                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2008  </th>
+<td headers="a2 a1 r1">                  100.3046                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2008  </th>
+<td headers="a2 a1 r1">                  106.9588                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2008  </th>
+<td headers="a2 a1 r1">                  109.6413                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2008  </th>
+<td headers="a2 a1 r1">                  108.4924                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2009  </th>
+<td headers="a2 a1 r1">                  109.1686                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2009  </th>
+<td headers="a2 a1 r1">                  111.8563                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2009  </th>
+<td headers="a2 a1 r1">                  112.3420                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2009  </th>
+<td headers="a2 a1 r1">                  109.5536                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2009  </th>
+<td headers="a2 a1 r1">                  106.4023                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2009  </th>
+<td headers="a2 a1 r1">                  105.0395                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2009  </th>
+<td headers="a2 a1 r1">                  104.6451                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2009  </th>
+<td headers="a2 a1 r1">                  103.3931                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2009  </th>
+<td headers="a2 a1 r1">                  102.6134                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2009  </th>
+<td headers="a2 a1 r1">                  101.1490                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2009  </th>
+<td headers="a2 a1 r1">                  100.6685                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2009  </th>
+<td headers="a2 a1 r1">                  101.1181                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2010  </th>
+<td headers="a2 a1 r1">                  101.3997                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2010  </th>
+<td headers="a2 a1 r1">                  102.9111                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2010  </th>
+<td headers="a2 a1 r1">                  102.0231                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2010  </th>
+<td headers="a2 a1 r1">                  101.5118                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2010  </th>
+<td headers="a2 a1 r1">                  104.3117                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2010  </th>
+<td headers="a2 a1 r1">                  104.8769                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2010  </th>
+<td headers="a2 a1 r1">                  103.2516                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2010  </th>
+<td headers="a2 a1 r1">                  102.4484                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2010  </th>
+<td headers="a2 a1 r1">                  101.4488                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2010  </th>
+<td headers="a2 a1 r1">                   98.8213                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2010  </th>
+<td headers="a2 a1 r1">                   99.1006                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2010  </th>
+<td headers="a2 a1 r1">                   99.7504                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2011  </th>
+<td headers="a2 a1 r1">                   98.5989                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2011  </th>
+<td headers="a2 a1 r1">                   97.8532                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2011  </th>
+<td headers="a2 a1 r1">                   96.9218                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2011  </th>
+<td headers="a2 a1 r1">                   95.3202                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2011  </th>
+<td headers="a2 a1 r1">                   95.2789                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2011  </th>
+<td headers="a2 a1 r1">                   95.2537                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2011  </th>
+<td headers="a2 a1 r1">                   94.5951                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2011  </th>
+<td headers="a2 a1 r1">                   95.1380                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2011  </th>
+<td headers="a2 a1 r1">                   97.9794                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2011  </th>
+<td headers="a2 a1 r1">                   98.8877                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2011  </th>
+<td headers="a2 a1 r1">                   99.5205                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2011  </th>
+<td headers="a2 a1 r1">                  100.4525                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2012  </th>
+<td headers="a2 a1 r1">                   99.8207                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2012  </th>
+<td headers="a2 a1 r1">                   98.0948                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2012  </th>
+<td headers="a2 a1 r1">                   98.6947                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2012  </th>
+<td headers="a2 a1 r1">                   99.0143                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2012  </th>
+<td headers="a2 a1 r1">                  100.7322                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2012  </th>
+<td headers="a2 a1 r1">                  102.1692                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2012  </th>
+<td headers="a2 a1 r1">                  101.6766                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2012  </th>
+<td headers="a2 a1 r1">                  100.7970                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2012  </th>
+<td headers="a2 a1 r1">                   99.2313                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2012  </th>
+<td headers="a2 a1 r1">                   98.9535                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2012  </th>
+<td headers="a2 a1 r1">                   99.5830                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2012  </th>
+<td headers="a2 a1 r1">                   99.0173                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2013  </th>
+<td headers="a2 a1 r1">                   98.9353                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2013  </th>
+<td headers="a2 a1 r1">                   99.7569                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2013  </th>
+<td headers="a2 a1 r1">                  100.6193                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2013  </th>
+<td headers="a2 a1 r1">                  100.2646                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2013  </th>
+<td headers="a2 a1 r1">                  100.6962                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2013  </th>
+<td headers="a2 a1 r1">                  101.5256                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2013  </th>
+<td headers="a2 a1 r1">                  102.0797                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2013  </th>
+<td headers="a2 a1 r1">                  101.9734                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2013  </th>
+<td headers="a2 a1 r1">                  101.7617                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2013  </th>
+<td headers="a2 a1 r1">                  100.7445                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2013  </th>
+<td headers="a2 a1 r1">                  101.6386                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2013  </th>
+<td headers="a2 a1 r1">                  101.8164                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2014  </th>
+<td headers="a2 a1 r1">                  102.7873                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2014  </th>
+<td headers="a2 a1 r1">                  103.0426                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2014  </th>
+<td headers="a2 a1 r1">                  102.9621                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2014  </th>
+<td headers="a2 a1 r1">                  102.5691                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2014  </th>
+<td headers="a2 a1 r1">                  102.2406                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2014  </th>
+<td headers="a2 a1 r1">                  102.3880                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2014  </th>
+<td headers="a2 a1 r1">                  102.1436                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2014  </th>
+<td headers="a2 a1 r1">                  103.0564                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2014  </th>
+<td headers="a2 a1 r1">                  104.6024                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2014  </th>
+<td headers="a2 a1 r1">                  105.9493                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2014  </th>
+<td headers="a2 a1 r1">                  107.7489                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2014  </th>
+<td headers="a2 a1 r1">                  110.3957                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2015  </th>
+<td headers="a2 a1 r1">                  112.7741                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2015  </th>
+<td headers="a2 a1 r1">                  114.2463                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2015  </th>
+<td headers="a2 a1 r1">                  116.2852                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2015  </th>
+<td headers="a2 a1 r1">                  115.0775                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2015  </th>
+<td headers="a2 a1 r1">                  114.1961                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2015  </th>
+<td headers="a2 a1 r1">                  115.1323                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2015  </th>
+<td headers="a2 a1 r1">                  117.1636                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">AUG 2015  </th>
+<td headers="a2 a1 r1">                  119.4261                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">SEP 2015  </th>
+<td headers="a2 a1 r1">                  120.3613                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">OCT 2015  </th>
+<td headers="a2 a1 r1">                  119.2826                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">NOV 2015  </th>
+<td headers="a2 a1 r1">                  121.0840                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">DEC 2015  </th>
+<td headers="a2 a1 r1">                  122.3758                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JAN 2016  </th>
+<td headers="a2 a1 r1">                  125.1504                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">FEB 2016  </th>
+<td headers="a2 a1 r1">                  124.0358                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAR 2016  </th>
+<td headers="a2 a1 r1">                  121.4929                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">APR 2016  </th>
+<td headers="a2 a1 r1">                  119.5276                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">MAY 2016  </th>
+<td headers="a2 a1 r1">                  120.7668                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUN 2016  </th>
+<td headers="a2 a1 r1">                  121.1508                                            </td>
+</tr>
+<tr>
+<th id="r1" headers="a1">JUL 2016  </th>
+<td headers="a2 a1 r1">                  121.9331                                            </td>
+</tr>
+</table>
+</div>
+
+</div> <!-- CLOSES TwoColumns -->
+
+</div> <!-- CLOSES generalContentText -->
+
+<div class="clear"></div>
+
+<div id="lastUpdate">Last update:  August 01, 2016</div>
+
+<div id="FooterLinks">
+
+ <a href="/default.htm">Home</a> | <a href="/econresdata/default.htm">Economic research and data</A>
+
+
+</div> <!-- CLOSES FooterLinks -->
+
+
+
+
+<div id="secondaryFooterLinks">
+<div class="secondaryFooterLinksLeft">
+
+<a href="/accessibility.htm">Accessibility</a>
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+<a href="/disclaimer.htm">Disclaimer</a>
+<a href="/policies.htm">Website Policies</a>
+<a href="/foia/about_foia.htm">FOIA</a>
+
+
+</div>
+<div class="secondaryFooterLinksRight">
+<a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon" />
+</div>
+<div class="clear"></div>
+
+</div> <!-- CLOSES secondaryFooterLinks -->
+
+
+</div> <!-- CLOSES content -->
+<div class="clear"></div>
+</div> <!-- CLOSES contentContainer -->
+
+<div id="footer">
+<div id="Footer2"></div>
+</div> <!-- CLOSES footer -->
+
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+
+</html>
+
+

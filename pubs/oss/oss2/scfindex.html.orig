@@ -1,0 +1,160 @@
+<HTML>
+<META HTTP-EQUIV="Refresh" CONTENT="0; URL=/econresdata/scf/scfindex.htm">
+<head>
+     <title>FRB: Invalid URL</title>
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF">
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>
+
+
+<!-- <HTML>
+<HEAD>
+<TITLE>FRB: 2007 SCF</TITLE> 
+<script language="JavaScript" src="/exit_new.js"></script> 
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY><div id="content">
+<A NAME="pagetop"></A>
+
+<A HREF="/"><IMG SRC="../../../../../gifjpg/sm_head2.gif" ALIGN="Bottom" Border=0 ALT="The Federal Reserve Board eagle logo links to home page"></A>
+
+<HR NOSHADE>
+<a hef="#content1"><img src="gifjpg/spacer.gif" width="1" height="1" alt="skip to content" border="0"></a>
+
+
+<!--BEGIN TITLE AND NAVIGATION-->
+<!--<div id="scfheader">
+<a href="scfindex.html"><img src="bitmaps/scf_logo_flag-1c.gif" align="left" border="0" alt="Survey of Consumer Finance link to SCF home page"></a>
+
+<div id="nav">
+<h1 class="topTitle">Survey of Consumer Finances</h1>
+<ul>
+<li class="selected"><a href="scfindex.html">SCF index</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="changes.html">Recent Changes</a></li>
+<li><a href="faq.html">FAQs</a></li>
+<li class="last"><a href="method.html">SCF working papers and bibliography</a></li>
+</ul>
+
+
+</div><!--Closes Nav-->
+</div><!--Closes scfheader-->
+<!--END OF TITLE AND NAVIGATION-->
+
+
+<!--CONTENT BEGINS HERE-------------------------------------------->
+<!-- <a id="content1" name="content1"></a>
+<P>
+
+
+The Survey of Consumer Finances (SCF) is a triennial survey of the balance sheet, pension, income, and 
+other demographic characteristics of U.S. families. The survey also gathers information on the use of 
+financial institutions. The links to the surveys provide summary results, codebooks and other documentation,
+and the publicly available data.
+<p>
+For the 1983 and 1989 surveys, a separate Survey of Pension Providers (SPP) was conducted to obtain
+detailed technical information on the pensions of SCF particpants; data and documentation for the SPP 
+appear under a separate link. A link is also given for data and documentation from the 1962 Survey 
+of Financial Characteristics of Consumers (SFCC) and the 1963 Survey of Changes in Family Finances (SCFF);
+these surveys are the most direct precursors of the SCF. 
+
+
+</p>
+
+<HR NOSHADE>
+
+
+<!--SUMMARY SELECTION DROP DOWN BOX-->
+<!--<form name="SurveySelectForm">
+  <strong>Select a survey: </strong>
+
+ <select size="1" name="SurveyYear">
+ <option value="2009p/scf2009phome.html">2009P SCF</option>   
+ <option value="2007/scf2007home.html">2007 SCF</option>
+ <option value="2004/scf2004home.html">2004 SCF</option>
+ <option value="2001/scf2001home.html">2001 SCF</option>
+ <option value="98/scf98home.html">1998 SCF</option>
+ <option value="95/scf95home.html">1995 SCF</option>
+ <option value="92/scf92home.html">1992 SCF</option>
+ <option value="89/scf89home.html">1989 SCF</option>
+ <option value="86/scf86home.html">1986 SCF</option>
+ <option value="83/scf83home.html">1983 SCF</option>
+ <option value="89p/scf89phome.html">1983-89 Panel SCF</option>
+ <option value="6263/sfcc6263home.html">1962 SFCC and 1963 SCFF</option>
+ <option value="8389spp/spphome.html">1983-89 SPP</option>
+ </select>
+<input type="button" name="Submit" value="Go" id="button" onClick="location.href=document.SurveySelectForm.SurveyYear.options[document.SurveySelectForm.SurveyYear.selectedIndex].value">
+
+</form>
+<!-- END SUMMARY SELECTION DROP DOWN BOX-->
+
+<!--NOSCRIPT LINKS BEGINS HERE-->
+ <!-- <noscript>
+  <A HREF="2009p/scf2009phome.html">2009P SCF</A>
+| <A HREF="2007/scf2007home.html">2007 SCF</A> 
+| <A HREF="2004/scf2004home.html">2004 SCF</A>
+| <A HREF="2001/scf2001home.html">2001 SCF</A>
+| <A HREF="98/scf98home.html">1998 SCF</A>
+| <A HREF="95/scf95home.html">1995 SCF</A>
+| <A HREF="92/scf92home.html">1992 SCF</A>
+| <A HREF="89/scf89home.html">1989 SCF</A>
+<br>
+| <A HREF="86/scf86home.html">1986 SCF</A>
+| <A HREF="83/scf83home.html">1983 SCF</A>
+| <A HREF="89p/scf89phome.html">1983-89 Panel SCF</A>
+| <A HREF="6263/sfcc6263home.html">1962 SFCC and 1963 SCFF</A>
+| <A HREF="8389spp/spphome.html">1983-89 SPP</A></noscript> 
+<!-- END OF NOSCRIPT LINKS-->
+
+<!--<p>
+<br><b>HOW TO GET NOTIFICATION OF CHANGES:</b> If you would like to
+receive notification about additions to the web page and updates to
+these surveys, please sign our <A HREF="http://www.federalreserve.gov/pubs/oss/oss2/guestbk.cfm"> Guest Book</A>.<BR>
+<br><b>HOW TO SEND A COMMENT OR QUESTION: </b> To send a comment about
+the SCF website or to make technical inquiries about the SCF,
+please fill out our <A HREF="http://www.federalreserve.gov/feedback.cfm">feedback</A> form.  To
+ensure that your question is properly routed, please select the Survey
+of Consumer Finances as the "staff group" and select no other
+options above the field labeled "Type your message."<BR> 
+
+<!--CONTENT ENDS HERE-->
+
+
+<!--FOOTER BEGINS HERE-->
+<!--<HR NOSHADE>
+<div class="footer">
+<a href="/">Home</a> 
+| <A HREF="/boarddocs/surveys/">Surveys</A>
+| <A HREF="/pubs/oss/index.html">OSS</A> <br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a>
+<br>
+<b>Last update: March 24, 2011</b> 
+</div>
+<!--FOOTER ENDS-->
+
+<!--</div><!--CLOSES CONTENT DIV TAG-->
+
+<!--<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>-->
+<!--</HTML>-->
+
+
+

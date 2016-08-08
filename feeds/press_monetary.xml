@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd">
+
+
+
+
+
+    <channel rdf:about="http://www.federalreserve.gov/feeds/press_monetary.xml">
+        <title>FRB: Press Release - Monetary Policy</title>
+        <link>http://www.federalreserve.gov/feeds/default.htm</link>
+        <description>Press releases about monetary policy from the Federal Reserve Board</description> 
+        <items>
+            <rdf:Seq>
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160804a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160727a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160712a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160706a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160628a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160624a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160615a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160615b.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160524a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160519a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160518a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160512a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160427a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160412a.htm" />
+            
+    
+        <rdf:li rdf:resource="http://www.federalreserve.gov/newsevents/press/monetary/20160406a.htm" />
+            
+            </rdf:Seq>
+        </items>
+    </channel>
+
+
+    
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160804a.htm">
+        <title>Federal Reserve to offer seven-day term deposits through its Term Deposit Facility on August 11</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160804a.htm</link>
+        <description>Federal Reserve to offer seven-day term deposits through its Term Deposit Facility on August 11</description>
+        <dc:date>2016-08-04T10:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve to offer seven-day term deposits through its Term Deposit Facility on August 11</cb:simpleTitle>
+        <cb:occurrenceDate>2016-08-04T10:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160727a.htm">
+        <title>Federal Reserve issues FOMC statement</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160727a.htm</link>
+        <description>Federal Reserve issues FOMC statement</description>
+        <dc:date>2016-07-27T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve issues FOMC statement</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-27T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160712a.htm">
+        <title>Minutes of the Board's discount rate meetings from May 23 and June 13, 2016 </title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160712a.htm</link>
+        <description>Minutes of the Board's discount rate meetings from May 23 and June 13, 2016 </description>
+        <dc:date>2016-07-12T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Minutes of the Board's discount rate meetings from May 23 and June 13, 2016 </cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-12T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160706a.htm">
+        <title>Minutes of the Federal Open Market Committee, June 14-15, 2016</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160706a.htm</link>
+        <description>Minutes of the Federal Open Market Committee, June 14-15, 2016</description>
+        <dc:date>2016-07-06T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Minutes of the Federal Open Market Committee, June 14-15, 2016</cb:simpleTitle>
+        <cb:occurrenceDate>2016-07-06T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160628a.htm">
+        <title>Federal Open Market Committee announces its tentative meeting schedule for 2017</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160628a.htm</link>
+        <description>Federal Open Market Committee announces its tentative meeting schedule for 2017</description>
+        <dc:date>2016-06-28T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Open Market Committee announces its tentative meeting schedule for 2017</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-28T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160624a.htm">
+        <title>Federal Reserve is carefully monitoring developments in global financial markets</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160624a.htm</link>
+        <description>Federal Reserve is carefully monitoring developments in global financial markets</description>
+        <dc:date>2016-06-24T09:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve is carefully monitoring developments in global financial markets</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-24T09:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160615a.htm">
+        <title>Federal Reserve issues FOMC statement</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160615a.htm</link>
+        <description>Federal Reserve issues FOMC statement</description>
+        <dc:date>2016-06-15T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve issues FOMC statement</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-15T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160615b.htm">
+        <title>Federal Reserve Board and Federal Open Market Committee release economic projections from the June 14-15 FOMC meeting</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160615b.htm</link>
+        <description>Federal Reserve Board and Federal Open Market Committee release economic projections from the June 14-15 FOMC meeting</description>
+        <dc:date>2016-06-15T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve Board and Federal Open Market Committee release economic projections from the June 14-15 FOMC meeting</cb:simpleTitle>
+        <cb:occurrenceDate>2016-06-15T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160524a.htm">
+        <title>Minutes of the Board's discount rate meetings from March 28 to April 25, 2016</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160524a.htm</link>
+        <description>Minutes of the Board's discount rate meetings from March 28 to April 25, 2016</description>
+        <dc:date>2016-05-24T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Minutes of the Board's discount rate meetings from March 28 to April 25, 2016</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-24T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160519a.htm">
+        <title>Federal Reserve announces results of offering of seven-day term deposits on May 19</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160519a.htm</link>
+        <description>Federal Reserve announces results of offering of seven-day term deposits on May 19</description>
+        <dc:date>2016-05-19T15:30:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve announces results of offering of seven-day term deposits on May 19</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-19T15:30:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160518a.htm">
+        <title>Minutes of the Federal Open Market Committee, April 26-27, 2016</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160518a.htm</link>
+        <description>Minutes of the Federal Open Market Committee, April 26-27, 2016</description>
+        <dc:date>2016-05-18T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Minutes of the Federal Open Market Committee, April 26-27, 2016</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-18T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160512a.htm">
+        <title>Federal Reserve to offer seven-day term deposits through its Term Deposit Facility on May 19</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160512a.htm</link>
+        <description>Federal Reserve to offer seven-day term deposits through its Term Deposit Facility on May 19</description>
+        <dc:date>2016-05-12T10:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve to offer seven-day term deposits through its Term Deposit Facility on May 19</cb:simpleTitle>
+        <cb:occurrenceDate>2016-05-12T10:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160427a.htm">
+        <title>Federal Reserve issues FOMC statement</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160427a.htm</link>
+        <description>Federal Reserve issues FOMC statement</description>
+        <dc:date>2016-04-27T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Federal Reserve issues FOMC statement</cb:simpleTitle>
+        <cb:occurrenceDate>2016-04-27T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160412a.htm">
+        <title>Minutes of the Board's discount rate meetings from February 8 and March 14, 2016</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160412a.htm</link>
+        <description>Minutes of the Board's discount rate meetings from February 8 and March 14, 2016</description>
+        <dc:date>2016-04-12T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Minutes of the Board's discount rate meetings from February 8 and March 14, 2016</cb:simpleTitle>
+        <cb:occurrenceDate>2016-04-12T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+
+
+    <item rdf:about="http://www.federalreserve.gov/newsevents/press/monetary/20160406a.htm">
+        <title>Minutes of the Federal Open Market Committee, March 15-16, 2016</title>
+        <link>http://www.federalreserve.gov/newsevents/press/monetary/20160406a.htm</link>
+        <description>Minutes of the Federal Open Market Committee, March 15-16, 2016</description>
+        <dc:date>2016-04-06T14:00:00-04:00</dc:date>
+        <dc:language>en</dc:language>
+        <cb:news>
+        <cb:simpleTitle>Minutes of the Federal Open Market Committee, March 15-16, 2016</cb:simpleTitle>
+        <cb:occurrenceDate>2016-04-06T14:00:00</cb:occurrenceDate>
+        <cb:keyword>Monetary Policy</cb:keyword>
+        </cb:news>
+    </item>
+    
+</rdf:RDF>

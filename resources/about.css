@@ -1,0 +1,830 @@
+/*----- BANK PRESIDENT BIO PAGES -----*/
+#rightText.bankPrez{width: 160px; margin-top: 2.5em;}
+#rightText.bankPrez .topBorder{background-image: url(../gifjpg/top.jpg); background-repeat: no-repeat; margin-bottom: 0; padding-bottom: 0; height: 10px; width: 160px;}
+#rightText.bankPrez h1 {background-image: url(../gifjpg/middle.jpg); background-repeat: repeat-y; margin-top: 0;  padding:0 0 .5em 1.1em; margin-bottom: 0; margin-right: .3em; font-size: 1.3em; color:#000000; border-bottom: 0; font-weight:normal; font-family: "Times New Roman", Times, serif;}
+#rightText.bankPrez li.bankInfo {list-style:none; padding-top: .5em; width: 120px; color: #B86813;}
+#rightText.bankPrez ul{margin:0; padding-left: 1.5em; width: 153px; list-style-image: none;}
+#rightText.bankPrez li.bankInfo p{padding: .5em 0em .5em 0em; margin: 0em 0em;}
+#rightText.bankPrez .bottomBorder{background-image: url(../gifjpg/bottom.jpg); background-repeat: no-repeat; height: 15px; width: 160px;}
+#rightText.bankPrez #background{background-image: url(../gifjpg/middle.jpg); background-repeat: repeat-y; width: 153px;}
+
+*html #rightText.bankPrez li.bankInfo {list-style:none; margin-left: 0em; padding-left: 0em; padding-right: 1em; padding-top: .5em;}
+*html #rightText.bankPrez ul{list-style-image: none; margin: 0; width: 153px; background-image:url(../gifjpg/middle.jpg); background-repeat: repeat-y; padding-left: 1.5em; list-style: none;}
+
+
+/*----- GOVERNOR BIO PAGES -----*/
+#rightText.bios{width: 160px; margin-top: 2.5em;}
+#rightText.bios h1{background-image: url(../gifjpg/middle.jpg); background-repeat: repeat-y; padding:0 0 .5em 1.1em; margin: 0 0 0 0; font-size: 1.3em; color:#000000; border-bottom: 0; font-weight:normal; font-family: "Times New Roman", Times, serif;}
+#rightText.bios ul{color: #B86813; width: 153px; margin:0; padding:0 0 0 30px;}
+#rightText.bios li{line-height: 1.5em; list-style: square; color: #B86813; width: 120px;}
+#rightText.bios a{color: #B86813;}
+#rightText.bios #background{background-image:url(../gifjpg/middle.jpg); background-repeat: repeat-y;}
+
+*html #rightText.bios li{margin: 0 0 0 3em; color: #B86813;}
+*html #rightText.bios {width: 160px; margin-top: 2.5em;}
+*html #rightText.bios ul{margin: 0; padding:0; color: #B86813; background-image:url(../gifjpg/middle.jpg); background-repeat:repeat-y; width: 153px;}
+*html #rightText.bios ul.cat2{margin: 0; padding:0; color: #B86813; background-image:url(../gifjpg/middle.jpg); background-repeat:repeat-y; width: 153px;}
+
+#rightText.bios h1.cat2{margin:0; width: 153px;}
+#rightText.bios ul.cat2{margin: 0; padding: 0 0 0 30px; color: #993300; width: 115px;}
+#rightText.bios li.cat2{color: #B86813;}
+#rightText.bios li.cat2 a{color: #B86813;}
+
+#rightText.bios .topBorder{background-image:url(../gifjpg/top.jpg); height: 10px; width:153px;}
+#rightText.bios .bottomBorder{background-image:url(../gifjpg/bottom.jpg); background-repeat: no-repeat; height: 15px; width: 160px;}
+ 
+
+/*----- ADVISORY COUNCILS -----*/
+#highlightbox {background-color:#fdece4; padding:0.5em; margin-right:0;}
+#wrapper {margin:0 0 0 0; padding:0 0 0 0;}
+#rightcol {float:left;}
+#leftcol {float:left; padding-right:4em;}
+.pushright {margin-left:.5em;}
+
+/*----- BOARD MEETINGS -----*/
+.meetingimg {float:right;}
+
+/*----- FEDERAL RESERVE ACT -----*/
+h3.subtitle {margin-bottom:0;} /*bottom space not needed on federal reserve act pages*/
+.note {font-size:0.85em;}
+
+/*----- ORANGE TABLE USED ON MULTIPLE PAGES -----*/
+table.generic2{border:#a7542c 1px solid;}
+table.generic2 th{background-image:url(../gifjpg/table_repeat1.gif); text-align:left; background-repeat:repeat-x; color: #FFFFFF; font-size:1.45em; font-family:"Times New Roman", Times, serif; background-color:#a7542c; font-weight:normal; margin:0; padding:0.25em;}
+table.generic2 td{padding:0.5em;}
+table.generic2 td.month{width:7em; font-weight:bold; padding-left: .3em; padding-top: .6em ;padding-bottom: .6em;}
+table.generic2 td.day {margin: 0 .6em 0 .6em; width:3em; padding-top: .6em ;padding-bottom: .6em;}
+table.generic2 td.statement{ margin: 0 0 0 .6em; width: 22em; padding-top: .6em ;padding-bottom: .6em;}
+table.generic2 td.minutes{ margin: 0 0 0 0em; width: 13em; padding-top: .6em ;padding-bottom: .6em;}
+.rowshade {background-color:#fdece4;}
+.rowstub {background-color:#fdece4;}
+/*----- END USED ON ALL -----*/
+
+/*Style sheet for Board Meetings
+Version 1.0 modified on 2/03/11 5:03pm*/
+/*to jump to a specific section search for the unique character pair at the front of each TOC section <<tip, highlight the special character and use the shortcut for Find Selection Cmd + Shift + G (Mac) Shit + F3 (PC)>>*/
+/*
+Style Sheet TOC
+^1 Color Guide
+^2 CSS reset
+^3 Branding
+^4 Main Content
+ ^4.1 General Headers
+ ^4.2 Data Tables
+*/
+ /* ^1 ----------------------Color Guide-------------------------*/
+ /*
+ #A7542C Brown | Main Heading, table heading, and border color
+ #ede8d6 Light Brown | Table Heading background color 
+ */
+ 
+ /* ^2 ----------------------CSS Reset-----------------------*/
+#frb_board_meetings ul, 
+#frb_board_meetings h2
+{
+ font-family:Arial, Helvetica, sans-serif;
+}
+#frb_board_meetings .bm_clear{
+ clear:left;
+}
+#frb_board_meetings .bm_RDcomments{
+ clear:both;
+ margin-top:10px;
+ margin-bottom:0px;
+/*padding-top:1em;*/
+}
+#frb_board_meetings h4{
+ font-size:1.1em;
+margin:0 0 -0.5em 0;
+padding:0;
+font-weight:bold;
+}
+/* ^4 ---------------------Main Content---------------------*/
+/* ^4.1 ---------------------General Headers----------------*/
+#frb_board_meetings h2{
+ font-family:"Times New Roman", Times, serif;
+ font-style:italic;
+ margin:.5em 0;
+ color:#A7542C
+}
+#frb_board_meetings h3{
+ font-size:1.5em;
+}
+#frb_board_meetings h3.tableHeading{
+ font-size:1.5em;
+ margin:1.5em 0 -.5em 0;
+ padding:0;
+}
+/* ^4.2 ---------------------data tables--------------------*/
+#frb_board_meetings table {
+    border-top: .1em solid #a7542c;
+    border-bottom: .1em solid #a7542c;
+    border-right: .1em solid #a7542c;
+    border-left: .1em solid #a7542c;
+    border-collapse:collapse;
+    font-family:Verdana, Geneva, sans-serif;
+    width:50em;
+    text-align:left;
+    padding:5em;
+}
+#frb_board_meetings table th {
+ background-color:#ede8d6;
+ color:#974c28;
+ font-size:1em;
+ font-weight:normal;
+ padding:5px 0 5px 5px; 
+}
+#frb_board_meetings table td {
+ color:#000;
+ padding:3px 0 3px 5px;
+vertical-align:top;
+border-top:1px solid #ede8d6;
+}
+#frb_board_meetings table tr {
+    border-right: .1em solid #a7542c;
+    border-left: .1em solid #a7542c;
+}
+
+/*#frb_board_meetings #newspaper-a.bm_calendar .bm_documents{width:20em;}*/
+#frb_board_meetings #newspaper-a.bm_calendar .bm_type{width:5em;}
+#frb_board_meetings #newspaper-a.bm_calendar .bm_time{width:6em;}
+#frb_board_meetings #newspaper-a.bm_calendar .bm_date{width:12em;}
+#frb_board_meetings table#bm_memoranda td{padding:3px 3px 3px 5px;}
+#frb_board_meetings table td.bm_exemptions{width:6em;}
+
+#frb_board_meetings #bm_notice td span.bm_notConsidered{
+ background-color:#e36d00; 
+ color:#FFF;
+ font-style:normal;
+ display:block;
+ font-size:.8em;
+ padding:.2em;
+ width:8.5em;
+}
+
+#frb_board_meetings #newspaper-a td ul {
+ list-style:none;
+ padding:0;
+ margin:0;
+}
+
+table#newspaper-memerandum{
+ width:35em;
+}
+
+table#newspaper-b{
+ margin-top:1.2em;
+}
+
+table#newspaper-b th {
+ font-size:0.9em;
+ padding:.4em;
+}
+
+table#newspaper-b td {
+ font-size:.9em;
+ padding:.7em .4em;
+}
+
+table#newspaper-b .alt td {
+ border-bottom:none;
+}
+#frb_board_meetings ul.bm_anchors{
+    color:#6b1d2d;
+    list-style-type:square;
+ }
+#frb_board_meetings table#bm_notice{
+    margin:0 0 0 0;
+}
+#frb_board_meetings table#bm_notice td.data{
+     width:44em;
+}
+#frb_board_meetings #bm_notice th{
+ padding:0.5em 0 0.5em 0.5em;
+}
+#frb_board_meetings #bm_notice td{
+ padding:0.5em 0.5em 0.5em 0.5em;
+}
+#frb_board_meetings #bm_notice td.bm_numeral{
+    width:10px;
+}
+#frb_board_meetings #bm_memoranda td.bm_numeral{
+    width:10px;
+    }
+#frb_board_meetings #bm_memoranda td.bm_pdf{
+    width:9em;
+}
+#frb_board_meetings #bm_notice td ol{
+ margin:0 0 0 2em;
+ padding:0;
+}
+#frb_board_meetings table#bm_Memorandum{
+    margin:0;
+    width:55em;
+    border-top:#a7542c solid 1px;
+}
+#frb_board_meetings table#bm_notice.bm_notice_changes{
+margin-bottom:1em;
+}
+#frb_board_meetings table#bm_notice.bm_notice_changes td{
+padding:0;
+}
+#frb_board_meetings #bm_Memorandum td{
+    padding:3px 0 0 0;
+    margin:0;
+}
+#frb_board_meetings #bm_Memorandum td.memo_data{
+    width:44em;
+}
+#frb_board_meetings #bm_Memorandum td.memo_nmbr{
+    width:2em;
+    padding-left:.5em
+}
+/* ^4.2 ---------------------board meeting 5Ws and H--------------------*/
+#frb_board_meetings .bm_{
+    list-style:none;
+    margin:0;
+    padding:0 0 1em 0;
+    float:left;
+    width:100%;
+}
+#frb_board_meetings .bm_ li{
+ display:block;
+ float:left;
+ padding:0; 
+ margin:.5em 0 .5em 0;
+}
+#frb_board_meetings li.bm_title{
+ float:left;
+ text-align:left;
+ width:9em;
+ font-weight:bold;
+}
+#frb_board_meetings li.bm_description{
+ float:left;
+ width:47em;
+ padding-left:.5em;
+}
+#bm_materials {
+    font: .9em Arial, Helvetica, sans-serif;
+    width: 57em;
+    float: left;
+    list-style:none;
+}
+
+#bm_materials ol li ul li span {
+ display: block;
+ float: right;
+ width: 39em;
+}
+#bm_materials ol li ul li .pdf {
+ width: 11.5em;
+ float: left;
+ clear: left;
+}
+#bm_materials li{
+ list-style:none;
+ display: block;
+ float: left;
+ width: 51em;
+ padding-bottom:1em;
+}
+#bm_materials ol { 
+ float: left;
+ display: block;
+ padding-left:0;
+margin-left:0;
+}
+ 
+/*----------------------------Press Conference Styles------------------*/
+#frb_board_meetings .bm_pressConference h3 {
+    background-color: #EDE8D6;
+    color: #974C28;
+    font-family:Verdana, Geneva, sans-serif;
+    font-size: 1.2em;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    padding:3px 0 3px 2px;
+    border: 1px solid #974c28;
+    width:460px;
+}
+
+.item {
+    float: right;
+    padding:0 0 0 25px;
+}
+
+.bm_pressConference ul {
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    padding:0;
+}
+
+.bm_pressConference ul li {
+    margin-bottom: 1em;
+}
+
+.bm_pressConference ul {
+    border:none;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin: 0;
+    padding: 0.5em;
+    }
+    
+
+/*-----Styles for the Board Votes Page-----*/
+    table.box-table-a {
+    border-collapse:collapse;
+    text-align:left;
+    font-family:Verdana, Geneva, sans-serif;
+    font-size:11px;
+    margin-bottom:5em;
+    width:68em;
+}
+
+table.box-table-a th {
+    background:url(../gifjpg/green_bg.jpg) repeat-x #5D7454;
+    border-bottom:1px solid #FFFFFF;
+    /*border-right:1px solid #FFFFFF;
+    border-top:4px solid #5d7454;*/
+    background-position:top;
+    color:#FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:1.1em;
+    font-weight:bold;
+    text-align: left;
+    height:1em;
+    -moz-background-clip:border;
+    -moz-background-inline-policy:continuous;
+    -moz-background-origin:padding;
+    padding:4px 8px;
+    /*text-decoration:none;*/
+}
+
+table.box-table-a th a{
+    color:#FFFFFF;
+    text-decoration:none;
+}
+
+table.box-table-a .colDistrict, table.box-table-a .NoRightBorder {
+    border-right-style:none;
+}
+
+table.box-table-a tr.even {
+    background-color : #EAEAEA;
+}
+
+table.box-table-a tr.odd {
+    background-color : #ffffff;
+}
+
+table.box-table-a td {
+    border:none;
+    border-bottom:1px solid #000000;
+    border-right:0px solid #FFFFFF;
+    color:#000000;
+    -moz-background-inline-policy:continuous;
+    padding:8px;
+}
+
+/* STYLES FOR ARCHIVE DROPDOWNS */
+#iorwrapper {padding:0.5em 0; margin:0.5em 0 0 0; height:1em; border:1px solid white;}
+.iorleft {float:left; width:10.5em;}
+.iorright {float:left; margin:-0.5em 0 0 0; width:10em;}
+.greentext2 {color:#03430d; font-size:0.85em; margin-top:-0.5em;}
+ 
+
+/* Centennial Styles */
+            .clearfix:after {
+                content: ".";
+                display: block;
+                height: 0;
+                clear: both;
+                visibility: hidden; }
+            
+            .clearfix {display:inline-block; }
+            
+            /* Hide from IE Mac \*/
+             .clearfix { display:block; }
+            /* End hide from IE Mac */
+.centennial-highlight {
+    width:506px;
+    height:300px;
+    background-image:url(../gifjpg/callOutCentenial.jpg);
+    margin-left: auto;
+    margin-right: auto;
+}
+.centennial-highlight p {
+    width:154px;
+    padding:3px 0 0 16px;
+    margin:0;
+    font-size:12px;
+}
+.centennial-highlight h2 {
+    padding:26px 0 0 16px;
+    margin:0;
+    color:#333333;
+}
+ul.list3 {
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding:0;
+    width: 100%;
+}
+ul.list3 li {
+    float: left;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0.75em;
+    width: 50%;
+}
+#rightText ul.subContent{
+    background-color: #FEF9F3;
+    border-bottom:solid  1px #A7542C;
+    border-top:solid  1px #A7542C;
+    width:187px;
+}
+#rightText ul.subContent li{
+    padding:5px 0;
+}
+#rightText h4{
+    margin:0 0 0 0;
+    padding-top:20px;
+}
+#nav_anchor {
+    font-size: 0.85em;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+#nav_anchor h4 {
+    font-size: 16px;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+#nav_anchor ul {
+    background-color: #FEF9F3;
+    border-bottom-color: #A7542C;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-top-color: #A7542C;
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: #A7542C;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: square;
+    margin-bottom: 0;
+    /*    margin-left: -20px;*/
+    padding-bottom: 0.75em;
+    padding-left: 1.75em;
+    padding-right: 1.75em;
+    padding-top: 1em;
+    width: 170px;
+}
+span.proposalsbutton2 {
+    border-right: solid 1px #A7542C;
+    border-left: solid 1px #A7542C;
+    border-bottom: solid 1px #A7542C;
+    color: #A7542C;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding-bottom: 0.3em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    padding-top: 0.15em;
+}
+span.proposalsbutton2 a {
+    color: #A7542C;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+}
+#nav_anchor ul li {
+    margin-bottom: 1em;
+    margin-left: 0.5em;
+}
+#nav_anchor ul li a {
+    -moz-text-blink: none;
+    -moz-text-decoration-color: -moz-use-text-color;
+    -moz-text-decoration-line: underline;
+    -moz-text-decoration-style: solid;
+    color: #384B37;
+}
+.alpha {margin: 0; float: left;}
+        
+        .omega {margin: 0; float: right;}
+        
+        #carousel {
+            width: 100%;
+            border: 3px solid #ccc;
+            margin: 10px 0 10px 0; }
+        
+        #features { width: 100%; padding: 0; margin: 0;}
+        
+        #features .column {
+            width: 370px;}
+        
+        #features .column h2 {
+            font-size: 1.6em;
+            font-family: "Times New Roman", Times, serif;
+            border-bottom: 1px solid #666;
+            margin: 0 0 .5em 0;
+            font-weight: normal; }
+        
+        #features .column h3 {
+            font-size: 1.5em;
+            font-family: "Times New Roman", Times, serif;
+            border: none;
+            margin: 1em 0 .5em 0;
+            font-weight: normal; }
+        /*each area in the columns is surrounded by an item class, that way we can add colors, borders, etc. in the future*/
+        #features .column .item {
+            margin: 0 0 1em 0;
+            padding: 0 0 0 0; 
+            width: 100%; }
+            
+        #features .column .item ul li.heading{
+            margin-left: -20px; } /*this was added to adjust the left maring of the callout gray "principal economic indicators titles on the stats landing page*/
+ 
+ul.list3 {
+    list-style: none outside none;
+    margin: 1em 0;
+    width: 100%;
+}
+ul.list3 li {
+    float: left;
+    padding: 0.75em 0 0;
+    width: 48%;
+}
+ul.list3 li h4 {
+    font-family: "Times New Roman",Times,serif;
+    font-size: 1.2em;
+    font-weight: normal;
+}
+ul.list3 li h5 {
+    font-family: "Times New Roman",Times,serif;
+    font-size: 1.2em;
+    font-weight: normal;
+}
+ul.list3 img {
+    float: left;
+    padding: 5px;
+    vertical-align: middle;
+}
+ul.list3 img.exitIcon {
+    float: none;
+}
+ul.list3 p {
+    font-size: 0.85em;
+    margin-left: 55px;
+}
+ 
+
+/*CENTENNIAL PAGE RIGHT BOX STYLES*/
+
+#innerRightBar #rightText h4{margin-top: 0; padding-top: 0; font-size: 1.5em;}
+#innerRightBar #rightText {margin-bottom: 1em;}
+#innerRightBar #rightText span.proposalsbutton2 {margin-bottom: 0px;}
+ 
+
+/*---------- Silver topic area ----------*/
+.topicNav {
+    float: left;
+    border: 1px solid #DDD;
+    background-image: url(../gifjpg/nav_background.gif);
+    background-repeat: repeat-x;
+    background-color: #fff;
+    margin: .5em 0 1.5em 0;
+    background-position: bottom;
+    width: auto;
+    padding: 0px 20px 0px 10px;
+    line-height: 20px;
+}
+font-size: .9em;}
+        
+.topicNav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0; }
+        
+.topicNav ul li {
+    float:left;
+    padding: 7px 8px 7px 8px; }
+        
+.topicNav ul li img { vertical-align: middle; }
+        
+.topicNav ul li.selected {
+    font-weight: bold;
+    text-decoration: none; }
+        
+.topicNav ul li.selected a:link { text-decoration: none; }
+        
+.topicNav ul li.selected a:visited { text-decoration: none; }
+        
+.topicNav ul.column {
+    list-style: none;
+    margin: 0;
+    padding: 5px 5px 8px 5px;
+    float: left;
+    width: 250px; }
+        
+.topicNav ul.column li {
+    padding: 2px 3px 2px 3px;
+    float: none; }
+ 
+/*-------------------------NEW STYLES FOR VIDEOS - RESOURCES FOR STABILIZING COMMUNITY PAGES-------------------*/
+#vidwrapper {margin:0 0 1em 0; padding:0 0 0 0;}
+.vidleft {float:left; width:250px; margin:0 1em 0 0; padding:0 0 0 0;}
+.vidright {float:left; margin:0 0 0 0; width:42em; padding:0 0 0 0; font-size:0.85em;}
+h4.community {color:#fff; background-color:#003300; font-size:1.65em; background-image:url(../gifjpg/header_back.gif); background-position:top left; background-repeat:repeat-x; padding:0.5em; margin:0 0 10px 0;}
+/*-------------------------END NEW STYLES-------------------*/
+
+/*----- Procurement/Supplier Diversity -----*/
+#rightrailImage {
+    background-image: url("../aboutthefed/gifjpg/register_sidegraphic.jpg");
+    background-repeat: no-repeat;
+    float: right;
+    height: 65px;
+    margin: 13em -230px 25px 17px;
+    text-decoration: none;
+    width: 214px;
+}
+#rightrailimageText {
+    color: #343746;
+    float: right;
+    font-family: 'Times New Roman',Times,serif;
+    font-size: 1.35em;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-right: 30px;
+    margin-top: 10px;
+    text-align: justify;
+    text-decoration: none;
+}
+#rightrailimageText a {
+    color: #343746;
+    float: right;
+    font-family: 'Times New Roman',Times,serif;
+    font-size: 1.35em;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-right: 30px;
+    margin-top: 10px;
+    text-align: justify;
+    text-decoration: none;
+}
+#rightrailimageText a:hover {
+    color: #343746;
+    float: right;
+    font-family: 'Times New Roman',Times,serif;
+    font-size: 1.35em;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-right: 30px;
+    margin-top: 10px;
+    text-align: justify;
+    text-decoration: none;
+}
+#rightrailimageText a:visited {
+    color: #343746;
+    float: right;
+    font-family: 'Times New Roman',Times,serif;
+    font-size: 1.35em;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-right: 30px;
+    margin-top: 10px;
+    text-align: justify;
+    text-decoration: none;
+}
+/*----- Procurement/Vendor Outreach Fair -----*/ 
+ #rightrailImageB {
+    background-image: url("../aboutthefed/gifjpg/vendor_fair_sidegraphic.jpg");
+    background-repeat: no-repeat;
+    float: right;
+    height: 65px;
+    margin: 18.5em -230px 50px 17px;
+    text-decoration: none;
+    width: 214px;
+}
+#rightrailimageBText {
+    color: #343746;
+    float: right;
+    font-family: 'Times New Roman',Times,serif;
+    font-size: 1em;
+    font-variant: small-caps;
+    font-weight: bold;
+	margin-left: 50px;
+    margin-right: 10px;
+    margin-top: 25px;
+    text-align: justify;
+    text-decoration: none;
+}
+#rightrailimageBText a {
+    color: #343746;
+    float: right;
+    font-family: 'Times New Roman',Times,serif;
+    font-size: 1em;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-top: 25px;
+    text-align: justify;
+    text-decoration: none;
+}
+#rightrailimageBText a:hover {
+    color: #343746;
+    float: right;
+    font-family: 'Times New Roman',Times,serif;
+    font-size: 1em;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-top: 25px;
+    text-align: justify;
+    text-decoration: none;
+}
+#rightrailimageBText a:visited {
+    color: #343746;
+    float: right;
+    font-family: 'Times New Roman',Times,serif;
+    font-size: 1em;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-top: 25px;
+    text-align: justify;
+    text-decoration: none;
+}
+/*--- Added on 3/11/13 by Scott Hoenig at the request of Julie Chiou ---*/
+#rightrailDate {
+                background-image:url(../aboutthefed/gifjpg/save-the-date-procurement.jpg); background-repeat:no-repeat; height: 95px; width:214px; float:right; margin-top: 207px; margin-left: 17px; margin-right: -230px; margin-bottom: 50px; text-decoration: none;
+                
+}
+#rightraildateText {
+                font-family: 'Times New Roman', Times, serif; font-size: 1em; float: right; color: #343746; text-align:right; font-weight: bold; margin-right: 0px; margin-top:7px; text-decoration: none;
+}
+#rightraildateText a {
+                font-family: 'Times New Roman', Times, serif; 
+                font-size: 1em; 
+                float: right; 
+                color: #343746; 
+                text-align:right; 
+                font-weight: bold;           
+                margin-left: 4px;              
+                text-decoration: underline;
+}
+#rightraildateText a:hover{
+                font-family: 'Times New Roman', Times, serif; 
+                font-size: 1em; 
+                float: right; 
+                color: #343746; 
+                text-align:right; 
+                font-weight: bold;           
+                margin-left: 4px;              
+                text-decoration: none;
+}
+#rightraildateText a:visited{
+                font-family: 'Times New Roman', Times, serif; 
+                font-size: 1em; 
+                float: right; 
+                color: #343746; 
+                text-align:right; 
+                font-weight: bold;           
+                margin-left: 4px;
+                text-decoration: underline;
+                
+}
+#uscurrencywrapper {margin:0 0 1em 0; padding:1em 0 0 0; width:640px; clear:left;}
+.uscurrencyleft {float:left; width:315px; margin:0 2px 0 0; padding:0 0 0 0;}
+.uscurrencyright {float:left; width:315px; margin:0 0 0 0; padding:0 0 0 0;}
+ 

@@ -1,0 +1,151 @@
+<HTML>
+<HEAD><TITLE>FRB: SSBF INDEX</TITLE>
+<script language="JavaScript" src="/exit.js">
+</script>
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+     +++++++++++ start Internet/pubweb headers +++++++++++++++++++++++
+     +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<A NAME="pagetop"></A>
+<STYLE type="text/css">
+<!--
+h6      {color:"black";}
+a:link          {color: #006666;}
+		
+.footer         {font-size: 9pt;
+                  line-height : 11pt;
+                                }
+-->
+</style>
+<!--  This table sets the overall width of the page  ------------------------>
+
+<table width=575><tr><td>
+<A HREF="/"><IMG SRC="/GIFJPG/sm_head2.gif" ALIGN="Bottom" Border=0 ALT="The Federal Reserve Board eagle logo links to home page"></A>
+
+<HR NOSHADE>
+
+
+<TABLE border=0 WIDTH="575" cellpadding=0>
+  
+<TR><TD valign=top> <table border=0>
+<TR><TD><A HREF="/pubs/oss/index.html"><IMG SRC="../bitmaps/gaussdraw.gif" width=83
+
+height=83 BORDER=0 ALT="Occasional Staff Studies Logo of a normal distribution curve links to OSS home page"></A></TD></TR></table>
+<TD width=30></TD>
+<TD width=400>
+<strong><font size = +2>Occasional Staff Studies</font><br>
+                        OSS-3: Survey of Small Business Finances </strong>
+<br>
+<br>
+
+</TR>
+</TABLE>
+
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+     ++++++++++++ end Internet/pubweb headers ++++++++++++++++++++++++ 
+     +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+<FONT SIZE="+2"><CENTER><B>Survey of Small Business
+Finances</B></CENTER></FONT>
+<br>
+
+The Survey of Small Business Finances (SSBF) collects information on
+small businesses (fewer than 500 employees) in the United States.  Owner
+characteristics, firm size, use of financial services, and the income and
+balance sheets of the firm are just some examples of the types of information
+collected.  Working papers and methodology reports, codebooks and other
+related documentation, and the full public data sets are available here for
+the 2003, 1998, 1993, and 1987 SSBFs.  Lists of recent changes, bibliography and 
+selected abstracts of research using the SSBF, and a list of frequently asked questions 
+(FAQ) is also available.  <p>
+
+Please sign our <A HREF="guestbook.html"> Guest Book</A> if you would like to receive errata and
+other updates for the survey.  
+<br>
+<p>
+<br>
+
+<A HREF="ssbf03/ssbf03home.html"> 2003 survey </A>
+<UL>
+<LI><A HREF="ssbf03/ssbf03home.html#ssbf03results">Methodology reports and papers</A>
+<LI><A HREF="ssbf03/ssbf03home.html#ssbf03docs">Codebook and Survey Questionnaire</A>
+<LI><A HREF="ssbf03/ssbf03home.html#ssbf03dat">Survey data</A>
+
+
+</UL>
+
+<A HREF="ssbf98/ssbf98home.html"> 1998 survey </A>
+<UL>
+<LI><A HREF="ssbf98/ssbf98home.html#ssbf98results">Methodology reports and papers</A>
+<LI><A HREF="ssbf98/ssbf98home.html#ssbf98docs">Codebook, Survey Questionnaire, and other documents</A>
+<LI><A HREF="ssbf98/ssbf98home.html#ssbf98dat">Survey data</A>
+
+
+</UL>
+
+<A HREF="nssbf93/nssbf93home.html"> 1993 survey </A>
+<UL>
+<LI><A HREF="nssbf93/nssbf93home.html#nssbf93results">Methodology reports and papers</A>
+<LI><A HREF="nssbf93/nssbf93home.html#nssbf93docs">Codebook, Survey Questionnaire, and other documents</A>
+<LI><A HREF="nssbf93/nssbf93home.html#nssbf93dat">Survey data</A>
+<LI><A HREF="nssbf93/nssbf93home.html#bootstrap">Bootstrap, sampling error, and the
+1993 NSSBF</A>
+</UL>
+
+<A HREF="nssbf87/nssbf87home.html"> 1987 survey</A>
+<UL>
+<LI><A HREF="nssbf87/nssbf87home.html#nssbf87results">Methodology reports and papers</A>
+<LI><A HREF="nssbf87/nssbf87home.html#nssbf87docs">Codebook and Survey Questionnaire</A>
+<LI><A HREF="nssbf87/nssbf87home.html#nssbf87dat">Survey data</A>
+</UL>
+
+<A HREF="nssbfchng.html"> Recent changes to data and documentation</A><br>
+
+<p>
+
+<A HREF="abstract.html"> Abstracts and bibliography of research using the 2003, 1998, 1993 and 1987 SSBF</A><br>
+
+<p>
+
+<A HREF="nssbffaq.html"> FAQ </A><br>
+
+<p>
+
+You must have special software to read certain files contained on this site. 
+The software can be downloaded at no charge from the following sites.<br>
+<p>
+
+PDF files:  
+<a HREF="/faqs.htm#3">Adobe Acrobat Reader</A>
+
+<p>
+
+ZIP files:  <A HREF="http://www.winzip.com/" onclick="linkalert()">WinZip</A><br>
+ 
+</TD></TR></TABLE>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    +++++++++++ start Internet/pubweb footers +++++++++++++++++++++++
+    +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- ------------------------------------- -->
+<BR>
+<HR NOSHADE>
+<font size="-1">
+<!-- <A HREF="/">Home</A> | <A HREF="../../../BoardDocs/Surveys/">Surveys</A> -->
+<A HREF="/">Home</A> | <A HREF="/boarddocs/surveys">Surveys</A> | <A href="/pubs/oss/index.html">OSS</A> 
+<BR>
+<a href="/accessibility.htm">Accessibility</a> | <A HREF="/feedback.cfm">Contact Us</A><BR> 
+<B>Last update: October 15, 2008</B>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+     +++++++++++++ end Internet/pubweb footers +++++++++++++++++++++++
+     +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->

@@ -1,0 +1,369 @@
+/* CSS Document */
+body { 
+/*	position:relative;*/
+	font: .8em Arial, Helvetica, sans-serif; 
+	color: #000000; 
+	background: #ffffff;
+	margin-top: 0px;
+	background-image: none;}
+	
+a{color: #608F25;}	
+	
+a:visited{color: #10367E;}
+
+.right{text-align: right;}
+
+img{display: none;}
+
+
+#toplinks{color: #355D8B; width: 981px; margin: 10px auto 10px auto;}
+#toplinks h1{font-family: Georgia, "Times New Roman", Times, serif; color: #355D8B; font-weight: normal; font-size: 2em; margin: 0; padding: 0; border-bottom: none; float: left;}
+#toplinks .right{display: none;}
+#toplinks .right a:link{color: #355D8B;}
+#toplinks .right a:visited{color: #355D8B;}
+
+/*---Begin Styles for Headers---there is one container for all job types and one background for each job type*/
+
+#headerContainer{
+	width: 620px;
+	border-bottom: #10367E 1px solid;}	
+	
+#headerBackground .printText{font-family: Georgia, "Times New Roman", Times, serif; color: #355D8B; font-weight: normal; font-size: 1.5em; margin: 0 0 1em 0; padding: 0; border-bottom: none; border-bottom: 1px solid #355D8B;}
+	
+/*--Save the code below for Firefox 3.0 The technique below works for IE and Older versions of firefox but does not print correctly when using FF 2.0; Instead I have placed the actual images on each page; when this is corrected the style sheets and pages will be updated
+#headerLawEnforce{display: list-item; list-style-image: url(../gifjpg/header_lawenforce.jpg); list-style-position: inside; margin-bottom: 0px; width: 760px; height: 176px;}
+#headerLawEnforce span{display:none;}--*/
+
+/*---End Header Styles---*/
+
+#headerBackground table.menu {list-style: none;
+margin: 0px 0px 0px 0px;
+padding: 0;
+width: 100%;
+background-color: none;
+font-weight: normal;}
+
+#headerBackground table.menu td{
+padding: 0;
+margin: 0;
+border-right: #718A9F 1px solid;
+border-bottom: none;
+text-align: center;
+color: #000000;}
+
+#headerBackground table.menu td a{
+color: #000000;
+text-decoration: none;}
+
+#headerBackground table.menu td a:hover{
+color: #000000;
+text-decoration: underline;}
+
+#headerBackground table.menu td a:visited{
+color: #000000;}
+
+#headerBackground table.menu td.indent{list-style:none;
+padding-left: 10px;
+padding-bottom: 5px;
+padding-right: 5px;
+margin: 0;}
+
+#headerBackground table.menu td.last{
+padding: 0;
+margin: 0;
+border-right: none;}
+
+/*---Begin styles for main section of the page---*/
+
+#MainContentContainer{width: 625px;
+	margin: 1em 0 0 0; 
+	position:relative;
+	background-color:#FFFFFF;
+	background-repeat:repeat-y;}
+
+#leftContent {
+width:135px;
+color: #FFFFFF;	
+float: left;
+margin-top: 1em;}
+	
+#centerContent {
+background:#fff;
+width:450px;
+margin-left: 140px;
+margin-right: 5px;}
+
+#rightContent {
+float: right;
+width:100px;
+margin-left: 0px;
+margin-top: 1em;
+border-left: #608F25 1px solid;
+border-bottom: #608F25 1px solid;
+border-right: #608F25 1px solid;
+padding-bottom: 5px;
+margin-bottom: 10px;
+background-color: #FFFFFF;}
+
+/*Begin styles for left menu*/
+
+#menu ul{list-style: none;
+margin: 0px;
+padding: 0px; border-right: none;}
+
+#menu li{list-style: none;
+padding: 5px;
+margin: 0;
+border-bottom: #30435D 1px dotted; border-right: none;}
+
+#menu li.indent{list-style:none;
+padding-left: 10px;
+padding-bottom: 5px;
+padding-right: 5px;
+margin: 0;}
+
+#menu li.last{list-style: none;
+padding: 5px;
+margin: 0;
+border-bottom: none;}
+
+#menu a {
+color: #30435D;
+text-decoration: none;}
+
+#menu a:hover{text-decoration: underline;}
+
+#menu ul.mainLinks{background-color:  #E0E7EB; margin-left: 0px; margin-right: 1px; color: #30435D;}
+
+#menu ul.subLinks{background-color: #E0E7EB; margin-left: 2px; margin-right: 3px; margin-bottom: 3px; margin-top: 2px;}
+
+#menu ul.subLinks li {padding-left: 5px}
+
+.indent{padding-left: 5px;}
+
+.quickLinkTitle{font-weight: bold; font-family:"Times New Roman", Times, serif; font-size: 1.2em; padding-top: 2px;
+padding-bottom: 4px;
+padding-left: 5px;
+background-image: url(../gifjpg/testBack.jpg);
+background-repeat: repeat-x;}
+
+/*End styles for Menu*/
+
+h1{
+font-family: "Times New Roman", Times, serif;
+font-size: 2em;
+color: #355D8B;
+padding-top: 0em;
+margin-bottom: 0em;
+border-bottom: none;
+padding-bottom: 2px;
+font-weight: normal;}
+
+h2{
+font-family: "Times New Roman", Times, serif;
+font-size: 1.4em;
+padding-top: 5px;
+margin-bottom: 10px;
+color: #10367E;
+border-bottom: dashed #608F25 1px;
+margin-top: 25px;
+font-weight: normal;}
+
+h3{
+font-family: "Times New Roman", Times, serif;
+font-size: 1.2em;
+color: #608F25;
+padding-top: 10px;
+font-weight: normal;}
+
+h3.sub{font-weight: bold;
+font-family:"Times New Roman", Times, serif;
+font-size: 1.4em;
+color: #10367E;
+padding-top: 10px;}
+
+.greenline{border-bottom: #608F25 2px dotted;}
+
+.ITbutton{border-top: #608F25 2px dotted;}
+
+.introText{padding-bottom: 10px;
+border-bottom: #608F25 2px dotted;
+margin-bottom: 20px;}
+
+.introTextIT{padding-bottom: 10px;
+border-bottom: none;
+margin-bottom: 20px;}
+
+.SubTitle{font-weight: bold;
+font-family:"Times New Roman", Times, serif;
+font-size: 1.5em;
+padding-bottom: 5px;
+color: #10367E;}
+
+#FooterContainer{width: 615px;
+	margin: 0 auto 0 auto; 
+	height: 37px;
+	background-color: #FFFFFF;
+	background-repeat: repeat-y;}
+
+#footer {	
+	border-top: 5px solid #3C6A9D;
+	height: 55px;
+	width: 981px;
+	color: #000000;
+	}
+
+#footer a{font-size: .9em;}	
+#footer .lastUpdate{color:#000000; padding-top: 5px; padding-left: 5px; line-height: 16px; padding-bottom: 5px;}
+#footer .lastUpdate a{color: #000000;}
+#footer .lastUpdate a:visited{color: #000000;}
+
+/*---Begin Styles for Home Page Only---*/
+
+#JobListing{
+
+}
+#JobListing h2{margin-top: 0; padding-top: 0;}
+
+#JobListing ul{list-style: none; margin: 0 0 2em 0; padding: 0;}
+
+#JobListing ul li{list-style: none; padding: 5px;}
+
+#JobListing .left{float: left; width: 200px;}
+
+#JobListing .right{float: right; text-align: left; width: 200px;}
+
+#JobListing .top{background-image: none; background-repeat: no-repeat; /*background-color: #5F8E25;*/ margin-bottom: 1em; padding-bottom: 0; width: 215px;}
+#JobListing h2 { color: #486B1C;  font-weight: normal; font-size: 1.6em; padding-left: 0px; padding-top: 10px; padding-bottom: 0; margin-bottom:0; float: left; border-bottom: none;}
+#JobListing h2.student{font-size: 1.4em;}
+#JobListing .top .toapply{font-size: .9em; color: #486B1C; text-decoration: none; font-family: Arial, Helvetica, sans-serif; padding-left: 0px; padding-right: 25px; padding-bottom: 0px; float: right; padding-top: 18px;}
+#JobListing .top .toapply a {color: #486B1C; text-decoration: none;}
+
+#JobListing table{background-color:#ffffff;}
+#JobListing table th{background-color:#BECCD8;}
+#JobListing table th.jobHead{padding-left: 15px;}
+#JobListing table td{border-bottom: 1px #99A8B7 solid;}
+#JobListing table td.tabletext1{padding-left: 20px;}
+#JobListing a{font-weight: bold;
+color: #10367E;
+font-size: 1em;
+margin: 0px;
+padding-top: 5px;}
+
+
+#EventsTitle{
+background-image: url(../gifjpg/eventsback.jpg);
+background-repeat: no-repeat;
+background-color: #608F25;
+color: #FFFFFF;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-weight: normal;
+font-size: 1.2em;
+padding: 5px;
+}
+
+#events td{padding-top: 5px; padding-left: 5px;}
+
+#events td.date{font-weight: bold; width: 38px; vertical-align:top; text-align: center;}
+
+#events .location{ font-style:italic; padding-bottom: 3px;}
+
+#events td.month {font-weight: bold; /*background-color:#8CC14A;*/ border-bottom: 1px dotted #608F25; color: #608F25; padding-bottom: 5px;}
+
+/*---End Styles for Home Page Only---*/
+
+
+	
+/*---Begin Styles Specific to Secondary pages---*/
+
+#SecondaryRightContent{background-color:#FFFFFF;
+width:450px;
+margin-left: 140px;
+margin-right: 10px;
+padding-bottom: 50px;}
+
+.SecondarySubTitle{font-weight: bold;
+font-family:"Times New Roman", Times, serif;
+font-size: 1.2em;
+color: #10367E;
+padding-top: 10px;}
+
+.SecondarySubTitleLeft{font-weight: bold;
+font-family:"Times New Roman", Times, serif;
+font-size: 1.2em;
+color: #10367E;
+padding-top: 10px;
+margin-left: 45px;}
+
+.SecondarySubTitleRAresearch{font-weight: bold;
+font-family:"Times New Roman", Times, serif;
+font-size: 1.2em;
+color: #10367E;
+padding-top: 10px;
+margin-left: 114px;}
+
+.SecondarySubTitleDiversity{font-weight: bold;
+font-family:"Times New Roman", Times, serif;
+font-size: 1.2em;
+color: #10367E;
+padding-top: 10px;
+margin-left: 45px;}
+
+.SecondarySubTitleLeftanalyst{font-weight: bold;
+font-family:"Times New Roman", Times, serif;
+font-size: 1.2em;
+color: #10367E;
+padding-top: 10px;
+margin-left: 250px;}
+
+.SecondarySubTitleLeftatt{font-weight: bold;
+font-family:"Times New Roman", Times, serif;
+font-size: 1.2em;
+color: #10367E;
+padding-top: 10px;
+margin-left: 30px;}
+
+#subNavLinks{padding-top: 3px;}
+
+#subNavLinks a{color: #608F25;}
+
+.print{float: right;}
+
+.crumb{ float: left;}
+
+.brclear { 
+     clear:both; }
+/*---End styles for Secondary Pages---*/
+
+/*------------------Styles for FAQs Page-------------------------------------------------------------------------------------------*/
+ol.faq {margin-right: 15px;}
+ol.faq li{font-weight: bold; color: #10367E; padding-top: 15px; font-size: 1.1em; font-family:Arial, Helvetica, sans-serif;}
+.answer {margin-left: 10px; margin-top: 7px; font-family: Arial, Helvetica, sans-serif; color: #000000; font-weight:normal; }
+.answer2 {margin-left: 195px; margin-top: 10px; font-family: Arial, Helvetica, sans-serif; color: #000000; font-weight:normal; }
+.answer3 {margin-left: 205px; margin-top: 10px; font-family: Arial, Helvetica, sans-serif; color: #000000; font-weight:normal; }
+
+/*The following is a hack for IE6 only*/
+*html .answer {margin-left: 10px; padding-top: 5px; font-family: Arial, Helvetica, sans-serif; color: #000000; font-weight:normal; font-size: .9em;}
+*html .answer2 {margin-left: 195px; margin-top: 10px; font-family: Arial, Helvetica, sans-serif; color: #000000; font-weight:normal; }
+*html .answer3 {margin-left: 10px; margin-top: 10px; font-family: Arial, Helvetica, sans-serif; color: #000000; font-weight:normal; }
+
+
+.ReturnToTop{text-align: right;}
+
+li{padding-bottom: 4px;}
+
+/*------------------Styles for RA Survey of Interest Forms Page--------------------------------------------------------------------*/
+
+table.survey th{font-weight: bold; color: #10367E; font-family: "Times New Roman", Times, serif; font-size: 1.2em;}
+
+table.survey{font-size: 1em;}
+
+/*---Used to center the job family table on the Home Page---*/
+.move{margin-left: auto; margin-right: auto;}
+
+/*-------Skip to Content 508 Link-----------*/
+a.skip:link    {display: none;}
+		   
+a.skip:hover    {display: none;}
+		   
+a.skip:visited    {display: none;}	

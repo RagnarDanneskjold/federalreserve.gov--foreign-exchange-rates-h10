@@ -1,0 +1,78 @@
+/*  CSS Document                             */
+/*  Written by Chris Converse for Lynda.com  */
+
+@charset "UTF-8";
+p { margin: 0px; }
+a { color: #bf572c; }
+a:hover { color: #000; }
+.faq_container {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.faq {
+	margin: 15px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	position: relative;
+	/*background: #fff url(../images/note_top.jpg) no-repeat 0px 0px;*/
+}
+
+.faq_boxTopBorder {
+	border-top: 1px solid #999; 
+	padding:2em 0 0;
+}
+
+.faq_boxTopBorder h3, .faq_boxTopBorder h6, .faq_boxTopBorder p {margin:0 0 .5em 82px;}
+
+.faq_boxTopBorder h5 {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size:1em; 
+	margin:0 0 1.25em 82px;
+}
+
+.faq_boxIcon {
+	background:#425d6e; 
+	border-radius:3px; 
+	color:#FFF; 
+	display:inline-block; 
+	height:2.5em; 
+	float:left; 
+	margin:25px 20px 0 0; 
+	padding:1em 0; 
+	text-align:center; 
+	text-transform:uppercase; 
+	width:62px;	
+}
+
+.faq_question a, .faq_answer p {margin: 0 0 0 82px;}
+.faq_answer p > a {margin: 0 0 0 0;}
+.faq_answer p + a {margin: 0 0 0 82px;}
+
+
+.faq_question { margin: 0px; padding: 0px 0px 5px 0px; display: block; width:100%; cursor: pointer; font-weight: bold; /*color: #1f4f71;*/ background:url(../images/q.png) no-repeat 185px 3px;  }
+
+.faq.open .faq_question { margin: 0px; padding: 0px 0px 5px 0px; display: block; width:100%; cursor: pointer; font-weight: bold; /*color: #1f4f71;*/ background:url(../images/a.png) no-repeat 185px 3px;  }
+
+
+.faq_answer_container { /*height: 0px;*/ overflow: hidden; padding: 0; }
+.faq_answer { margin: 0; padding: 0 0 25px 0; /*color: #bf572c;*/ font-weight: normal; }
+
+.faq_answer h2{
+	padding:0;
+	margin:0;
+}
+
+.faq_answer p.type{
+	padding-top:10px;
+}
+
+.faq_question .borderdash{
+	padding-bottom::0;
+	margin-bottom:0;
+	padding-top:0;
+	margin-top:0;
+}
+
+/*.faq .letter_q { width: 9px; height: 9px; position: absolute; top: 8px; left: 495px; background: url(../images/q.png) 0px 0px;}
+.faq .letter_a { width: 9px; height: 9px; position: absolute; top: 8px; left: 495px; background: url(../images/a.png) 0px 0px; display: none;}
+*/

@@ -1,0 +1,789 @@
+/*--#rightText h1{background-image: url(/gifjpg/middle.jpg); background-repeat: repeat-y; padding:0 0 .5em 1.1em; margin: 0 0 0 0; font-size: 1.3em; color:#000000; border-bottom: 0; font-weight:normal; font-family: "Times New Roman", Times, serif;}
+#rightText .ulbackground{background-image:url(/gifjpg/middle.jpg); background-repeat:repeat-y;}
+#rightText ul{margin-top: 0; margin-bottom: 0; color: #993300; width: 165px;}
+#rightText li{list-style-type: square; color: #B86813;}
+#rightText a{color: #B86813;}
+#rightText .topBorder{background-image:url(/gifjpg/top.jpg); height: 10px; width:165px;}
+#rightText .bottomBorder{background-image:url(/gifjpg/bottom.jpg); background-repeat: no-repeat; height: 15px; width: 165px;}
+
+*html #rightText li{margin-left: 3em; line-height: 1.5em; list-style-type: square; color: #B86813; padding-left: 0em; width: 120px;} 
+*html #rightText ul{color: #993300; width: 153px; margin:0;}  hack for IE 6 --*/
+
+
+/*----- PRESS RELEASE STYLES -----*/
+#pressReleases { margin: 0 10px 0 9px; font-size: 0.9em; font-weight: bold; }
+#prContentDate { margin-top: 3px; padding-bottom:5px; font-style: italic; font-family:"Times New Roman", Times, serif; font-size: 1.2em;}
+#button{margin-left: 5px;}
+#PressBottomLinks{padding-left: 0px; margin-top: 15px; width: 45em;}
+#PressBottomLinks table{width: 45em;  margin-bottom: 30px;}
+#PressBottomLinks td{padding-left: 10px; padding-right: 10px;}
+#ReleaseBottomLink {margin-top: 40px;}
+.
+sub{font-size: .8em; font-weight: bold; margin-bottom: 3px;}
+
+#prPrintImage{display:none;}
+
+/*----- OLD PR INDEX PAGE STYLES -----*/
+
+#indexDateControl{margin-left: .5em; margin-top: 1.5em; margin-bottom: 1.9em;}
+
+#releaseIndex{list-style: none; padding-left: .5em;}
+#releaseIndex dt{margin-left: 0;}
+#releaseIndex dd{margin-left: 1.5em;}
+
+/*----- NEW PR INDEX PAGES STYLES -----*/
+
+ul#releaseIndex{list-style: none; padding-left: .5em; margin-left: 0em;}
+ul#releaseIndex li{margin-bottom: 1.5em;}
+ul#releaseIndex li a:link{font-weight: normal;}
+ul#releaseIndex li a:visited{font-weight: normal;}
+
+.indent{padding-left: 1.5em;}
+
+
+/*----- JOINT PRESS RELEASES -----*/
+
+#Agencies{text-align: right;
+color: #5f705f;
+font-weight: bold;
+border-bottom: 1px solid #999999;
+font-size: .85em;
+margin-top: 0em;
+padding-top: 0em;
+padding-bottom: .8em;
+padding-right: .5em;
+margin-right: .5em;}
+
+#timeDateContainer{padding-top: .5em; padding-bottom: 2em;}
+
+.releaseTime{float: left; font-weight: bold;}
+.releaseDate{float:right; font-weight: bold;}
+
+#jointPressRelease #leftText{width: 58em;}
+
+/*----- FINANCIAL POLICY COMMITTEE PRESS RELEASES -----*/
+
+#FRFSreleaseTitle{font-family: "Times New Roman", Times, serif; font-size: 1.4em; padding: 0px 0px 2px 0px; margin: 0px 0px 2px 0px;}
+
+.TitleText{border-bottom: 1px solid #999999; margin-left: 75px; padding-bottom: 4px;}
+
+#FRFSreleaseTop{margin-top: 1em;}
+#FRFSreleaseTitle img{margin-right: 10px;}
+#FRFSreleaseSubTitle{padding-top: 2px;}
+#FRFScontact{text-align: right; font-size: .9em; padding-bottom: .5em;}
+
+#FRFS #TwoColumns h2.joint{margin-top: 0em;}
+
+
+#printPaperImage{display: none;}
+
+#pressIndex{list-style: none;}
+#pressIndex li.IndexItem{padding-bottom: 1em;}
+
+
+
+
+/*----- SPEECH STYLES -----*/
+
+/*----- NEW SPEECH INDEX STYLES -----*/
+ul#speechIndex{list-style: none; padding-left: .5em; margin-left: 0em;}
+ul#speechIndex li{margin-bottom: 1em;}
+ul#speechIndex .speaker{font-weight: bold; padding-left: 1.5em; padding-top: .2em;}
+ul#speechIndex .title{font-style: italic; padding-left: 1.5em;}
+ul#speechIndex .location{padding-left: 1.5em;}
+
+.duplicate{font-style: italic; font-weight: bold;}
+
+/*----- OLD SPEECH INDEX STYLES -----*/
+#speechIndex{list-style: none; padding-left: .5em; margin-left: 0em; font-size: 1.03em;}
+#speechIndex dt{margin-left: 0;}
+#speechIndex dd{margin-left: 1.5em;}
+
+.Footnotes{border-top: 1px dashed #666666; padding-top: .5em; width: 45em;}
+.References{border-top: 1px dashed #666666; padding-top: .5em; width: 45em;}
+
+#Extras{border-top: 1px dashed #666666; padding-top: .5em; width: 45em;}
+#SpeechInfo{margin-bottom: .5em;}
+
+h2.speeches{font-family: "Times New Roman", Times, serif; font-weight: bold; font-size: 1.4em; margin:0; padding:0;}
+h2.speechTitle{font-family: "Times New Roman", Times, serif; font-weight:bold; font-size: 1.3em; margin: 0;}
+#speech h2.workingTitle{font-family: "Times New Roman", Times, serif; font-weight:bold; font-size: 1.3em; margin: 0; font-style:italic; padding:0;}h3.speechLocation{font-family: "Times New Roman", Times, serif; font-weight:bold; font-size: 1.1em; margin: 0; padding:0.15em 0 0 0;}
+h3.speechDate{font-family: "Times New Roman", Times, serif; font-weight:bold; font-size: 1.2em; margin: 0; padding:0.65em 0 0 0;}
+h3.identical{font-family: "Times New Roman", Times, serif; font-size: 1.2em; margin: 0; font-weight: bold; padding:1em 0; font-style: italic;}
+
+.footer { font-size: 9pt; line-height: 11pt; }
+.tablehead{font-weight: bold; font-size: .9em;}
+.tablesubhead{font-weight: bold;}
+.tableunit{font-weight: bold; font-size: .9em;}
+.ctrdata{text-align: center;}
+.lftdata{padding-top: 10px; padding-bottom: 10px; padding-left: 10px; text-align: left;}
+.ctrnorm{font-weight: normal;}
+.tableIndent{padding-left: 20px;}
+
+#exhibitsPrint{display: none;}
+
+/*----- ALSO USED FOR TESTIMONY -----*/
+
+h3{font-family: "Times New Roman", Times, serif; font-weight:normal; font-size: 1em; margin: 0;}
+h6 {color: #000000; }
+.boldital {font-style: italic; font-weight: bold; margin-top: .5em; padding-left: 1.5em;} /*----- USED FOR IDENTICAL REMARKS -----*/
+
+/*----- TESTIMONY STYLES -----*/
+
+#testimony h2.title{font-family: "Times New Roman", Times, serif; font-weight:bold; font-size: 1.3em; margin: 0; font-style: italic; padding: 0;}
+#testimony h2.testimony{font-family: "Times New Roman", Times, serif; font-weight: bold; font-size: 1.4em; margin:0; padding:0; display:inline-block;}
+
+/*----- NEW TESTIMONY INDEX PAGES -----*/
+
+ul#testimonyIndex{list-style: none; padding-left: .5em; margin-left: 0em;}
+ul#testimonyIndex li{margin-bottom: 1em;}
+ul#testimonyIndex li a:link{font-weight: normal;}
+ul#testimonyIndex li a:visited{font-weight: normal;}
+ul#testimonyIndex .speaker{font-weight: bold;  padding-left: 1.5em; padding-top: .2em;}
+ul#testimonyIndex .title{font-style: italic; padding-left: 1.5em;}
+ul#testimonyIndex .location{padding-left: 1.5em;}
+
+#testimony .banks {font-family: Arial, Helvetica, sans-serif; font-size: 1.1em; font-weight: bold; padding-bottom: .5em;}
+
+/*----- OLD TESTIMONY INDEX PAGES -----*/
+
+#testimonyIndex{list-style: none; padding-left: .5em; margin-left: 0em; font-size: 1.03em;}
+#testimonyIndex dt{margin-left: 0;}
+#testimonyIndex dd{margin-left: 1.5em;}
+
+h3.location{font-family: "Times New Roman", Times, serif; font-weight:bold; font-size: 1.1em; margin: 0;}
+h3.date{font-family: "Times New Roman", Times, serif; font-weight:bold; font-size: 1.2em; margin: 0; padding-top: .2em;}
+h2.title{font-family: "Times New Roman", Times, serif; font-weight:bold; font-size: 1.3em; margin: 0;}
+
+/*------ STYLES FOR SPEECH ADDENDUM/ATTACHMENT TABLES NEED TO BE REDONE ------*/
+#Kohn101207 UNKNOWN {COLOR: black;}
+#Kohn101207 CAPTION {TEXT-ALIGN: left;}
+#Kohn101207 .tablehead {FONT-WEIGHT: bold; FONT-SIZE: 0.9em; COLOR: #000000; FONT-FAMILY: 'Times New Roman',Times,serif; TEXT-ALIGN: left;}
+#Kohn101207 .tablesubhead {FONT-WEIGHT: bold; FONT-SIZE: 1em; COLOR: #000000; FONT-FAMILY: 'Times New Roman',Times,serif; TEXT-ALIGN: left;}
+#Kohn101207 .tableunit {FONT-WEIGHT: normal; FONT-SIZE: 0.8em; FONT-FAMILY: 'Times New Roman',Times,serif; TEXT-ALIGN: left;}
+#Kohn101207 .fntext {FONT-WEIGHT: normal; FONT-SIZE: 0.8em; FONT-FAMILY: 'Times New Roman',Times,serif;}
+#Kohn101207 th.left {
+    color: #ffffff;
+    font-family: 'Times New Roman',Times,serif;
+        font-size: 1em;
+    font-weight: bold;
+    background-color: #425440;
+    text-align: left;
+    vertical-align: top;
+    padding-left: 0.3em;
+    padding-right: 0.3em;}
+#Kohn101207 th.center {
+    color: #ffffff;
+    font-family: 'Times New Roman',Times,serif;
+        font-size: 1em;
+    font-weight: bold;
+    background-color: #425440;
+    text-align: center;
+    vertical-align: bottom;}
+#Kohn101207 th.vertcenter {
+    color: #000000;
+    font-family: 'Times New Roman',Times,serif;
+        font-size: 1em;
+    font-weight: bold;
+    background-color: #99CCCC;
+    text-align: center;
+    vertical-align: center;}
+#Kohn101207 td.rightjust {
+    color: #000000;
+    font-family: 'Times New Roman',Times,serif;
+        font-size: 1em;
+    text-align: right;
+    vertical-align: top;
+    padding-right: 0.7em;}
+#Kohn101207 td.rightjust2 {
+    color: #000000;
+    font-family: 'Times New Roman',Times,serif;
+        font-size: 1em;
+    text-align: right;
+    vertical-align: top;
+    padding-right: 1.9em;}
+#Kohn101207 td.rightjust3 {
+    color: #000000;
+    font-family: 'Times New Roman',Times,serif;
+        font-size: 1em;
+    text-align: right;
+    vertical-align: top;
+    padding-right: 2.5em;}
+#Kohn101207 td.righttw {
+    color: #000000;
+    font-family: 'Times New Roman',Times,serif;
+        font-size: 1em;
+    text-align: right;
+    vertical-align: top;
+    padding-right: 0.7em;
+    border-top: none;}
+#Kohn101207 td.rightbw {
+    color: #000000;
+    font-family: 'Times New Roman',Times,serif;
+        font-size: 1em;
+    text-align: right;
+    vertical-align: top;
+    padding-right: 0.7em;
+    border-bottom: none;}
+#Kohn101207 th  {
+    color: #ffffff;
+    font-family: 'Times New Roman',Times,serif;
+    font-size: 1em;
+    text-align: center;
+    vertical-align: bottom;
+    background-color:#425440;
+    padding: .3em .3em .3em .3em;}
+#Kohn101207 td.left {
+    color: #000000;
+    font-family: 'Times New Roman',Times,serif;
+        font-size: 1em;
+    text-align: left;
+    vertical-align: top;
+    padding-left: 0.3em;
+    padding-right: 0.3em;}
+#Kohn101207 td.lefttw {
+    color: #000000;
+    font-family: 'Times New Roman',Times,serif;
+        font-size: 1em;
+    text-align: left;
+    vertical-align: top;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    border-top: none;}
+#Kohn101207 td.leftbw {
+    color: #000000;
+    font-family: 'Times New Roman',Times,serif;
+        font-size: 1em;
+    text-align: left;
+    vertical-align: top;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    border-bottom: none;}
+#Kohn101207 td.rightshade {
+    color: #000000;
+    font-family: 'Times New Roman',Times,serif;
+        font-size: 1em;
+    background-color: #D9F0EF;
+    text-align: right;
+    vertical-align: top;
+    padding-right: 2.5em;}
+#Kohn101207 td.buffer {
+    vertical-align: top;
+    padding-bottom: 0.6em;}
+
+/*-----NEWS AND EVENTS RIGHT BOX ------*/
+ul.services li {margin-bottom:0.25em;}
+
+#slides{width: 58em;}
+
+
+
+
+
+/*Conference Styles---------------------------------------------------------------------
+    =Print Icon (Need to adjust this print icon just in case a conference uses an image for the header)
+  =Conference Header (Conferences with branding images)
+    =Conference Header Generic 2 (Conferences that don't have branding AND needs to use a kicker style)
+     =Kicker style if needed (http://desktoppub.about.com/library/glossary/bldef-kicker.htm)
+         =Deck style if needed (http://desktoppub.about.com/od/glossary/g/Deck.htm)
+    =One Column: Main content (use on agenda/welcome page)
+    =Two Column: Main content: #leftText (where main content lives)
+       =Blue callout box for invite only
+         =Resources styles
+            =Grouping: .groupItem (Blue box)
+                =Category:  p.category (Small gray text)
+               =Date (optional): p.date 
+               =Presenter (optional): p.presenter 
+                 =Title: h4.title (also link to resource)
+                     =Description (optional): p.description
+         =Agenda Styles
+        =Grouping: .session (this creates a border after each session)
+                    =Time: .time (time floats to left)
+                   =Details: .details (information that floats to the right)
+                        =Presentations (optional): CONTENT after a conference occurred 
+                               =List styles for presentation types
+                                    =Audio: Generic audio icon
+                                        =Transcript: Generic transcript icon)
+                                        =Video: (Generic video icon: DOES NOT EXIST YET)
+                                        =YouTube: YouTube Icon
+                            =List style for panelists (optional): Create this to get around some weird IE spacing issue 
+         =Map Style that lives on the generic about information
+            =Container
+                    =Map Styles
+                      =Download link
+    =Right Sidebar
+         =Navigation for generic anchor links within the page: #nav_anchor 
+            =Download blue box link: .nav_anchor_download
+         =Download style without an anchor list above: .nav_download
+           (example can be found on the SBC site (http://federalreserve.gov/events/conferences/2010/sbc/agenda.htm)
+----------------------------------------------------------------------------------------*/
+/*=Print Icon (Need to adjust this print icon just in case a conference uses an image for the header)
+----------------------------------------------------------------------------------------*/
+#printIcon_conference {background-color: #ffffff; left: 670px; margin: 0; padding: 0.5em; position: absolute; filter: alpha(opacity=80); opacity: 0.8; font-size: 0.85em;}
+#printIcon_conference a:link {padding-left: 6px;}
+
+/*=Conference Header (Conferences with branding images)---------------------------------*/
+#conference #conference_header { margin: 0; }
+/*=Conference Header Generic (FRB Seal appears to the left (Conferences that don't have branding AND DOES NOT NEED a kicker))
+         =Deck style if needed (http://desktoppub.about.com/od/glossary/g/Deck.htm)
+----------------------------------------------------------------------------------------*/
+#conference #conference_header_generic {border-bottom: solid #cccccc 1px; display: block; min-height: 75px; margin: 0; padding: 0; width: 740px;}
+#conference #conference_header_generic .seal img {float: left; height: 75px; display: block;}
+#conference #conference_header_generic .seal img a:link {text-decoration: none; color: transparent; border: none;}
+#conference #conference_header_generic .seal img a:visited {text-decoration: none; color: transparent; border: none;}
+#conference #conference_header_generic .seal img a:hover {text-decoration: none; color: transparent; border: none;}
+#conference #conference_header_generic div.title {float: left; margin: 0.75em 0.5em;}
+#conference #conference_header_generic div.title a:link {text-decoration: none; color: #000000; cursor: pointer;}
+#conference #conference_header_generic div.title a:visited {text-decoration: none; color: #000000; cursor: pointer;}
+#conference #conference_header_generic div.title a:hover {text-decoration: none; color: #000000; cursor: pointer;}
+#conference #conference_header_generic div.title h1 {color: #000000; font-size: 1.769em; line-height: 1; min-height: 75px; margin: 0; padding: 0; text-shadow: 0.1em 0.1em 0.1em #999999;}
+#conference #conference_header_generic div.title h1 span.deck {font-family: Arial, Helvetica, sans-serif; font-size: 12px; margin: 0; padding: 0; text-shadow: none;}
+/*=Conference Header Generic 2 (FRB Seal appears to the left (Conferences that don't have branding AND needs to use a kicker style))
+     =Kicker style if needed (http://desktoppub.about.com/library/glossary/bldef-kicker.htm)
+         =Deck style if needed (http://desktoppub.about.com/od/glossary/g/Deck.htm)
+----------------------------------------------------------------------------------------*/
+#conference #conference_header_generic_2 {border-bottom: solid #cccccc 1px; display: block; min-height: 75px; margin: 0; padding: 0; width: 740px;}
+#conference #conference_header_generic_2 .seal img {float: left; height: 75px; display: block;}
+#conference #conference_header_generic_2 .seal img a:link {text-decoration: none; color: transparent; border: none;}
+#conference #conference_header_generic_2 .seal img a:visited {text-decoration: none; color: transparent; border: none;}
+#conference #conference_header_generic_2 .seal img a:hover {text-decoration: none; color: transparent; border: none;}
+#conference #conference_header_generic_2 div.title {float: left; margin: 0.75em 0.5em;}
+#conference #conference_header_generic_2 div.title a:link {text-decoration: none; color: #000000; cursor: pointer;}
+#conference #conference_header_generic_2 div.title a:visited {text-decoration: none; color: #000000; cursor: pointer;}
+#conference #conference_header_generic_2 div.title a:hover {text-decoration: none; color: #000000; cursor: pointer;}
+#conference #conference_header_generic_2 div.title h1 {color: #000000; font-size: 1.769em; line-height: 1; min-height: 75px; margin: 0; padding: 0; text-shadow: 0.1em 0.1em 0.1em #999999;}
+#conference #conference_header_generic_2 div.title h1 span.kicker {font-family: Arial, Helvetica, sans-serif; font-size: 11px; margin: 0; padding: 0; text-shadow: none;}
+#conference #conference_header_generic_2 div.title h1 span.deck {font-family: Arial, Helvetica, sans-serif; font-size: 11px; margin: 0; padding: 0; text-shadow: none;}
+
+/*=One Column: Main content (use on agenda/welcome page)-------------------------------*/
+#conference .one_column { width: 55em; }
+/*=Two Column: Main content: #leftText (where main content lives)-----------------------*/
+#conference #leftText { width: 40em; }
+#conference #leftText.heightproblem { width:40em; min-height:37em;height:auto !important; height:30em;}
+#conference #leftText h2.border_solid {border-top: 1px solid #999999; line-height: 1; margin: 1em 0 0.75em 0; padding: 0.75em 0 0 0;}
+#conference #leftText h2.first {margin: 0 0 0.982em 0; padding: 0;}
+/*=Blue callout box for invite only---------------------------------------------------*/
+#conference #leftText .invitation_only {background-color: #e5edfb; padding: 1em;}
+#conference #leftText .invitation_only p {margin: 0 0 0.5em; text-align: center;}
+/*=Resources styles
+         =Grouping: .groupItem (Blue box)
+                =Category:  p.category (Small gray text)
+                =Date (optional): p.date 
+                =Presenter (optional): p.presenter 
+                =Title: h4.title (also link to resource)
+                =Description (optional): p.description
+----------------------------------------------------------------------------------------*/
+#conference #leftText div.groupItem {background-color: #EFEFEF; margin: 1em 0; padding: 1em;}
+#conference #leftText div.groupItem p.category {color: #666666; font-size: 10px; padding: 0; margin: 0; text-transform: uppercase;}
+#conference #leftText div.groupItem p.date {font-size: 12px; color: #111111; margin: 0; padding: 0;}
+#conference #leftText div.groupItem p.presenter {font-size: 12px; color: #000000; font-weight: bold; margin: 0; padding: 0;}
+#conference #leftText div.groupItem h4.title {color: #253750; font-family: Arial, Helvetica, sans-serif; font-size: 13px; margin: 0.1em 0; padding: 0;}
+#conference #leftText div.groupItem h4.title a {font-family: Arial, Helvetica, sans-serif; font-size: 13px; text-decoration: underline;}
+#conference #leftText div.groupItem p.description {color: #333333; padding: 0; margin: 0;}
+
+#conference #leftText2 div.groupItem {background-color: #EFEFEF; margin: 1em 0; padding: 1em;}
+#conference #leftText2 div.groupItem p.category {color: #666666; font-size: 10px; padding: 0; margin: 0; text-transform: uppercase;}
+#conference #leftText2 div.groupItem p.date {font-size: 12px; color: #111111; margin: 0; padding: 0;}
+#conference #leftText2 div.groupItem p.presenter {font-size: 12px; color: #000000; font-weight: bold; margin: 0; padding: 0;}
+#conference #leftText2 div.groupItem h4.title {color: #253750; font-family: Arial, Helvetica, sans-serif; font-size: 13px; margin: 0.1em 0; padding: 0;}
+#conference #leftText2 div.groupItem h4.title a {color: #253750; font-family: Arial, Helvetica, sans-serif; font-size: 13px; text-decoration: underline;}
+#conference #leftText2 div.groupItem p.description {color: #333333; padding: 0; margin: 0;}
+#conference #leftText3 div.groupItem {background-color: #EFEFEF; margin: 1em 0; padding: 1em;}
+#conference #leftText3 div.groupItem p.category {color: #666666; font-size: 10px; padding: 0; margin: 0; text-transform: uppercase;}
+#conference #leftText3 div.groupItem p.date {font-size: 12px; color: #111111; margin: 0; padding: 0;}
+#conference #leftText3 div.groupItem p.presenter {font-size: 12px; color: #000000; font-weight: bold; margin: 0; padding: 0;}
+#conference #leftText3 div.groupItem h4.title {color: #253750; font-family: Arial, Helvetica, sans-serif; font-size: 13px; margin: 0.1em 0; padding: 0;}
+#conference #leftText3 div.groupItem h4.title a {color: #253750; font-family: Arial, Helvetica, sans-serif; font-size: 13px; text-decoration: underline;}
+#conference #leftText3 div.groupItem p.description {color: #333333; padding: 0; margin: 0;}
+#conference #one_column div.groupItem {background-color: #EFEFEF; margin: 1em 0; padding: 1em;}
+#conference #one_column div.groupItem p.category {color: #666666; font-size: 10px; padding: 0; margin: 0; text-transform: uppercase;}
+#conference #one_column div.groupItem p.date {font-size: 12px; color: #111111; margin: 0; padding: 0;}
+#conference #one_column div.groupItem p.presenter {font-size: 12px; color: #000000; font-weight: bold; margin: 0; padding: 0;}
+#conference #one_column div.groupItem h4.title {color: #253750; font-family: Arial, Helvetica, sans-serif; font-size: 13px; margin: 0.1em 0; padding: 0;}
+#conference #one_column div.groupItem h4.title a {color: #253750; font-family: Arial, Helvetica, sans-serif; font-size: 13px; text-decoration: underline;}
+#conference #one_column div.groupItem p.description {color: #333333; padding: 0; margin: 0;}
+
+/*=Agenda Styles
+         =Grouping: .session (this creates a border after each session)
+                =Time: .time (time floats to left)
+                =Details: .details (information that floats to the right)
+                        =Presentations (optional): CONTENT after a conference occurred 
+                                =List styles for presentation types
+                                        =Audio: Generic audio icon
+                                        =Transcript: Generic transcript icon)
+                                        =Video: (Generic video icon: DOES NOT EXSIST YET)
+                                        =YouTube: YouTube Icon
+                        =List style for panelists (optional): Create this to get around some weird IE spacing issue
+----------------------------------------------------------------------------------------*/
+#conference .session {margin: 1em 0; border-bottom: 1px solid #999999;}
+#conference .session .time { float: left; }
+#conference .session .time p {font-weight: bold; margin: 0.1em 0 0 0; padding: 0;}
+#conference .session .details {margin-left: 6em; margin-bottom: 0.5em;}
+#conference .session .details p { margin: 0.5em 0; }
+#conference .session .details h3 {border: none; font-size: 1.385em; margin: 0 0 0.1em 0; padding: 0;}
+#conference .session .details div.presentations {background-color: #EFEFEF; margin: 1em 0; padding: 1em; font-family: Arial, Helvetica, sans-serif; font-size: 0.85em;}
+#conference .session .details div.presentations ul {margin: 0; padding: 0; text-align:left; padding-bottom: 5px; padding-top:5px;}
+#conference .session .details div.presentations ul li {border-left: 1px solid #666666; display: inline; list-style: none; margin: 0; padding: 0 1em 0 1.5em;}
+#conference .session .details div.presentations ul li a.audio {background-image: url('/gifjpg/audio.png'); background-repeat: no-repeat; display: inline-block; height: 16px; padding: 0 0 0.1em 1.5em;}
+#conference .session .details div.presentations ul li a.transcript {background-image: url('/gifjpg/transcript.png'); background-repeat: no-repeat; display: inline-block; height: 16px; padding: 0 0 0.1em 2em;}
+#conference .session .details div.presentations ul li a.video_youtube {background-image: url('/gifjpg/youtube.png'); background-repeat: no-repeat; display: inline-block; height: 16px; padding: 0 0 0.1em 2em;}
+#conference .session .details div.presentations ul li a.video_standard {background-image: url('/gifjpg/video_16x16_intexticon.gif'); background-repeat: no-repeat; display: inline-block; height: 16px; padding: 0 0 0.1em 2em;}
+
+#conference .session .details div.presentations ul li.first { border-left: none; }
+#conference ul.panelists {margin: 0 0 0 1.5em; padding: 0 0 0 1em;}
+#conference ul.panelists li {list-style-position: outside; margin: 0; padding: 0 0 0 0.2em;}
+/*=Map Style that lives on the generic about information
+            =Container
+                    =Map Styles
+                     =Download link
+----------------------------------------------------------------------------------------*/
+#conference #location_container {display: block; min-height: 200px; clear: both;}
+#conference #map {background-color: #cccccc; border: 1px solid #cccccc; float: left; margin: 0 0.7em 2em 0; width: 188px;}
+#conference #map img { margin: 0 0.5em 0.5em 0; }
+#conference #map img a:link { text-decoration: none; }
+#conference #map img a:visited { text-decoration: none; }
+#conference #map img a:hover { text-decoration: none; }
+#conference #map #download {font-size: 0.85em; margin: 1em 0.6em 0.5em 2em; padding: 0.5em 0.6em 0.5em 2em;}
+#conference #map p { margin: 0 0 0.7em 0; }
+
+/*=Right Sidebar
+            =Navigation for generic anchor links within the page: #nav_anchor 
+                    =Download blue box link: .nav_anchor_download
+            =Download style without an anchor list above: .nav_download 
+              (example can be found on the SBC site (http://federalreserve.gov/events/conferences/2010/sbc/agenda.htm)
+----------------------------------------------------------------------------------------*/
+#conference #rightSidebar {width: 218px; float: right;}
+#conference #rightSidebar #nav_anchor {font-size: 0.85em; margin: 0 0 1em 2em; padding: 0;}
+#conference #rightSidebar #nav_anchor h4 {font-size: 16px; margin: 0; padding: 0;}
+#conference #rightSidebar #nav_anchor ul {background-color: #e5edfb; border-bottom: 1px solid #253750; border-top: 1px solid #253750; list-style: none outside none; margin: 0; padding: 1em 0.75em 0.75em;}
+#conference #rightSidebar #nav_anchor ul li {margin-bottom: 1em; margin-left: 0.5em;}
+#conference #rightSidebar #nav_anchor ul li a {color: #253750; text-decoration: underline;}
+#conference #rightSidebar #nav_anchor .nav_anchor_download {background-color: #253750; margin: 0.15em 0; padding: 0.75em; text-align: center;}
+#conference #rightSidebar #nav_anchor .nav_anchor_download a:link {color: #ffffff; text-decoration: underline;}
+#conference #rightSidebar #nav_anchor .nav_anchor_download a:hover {color: #ffffff; text-decoration: underline;}
+#conference #rightSidebar #nav_anchor .nav_anchor_download a:visited {color: #ffffff; text-decoration: underline;}
+#conference #rightSidebar .nav_download {font-size: 0.85em; margin: 0 0 1em 2em; padding: 0; text-align: center;}
+#conference #rightSidebar .nav_download a:link { text-decoration: underline; }
+#conference #rightSidebar .nav_download a:hover { text-decoration: underline; }
+#conference #rightSidebar .nav_download a:visited { text-decoration: underline; }
+
+/*=Blue callout box for invite only---------------------------------------------------*/
+#conference #leftText .invitation_only {background-color: #EFEFEF; padding: 1em;} /*e5edfb*/
+#conference #leftText .invitation_only p {margin: 0 0 0.5em; text-align: center;}
+#conference #leftText2 .invitation_only {background-color: #EFEFEF; padding: 1em;} /*e5edfb*/
+#conference #leftText2 .invitation_only p {margin: 0 0 0.5em; text-align: center;}
+#conference #leftText3 .invitation_only {background-color: #EFEFEF; padding: 1em;} /*e5edfb*/
+#conference #leftText3 .invitation_only p {margin: 0 0 0.5em; text-align: center;}
+#conference #one_column .invitation_only {background-color: #EFEFEF; padding: 1em;} /*e5edfb*/
+#conference #one_column .invitation_only p {margin: 0 0 0.5em; text-align: center;}
+
+/*Navigation for Reg Reform*/
+.regreformNav {clear:both; height:36px; border: 1px solid #DDD; background-image: url(/gifjpg/nav_background.gif); background-repeat: repeat-x; /*background-color: #FDF1E3;*/}
+.regreformNav ul{list-style: none; padding: 0; margin: 0;}
+.regreformNav ul li{float:left; padding:10px 10px 10px 10px; }
+.regreformNav ul li img{vertical-align: middle;}
+.regreformNav ul li.selected{font-weight: bold; text-decoration: none;}
+.regreformNav ul li.selected a:link{text-decoration: none;}
+.regreformNav ul li.selected a:visited{text-decoration: none;}
+/*stacked style for reg reform header - uses Rachel's generic conference header above but loses the border*/
+.noborder {border-bottom:0;}
+
+#navwrapperregreform {clear:both; height:70px; border: 1px solid #DDD; background-image: url(/gifjpg/nav_background.gif); background-position:bottom; background-repeat: repeat-x;}
+#navleftregreform {float:left; padding:10px 10px 10px 10px; width:15em;}
+#navleft2regreform {float:left; padding:10px 10px 10px 10px; width:15em; margin-left:4em;}
+#navleft3regreform {float:left; padding:10px 10px 10px 10px;width:15em; margin-left:2em;}
+
+.rrsmall {margin:0 2em; font-size:0.85em;}
+.rrsmall2 {margin:0; font-size:0.85em;}
+
+
+/* ------------------------GENERIC STYLE FOR ANY PAGE THAT ONLY REQUIRES IMAGE REPLACE - 
+HIDE TEXT BEHIND A BACKGROUND GRAPHIC FOR H1 --- DOESN'T HAVE TO BE IN "CONFERENCE" DIV --------------------------- */
+h1.backimage {background:url(/gifjpg/regreform_header.jpg) no-repeat scroll center top #fff; display: block; height:45px; width:722px;}
+h1.backimage a {display:block; width:100%;}
+h1.backimage a.hideText {color:transparent; text-indent:-1000em;}
+
+.reformwrapper {margin:1em 0 0 0;}
+.reformcol1 {float:left; margin:0 0 0 0; padding:0 0 0 0; width:18em;}
+.reformcol2 {float:left; margin:0 0 0 1em; padding:0 0 0 1em; border-left:1px solid #354834; width:19em;}
+.reformcol3 {float:left; margin:0 0 0 0; padding:0 0 0 0; width:10em; font-family:"Times New Roman", Times, serif; font-size: 1.5em;}
+.reformcol4 {float:left; margin:-1.1em 0 0 0.5em; padding:0 0 0 1em; width:10em; font-family:"Times New Roman", Times, serif; font-size: 1.5em;}
+
+/*MAKES THE PAGES WITH LARGE TABLES WORK IN IE*/
+#leftnav{position: absolute;}
+
+/* RegReform copied from PubDev on 9/7/2010 */
+
+/*Header text hide*/
+#conference h1.header {background:url(/gifjpg/regreform_header.jpg) no-repeat scroll center top #fff; display: block; height:45px; width:722px;}
+#conference h1.header a {display:block; height:82px; width:100%;}
+#conference h1.header a.hideText {color:transparent; text-indent:-1000em;}
+
+/*Text changes for reg reform*/
+span.textarchive {font-family:Arial, Helvetica, sans-serif; font-size: 0.90em; }
+span.comments {background-image:url(/gifjpg/comment_bubble.jpg); background-repeat: no-repeat; background-position:left; padding-left: 1.7em; font-family:Arial, Helvetica, sans-serif; font-size: 1em; font-weight: bold; color: #384b37;}
+span.gobutton {font-family:Arial, Helvetica, sans-serif; font-size: 0.90em; font-weight: bold; color: #314732; border: 1px solid #314732; padding: 0.15em 0.20em 0.15em 0.20em; background-color: #fff; vertical-align: baseline;}
+span.proposalsbutton {font-family:Arial, Helvetica, sans-serif; font-size: 1em; font-weight: bold; color: #a7542c; /*border: 1px solid #a7542c; padding: 0.15em 0.20em 0.15em 0.20em;*/ background-color: #fef9f3; float:right; padding: 0.15em 0.20em 0.15em 0.20em;}
+span.proposalsbutton2 {
+    background-color: #FEF9F3;
+    border-color: -moz-use-text-color #A7542C #A7542C;
+    border-right: 1px solid #A7542C;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+    color: #A7542C;
+    float: right;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-right: 8px;
+    padding: 0.15em 0.3em 0.3em;
+}
+span.proposalsbutton2 a {font-family:Arial, Helvetica, sans-serif; font-size: 1em; font-weight: bold; color: #a7542c;}
+#conference h3.regreform {font-family: "Times New Roman", Times, serif; font-size: 1.4em; padding-bottom: 0.25em; border: medium none; }
+
+/*Right side bar for reg reform*/
+#conference #regreformrightSidebar {width: 218px; float: right;}
+#conference #regreformrightSidebar #nav_anchor {font-size: 0.85em; margin: 0 0 1em 2em; padding: 0;}
+#conference #regreformrightSidebar #nav_anchor h4 {
+    font-size: 16px;
+    margin: 0 0 0 -20px;
+    padding: 0;
+}
+#conference #regreformrightSidebar #nav_anchor ul {
+    background-color: #FEF9F3;
+    border-bottom: 1px solid #A7542C;
+    border-top: 1px solid #A7542C;
+    color: #A7542C;
+    list-style: square outside none;
+    margin: 0 0 0 -20px;
+    padding: 1em 1.75em 0.75em;
+    width: 170px;
+}
+#conference #regreformrightSidebar #nav_anchor ul li {margin-bottom: 1em; margin-left: 0.5em;}
+#conference #regreformrightSidebar #nav_anchor ul li.viewAll {margin-bottom: 1em; margin-left: 0.5em; text-align: right; list-style: none;}
+#conference #regreformrightSidebar #nav_anchor ul li a {color: #384b37; text-decoration: underline;}
+#conference #regreformrightSidebar #nav_anchor .nav_anchor_download {background-color: #253750; margin: 0.15em 0; padding: 0.75em; text-align: center;}
+#conference #regreformrightSidebar #nav_anchor .nav_anchor_download a:link {color: #384b37; text-decoration: underline;}
+#conference #regreformrightSidebar #nav_anchor .nav_anchor_download a:hover {color: #384b37; text-decoration: underline;}
+#conference #regreformrightSidebar #nav_anchor .nav_anchor_download a:visited {color: #384b37; text-decoration: underline;}
+#conference #regreformrightSidebar .nav_download {font-size: 0.85em; margin: 0 0 1em 2em; padding: 0; text-align: center;}
+#conference #regreformrightSidebar .nav_download a:link { text-decoration: underline; }
+#conference #regreformrightSidebar .nav_download a:hover { text-decoration: underline; }
+#conference #regreformrightSidebar .nav_download a:visited { text-decoration: underline; }
+/*By Topic and By Key Agency drop downs */
+#conference #regreformrightSidebar #nav_anchor2 {font-size: 0.85em; margin: 0 0 1em 2em; padding: 0;}
+#conference #regreformrightSidebar #nav_anchor2 h4 {font-size: 16px; margin: 0; padding: 0;}
+#conference #regreformrightSidebar #nav_anchor2 ul {background-color: #fef9f3; border-bottom: 1px solid #a7542c; border-top: 1px solid #a7542c; list-style: square; margin: 0; color: #a7542c; padding: 1em 0.75em 0.75em;}
+#conference #regreformrightSidebar #nav_anchor2 ul li {margin-bottom: 1em; margin-left: 0.5em;}
+#conference #regreformrightSidebar #nav_anchor2 ul li.viewAll {margin-bottom: 1em; margin-left: 0.5em; text-align: right; list-style: none;}
+#conference #regreformrightSidebar #nav_anchor2 ul li a {color: #384b37; text-decoration: underline;}
+#conference #regreformrightSidebar #nav_anchor2 .nav_anchor_download {background-color: #253750; margin: 0.15em 0; padding: 0.75em; text-align: center;}
+#conference #regreformrightSidebar #nav_anchor2 .nav_anchor_download a:link {color: #384b37; text-decoration: underline;}
+#conference #regreformrightSidebar #nav_anchor2 .nav_anchor_download a:hover {color: #384b37; text-decoration: underline;}
+#conference #regreformrightSidebar #nav_anchor2 .nav_anchor_download a:visited {color: #384b37; text-decoration: underline;}
+input.btn {width: 2.5em;}
+/* Reg Reform About page call-out*/
+span.participate {font-family:Arial, Helvetica, sans-serif; font-size: 0.90em; color:#435642;}
+span.proposals {font-family:Arial, Helvetica, sans-serif; font-size: 0.90em; color:#000; line-height: 2.3em;}
+#commentsblurb {margin-top:0em; }
+table.regreformcallout {margin:0 0 2em 0; padding:0 0 0 0; border: none; width: 500px;}
+table.regreformcallout th.shade {padding: 5px; color: #000; background-color: #ebf4e2; border: none; font-weight: 400; text-align:center; border-bottom: 3px solid #f7fcf6;}
+table.regreformcallout td {color: #3e4b41; background-color: #ebf4e2; border: none; padding: 5px 5px 5px 10px;}
+table.regreformcallout td a:link {color: #3e4b41; font-family: Arial, Helvetica, sans-serif; font-size: .90em; font-weight: bold; margin-left: 1em;}
+table.regreformcallout td a:visited {color: #3e4b41;}
+/*Reg Reform About table/div */
+#regreformtableleft {font-size: 0.90em; float: left; line-height: 1.55em;}
+#regreformtableright {font-size: 0.90em; border-left: 1px solid #435642;float: right; padding-left: 1.5em; line-height: 1.50em;}
+#conference h2.regreformtable {float: right; margin-right: 10em;}
+#conference h2.regreformtable2 {float: left;}
+/*Reg Reform About list*/
+#conference ul.keyitems {list-style: square; margin: 0; color: #435642; padding: 1em 1.75em 0.75em;}
+#conference ul li.keyitems {margin-bottom: 1em; margin-left: 1.5em;}
+span.keyitems {font-family:Arial, Helvetica, sans-serif; font-size: 0.90em; color: #000;}
+ul.regreformList{list-style: square; padding: 0; margin-left:20px;}
+ul li..regreformList {float:left; padding:10px 10px 10px 10px; }
+ 
+ /* End: RegReform copied from PubDev on 9/7/2010 */
+
+
+ /*RegReform & enforcement actions institution/regulator table*/
+table.earegulate {border-top:1px solid #999999; border-left:1px solid #999999; empty-cells:show; font-family: Verdana, Geneva, sans-serif; font-size: .85em; margin-bottom: 1em;}
+table.earegulate td {padding:5px; text-align:right; border-bottom:1px solid #999999; border-right: 1px solid #999999;}
+table.earegulate td.text{text-align:left;}
+table.earegulate td.right {text-align:right;}
+table.earegulate th {padding:5px; text-align:left; border-bottom: 1px solid #999999; border-right: 1px solid #999999; background-color:#3e5d3d; color:white;}
+table.earegulate th.center{padding:5px; text-align:center; border-bottom: 1px solid #999999; border-right: 1px solid #999999; background-color:#74aeb7; color:white;}
+table.earegulate th.left {text-align: left;}
+table.earegulate th a:link {color:white;}
+table.earegulate th a:visited {color:white;}
+table.earegulate th.subhead{background-color: #74aeb7; color: #000;}
+table.earegulate th.subhead2{background-color: #74aeb7; color: #000; text-align: left;}
+table.earegulate td.left{text-align:left; font-weight:none; color: #3e5d3d; border-right:1px solid #999999;}
+table.earegulate td.left2{text-align:left; border-right:1px solid #999999;}
+table.earegulate td.left3{text-align:center; font-weight:none; border-right:1px solid #999999;}
+table.earegulate td.center{text-align:center;}
+table.earegulate td.right{text-align:right;}
+table.earegulate tr.shade1 {background-color:#f7f6f0;}
+table.earegulate tr.shade2 {background-color: #f7f6f0;}
+table.earegulate .subhead{text-align: left; border-bottom: 1px solid #fff; font-weight: bold;}
+table.earegulate tr.header {background-color: #999999; }
+
+/*glossary table for each facility*/
+table.lendingfacility {border-top:1px solid #999999; border-left:1px solid #999999; empty-cells:show; font-family: Verdana, Geneva, sans-serif; font-size: .85em; margin-bottom: 1em;}
+table.lendingfacility td {padding:5px; text-align:right; border-bottom:1px solid #999999; border-right: 1px solid #999999;}
+table.lendingfacility td.text{text-align:left;}
+table.lendingfacility td.right {text-align:right;}
+table.lendingfacility th {padding:5px; text-align:left; border-bottom: 1px solid #999999; border-right: 1px solid #999999; background-color:#3e5d3d; color:white;}
+table.lendingfacility th.center{padding:5px; text-align:center; border-bottom: 1px solid #999999; border-right: 1px solid #999999; background-color:#74aeb7; color:white;}
+table.lendingfacility th.left {text-align: left;}
+table.lendingfacility th a:link {color:white;}
+table.lendingfacility th a:visited {color:white;}
+table.lendingfacility th.subhead{background-color: #74aeb7; color: #000;}
+table.lendingfacility th.subhead2{background-color: #74aeb7; color: #000; text-align: left;}
+table.lendingfacility td.left{text-align:left; font-weight:none; color: #3e5d3d; border-right:1px solid #999999;}
+table.lendingfacility td.left2{text-align:left; border-right:1px solid #999999;}
+table.lendingfacility td.left3{text-align:center; font-weight:none; border-right:1px solid #999999;}
+table.lendingfacility td.center{text-align:center;}
+table.lendingfacility td.right{text-align:right;}
+table.lendingfacility tr.shade1 {background-color:#f7f6f0;}
+table.lendingfacility tr.shade2 {background-color: #f7f6f0;}
+table.lendingfacility .subhead{text-align: left; border-bottom: 1px solid #fff; font-weight: bold;}
+table.lendingfacility tr.header {background-color: #999999; }
+ 
+/* Lecture Series */
+#printIcon_overlay {margin-top: 22px}
+#printIcon_conference.icon_lectureSeries{
+    margin:21px 0 0 25px;
+}
+.linkableImageIE{
+     display:block;
+     width: 763px;
+     height:124px;
+     padding:0;
+     margin:0;
+}
+h1.lectureSeries {
+    background-image: url(/cls_branding.gif);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-left: 145px;
+    padding-right: 10px;
+    padding-top: 36px;
+    text-decoration: none;
+    text-indent:-9999px;
+    font-weight:normal;
+    letter-spacing:1px;
+    font-size:1.8em;
+    font-variant:small-caps;
+    font-stretch: extra-condensed;       
+}
+h1.lectureSeries .emphasis {
+    font-style: italic;
+    font-weight: normal;
+}
+h1.lectureSeries .tagline {
+    font-size: 0.65em;
+    font-weight: normal;
+    padding-top:13px;
+    padding-bottom:24px;
+}
+.lectureSeries_caption h2{
+    padding-bottom:0;
+    margin-bottom:3px;
+}
+.lectureSeries_caption p{
+    margin-top:0;
+    padding-top:0;
+}
+ 
+/*ul#speechIndex{list-style: none; padding-left: .5em; margin-left: 0em;}
+ul#speechIndex li{margin-bottom: 1em;}
+ul#speechIndex .speaker{font-weight: bold; padding-left: 1.5em; padding-top: .2em;}
+ul#speechIndex .title{font-style: italic; padding-left: 1.5em;}
+ul#speechIndex .location{padding-left: 1.5em;}
+.duplicate{font-style: italic; font-weight: bold;}*/
+
+
+#lectureSeries div.groupItem {
+    background-color: #EFEFEF;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;}
+
+#lectureSeries div.groupItem p.category {
+    color: #666666;
+    font-size: 10px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-transform: uppercase;
+}
+#lectureSeries div.groupItem h4.title {
+    color: #253750;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.1em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+#lectureSeries div.groupItem h4.title a {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    text-decoration: underline;
+}
+#lectureSeries div.groupItem p.date {
+    color: #111111;
+    font-size: 12px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+#lectureSeries div.groupItem p.description {
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+#lectureSeries h2.border_solid {
+    border-top-color: #999999;
+    border-top-style: solid;
+    border-top-width: 1px;
+    line-height: 1;
+    margin-bottom: 0.75em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0.75em;
+}
+ 
+#regreformrightSidebar .search {padding: 5px 0 0px 0;  border-bottom: 1px solid #a7542c; margin: 0 0 20px 0; width: 210px;}
+#regreformrightSidebar form{background-color: #fef9f3; padding: 0 0 5px 5px; margin: 0;}
+#regreformrightSidebar .search #search input {margin: 10px 0 5px 0; width: 120px; }
+#regreformrightSidebar .search #search input#search {width: 60px; }
+#regreformrightSidebar .search #search select {margin-bottom: 5px; font-size:11px; margin-top: 0px;}
+#regreformrightSidebar .search h3 {margin: 0; padding: 0; font-size: 17px; border-bottom: 1px solid #a7542c;}

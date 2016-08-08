@@ -1,0 +1,252 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/other-reports.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="Board of Governors of the Federal Reserve System, Federal Reserve Board of Governors, Federal Reserve Board, Federal Reserve" />
+<meta name="description" content="The Federal Reserve Board of Governors in Washington DC." />
+
+<!-- InstanceBeginEditable name="PageTitle" --><title>FRB: Executive Summary: ACH System 2013</title><!-- InstanceEndEditable -->
+
+<link href="/resources/main.css" rel="stylesheet" type="text/css" />
+<link href="/resources/print2.css" rel="stylesheet" type="text/css" media="print"/>
+
+
+<script language="JavaScript" type="text/javascript" src="/resources/jquery-1.7.1.min.js "></script>
+<script language="JavaScript" type="text/javascript" src="/resources/exit_new.js"></script>
+<script language="JavaScript" type="text/javascript" src="/resources/swfLink.js"></script>
+
+<script type="text/javascript">
+    <!-- FOR ALTERNATING TABLE ROWS//-->
+    $(document).ready(function(){
+						   
+							   $(".pubtables tr:even").addClass("alt"); 
+							 
+});
+							   </script>
+<script type="text/javascript"> 
+$(document).ready(function(){
+ 
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+ 
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+ 
+});
+</script>
+
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+
+<body>
+<span class="skip2">
+<a href="#mainNav">skip to main navigation</a>
+<a href="#secondNav">skip to secondary navigation</a>
+<a href="#content">skip to content</a>
+</span>
+<!-- HEADER STARTS -->
+<table id="headerTopLinks" cellpadding="0" cellspacing="0">
+  <tr>
+<td class="headerTopLinksLeft">
+<a href="/whatsnew.htm">What's New</a> &middot; 
+<a href="/whatsnext.htm">What's Next</a> &middot; 
+<a href="/sitemap.htm">Site Map</a> &middot; 
+<a href="/azindex.htm">A-Z Index</a> &middot; 
+<a href="/careers/default.htm">Careers</a> &middot; 
+<a href="/feeds/default.htm">RSS</a> &middot; 
+<a href="/mediacenter/media.htm">All Videos</a> &middot; 
+<a href="/faqs/faq.htm">Current FAQs</a> &middot; 
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a></td>
+<td class="curve1"></td>
+    <td class="headerTopLinksRight"><form action="http://search.newyorkfed.org/board_public/search" method="get">
+        <label for="searchbox" class="skip2">Search</label>
+        <input type="text" name="text" size="12" maxlength="100" id="searchbox" /> <input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search"/> <a href="http://search.newyorkfed.org/board_public" class="search">Advanced Search</a>
+      </form></td>
+    <td class="curve2"></td>
+  </tr>
+</table>
+<div id="top">
+<div id="headerMasthead"><a href="/default.htm"><img src="/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"/></a>
+</div>
+<a name="mainNav"></a>
+  <div class="navMenuBack">
+    <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><div class="navItem"><a href="/aboutthefed/default.htm">About<br/>
+            the Fed</a></div></td>
+        <td><div class="navItem"><a href="/newsevents/default.htm">News<br/>
+            &amp; Events</a></div></td>
+        <td><div class="navItem"><a href="/monetarypolicy/default.htm">Monetary<br/>
+            Policy</a></div></td>
+        <td><div class="navItem"><a href="/bankinforeg/default.htm">Banking<br/>
+            Information<br/>
+            &amp; Regulation</a></div></td>
+        <td><div class="navItem"><a href="/paymentsystems/default.htm">Payment<br/>
+            Systems</a></div></td>
+        <td><div class="navItem"><a href="/econresdata/default.htm">Economic<br/>
+            Research<br/>
+            &amp; Data</a></div></td>
+        <td><div class="navItem"><a href="/consumerinfo/default.htm">Consumer<br/>
+            Information</a></div></td>
+        <td><div class="navItem"><a href="/communitydev/default.htm">Community<br/>
+            Development</a></div></td>
+        <td><div class="navItem"><a href="/apps/reportforms/default.aspx">Reporting<br/>
+            Forms</a></div></td>
+        <td id="selected"><div class="navItem"><a href="/publications/default.htm">Publications</a></div></td>
+      </tr>
+    </table>
+    <!-- HEADER ENDS --> 
+
+</div>
+</div>
+
+
+<div id="contentwrapper">
+<a name="secondNav"></a><span class="skip2"><a href="#content">skip to content</a></span>
+        
+
+
+<div id="breadcrumbwrapper"><!-- InstanceBeginEditable name="BreadCrumbs" -->
+  <div id="BreadCrumbContainer"> <a href="/default.htm">Home</a> &gt; <a href="/publications/default.htm">Publications</a> </div>
+<!-- InstanceEndEditable --></div>
+
+<div id="content"> 
+
+
+  <div id="pagetitle"><!-- InstanceBeginEditable name="Report Title" -->
+    <h2>Report to the Congress on the Use of the ACH System and Other Payment<br /> Mechanisms for Remittance Transfers to Foreign Countries</h2>
+  <!-- InstanceEndEditable -->
+    <div id="printIcon"><a href="javascript:window.print()"><img src="/econresdata/gifjpg/printIcon.gif" alt="Print Icon"/>Print</a></div>
+    <div class="clear"></div>
+  </div>
+
+  <div id="layout">
+    <div id="main">
+      
+     
+	  <!-- InstanceBeginEditable name="TopNav" -->
+       <div class="contentNav">
+        <ul class="column">
+         <li class="selected">Executive Summary</a></li>
+          <li><a href="2013-background.html">Background</a></li>
+         <li><a href="2013-discussion.html">Discussion of Remittance Transfers to Foreign Countries</a></li>
+        </ul>
+      </div>
+      <!-- InstanceEndEditable -->
+    
+      
+      <!-- InstanceBeginEditable name="MainContent" -->
+
+       <a name="top" /> <h2 class="borderdash">Executive Summary</h2> 
+<p>Section 1073(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) directs the Board of Governors of the Federal Reserve System (the Board) to provide biennial reports to the Congress over 10 years regarding the Board's work with the Federal Reserve Banks (Reserve Banks) and the U.S. Department of the Treasury (Treasury) to expand the use of the automated clearinghouse (ACH) system and other payment mechanisms for remittance transfers to foreign countries.<a href="#f1" name="f1r" id="f1r" title="footnote 1"><sup>1</sup></a></p> 
+<p> Section 1073(b) instructs the Board to include in its report an analysis of adoption rates of international ACH transactions (IATs), rules, and formats; the efficacy of increasing adoption rates; and potential recommendations to increase adoption. Pursuant to this statutory direction, the Board is issuing this second biennial report.<a href="#f2" name="f2r" id="f2r" title="footnote 2"><sup>2</sup></a> The Board consulted with the Reserve Banks and the Treasury to develop this report.<a href="#f3" name="f3r" id="f3r" title="footnote 3"><sup>3</sup></a></p> 
+<p>For more than a decade, the ACH network has enabled depository institutions to send IATs.<a href="#f4" name="f4r" id="f4r" title="footnote 4"><sup>4</sup></a> Implementation of a new IAT identifier in 2009 redefined how IATs are classified. IAT use grew to 42.4 million commercial (non-government) transactions in 2012. The proportion of commercial IAT volume that is processed through the Reserve Banks' FedGlobal ACH service, however, has remained modest.<a href="#f5" name="f5r" id="f5r" title="footnote 5"><sup>5</sup></a> The Reserve Banks have continued to explore methods to expand FedGlobal's geographic reach, provide additional service options, and facilitate depository institution regulatory compliance with remittance requirements.</p> 
+<p>Regulatory compliance continues to be a significant focus of depository institutions with respect to providing international remittance transfers. As mentioned in the Board's July 2011 ACH remittances report, depository institutions must comply with economic sanctions and anti-money-laundering regulatory requirements.</p> 
+<p>In the two years since the Board's last report, depository institutions that offer international remittances have also been responding to the consumer protection requirements of the Consumer Financial Protection Bureau (CFPB) regulation that implements Dodd-Frank Act section 1073(a). The regulation was first proposed in May 2011 and CFPB finalized many components in February 2012.</p> 
+<p>Since that time, CFPB has issued a number of revisions and proposals to the regulation--the last version of which remains outstanding--and has suspended the regulation's effective date. Depository institutions and the industry have taken steps collectively to implement formats and standards and revise industry rules to facilitate compliance with the regulation. It is difficult at this stage to assess the ultimate effect of the CFPB regulation on the use of the ACH system for international remittances.</p> 
+<br/> 
+<h3 class="border">References</h3> 
+<div class="footnotes"> 
+<p class="fntext"><a name="f1" id="f1"/>1. Pub. L. No. 111-203, 124 Stat. 2065 (2010).&nbsp; <a href="#f1r" class="return">Return to text</a></p> 
+<p class="fntext"><a name="f2" id="f2"/>2. The Board published in July 2011 its first biennial report on the use of the ACH system for international remittances, which is available at <a href="http://www.federalreserve.gov/boarddocs/rptcongress/ACH_report_201107.pdf">www.federalreserve.gov/boarddocs/rptcongress/ACH_report_201107.pdf</a>. In its first report, the Board provided an overview of remittance transfers and methods to transmit them. The Board also discussed the ACH system and the legal framework and formats for international ACH transactions. The Board described the Reserve Banks' international ACH service, called FedGlobal ACH Payments (FedGlobal®), and some of the lessons learned in building the service.&nbsp; <a href="#f2r" class="return">Return to text</a></p> 
+<p class="fntext"><a name="f3" id="f3"/>3. The Consumer Financial Protection Bureau was provided an opportunity to comment on a draft of this report.&nbsp; <a href="#f3r" class="return">Return to text</a></p> 
+<p class="fntext"><a name="f4" id="f4"/>4. In this report, the term "depository institution" refers to insured depository institutions, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813), and insured credit unions, as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752).&nbsp; <a href="#f4r" class="return">Return to text</a></p> 
+<p class="fntext"><a name="f5" id="f5"/>5. The Reserve Banks, through their FedGlobal service, offer international ACH services to depository institutions, which in turn can offer the services to their customers. The Retail Payments Office of the Federal Reserve Bank of Atlanta centrally manages the Reserve Banks' check and ACH services, including the FedGlobal service.&nbsp; <a href="#f5r" class="return">Return to text</a></p> 
+ 
+ </div>
+      <!-- InstanceEndEditable -->
+
+    </div>
+
+    <div id="relatedInfo">
+      <!--  Begin Related Resources - Convert to a list  -->
+      <ul class="classic clearfix">
+        <li class="heading">
+          <h3>Other Formats</h3>
+        </li>
+        <!-- InstanceBeginEditable name="FullReportPDF" -->
+          <li><a href="/publications/other-reports/files/ACH_report_201304.pdf">Full report (PDF)</a></li>
+          <!-- InstanceEndEditable -->
+      </ul>
+      <!--  End Related Resources  -->
+      
+<ul class="socialBox clearfix">
+<li class="heading"><h3 class="">Stay Connected</h3></li>
+
+
+<li style="float:left"><span class="medCon twitter"><a href="javascript:exitWindow('https://twitter.com/federalreserve','ext')">Twitter</a></span></li>
+<li><span class="medCon youtube"><a href="javascript:exitWindow('http://www.youtube.com/FedReserveBoard','ext')">YouTube</a></span></li  
+><li><span class="medCon flickr"><a href="javascript:exitWindow('http://www.flickr.com/photos/federalreserve/','ext')">Flickr</a></span></li>  
+<li style="float:left"><span class="medCon rss"><a href="/feeds/default.htm">RSS Feeds</a></span></li>
+<li><span class="medCon email"><a href="/newsevents/subscribe.htm">Subscribe</a></span></li>
+    </ul>
+
+      <br/>
+</div>
+
+    <!--  closes relatedInfo  -->
+    <div class="clear"></div>
+  </div>
+  <!--closes layout--><!-- InstanceBeginEditable name="LastUpdate" -->
+  <div id="lastUpdate">Last update: May 9, 2013 </div>
+  <!-- InstanceEndEditable -->
+  <p id="back-top" style="display: block;"> <a href="#pagetop"><span></span>Back to Top</a></p>
+
+  <div id="FooterLinks"> <a href="/default.htm">Home</a> | <a href="/publications/default.htm">Publications</a> </div>
+  <!-- CLOSES FooterLinks -->
+  <div id="secondaryFooterLinks">
+  
+   <div class="secondaryFooterLinksLeft">
+<a href="/accessibility.htm">Accessibility</a>
+<a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+<a href="/disclaimer.htm">Disclaimer</a>
+<a href="/policies.htm">Website Policies</a>
+<a href="/foia/about_foia.htm">FOIA</a>
+</div>
+
+    <div class="secondaryFooterLinksRight"> <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon" /> </div>
+    <div class="clear"></div>
+  </div>
+  <!-- CLOSES secondaryFooterLinks -->
+</div>
+<!-- CLOSES mainContent -->
+
+<div class="clear"></div>
+</div> <!-- CLOSES contentwrapper -->
+
+<div id="footer">
+<div id="Footer2"></div>
+</div><!-- CLOSES footer -->
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+
+
+
+<!-- InstanceEnd --></html>

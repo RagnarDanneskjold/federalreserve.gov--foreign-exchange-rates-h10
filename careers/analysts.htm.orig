@@ -1,0 +1,247 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/careers.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Federal Reserve Board:  Career Opportunities</title>
+<!-- InstanceEndEditable -->
+
+<!-- InstanceBeginEditable name="head" -->
+
+<!-- InstanceEndEditable -->
+
+<style type="text/css" media="screen">
+		@import url(styles/careers.css);
+    </style>
+<style type="text/css" media="print">
+		@import url(styles/print.css);
+    </style>
+    
+<script language="JavaScript">
+ <!-- hide javascript
+
+function popUp(pPage, winw, winh)
+{  var winOpts = 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1,width=' + winw + ',height=' + winh;
+   popUpWin = window.open(pPage,'popWin',winOpts);
+   if (parseInt(navigator.appVersion) >= 4)
+     { popUpWin.window.focus();
+     }
+}
+
+//-->
+
+var now = new Date();
+
+var months = new Array(
+"January","February","March","April","May","June","July","August","September","October","November","December");
+
+var monthname= months[now.getMonth()];
+var date= now.getDate();
+var year= now.getYear();
+if (year < 2000) year = 1900 + year;
+
+</script>
+<script language="JavaScript" src="/exit_new.js"></script>   
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+<body>
+
+<!-- Begin Top LInks -->
+<div id="toplinks">
+<h1>Careers at the Federal Reserve</h1>
+<div class="right"><a href="javascript:exitWindow('https://twitter.com/fed_careers','ext')"><img src="gifjpg/twitter-icon.png" alt="Visit our Twitter page" border="0" width="29" height="29" align="absmiddle" /></a><a href="javascript:exitWindow('http://www.linkedin.com/company/federal-reserve-board/careers?trk=top_nav_careers','ext')"><img src="gifjpg/linkedin-icon.png" alt="Visit our LinkedIn page" border="0" width="29" height="29" align="absmiddle" /></a> <a href="/">Federal Reserve Board</a></div>
+<div class="brclear"></div>
+</div>
+<a class="skip" href="#content">Skip to content</a>
+<!--Begin Header-->
+
+<div id="headerContainer"><a name="top"></a><noscript><p>Some links on this page require Javascript.</p></noscript>
+
+<div id="headerBackground"><a href="default.htm">
+
+<!-- InstanceBeginEditable name="headerImage" -->
+<img src="gifjpg/header2.jpg" border="0" alt="Careers at the Federal Reserve Board of Governors, Guiding the Nations Economy.  Image links to the Career Opportunities Home Page."/>
+<!-- InstanceEndEditable -->
+<div class="printText">Guiding the Nation's Economy</div>
+</a>
+
+  <!-- #BeginLibraryItem "/navigation.lbi" -->
+  <table class="menu">
+    <tr>
+      <td width="8%"><a href="benefits.htm">Benefits</a></td>
+      <td width="10%"><a href="salary.htm">Salary</a></td>
+      <td width="20%"><a href="diversity.htm">Commitment to Diversity</a></td>
+      <td width="26%"><a href="faq.htm">Frequently Asked Questions (FAQs)</a></td>
+      <td width="17%"><a href="directions.htm">Getting to the Board</a></td>
+      <td width="19%" class="last"><a href="addInfo.htm">Additional Information</a></td>
+    </tr>
+  </table>
+  <!-- #EndLibraryItem --></div>
+</div>
+<a class="skip" href="#content">Skip to content</a>
+<!--End Header-->
+
+<!--Begin Main Section-->
+
+<div id="MainContentContainer"><!--Contains all three columns - LeftCenter Container and RightContainer-->
+
+<div id="LeftCenterContainer"><!--Holds the left navigation and center content-->
+		<!--Divs for Left Menu Items-->
+		
+		<div id="leftContent">
+		<!--<div class="quickLinkTitle">Quick Links</div>-->
+		<!-- InstanceBeginEditable name="leftLinks" -->
+        
+		<!-- InstanceEndEditable -->
+		</div>
+		
+		<!--End Left Menu Items-->
+      <!--Begin Center Column-->
+	
+		<div id="centerContent">
+		<a name="content"></a>
+        
+        <!-- InstanceBeginEditable name="centerContent" -->
+		<div class="title"><h1>Financial Analyst/Bank Examiner </h1><A href="jobsearch/default.aspx"><img src="gifjpg/btnApplyNow2.jpg" alt="Apply Now button" border="0"/></A><div class="brclear"></div></div>
+        
+        <!-- Start: Modules to enable Flash to link to self -->
+<script src="http://admin.brightcove.com/js/APIModules_all.js"> </script> 
+<script src="http://www.federalreserve.gov/resources/frb/multiplePlayers/js/targetSelf02112011.js" type="text/javascript" language="JavaScript"></script>
+<!-- End: Modules to enable Flash to link to self -->
+<script src="http://admin.brightcove.com/js/BrightcoveExperiences.js" type="text/javascript" language="JavaScript"></script>
+<script type="text/javascript">
+ brightcove.defaultFlashParam.seamlessTabbing = true;
+ brightcove.createExperiences();
+</script>
+
+		
+		<div class="introText">
+        
+    <div style="float: right; padding-left:20px; margin-bottom:10px;">
+       <!-- Start of Brightcove Player -->
+
+<div style="display:none">
+
+</div>
+
+<!--
+By use of this code snippet, I agree to the Brightcove Publisher T and C 
+found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+-->
+
+<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+
+<object id="myExperience4621513397001" class="BrightcoveExperience">
+  <param name="bgcolor" value="#FFFFFF" />
+  <param name="width" value="250" />
+  <param name="height" value="220" />
+  <param name="playerID" value="738917326001" />
+  <param name="playerKey" value="AQ~~,AAAAD2CGfQE~,o7E-F2eteXPBj2Mnt9F60xWmPcPttZdb" />
+  <param name="isVid" value="true" />
+  <param name="isUI" value="true" />
+  <param name="dynamicStreaming" value="true" />
+  
+  <param name="@videoPlayer" value="4621513397001" />
+</object>
+
+<!-- 
+This script tag will cause the Brightcove Players defined above it to be created as soon
+as the line is read by the browser. If you wish to have the player instantiated only after
+the rest of the HTML is processed and the page load is complete, remove the line.
+-->
+<script type="text/javascript">brightcove.createExperiences();</script>
+
+<!-- End of Brightcove Player -->
+        
+        </div>
+        
+        <!--<object data="http://c.brightcove.com/services/viewer/federated_f9?&amp;width=320&amp;height=300&amp;flashID=myExperience1520950833001&amp;bgcolor=%23FFFFFF&amp;playerID=738917326001&amp;isVid=true&amp;isUI=true&amp;dynamicStreaming=true&amp;%40videoPlayer=1520950833001&amp;wmode=opaque&amp;autoStart=&amp;debuggerID=&amp;startTime=1350480660489" type="application/x-shockwave-flash" width="320" height="300" align="right" class="BrightcoveExperience" id="myExperience1520950833001" tabindex="2" seamlesstabbing="true" style="padding-left:20px; margin-bottom:10px;"><param name="allowScriptAccess" value="always"><param name="allowFullScreen" value="true"><param name="seamlessTabbing" value="true"><param name="swliveconnect" value="true"><param name="wmode" value="opaque"><param name="quality" value="high"><param name="bgcolor" value="#FFFFFF"></object>-->
+        
+
+        
+		<p>The Board&rsquo;s responsibilities in  the supervision and regulation of the U.S. banking system extend to all state  banks that are members of the Federal Reserve System, and all types of banking  and financial service organizations, including those that engage in foreign  banking. Analysts  at the Board monitor  the operations of the twelve Federal Reserve Banks and develop payments system  policy.&nbsp; The Board also hires analysts to  examine and investigate compliance with the &nbsp;Bank Secrecy Act and to analyze bank and bank  holding company acquisition or merger applications for consumer compliance and  for compliance with the &nbsp;Community  Reinvestment Act. &nbsp;</p>
+        
+        
+		<p>Analysts are hired in three  divisions at the Board, the Division of Banking Supervision and Regulation, the  Division of Reserve Bank Operations and Payment Systems, and the Division of  Consumer and Community Affairs.</p>
+		
+		</div>
+
+
+
+		<h2>Division of Banking Supervision and Regulation </h2>
+		<p>Financial analysts perform highly complex analysis related to wholesale, retail, and market risk. They identify and interpret trends, develop and communicate policy recommendations, and work with other division policy and supervision professionals throughout the Federal Reserve System.</p> 
+<p>The Federal Reserve supervises state member banks, bank holding companies (BHCs), U.S. activities of foreign banks, and Edge Act and agreement corporations. The Fed’s Division of Banking Supervision and Regulation oversees these responsibilities by<br />
+<ul>
+<li>developing and implementing timely and effective rules and policies, and providing guidance for supervised financial institutions;</li>
+<li>participating in and assessing supervisory programs and activities; and</li>
+<li>identifying and advising the Federal Reserve Chairman and governors about issues and vulnerabilities with individual financial institutions that could have an adverse impact on the financial system and the U.S. and global economy.</li></ul></p>
+		<p>The Dodd-Frank Wall Street Reform and Consumer Protection Act gives the Federal Reserve important new authorities to safeguard financial stability, including the responsibility to oversee systemically important financial institutions that receive heightened scrutiny based on their potential impact on financial stability. The act also gives the Fed an expanded supervisory role and new authorities to help ensure the safety and soundness of financial market utilities.  Many financial analysts are needed to help us accomplish important new objectives, along with the Federal Reserve’s other critical supervisory programs.</p>
+        <p>Communication and coordination is a key element for this job as division members have frequent contact with senior officials of the Board and Federal Reserve Banks, as well as with senior officials of other bank and thrift institution regulatory agencies, banking organizations, and private sector entities.</p>
+		
+<h2>Division of Reserve Bank Operations and Payment Systems</h2>
+
+		<p>These analysts monitor many of the operations of  the Federal Reserve Banks, including the financial services provided by the  Banks,  critical support, such as with information technology,  financial and cost accounting, physical security, and human resources.&nbsp; They also assess the future direction of  the Reserve Banks&rsquo; operations and financial services, oversee major  initiatives, and monitor ongoing operations.&nbsp;  In addition, analysts participate in policy development for the nation&rsquo;s  payment system and for G-10 central bank policies to promote efficiency  and manage risk in the payments system. </p>	
+        <p><a href="#top">Back to top</a></p>
+	
+		<h2>Division of Consumer and Community Affairs </h2>
+		<p>Analysts in this division support and oversee  the supervisory efforts of Reserve Banks to ensure that consumer protection  laws and regulations are fully and fairly enforced.&nbsp; Analysts supervise the implementation and  administration of the Board&rsquo;s consumer compliance examination procedures,  applications requests, and complaint handling programs by identifying emerging  issues and by providing guidance on consumer protection laws, regulations, and  enforcement techniques.&nbsp; The analysts also  develop and revise the Board&rsquo;s policies, procedures, and guidelines, coordinate  comprehensive consumer compliance examiner training programs, participate in  interagency activities, and identify complaint trends.&nbsp;&nbsp; They identify ways to encourage public and private partnerships and private-sector initiatives to address community developments needs, and they conduct research and provide technical assistance on urban and rural economic development issues and underserved financial services markets. </p>
+        <p><a href="#top">Back to top</a></p>
+
+		
+
+		
+		<h2 class="fasleftRoom2">Qualifications</h2>
+		<p class="fasleftRoom2">Individuals interested in a  career as an analyst should have a degree in business administration with  concentration in accounting or finance, and experience in financial analysis as  it relates to banking. Knowledge of the laws and regulations governing banks  and bank holding companies is preferred. A master&rsquo;s degree is required for most  higher-level positions.</p>
+		
+			<p class="fasleftRoom2">
+		<A href="jobsearch/default.aspx"><img src="gifjpg/btnApplyNow2.jpg" alt="Apply Now button" border="0"/></a>
+		</p>
+
+        
+        <!-- InstanceEndEditable -->
+	</div> <!--Closes Center Content Div-->
+	</div> <!--Closes LeftCenter Container Div-->
+	
+	
+	
+<!-- InstanceBeginEditable name="rightContent" -->
+
+<!-- InstanceEndEditable -->
+	 
+
+<br class="brclear"/>
+<!--The following Div adds the bottom image and quote to the page-->
+<!-- InstanceBeginEditable name="footerImage" -->
+
+
+<!--End Image Container-->
+<!-- InstanceEndEditable -->
+</div>
+<!--Closes MainContentContainer--> 
+
+<!--Begin Footer-->
+
+<div id="FooterContainer">
+	<div id="footer">
+	<div class="lastUpdate"><a href="/">Home</a> | <a href="/careers/default.htm">Career Opportunities</a><br /><a href="/aboutthefed/contact-us-topics.htm">Contact us</a> | <a href="/accessibility.htm">Accessibility</a><br />
+	<strong>Last Update: 
+	<!-- #BeginDate format:Am1 -->November 19, 2015<!-- #EndDate -->
+	</strong></div>
+	</div>
+</div>
+
+<!--End Footer--> 
+        
+        
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+<!-- InstanceEnd --></html>

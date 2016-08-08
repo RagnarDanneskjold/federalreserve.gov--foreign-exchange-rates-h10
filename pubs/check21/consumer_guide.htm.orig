@@ -1,0 +1,272 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>FRB: Consumer Guide to Check 21 and Substitute Checks</title>
+<style type="text/css">
+<!--
+body	{color: black;
+		background-color: #ffffff;}
+
+a:link          {color: #006666;}	
+	
+a:visited 		{color: #800080;}
+
+a:hover         {color: #006666;
+				background: #eeeeee;}	
+				
+a.image:hover   {color: #006666;
+				background: #ffffff;}	
+
+/* text */
+
+p 				{font-family: 'Times New Roman', Times, serif;
+				font-size: 1em;
+				color: #000000;
+				line-height: 1.2em;
+				margin-bottom: .35em;
+				margin-top: .35em;}
+
+.leadin {font-family: Verdana, Helvetica, sans-serif;
+				font-size: .7em;
+				font-weight: bold;
+				
+				color: #006699;
+				line-height: 1.2em;
+				margin-top: 1em;
+				margin-bottom: 0em;
+				margin-right: 1em;}
+				
+.top			{font-family: Verdana, Helvetica, sans-serif;
+                 font-size: .8em;
+                 font-weight: normal; 
+                 margin-top: .4em;
+				 margin-bottom: .4em;}
+				
+.head {font-family: Verdana, Helvetica, sans-serif;
+				font-size: 1em;
+				line-height: 1.2em;
+				font-weight: bold;
+				color: #006699;
+				margin-top: 1.2em;
+				margin-bottom: .5em;}	
+							
+.caption {font-family: Verdana, Helvetica, sans-serif;
+				font-size: 0.8em;
+				color: #006699;
+				margin-top: -.2em;
+				margin-bottom: 1.5em;}		
+					
+.bulletitem   {font-family: 'Times New Roman', Times, serif;
+				font-size: 1em;
+				color: #000000;
+				line-height: 1.2em;
+				margin-bottom: 0em;
+				margin-top: 0em;
+				margin-left: 1em;
+				text-indent: -1em;}	
+				
+.bulletitemfirst		{font-family: 'Times New Roman', Times, serif;
+				font-size: 1em;
+				color: #000000;
+				line-height: 1.2em;
+				margin-bottom: 0em;
+				margin-top: .35em;
+				margin-left: 1em;
+				text-indent: -1em;}	
+									
+.footer	{font-size: .8em;
+		font-weight: normal;
+		font-family: 'Times New Roman',Times,serif;
+		width: 600px;}
+                              
+.pagedate	{font-weight: bold;}		
+-->
+
+</style>
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body bgcolor="#ffffff">
+<a name="pagetop"></a>
+<table width="600" cellpadding="0" cellspacing="0">
+  <tr>
+	<td colspan="2" valign="top">
+		<a href="/"><img src="/gifjpg/sm_head2.gif" border="0" alt="The Federal Reserve Board eagle logo links to home page"></a>
+		<hr noshade>
+	</td>
+	</tr>
+	<tr>
+		<td valign="top" align="left" width="150">
+		<img src="gifjpg/write_check23.jpg" alt="Photo of close up of person writing a check." width="138" height="119"border="0"><br>
+		</td>
+	  <td valign="middle" align="left" width="450">
+		<img src="gifjpg/title1_lt.gif" alt="Consumer Guide to Check 21 and Substitute Checks" width="400" height="65" vspace="5" border="0" align="top">
+		<div class="top">&nbsp;&nbsp;&nbsp;<a href="consumer_guide_sp.htm">ESPA&Ntilde;OL</a></div>
+	  </td>
+	</tr>
+	<tr>
+		<td valign="top" width="150">
+		<!-- Leadin paragraph -->
+		<div class="leadin">A federal law, known as Check&nbsp;21, makes it easier for banks to electronically transfer check images instead of physically transfer paper checks.  This guide explains your rights under Check&nbsp;21 as they relate to substitute checks. Substitute checks are special paper copies of the front and back of your original checks that are created to replace the original check.</div>
+		</td>
+		<td valign="top">
+		<hr align="left" size="1" color="#800080" noshade>
+		
+	<!-- Question Links --> 
+	
+		<div class="top"><a href="#how">How does Check&nbsp;21 affect you?</a></div>
+		<div class="top"><a href="#whatis">What is a substitute check?</a></div>
+		<div class="top"><a href="#why">Why do banks create substitute checks?</a></div>
+		<div class="top"><a href="#can">Can I require my bank to return my original check?</a></div>
+		<div class="top"><a href="#whatshould">What should I do if I receive a substitute check and there is a problem?</a></div>
+		<div class="top"><a href="#howdo">How do I file a claim under the special refund procedure for substitute checks?</a></div>
+		<div class="top"><a href="#whatif">What if I have more questions about substitute checks?</a></div>
+		
+		
+		<hr align="left" size="1" color="#800080" noshade>
+		<!-- How does Check 21 affect you? -->
+
+		<div class="head"><a name="how"></a>How does Check&nbsp;21 affect you?</div>
+
+		<p>Because of Check&nbsp;21 and other check-system improvements, your checks may be processed faster--which means money may be deducted from your checking account faster. Before you write a check, make sure that your checking account has enough money in it to cover the check.</p>
+
+		<p>You may be one of the majority of consumers who do not receive their canceled checks with their account statements. Instead, you may receive &quot;pictures&quot; (known as digital images) of your checks, a list of your paid checks, or a combination of these items. Check&nbsp;21 will have little or no effect on these practices.</p>
+
+		<p>On the other hand, if you do get your canceled checks back in your regular account statements, you may notice some changes under Check&nbsp;21. For example, your bank may start sending you a combination of original checks and substitute checks in your account statements. You may use a canceled substitute check as proof of payment just as you would use a canceled original check.</p>
+
+		<p>The account agreement you have with your bank governs whether you receive canceled checks with your account statements. If you currently get canceled checks back with your statements, you will continue to receive your checks unless your bank notifies you that it is changing your account agreement.</p>
+
+		<p>You may receive substitute checks in other limited circumstances.  For example, your bank may give you a substitute check if you ask to have a particular canceled check back to prove a payment. Also, your bank might provide a substitute check to you when returning a &quot;bounced&quot; check that you deposited into your account.</p>
+
+		<p>By law, your bank may not pay a check from your account unless you authorized that payment. In other words, you are protected from having your bank pay the same check from your account more than once or from having your bank pay the wrong amount for a check. Check&nbsp;21 does not change these protections. However, Check&nbsp;21 does give you special rights if you receive a substitute check from your bank. This guide explains your rights regarding substitute checks. For your rights in other situations, contact your bank.</p>
+
+	<!-- What is a substitute check? -->
+
+		<div class="head"><a name="whatis"></a>What is a substitute check?</div>
+
+		<p>A substitute check is a special paper copy of the front and back of an original check. The substitute check may be slightly larger than the original check. Substitute checks are specially formatted so they can be processed as if they were original checks. The front of a substitute check should state: &quot;This is a legal copy of your check. You can use it the same way you would use the original check.&quot; The following sample shows what a substitute check looks like.</p>
+
+		<img src="gifjpg/Subcheck_FRONT_shadow.gif" alt="The front side of a substitute check." width="428" height="193" border="0">
+		<div class="caption">Front of a substitute check</div>
+		<img src="gifjpg/Subcheck_BACK_shadow.gif" alt="The back side of a substitute check." width="428" height="199" border="0">
+		<div class="caption">Back of a substitute check</div>
+
+		<p><img src="gifjpg/BankStatement_shadow.gif" alt="Sample image statement." width="300" height="380" border="0" align="left"></p>
+
+
+
+<p>Not all copies of a check are substitute checks. For example, pictures of multiple checks printed on a page (also known as an image statement) that is returned to you with your monthly statement are not substitute checks. Online check images and photocopies of original checks are not substitute checks either. You can use image statements and other copies of checks to verify that your bank has paid a check.</p>
+
+
+		</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td valign="top">
+		<div class="caption">Image statement</div>
+		<!-- Why do banks create substitute checks? -->
+		
+		<div class="head"><a name="why"></a>Why do banks create substitute checks?</div>
+
+		<p>Some banks find that exchanging electronic images of checks with other banks is faster and more efficient than physically transporting paper checks. In certain circumstances, however, banks may need to use a paper check. To address this need, Check&nbsp;21 allows a bank to create and send a substitute check that is made from an electronic image of the original check.</p>
+
+	<!-- Can I require my bank to return my original check? -->
+
+		<div class="head"><a name="can"></a>Can I require my bank to return my original check?</div>
+
+		<p>No. In general, the law does not require your bank to return your original check. Many banks destroy original paper checks.  Other banks may store original checks for some period of time and then destroy them. Check&nbsp;21 ensures that you have the same legal protections when you receive a substitute check from your bank as you do when you receive an original check.</p>
+
+	<!-- What should I do if I receive a substitute check and there is a problem? -->
+
+		<div class="head"><a name="whatshould"></a>What should I do if I receive a substitute check and there is a problem?</div>
+
+		<p>Check&nbsp;21 provides a special process that allows you to claim a refund (also known as an expedited recredit) when you receive a substitute check from a bank and you think there is an error because of the substitute check. For example, you may think that you were charged twice for the same check.</p>
+ 
+		<p>You may use the special process to get a refund of the money you lost. The amount of your refund under the special process is limited to the amount of your loss or the amount of the substitute check that you received, whichever is less, plus interest on that amount if your account earns interest. If your loss is more than the amount of the substitute check, you may have the right under other laws to recover additional amounts of money.</p>
+
+		<p>If your bank finds that your claim is valid, you should receive your refund by the next business day after the bank's finding. Unless your bank finds that your claim is not valid, you should receive up to $2,500 of your refund (plus interest if your account earns interest) within 10 business days after your bank receives your claim. You should receive the rest of your refund (plus interest if your account earns interest) no later than 45 days after your bank receives your claim. If your bank finds that your claim is not valid, it will send you a notice explaining why.</p>
+
+		<p>Your bank may reverse the refund (including any interest on the refund) if it can show that the substitute check did not cause an error in your account.</p>
+
+	<!-- How do I file a claim under the special refund procedure for substitute checks? -->
+
+		<div class="head"><a name="howdo"></a>How do I file a claim under the special refund procedure for substitute checks?</div>
+
+		<p>If you notice a problem with a substitute check, you should contact your bank as soon as possible.  In general, to use the special refund procedure for substitute checks, you should contact your bank no later than 40 days from the date your bank provided the substitute check or from the date of the statement that shows the problem.</p>
+		<p>In general, you must</p>
+
+		<div class="bulletitemfirst"><img src="gifjpg/box.gif" alt="item" width="6" height="6" vspace="2">&nbsp;&nbsp; Describe why you think the charge to your account is incorrect.</div>
+
+		<div class="bulletitem"><img src="gifjpg/box.gif" alt="item" width="6" height="6" vspace="2">&nbsp;&nbsp; Describe why you believe the original check or a better version of the substitute check is needed to determine whether the substitute check should have been deducted from your account.</div>
+
+		<div class="bulletitem"><img src="gifjpg/box.gif" alt="item" width="6" height="6" vspace="2">&nbsp;&nbsp; Estimate how much money you lost because of the substitute check. (Include any fees you were charged as a result of the substitute check.  Also, alert your bank to any interest you lost, if your account earns interest.)</div>
+
+		<div class="bulletitem"><img src="gifjpg/box.gif" alt="item" width="6" height="6" vspace="2">&nbsp;&nbsp; Provide a copy of the substitute check, or give your bank information that will help it identify the substitute check and investigate your claim.</div>
+		
+		
+	<!-- What if I have more questions about substitute checks? -->
+
+		<div class="head"><a name="whatif"></a>What if I have more questions about substitute checks?</div>
+
+		<p>Contact your bank.</p>
+
+		<p>Visit the online information on <a href="/paymentsystems/truncation/">Check&nbsp;21</a>.</p>
+
+		<p>Contact your state's consumer protection agency or attorney general's office for information on state laws that apply to checks and substitute checks.</p>
+
+		<div class="head">Remember . . .</div>
+		
+		<div class="bulletitem"><img src="gifjpg/box.gif" alt="item" width="6" height="6" vspace="2">&nbsp;&nbsp; When a bank uses substitute checks, your checks may be processed faster. Be sure you have enough money in your account to cover the checks that you write.</div>
+
+		<div class="bulletitem"><img src="gifjpg/box.gif" alt="item" width="6" height="6" vspace="2">&nbsp;&nbsp; Always review your account statement to make sure the charges are correct.</div>
+
+		<div class="bulletitem"><img src="gifjpg/box.gif" alt="item" width="6" height="6" vspace="2">&nbsp;&nbsp; If you receive something other than a substitute check, be aware of your rights to resolve errors under other state and federal laws.</div>
+
+
+		<div class="bulletitem"><img src="gifjpg/box.gif" alt="item" width="6" height="6" vspace="2">&nbsp;&nbsp; Contact your bank right away if you notice an error in your account.</div>
+		
+	
+	<!-- Additional Information -->
+		
+		<div class="head">For additional information see</div>
+		<p><a href="/pubs/checkconv/default.htm">When Is Your Check Not a Check</a></p>
+		
+		</td>
+	</tr>
+	<tr><td colspan="2">
+	
+			<br>
+		<table border="1" cellspacing="0" cellpadding="10" bgcolor="#eeeeee" width="600">
+			<tr>
+				<td class="sidebar"><img src="gifjpg/bookletimage.gif" width="51" height="81" hspace="2" alt="image of the folded brochure" align="right">
+				<a href="consumer_guide.pdf">PDF file for printing brochure (632 MB PDF)</a><br>
+                You can use this PDF file to print 8&frac12; x 14 inch pages that can be copied back-to-back, folded, 
+				and folded again (4 panels) and made into a 3&frac12; x 8&frac12; inch brochure. You can 
+				also download this file and take it directly to a printer who is able to print from PDF format files.<br>
+				
+				
+			  </td>
+			</tr>
+		</table> 
+		
+		</td></tr>   
+
+	<tr>
+		<td colspan="2">
+		<hr noshade>
+     	<div class="footer"> <a href="/">Home</a> | <a href="/consumers.htm">Consumer information</a><br>
+		<a href="/accessibility.htm">Accessibility</a> | <a href="/apps/ContactUs/feedback.aspx">Contact us</a><br>
+        <span class="pagedate">Last update: February 16, 2004</span></div>
+		</td>
+	</tr>
+</table> 
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

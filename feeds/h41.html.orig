@@ -1,0 +1,448 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1- transitional.dtd">
+<html xmlns:ms="urn:schemas-microsoft-com:xslt" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rss="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:frb="http://www.federalreserve.gov/feeds/" xmlns:cb="http://www.centralbanks.org/rss-cb/1.0/" xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>FRB: DDP: Factors Affecting Reserve Balances (H.4.1)</title>
+    <link href="/resources/pubweb.css" rel="stylesheet" type="text/css">
+    <link href="/resources/secondary.css" rel="stylesheet" type="text/css">
+    <link href="/resources/print.css" rel="stylesheet" type="text/css" media="print">
+    <link href="/resources/economic.css" rel="stylesheet" type="text/css">
+    <link href="/resources/statistics.css" rel="stylesheet" type="text/css">
+    <base target="_top"><script language="javascript" type="text/javascript" src="/exit_new.js"></script><script language="javascript" type="text/javascript">
+          var cnt = 0;
+        </script><script language="javascript" type="text/javascript">
+          window.onload = function() {
+            if(document.implementation && document.implementation.createDocument) {
+              for(var i=0; i < cnt; i++) {
+                document.getElementById("divContent" + (i+1)).innerHTML = document.getElementById("div2Content" + (i+1)).innerHTML;
+              }
+            }
+          }
+        </script><script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+  <body><a href="#mainNav" class="invisible">skip to main navigation</a><a href="#secondNav" class="invisible">skip to secondary navigation</a><a href="#content" class="invisible">skip to content</a><table id="headerTopLinks" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="headerTopLinksLeft"><a href="/whatsnew.htm">What's New</a> ·
+              <a href="/whatsnext.htm">What's Next</a> ·
+              <a href="/sitemap.htm">Site Map</a> ·
+              <a href="/azindex.htm">A-Z Index</a> ·
+              <a href="/careers/default.htm">Careers</a> ·
+              <a href="/feeds/default.htm">RSS</a> ·
+              <a href="/mediacenter/media.htm">All Videos</a> ·
+              <a href="/faqs.htm">Current FAQs</a></td>
+        <td class="curve1"></td>
+        <td class="headerTopLinksRight">
+          <form action="http://search.newyorkfed.org/search/search.jsp" method="GET"><label><span class="invisible">Search</span><input type="text" name="text" size="12" maxlength="100"></label><input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search" border="0"><input type="hidden" name="template" value="BOARD"><input type="hidden" name="type" value="adv"><input type="hidden" name="who" value="patx">  <a href="http://search.newyorkfed.org/search/search.jsp?who=patx&amp;template=BOARD" class="search">Advanced Search</a></form>
+        </td>
+        <td class="curve2"></td>
+      </tr>
+    </table>
+    <div id="top">
+      <div id="headerMasthead"><a href="/default.htm"><img src="/econresdata/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"></a></div><a name="mainNav"></a><div class="navMenuBack">
+        <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td>
+              <div class="navItem"><a href="/aboutthefed/default.htm">
+                      About<br>the Fed</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/newsevents/default.htm">
+                      News<br>&amp; Events</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/monetarypolicy/default.htm">
+                      Monetary<BR>Policy</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/bankinforeg/default.htm">
+                      Banking<BR>
+                        Information<BR>&amp; Regulation</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/paymentsystems/default.htm">
+                      Payment<BR>Systems</a></div>
+            </td>
+            <td id="selected">
+              <div class="navItem"><a href="/econresdata/default.htm">
+                      Economic<BR>
+                        Research<BR>&amp; Data</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/consumerinfo/default.htm">
+                      Consumer<BR> Information</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/communitydev/default.htm">
+                      Community<BR>Development</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/reportforms/default.cfm">
+                      Reporting<BR>Forms</a></div>
+            </td>
+            <td>
+              <div class="navItem"><a href="/publications/default.htm">Publications</a></div>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <div id="contentContainer">
+      <div id="content">
+        <div id="BreadCrumbContainer"><a href="/default.htm">Home</a> &gt; <a href="/econresdata/releases/statisticsdata.htm">Statistical Releases and Historical Data</a></div>
+        <div class="generalContentText" id="printThis">
+          <div id="printIcon"><a href="http://www.federalreserve.gov/feeds"><img src="../../GIFJPG/rssIcon.gif" border="0"></a><a href="http://www.federalreserve.gov/datadownload/"><img src="../../GIFJPG/ddpIcon_smallest.gif" border="0"></a><a href="javascript:printable('../../resources/print_news.css');"><img src="../../gifjpg/printIcon.gif">Print</a></div><a name="content"></a><A NAME="pagetop"></A><h1 class="border"><span style="font-size:larger; font-weight:bold;"> Factors Affecting Reserve Balances (H.4.1)</span></h1>
+          <div id="TwoColumns">
+            <h2 class="border">Announcements</h2><span style="font-size:normal; font-weight:normal;">This feed provides information about factors affecting reserve balances data from the Federal Reserve Board's H.4.1 release available through the Data Download Program (DDP).</span><br><ul><br><li><span style="font-style:italic;">December 31, 2015</span><br><span style="font-weight:bold;"><A NAME="1192">Change to H.4.1 to reflect the passage of the FAST Act</A></span><br><DIV ID="&#xA;                          divContent1">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to reflect the policies under which Federal Reserve Banks make payments of their residual net earnings to the U.S. Treasury.  The Fixing America's Surface Transportation Act (FAST), which was enacted on December 4, 2015, requires that aggregate Federal Reserve Bank surplus not exceed $10 billion.  Therefore, any amount of aggregate Reserve Bank surplus that exceeds this limit will be remitted to the U.S. Treasury.  The line "Interest on Federal Reserve Notes due to U.S. Treasury" on table 6 has been replaced with "Earnings remittances due to the U.S. Treasury" and footnotes to tables 1, 5, and 6 have been similarly modified.  <br />
+                    <br />The amounts of the line items "Other liabilities and capital" on table 1, and "Surplus" on tables 5 and 6 reflect the payment of approximately $19.3 billion to Treasury on December 28, 2015, which was necessary to reduce aggregate Reserve Bank surplus to the $10 billion limitation in the FAST Act.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 1;
+                      </script></li><br><li><span style="font-style:italic;">October 01, 2015</span><br><span style="font-weight:bold;"><A NAME="1059">Effective January 1, 2016, the H.4.1 will be removed from the Office of Management and Budget's list of Principal Federal Economic Indicators. </A></span><br><DIV ID="&#xA;                          divContent2">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>Effective January 1, 2016, the Federal Reserve Board's Statistical Release "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks" (the H.4.1) will be removed from the Office of Management and Budget's list of Principal Federal Economic Indicators. The release will not change in any other way; the removal of the Principal Federal Economic Indicator designation will not affect the contents of the release, or the manner of its publication. The H.4.1 will still be released every Thursday, unless that Thursday is a federal holiday, in which case the release will be issued the next business day.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 2;
+                      </script></li><br><li><span style="font-style:italic;">November 13, 2014</span><br><span style="font-weight:bold;"><A NAME="862">Change to H.4.1, removal of table related to TALF LLC (previously numbered as table 5)</A></span><br><DIV ID="&#xA;                          divContent3">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to reflect the removal of table 5 "Information on Principal Accounts of TALF LLC" and the line "Asset-backed securities held by TALF LLC" from table 2 "Maturity Distribution of Securities, Loans, and Selected Other Assets and Liabilities." Both have been removed because the final Term Asset-Backed Securities Loan Facility loan was repaid on October 29, 2014, and the net portfolio holdings of TALF LLC were reduced to zero on November 6, 2014.<br />
+                    <br />In order to provide information on amounts from the previous year, amounts for the "Term Asset-Backed Securities Loan Facility" and the "Net portfolio holdings of TALF LLC" continue to be shown on table 1 "Factors Affecting Reserve Balances of Depository Institutions," and amounts for the net portfolio holdings of TALF LLC also continue to be shown on the renumbered table 5 "Consolidated Statement of Condition of All Federal Reserve Banks."<br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 3;
+                      </script></li><br><li><span style="font-style:italic;">September 18, 2014</span><br><span style="font-weight:bold;"><A NAME="846">Change to H.4.1, Removal of Tables related to Maiden Lane II LLC and III LLC (previously numbered as tables 5 and 6)</A></span><br><DIV ID="&#xA;                          divContent4">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to reflect the removal of table 5 "Information on Principal Accounts of Maiden Lane II LLC" and table 6 "Information on Principal Accounts of Maiden Lane III LLC."  The tables have been removed because the portfolio holdings have been reduced to de minimis balances.
+
+<br />
+                    <br />Amounts for "Net portfolio holdings of Maiden Lane II LLC," and "Net portfolio holdings of Maiden Lane III LLC" continue to be shown on table 1 "Factors Affecting Reserve Balances of Depository Institutions," and on the renumbered table 6 "Consolidated Statement of Condition of All Federal Reserve Banks" in order to provide information on figures from the previous year.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 4;
+                      </script></li><br><li><span style="font-style:italic;">June 12, 2014</span><br><span style="font-weight:bold;"><A NAME="817">Correction to the face value of securities under reverse repurchase agreements</A></span><br><DIV ID="&#xA;                          divContent5">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been corrected to include securities pledged as collateral for tri-party reverse repurchase agreements shown in table 10 as "Less: Face value of securities under reverse repurchase agreements."</p>
+<p>Historical data incorporating this correction can be accessed through the Data Download Program (DDP) at <a href="http://www.federalreserve.gov/datadownload/Choose.aspx?rel=H41">http://www.federalreserve.gov/datadownload/Choose.aspx?rel=H41</a>. Historical releases incorporating this correction can be accessed at <a href="http://www.federalreserve.gov/releases/h41">http://www.federalreserve.gov/releases/h41</a>.</p>
+<p>The revised data are reported at the following link:<br />
+                      <a href="http://www.federalreserve.gov/releases/h41/2014update.htm">http://www.federalreserve.gov/releases/h41/2014update.htm</a>.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 5;
+                      </script></li><br><li><span style="font-style:italic;">February 20, 2014</span><br><span style="font-weight:bold;"><A NAME="767">Change to H.4.1, Deposits held at the Federal Reserve Banks by financial market utilities (FMUs) designated as systemically important</A></span><br><DIV ID="&#xA;                          divContent6">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to reflect a change to tables 1, 8, and 9.  Effective February 18, 2014, deposits held at the Reserve Banks by financial market utilities that were designated as systemically important by the Financial Stability Oversight Council under Title VIII of the Dodd-Frank Wall Street Reform and Consumer Protection Act will be included in "Deposits with F.R. Banks, other than reserve balances, Other" on table 1 and in "Deposits, Other" on tables 8 and 9.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 6;
+                      </script></li><br><li><span style="font-style:italic;">April 23, 2013</span><br><span style="font-weight:bold;"><A NAME="652">H.4.1 historical data available in DDP</A></span><br><DIV ID="&#xA;                          divContent7">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Historical data through April 17, 2013, for the H.4.1 posted to the Data Download Program (DDP) are now available for download.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 7;
+                      </script></li><br><li><span style="font-style:italic;">April 19, 2013</span><br><span style="font-weight:bold;"><A NAME="651">H.4.1 historical data in DDP temporarily unavailable </A></span><br><DIV ID="&#xA;                          divContent8">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Due to technical difficulties, incorrect historical data was posted to the Data Download Program (DDP) for the H.4.1. As a result, data for the H.4.1 in the DDP are temporarily only available through April 10, 2013. Data through April 17, 2013, are available at <a href="http://www.federalreserve.gov/releases/h41/">http://www.federalreserve.gov/releases/h41/</a>. Corrected data will be published in the DDP as soon as possible. </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 8;
+                      </script></li><br><li><span style="font-style:italic;">April 18, 2013</span><br><span style="font-weight:bold;"><A NAME="647">Change to the H.4.1 historical preformatted data packages</A></span><br><DIV ID="&#xA;                          divContent9">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Beginning today, the historical packages will no longer be available through the "Preformatted Packages" in the Data Download Program (DDP). As before, all data items on the H.4.1 release will be available through the "Build a Package" option in the DDP</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 9;
+                      </script></li><br><li><span style="font-style:italic;">April 18, 2013</span><br><span style="font-weight:bold;"><A NAME="648">Unamortized Premium, Unamortized Discount and Foreign Denominated Assets Breakout</A></span><br><DIV ID="&#xA;                          divContent10">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to separately present the amounts of unamortized premiums and unamortized discounts on securities held outright, as well as the amount of foreign currency denominated asset holdings.</p>
+<p>The amounts shown in table 1 of this release as "Unamortized premiums on securities held outright" and "Foreign currency denominated assets" were previously included as components of "Other Federal Reserve assets."  The footnote accompanying "Other Federal Reserve assets" in table 1 has been updated to identify the remaining major components, which include accrued interest, other accounts receivable, and bank premises.  The amount shown in table 1 of this release as "Unamortized discounts on securities held outright" was previously included as a component of "Other liabilities and capital." The release also reflects this additional detail on tables 8 and 9. </p>
+<p>Historical data incorporating these new and revised line items can be accessed through the Data<br />Download Program (DDP) at <a href="http://www.federalreserve.gov/datadownload/Choose.aspx?rel=H41">http://www.federalreserve.gov/datadownload/Choose.aspx?rel=H41</a>.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 10;
+                      </script></li><br><li><span style="font-style:italic;">March 09, 2012</span><br><span style="font-weight:bold;"><A NAME="503">DDP data now available</A></span><br><DIV ID="&#xA;                          divContent11">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The data for Wednesday, March 7, 2012, from the Board's H.4.1 statistical release are now available in the Data Download Program (DDP). <a href="http://www.federalreserve.gov/datadownload/Choose.aspx?rel=H41">http://www.federalreserve.gov/datadownload/Choose.aspx?rel=H41</a>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 11;
+                      </script></li><br><li><span style="font-style:italic;">March 08, 2012</span><br><span style="font-weight:bold;"><A NAME="502">DDP data delay</A></span><br><DIV ID="&#xA;                          divContent12">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The data for Wednesday, March 7, 2012, from the Board's H.4.1 statistical release are currently not available in the Data Download Program (DDP). Publication of these data are forthcoming. Tables of Historical Data can be found accompanying the H.4.1 release at <a href="http://www.federalreserve.gov/releases/h41/hist">http://www.federalreserve.gov/releases/h41/hist</a>.<br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 12;
+                      </script></li><br><li><span style="font-style:italic;">January 26, 2012</span><br><span style="font-weight:bold;"><A NAME="491">Revaluation of the net portfolio holdings of Maiden Lane LLCs and the TALF fair value adjustment</A></span><br><DIV ID="&#xA;                          divContent13">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The weekly average values, shown in table 1, reflect the December 31, 2011, quarterly updates to the fair values of the net portfolio holdings of Maiden Lane LLC, Maiden Lane II LLC, and Maiden Lane III LLC, and the fair value adjustment of the Term Asset-Backed Securities Loan Facility, or TALF, which is included in "Other Federal Reserve assets."  The amounts for the first six days of this reporting week are based on the values as of September 30, 2011, and the amounts for the last day of the reporting week are based on the values as of December 31, 2011. <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 13;
+                      </script></li><br><li><span style="font-style:italic;">November 08, 2011</span><br><span style="font-weight:bold;"><A NAME="462">New graphics options are now available from the Data Download Program (DDP)</A></span><br><DIV ID="&#xA;                          divContent14">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Users can now view plotted data as column charts, and add U.S. recession shading, while using the "View chart" function of the Data Download Program (DDP). <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 14;
+                      </script></li><br><li><span style="font-style:italic;">October 27, 2011</span><br><span style="font-weight:bold;"><A NAME="458">Revaluation of the net portfolio holdings of Maiden Lane LLCs and the TALF fair value adjustment </A></span><br><DIV ID="&#xA;                          divContent15">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release at <br />4:30 P.M. EDT <br />October 27, 2011 <br /> <br />The weekly average values, shown in table 1, reflect the September 30, 2011, <br />quarterly updates to the fair values of the net portfolio holdings of Maiden Lane <br />LLC, Maiden Lane II LLC, and Maiden Lane III LLC, and the fair value adjustment of <br />the Term Asset-Backed Securities Loan Facility, or TALF, which is included in "Other <br />Federal Reserve assets."  The amounts for the first six days of this reporting week <br />are based on the values as of June 30, 2011, and the amounts for the last day of the <br />reporting week are based on the values as of September 30, 2011. <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 15;
+                      </script></li><br><li><span style="font-style:italic;">August 26, 2011</span><br><span style="font-weight:bold;"><A NAME="433">Correction to the Data Download Program data for Factors Affecting Reserve Balances (H.4.1)</A></span><br><DIV ID="&#xA;                          divContent16">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release on <br />August 26, 2011 <br />
+                    <br />The data for the Board's H.4.1 statistical release published in the Data Download Program (DDP) on August 25 included incorrect data observations. These data were originally published in the afternoon on August 25, and then removed once the error was identified. We recommend that all DDP users replace the data downloaded yesterday with the corrected data published today, August 26. NOTE: This correction notice pertains only to the H.4.1 data provided by the DDP; there were no errors in the data published on the official H.4.1 statistical release and accompanying historical tables published on August 25.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 16;
+                      </script></li><br><li><span style="font-style:italic;">August 18, 2011</span><br><span style="font-weight:bold;"><A NAME="431">Correction to the average amount of marketable securities held in custody for foreign official and international accounts</A></span><br><DIV ID="&#xA;                          divContent17">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release on <br />August 18, 2011 <br />
+                    <br />
+                    <br />The Board's H.4.1 statistical release ("Factors Affecting Reserve Balances of <br />Depository Institutions and Condition Statement of Federal Reserve Banks") for <br />August 17, 2011, released today, understated the average amount of marketable <br />securities held in custody for foreign official and international accounts. <br />As a result, corrections to table 1A have been made. In table 1A, the weekly <br />average value of the "Marketable securities held in custody for foreign <br />official and international accounts" for the week ended Wednesday, August 17, <br />2011, was corrected from $2,981,694 million to $3,478,623 million. The weekly <br />average value of "U.S. Treasury securities" held in custody for the week ended <br />Wednesday, August 17, 2011, was corrected from $2,352,395 million to <br />$2,744,281 million, and the weekly average value of "Federal agency <br />securities" held in custody for the week ended Wednesday, August 17, 2011, was <br />corrected from $629,299 million to $734,343 million. <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 17;
+                      </script></li><br><li><span style="font-style:italic;">July 28, 2011</span><br><span style="font-weight:bold;"><A NAME="423">Revaluation of the net portfolio holdings of Maiden Lane LLCs and the TALF fair value adjustment</A></span><br><DIV ID="&#xA;                          divContent18">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release at <br />4:30 P.M. EDT <br />July 28, 2011 <br />
+                    <br />
+                    <br />The weekly average values, shown in table 1, reflect the June 30, 2011, quarterly updates to the fair values of the net portfolio holdings of Maiden Lane LLC, Maiden Lane II LLC, and Maiden Lane III LLC, and the fair value adjustment of the Term Asset-Backed Securities Loan Facility, or TALF, which is included in "Other Federal Reserve assets." The amounts for the first six days of this reporting week are based on the values as of March 31, 2011, and the amounts for the last day of the reporting week are based on the values as of June 30, 2011.  <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 18;
+                      </script></li><br><li><span style="font-style:italic;">June 30, 2011</span><br><span style="font-weight:bold;"><A NAME="412">Correction to the average amount outstanding of securities lent under the Term Securities Lending Facility for the week ending September 24, 2008</A></span><br><DIV ID="&#xA;                          divContent19">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release on <br />June 30, 2011 <br /> <br />The Board's H.4.1 statistical release ("Factors Affecting Reserve Balances of <br />Depository Institutions and Condition Statement of Federal Reserve Banks") for <br />September 25, 2008, overstated the average amount outstanding of securities <br />lent under the Term Securities Lending Facility (TSLF).  On September 18, <br />2008, a set of securities lent under the TSLF was returned to the Federal <br />Reserve, but the return of these securities was not reflected in the reported <br />value for the TSLF until September 24, 2008.  As a result, corrections to <br />table 1A, Memorandum Items, have been made to reflect the earlier return of <br />these securities on September 18, 2008.  Under the TSLF, the Federal Reserve <br />maintained ownership of securities lent, and the lending of securities did not <br />directly affect the Federal Reserve's assets and liabilities. <br />
+                    <br />In table 1A, the weekly average value of the "Term facility" for the week <br />ended Wednesday, September 24, 2008, was corrected from $185,636 million to <br />$174,045 million.  Also in table 1A, the weekly average value of "Securities <br />lent to dealers" for the week ended Wednesday, September 24, 2008, was <br />corrected from $204,948 million to $193,357 million. <br /> <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 19;
+                      </script></li><br><li><span style="font-style:italic;">May 26, 2011</span><br><span style="font-weight:bold;"><A NAME="398">Correction to the amount of loans outstanding under the Term Asset-Backed Securities Loan Facility as of May 11, 2011 </A></span><br><DIV ID="&#xA;                          divContent20">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <br />For release on <br />May 26, 2011 <br />
+                    <br />The Board's H.4.1 statistical release ("Factors Affecting Reserve Balances of Depository <br />Institutions and Condition Statement of Federal Reserve Banks") for May 12, 2011, understated the amount of loans outstanding under the Term Asset-Backed Securities Loan Facility and other liabilities by $22.5 million due to the recording of a loan payment one day early. As a result, corrections to tables 1, 2, 8, and 9 have been made. <br />
+                    <br />In table 1, the amount of loans outstanding under the "Term Asset-Backed Securities Loan Facility" on Wednesday, May 11, 2011, was corrected from $15,308 million to $15,330 million, and the related weekly average value was corrected from $15,703 million to $15,706 million. Also in table 1, the amount of "Other liabilities and capital" on Wednesday, May 11, 2011, was corrected from $72,735 million to $72,758 million, and the related weekly average value was corrected from $73,931 million to $73,934 million. <br />
+                    <br />In table 2, the amount of "Loans" with remaining maturities of "Over 1 year to 5 years" was corrected from $15,293 million to $15,316 million and the amount of "Loans" in the "All" maturity category was corrected from $15,330 million to $15,353 million. <br />
+                    <br />In tables 8 and 9, the total amount of "Loans" was corrected from $15,330 million to $15,353 million. In table 8, the amount of "Other liabilities and accrued dividends" was corrected from $20,171 million to $20,194 million. In table 9, the total amount of "Other liabilities and accrued dividends" was corrected from $19,007 million to $19,029 million. In table 9, the corrections also affected the "New York" amounts for "Loans," which revised from $15,308 million to $15,330 million, and "Other liabilities and accrued dividends," which revised from $14,825 million to $14,847 million. <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 20;
+                      </script></li><br><li><span style="font-style:italic;">April 28, 2011</span><br><span style="font-weight:bold;"><A NAME="388">Revaluation of the net portfolio holdings of Maiden Lane LLCs and the TALF fair value adjustment </A></span><br><DIV ID="&#xA;                          divContent21">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release at <br />4:30 P.M. EDT<br />April 28, 2011 <br />
+                    <br />The weekly average values, shown in table 1, reflect the March 31, 2011, quarterly updates to the fair values of the net portfolio holdings of Maiden Lane LLC, Maiden Lane II LLC, and Maiden Lane III LLC, and the fair value adjustment of the Term Asset-Backed Securities Loan Facility, or TALF, which is included in "Other Federal Reserve assets." The amounts for the first six days of this reporting week are based on the values as of December 31, 2010, and the amounts for the last day of the reporting week are based on the values as of March 31, 2011. <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 21;
+                      </script></li><br><li><span style="font-style:italic;">April 14, 2011</span><br><span style="font-weight:bold;"><A NAME="385">Correction to the maturity distribution of other loans in table 2 for March 30, 2011</A></span><br><DIV ID="&#xA;                          divContent22">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release on <br />April 14, 2011 <br /> <br />The Board's H.4.1 statistical release ("Factors Affecting Reserve Balances of Depository <br />Institutions and Condition Statement of Federal Reserve Banks") for March 31, 2011 <br />contained a misclassification in table 2, which has been corrected.  The amount of other <br />loans with remaining maturities of 91 days to 1 year was corrected from $0 million to $5 <br />million, and the amount of other loans with remaining maturities over 1 year to 5 years <br />was corrected from $19,221 million to $19,216 million. <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 22;
+                      </script></li><br><li><span style="font-style:italic;">February 03, 2011</span><br><span style="font-weight:bold;"><A NAME="362">Revaluation of the net portfolio holdings of Maiden Lane LLCs and the TALF fair value adjustment</A></span><br><DIV ID="&#xA;                          divContent23">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release at <br />4:30 P.M. EST <br />February 3, 2011 <br />
+                    <br />
+                    <br />The weekly average values, shown in table 1, reflect the December 31, 2010, quarterly updates to the fair values of the net portfolio holdings of Maiden Lane LLC, Maiden Lane II LLC, and Maiden Lane III LLC, and the fair value adjustment of the Term Asset-Backed Securities Loan Facility, or TALF, which is included in "Other Federal Reserve assets."  The amounts for the first six days of this reporting week are based on the values as of September 30, 2010, and the amounts for the last day of the reporting week are based on the values as of December 31, 2010. <br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 23;
+                      </script></li><br><li><span style="font-style:italic;">January 20, 2011</span><br><span style="font-weight:bold;"><A NAME="358">Closing of the American International Group, Inc. (AIG) recapitalization plan</A></span><br><DIV ID="&#xA;                          divContent24">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For release at <br />4:30 P.M. Eastern Time <br />January 20, 2011 </p>
+<p>
+                      <br />The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," reflects the closing of the American International Group, Inc. (AIG) recapitalization plan, which occurred on January 14, 2011.  The recapitalization plan was designed to restructure and facilitate repayment of the financial support provided to AIG by the U.S. Department of the Treasury (Treasury) and the Federal Reserve.  Upon closing of the recapitalization plan, the cash proceeds from certain asset dispositions, specifically the initial public offering of AIA Group Limited (AIA) and the sale of American Life Insurance Company (ALICO), were used first to repay in full the credit extended to AIG by the FRBNY under the revolving credit facility (AIG loan), including accrued interest and fees, and then to redeem a portion of the FRBNY's preferred interests in ALICO Holdings LLC taken earlier by the FRBNY in satisfaction of a portion of the AIG loan.  The remaining FRBNY preferred interests in ALICO Holdings LLC and AIA Aurora LLC, valued at approximately $20 billion, were purchased by AIG through a draw on the Treasury's Series F preferred stock commitment and then transferred by AIG to the Treasury as consideration for the draw on the available Series F funds.<br />  <br />The weekly average values shown in table 1 reflect, as of January 14, 2011, the repayment by AIG of the "Credit extended to American International Group, Inc., net" and the "Preferred interests in AIA Aurora LLC and ALICO Holdings LLC," and the distribution of the "Funds from American International Group, Inc. asset dispositions, held as agent."<br /> <br />The H.4.1 statistical release continues to show average amounts for "Credit extended to American International Group, Inc., net," "Preferred interests in AIA Aurora LLC and ALICO Holdings LLC," and "Funds from American International Group, Inc. asset dispositions, held as agent," even though all funding commitments to AIG have been terminated, to provide a complete disaggregation of changes in assets and liabilities from the corresponding week one year ago.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 24;
+                      </script></li><br><li><span style="font-style:italic;">January 06, 2011</span><br><span style="font-weight:bold;"><A NAME="349">Change in Presentation of Reserve Bank Remittances to the U.S. Treasury</A></span><br><DIV ID="&#xA;                          divContent25">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For release at<br />4:30 P.M. Eastern time<br />January 6, 2011</p>
+<p> </p>
+<p>The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to reflect an accounting policy change that will result in a more transparent presentation of each Federal Reserve Bank's capital accounts and distribution of residual earnings to the U.S. Treasury.  Although the accounting policy change does not affect the amount of residual earnings that the Federal Reserve Banks distribute to the U.S. Treasury, it may affect the timing of the distributions.  Consistent with long-standing policy of the Board of Governors, the residual earnings of each Federal Reserve Bank, after providing for the costs of operations, payment of dividends, and the amount necessary to equate surplus with capital paid-in, are distributed weekly to the U.S. Treasury.  The distribution of residual earnings to the U.S. Treasury is made in accordance with the Board of Governor's authority to levy an interest charge on the Federal Reserve Banks based on the amount of each Federal Reserve Bank's outstanding Federal Reserve notes.  </p>
+<p>Effective January 1, 2011, as a result of the accounting policy change, on a daily basis each Federal Reserve Bank will adjust the balance in its surplus account to equate surplus with capital paid-in and, in addition, will adjust its liability for the distribution of residual earnings to the U.S. Treasury.  Previously these adjustments were made only at year-end.  Adjusting the surplus account balance and the liability for the distribution of residual earnings to the U.S. Treasury is consistent with the existing requirement for daily accrual of many other items that appear in the Board's H.4.1 statistical release.  The liability for the distribution of residual earnings to the U.S. Treasury will be reported as "Interest on Federal Reserve notes due to U.S. Treasury" on table 10.  Previously, the amount necessary to equate surplus with capital paid-in and the amount of the liability for the distribution of residual earnings to the U.S. Treasury were included in "Other capital accounts" in table 9 and in "Other capital" in table 10.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 25;
+                      </script></li><br><li><span style="font-style:italic;">December 02, 2010</span><br><span style="font-weight:bold;"><A NAME="342">Revaluation of the TALF fair value adjustment</A></span><br><DIV ID="&#xA;                          divContent26">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For release at<br />4:30 p.m. EST<br />December 2, 2010</p>
+<p>
+                      <br />The weekly average values, shown in table 1, reflect the September 30, 2010, quarterly update to the fair value adjustment for the Term Asset-Backed Securities Loan Facility, or TALF, which is included in "Other Federal Reserve assets."  The amounts for the first six days of this reporting week are based on values as of June 30, 2010, and the amount for the last day of the reporting week is based on values as of September 30, 2010.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 26;
+                      </script></li><br><li><span style="font-style:italic;">December 02, 2010</span><br><span style="font-weight:bold;"><A NAME="341">New interactive graphics feature of Data Download Program (DDP)</A></span><br><DIV ID="&#xA;                          divContent27">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Users will now be able to create and view interactive graphics of data packages from the program before downloading the underlying data and charts. The charting feature allows users to view multiple data series on a single chart as well as to display individual data points. The charts can be saved as PDFs or in a standard image file format (PNG) for publication and redistribution.<br />
+                    <br />"Graphics play an important role in identifying data trends and relationships," said Federal Reserve Vice Chair Janet L. Yellen. "With the help of this intuitive new user interface, it's now possible to create customized charts directly from Federal Reserve statistical data."<br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 27;
+                      </script></li><br><li><span style="font-style:italic;">November 18, 2010</span><br><span style="font-weight:bold;"><A NAME="335">Quarterly update to the loan restructuring adjustment for the credit extended to American International Group, Inc.</A></span><br><DIV ID="&#xA;                          divContent28">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For release at<br />4:30 p.m. EDT<br />November 18, 2010</p>
+<p>The weekly average values, shown in table 1, reflect the September 30, 2010 quarterly update to the loan restructuring adjustment for the credit extended to American International Group, Inc., which is included in "Credit extended to American International Group, Inc., net."  The amounts for the first six days of this reporting week are based on values as of June 30, 2010, and the amounts for the last day of the reporting week are based on values as of September 30, 2010.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 28;
+                      </script></li><br><li><span style="font-style:italic;">November 04, 2010</span><br><span style="font-weight:bold;"><A NAME="331">Release modification to report the funds held as agent by the Federal Reserve Bank of New York (FRBNY) related to the recapitalization plan announced by American International Group, Inc. (AIG)</A></span><br><DIV ID="&#xA;                          divContent29">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For release at<br />4:30 P.M. EDT<br />November 4, 2010</p>
+<p>
+                      <br />The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to report the funds held as agent by the Federal Reserve Bank of New York (FRBNY) related to the recapitalization plan announced by American International Group, Inc. (AIG) on September 30, 2010.  The recapitalization plan, which is expected to close by the end of the first quarter of 2011, is designed to restructure and facilitate repayment of the financial support provided to AIG by the U.S. Department of the Treasury and the FRBNY.  Pending the closing of the recapitalization plan, the cash proceeds from certain AIG asset dispositions will be held by the FRBNY as agent.  </p>
+<p>At the closing of the recapitalization plan, the cash proceeds from certain asset dispositions, most notably the initial public offering of AIA Group Limited (AIA) and the sale of American Life Insurance Company (ALICO), will be used first to repay in full the credit extended to AIG by the FRBNY under the revolving credit facility (AIG loan) and then to retire a portion of the FRBNY's preferred interests in AIA Aurora LLC and ALICO Holdings LLC (preferred interests) taken earlier by the FRBNY in satisfaction of a portion of the AIG loan.  Alternatively, if the recapitalization plan is terminated under the terms of the plan, then the proceeds from the initial public offering of AIA and the sale of ALICO will be used to redeem the preferred interests in accordance with the AIA Aurora LLC and ALICO Holdings LLC limited liability company agreements, and any excess proceeds from these transactions, as well as proceeds from the disposition of other assets, will be used to repay the AIG loan.  </p>
+<p>The FRBNY began to hold as agent funds from the cash proceeds from the initial public offering of AIA on October 29, 2010, and from the cash proceeds from the sale of ALICO on November 1, 2010.  </p>
+<p>The funds held by the FRBNY as agent from the disposition of the AIG assets are reported in table 1 and are included in "Other liabilities and accrued dividends" in table 9 and in table 10.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 29;
+                      </script></li><br><li><span style="font-style:italic;">October 28, 2010</span><br><span style="font-weight:bold;"><A NAME="327">Revaluation of the net portfolio holdings of Maiden Lane LLCs</A></span><br><DIV ID="&#xA;                          divContent30">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For release at<br />4:30 P.M. EDT<br />October 28, 2010</p>
+<p>The weekly average values, shown in table 1, reflect the September 30, 2010, quarterly updates to the fair value of the net portfolio holdings of Maiden Lane LLC, Maiden Lane II LLC, and Maiden Lane III LLC.  The amounts for the first six days of this reporting week are based on the values as of June 30, 2010, and the amounts for the last day of the reporting week are based on the values as of September 30, 2010.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 30;
+                      </script></li><br><li><span style="font-style:italic;">October 21, 2010</span><br><span style="font-weight:bold;"><A NAME="324">Release modification to reflect the recent expansion of the set of counterparties with whom the Federal Reserve might conduct reverse repurchase agreements for the purposes of open market operations</A></span><br><DIV ID="&#xA;                          divContent31">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For Release at<br />4:30 P.M. Eastern time<br />October 21, 2010</p>
+<p>The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to reflect the recent expansion of the set of counterparties with whom the Federal Reserve might conduct reverse repurchase agreements for the purposes of open market operations. (See <a href="http://www.ny.frb.org/markets/rrp_counterparties.html">http://www.ny.frb.org/markets/rrp_counterparties.html</a>). As a result of this expansion, the line "Dealers" under the heading "Reverse repurchase agreements" will be replaced with "Others" in table 1. Currently, the set of counterparties in the "Others" category is primary dealers and an eligible set of money market funds.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 31;
+                      </script></li><br><li><span style="font-style:italic;">September 02, 2010</span><br><span style="font-weight:bold;"><A NAME="311">H.4.1 preformatted packages have changed</A></span><br><DIV ID="&#xA;                          divContent32">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This week, the item set available in the preformatted packages has changed.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 32;
+                      </script></li><br><li><span style="font-style:italic;">August 05, 2010</span><br><span style="font-weight:bold;"><A NAME="305">Quarterly update to the fair value adjustments for the Term Asset-Backed Securities Loan Facility</A></span><br><DIV ID="&#xA;                          divContent33">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For release at <br />4:30 p.m. EDT <br />August 5, 2010 </p>
+<p>The weekly average values, shown in table 1, reflect the June 30, 2010, quarterly update to the fair value adjustments for the Term Asset-Backed Securities Loan Facility (TALF).   The TALF fair value adjustments are included in the item "other Federal Reserve assets."  The first six days of this reporting week for this item include the TALF fair value adjustments as of March 31, 2010, and the last day of the reporting week includes the TALF fair value adjustments as of June 30, 2010.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 33;
+                      </script></li><br><li><span style="font-style:italic;">July 29, 2010</span><br><span style="font-weight:bold;"><A NAME="301">Revaluation of the net portfolio holdings of Maiden Lane LLCs </A></span><br><DIV ID="&#xA;                          divContent34">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For Release at <br />4:30 P.M. EDT <br />July 29, 2010 </p>
+<p>The weekly average values, shown in table 1, reflect the June 30, 2010, quarterly updates to the fair value of the net portfolio holdings of Maiden Lane LLC, Maiden Lane II LLC, and Maiden Lane III LLC and the loan restructuring adjustment, which is included in the reported value of the credit extended to American International Group, Inc.  The amounts for the first six days of this reporting week are based on the values as of March 31, 2010, and the amounts for the last day of the reporting week are based on the values as of June 30, 2010.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 34;
+                      </script></li><br><li><span style="font-style:italic;">July 22, 2010</span><br><span style="font-weight:bold;"><A NAME="299">Maiden Lane LLC began making distributions to repay its loan extended by the Federal Reserve Bank of New York (FRBNY)</A></span><br><DIV ID="&#xA;                          divContent35">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For Release at <br />4:30 P.M. EDT <br />July 22, 2010 </p>
+<p>
+                      <br />Consistent with the terms of the Maiden Lane LLC (LLC) transaction, on July 15, 2010, the LLC began making distributions to repay its loan extended by the Federal Reserve Bank of New York (FRBNY).  These distributions will occur on a monthly basis unless otherwise directed by the Federal Reserve and will follow the order of payments explained in the note to Table 4.  These distributions will also result in a corresponding reduction of the net portfolio holdings of the LLC.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 35;
+                      </script></li><br><li><span style="font-style:italic;">June 24, 2010</span><br><span style="font-weight:bold;"><A NAME="294">Information on the amount of term deposits outstanding is presented on the H.4.1 release</A></span><br><DIV ID="&#xA;                          divContent36">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For Release at <br />4:30 P.M. Eastern time <br />June 24, 2010 </p>
+<p>
+                      <br />The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to include information on term deposits held by depository institutions.  Term deposits are a new tool that the Federal Reserve could use to manage the aggregate quantity of reserve balances held by depository institutions.  </p>
+<p>On May 28, 2010, the Federal Reserve announced a schedule for three small-value auctions of term deposits to be offered through its Term Deposit Facility (TDF).  These auctions are intended to ensure the effective operation of the TDF and to help eligible institutions become familiar with the term deposit program.  The first auction was conducted on June 14, 2010, and settlement occurred on June 17, 2010.  The small-value TDF auctions are a matter of prudent planning and have no implications for the near-term conduct of monetary policy. </p>
+<p>Information on the amount of term deposits outstanding is presented on table 1, table 10, and table 11.  The maturity distribution of term deposits is presented in table 2.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 36;
+                      </script></li><br><li><span style="font-style:italic;">June 15, 2010</span><br><span style="font-weight:bold;"><A NAME="287">Correction to the commitments to buy and sell mortgage-backed securities for June 9, 2010</A></span><br><DIV ID="&#xA;                          divContent37">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For Release on <br />June 15, 2010</p>
+<p>The Board's H.4.1 statistical release ("Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks") for June 10, 2010 contained an error in table 3, which has been corrected.  The amount of commitments to buy mortgage-backed securities was corrected from $49,554 million to $46,924 million, and the amount of commitments to sell mortgage-backed securities was corrected from $13,980 million to $11,350 million.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 37;
+                      </script></li><br><li><span style="font-style:italic;">May 13, 2010</span><br><span style="font-weight:bold;"><A NAME="274">Re-establishment of temporary U.S. dollar liquidity swap facilities</A></span><br><DIV ID="&#xA;                          divContent38">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For Release at<br />4:30 P.M. Eastern time<br />  May 13, 2010</p>
+<p>
+                      <br />The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to report the maturity distribution of temporary U.S. dollar liquidity swap facilities (central bank liquidity swaps).  These facilities were re-established in response to the re-emergence of strains in U.S. dollar short-term funding markets in Europe and are designed to help improve liquidity conditions in U.S. dollar funding markets and to prevent the spread of strains to other markets and financial centers.</p>
+<p>The maturity distribution of these swaps is reported again in table 2.  The release continues to show the outstanding dollar value of central bank liquidity swaps in tables 1, 10, and 11.  </p>
+<p>Detailed information about draws on the swap lines by the participating central banks is presented on the Federal Reserve Bank of New York's website: <a href="http://www.newyorkfed.org/markets/liquidity_swap.html">http://www.newyorkfed.org/markets/liquidity_swap.html</a>.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 38;
+                      </script></li><br><li><span style="font-style:italic;">April 29, 2010</span><br><span style="font-weight:bold;"><A NAME="269">Revaluation of the net portfolio holdings of Maiden Lane LLCs, AIG loan restructuring adjustment and TALF fair value adjustment</A></span><br><DIV ID="&#xA;                          divContent39">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For release at<br />4:30 p.m. EDT<br />April 29, 2010</p>
+<p>
+                      <br />The weekly average values, shown in table 1, reflect the March 31, 2010, quarterly updates to the fair value of the net portfolio holdings of Maiden Lane LLC, Maiden Lane II LLC, and Maiden Lane III LLC; the fair value adjustment of the Term Asset-Backed Securities Loan Facility, which is included in other Federal Reserve assets; and the loan restructuring adjustment, which is included in the reported value of the credit extended to American International Group, Inc.  The amounts for the first six days of this reporting week are based on the values as of December 31, 2009, and the amounts for the last day of the reporting week are based on the values as of March 31, 2010.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 39;
+                      </script></li><br><li><span style="font-style:italic;">April 02, 2010</span><br><span style="font-weight:bold;"><A NAME="260">AIG loan restructuring adjustment and TALF fair value adjustment</A></span><br><DIV ID="&#xA;                          divContent40">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to reflect a revision to the loan restructuring adjustment associated with the revolving credit extended to American International Group, Inc. (AIG).  In addition, the release has been modified to incorporate fair value adjustments associated with the Term Asset-Backed Securities Loan Facility (TALF).  </p>
+<p>Consistent with generally accepted accounting principles (GAAP), the AIG revolving credit extension has been reduced by a revision of $1,255 million to the loan restructuring adjustment.  The restructuring adjustment is related to the loan modification that eliminated the floor on the Libor rate, announced on March 2, 2009, and that was first incorporated in reported figures beginning with the July 30, 2009, H.4.1 release.  The restructuring adjustment recognizes the economic effect of the reduced interest rate on the revolving credit facility and will be amortized over the remaining term of the credit extension. The revised restructuring adjustment incorporates quarterly updates as of December 31, 2009, of estimates of factors such as interest rates and future cash flow streams that are used to value the original loan restructuring adjustment.  The Federal Reserve expects that the credit extension, including interest and commitment fees under the modified terms, will be fully repaid.</p>
+<p>The weekly average balance of the credit extended to AIG shown in table 1 reflects holdings from March 25, 2010, through Wednesday, March 31, 2010.*  The balance for the first six days of this reporting week reflects the loan restructuring adjustment prior to its revision.  The balance for the final day of the reporting week reflects the revised loan restructuring adjustment.  </p>
+<p>Several items on the release have been modified to include fair value adjustments associated with the TALF.  A fair value adjustment to the TALF loans extended by FRBNY is recorded in "Other Federal Reserve assets" in table 1 and "Other assets" in table 10 and in table 11.  This fair value adjustment of $557 million reflects the value of the future interest received by FRBNY that is paid to the TALF LLC to provide credit protection.  The adjustment is substantially offset by a corresponding increase in the fair value of the liability to the U.S. Treasury related to its beneficial interest in the TALF LLC recorded in "Other liabilities and capital" in table 1 and "Other liabilities" in table 10 and in table 11.  The fair value adjustments associated with the TALF will be updated quarterly. </p>
+<p> </p>
+<p>* This cover note was revised to reflect the correct dates of the reporting week.  The original cover note listed the dates for the previous reporting week.</p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 40;
+                      </script></li><br><li><span style="font-style:italic;">February 18, 2010</span><br><span style="font-weight:bold;"><A NAME="244">H.4.1 preformatted packages have changed</A></span><br><DIV ID="&#xA;                          divContent41">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This week, the item set available in the preformatted packages has changed.<br />
+                    <br />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 41;
+                      </script></li><br><li><span style="font-style:italic;">February 11, 2010</span><br><span style="font-weight:bold;"><A NAME="241">Revaluation of the net portfolio holdings of Maiden Lane LLCs</A></span><br><DIV ID="&#xA;                          divContent42">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The weekly average value of the net portfolio holdings of Maiden Lane
+LLC, Maiden Lane II LLC, and Maiden Lane III LLC, shown in table 1,
+reflect holdings from Thursday, February 4, 2010, through Wednesday,
+February 10, 2010.  The holdings for the first six days of this
+reporting week are based on the values as of September 30, 2009.  The
+holdings for the final day of the reporting week are based on the
+values as of December 31, 2009, the quarterly revaluation date.  The
+fair value of the net portfolio holdings is updated quarterly.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 42;
+                      </script></li><br><li><span style="font-style:italic;">December 03, 2009</span><br><span style="font-weight:bold;"><A NAME="213">Preferred Interests in AIA Aurora LLC and ALICO Holdings LLC</A></span><br><DIV ID="&#xA;                          divContent43">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For release at<br />4:30 p.m. EDT<br />December 3, 2009<br />
+                    <br />
+                    <br />The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to include information related to the Federal Reserve Bank of New York's (FRBNY) preferred interests in AIA Aurora LLC and ALICO Holdings LLC. This information is presented in table 1, in a new table 9, "Supplemental Information on the Federal Reserve Bank of New York"s Preferred Interests in AIA Aurora LLC and ALICO Holdings LLC," in table 10, and in table 11.<br />
+                    <br />In conjunction with the restructuring of the government's assistance to American International Group (AIG) announced March 2, 2009, the outstanding balance and amount available of revolving credit provided to AIG by the FRBNY has been reduced in exchange for preferred interests in two special purpose vehicles, AIA Aurora LLC and ALICO Holdings LLC. These two limited liability companies were created to directly or indirectly hold all of the outstanding common stock of American International Assurance Company Ltd. (AIA) and American Life Insurance Company (ALICO), two life insurance subsidiaries of AIG. AIG will retain control of AIA Aurora LLC and ALICO Holdings LLC, and the FRBNY will have certain consent, disposition, and conversion rights with respect to its preferred interests.<br />
+                    <br />The FRBNY's combined preferred interests in AIA Aurora LLC and ALICO Holdings LLC are presented in table 1, in table 10, and in table 11. Supplemental information on the FRBNY's preferred interests in the two LLCs is presented in table 9. This table presents the FRBNY's preferred interests in the two LLCs and the accrued dividends on those preferred interests.</description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 43;
+                      </script></li><br><li><span style="font-style:italic;">November 19, 2009</span><br><span style="font-weight:bold;"><A NAME="207">TALF LLC</A></span><br><DIV ID="&#xA;                          divContent44">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>For release at<br />4:30 p.m. EDT<br />November 19, 2009</p>
+<p>The Board's H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," has been modified to include information related to TALF LLC, a limited liability company formed to purchase and manage any asset-backed securities that might be received by the Federal Reserve Bank of New York (FRBNY) in connection with the Term Asset-Backed Securities Loan Facility (TALF).  This information will be presented in a new table 8, "Information on Principal Accounts of TALF LLC."  The release has also been modified to include information related to the net portfolio holdings of TALF LLC.  This information is presented in table 1, in table 8, in table 9, and in table 10.</p>
+<p>On November 25, 2008, the Federal Reserve announced the creation of the TALF under the authority of section 13(3) of the Federal Reserve Act.  Under the TALF, the FRBNY extends loans to eligible borrowers to finance the purchase of eligible asset-backed securities (ABS) that serve as the collateral for the loans.  The loans provided through the TALF are non-recourse, meaning that the obligation of the borrower can be discharged by surrendering the collateral to the FRBNY.  The loans are extended for the market value of the security less an amount known as a haircut.  As a result, the borrower bears the initial risk of a decline in the value of the security.  TALF LLC has committed, for a fee, to purchase all ABS received by FRBNY in conjunction with a TALF loan at a price equal to the TALF loan plus accrued but unpaid interest.  Purchases of these securities are funded first through the fees received by the LLC and any interest the LLC has earned on its investments.  In the event that such funding proves insufficient, the U.S. Treasury's Troubled Asset Relief Program (TARP) will provide additional subordinated debt funding to the TALF LLC to finance up to $20 billion of asset purchases.  Subsequently, the FRBNY will finance any additional purchases of securities by providing senior debt funding to TALF LLC.  Thus, the TARP funds provide credit protection to FRBNY.</p>
+<p>
+                      <br />The Federal Reserve has completed its evaluation and consistent with generally accepted accounting principles, the assets and liabilities of TALF LLC will be consolidated with the assets and liabilities of the FRBNY in the preparation of the statements of condition shown on the release. Although the U.S. Treasury provides credit protection to the FRBNY, the FRBNY is the more closely associated beneficiary of the LLC because it directs the significant financial activities of the TALF LLC. </p>
+<p>
+                      <br />The consequences of this consolidation appear on the release in the following ways.  Any extensions of credit from the FRBNY to TALF LLC are eliminated, as is the accrued interest on such loans.  The net portfolio holdings of TALF LLC are included in "total factors supplying reserve funds" in table 1 and in "assets" in table 9 and in table 10.  The liabilities of TALF LLC to entities other than the FRBNY are included in "other liabilities and capital" in table 1 and in "other liabilities and accrued dividends" in table 9 and in table 10.<br />Information on the principal accounts of TALF LLC is presented separately in a new table 8.  This table presents the net portfolio holdings of TALF LLC, which comprise the fair value of the ABS holdings of TALF LLC and other investments that result from the initial funding provided by the U.S. Treasury, fees paid by the FRBNY, and interest received on investments.  In addition, the table presents the book value of the outstanding principal of the loan extended by the FRBNY, the book value of the accrued interest payable to the FRBNY, and the book value of the funding provided by the U.S. Treasury to TALF LLC, which includes the accrued interest payable to the U.S. Treasury.<br />
+                    </p>
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 44;
+                      </script></li><br><li><span style="font-style:italic;">August 05, 2009</span><br><span style="font-weight:bold;"><A NAME="181">Federal Reserve Balance sheet data are now available through interactive Data Download Program</A></span><br><DIV ID="&#xA;                          divContent45">
+                  <description xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <p>The Federal Reserve Board on Wednesday announced that data from its H.4.1 statistical release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks," which includes the weekly publication of the Federal Reserve's balance sheet, is now available through the Data Download Program. The program provides interactive access to Federal Reserve statistical data in a variety of formats and is available at <a href="http://www.federalreserve.gov/datadownload/">http://www.federalreserve.gov/datadownload/</a>.
+</p>
+                    <p>The Data Download Program allows users to create customized data sets or download pre-formatted packages in multiple formats, including XML. More information about how to use the program is available at <a href="http://www.federalreserve.gov/datadownload/help/default.htm">http://www.federalreserve.gov/datadownload/help/default.htm</a>.</p>
+<p>The H.4.1 release is typically published on Thursday, generally at 4:30 p.m. ET. Data from the release will be available for download in the Data Download Program at the same time.</p>
+                    <p />
+                  </description>
+                </DIV><script language="javascript" type="text/javascript">
+                        cnt = 45;
+                      </script></li>
+            </ul><br></div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="lastUpdate">
+              Last update: December 31, 2015</div>
+      <div id="FooterLinks"><a href="/default.htm">Home</a> | <a href="/econresdata/default.htm">Economic research and data</a></div>
+      <div id="secondaryFooterLinks">
+        <div class="secondaryFooterLinksLeft"><a href="/accessibility.htm">Accessibility</a><a href="/disclaimer.htm">Disclaimer</a><a href="/feedback.cfm">Contact us</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon"><a href="/linkingpolicy.htm">Linking Policy</a><a href="/generalinfo/foia/default.cfm">FOIA</a></div>
+        <div class="secondaryFooterLinksRight"><a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon"></div>
+        <div class="clear"></div>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <div id="footer">
+      <div id="Footer2"></div>
+    </div>
+  <script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

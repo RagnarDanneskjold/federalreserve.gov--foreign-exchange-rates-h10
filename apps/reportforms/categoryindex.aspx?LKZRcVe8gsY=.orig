@@ -1,0 +1,519 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1"><title>
+	FRB: Report Forms, Monetary policy
+</title><meta name="robots" content="index, nofollow" /><link type="text/css" href="/resources/pubweb.css" rel="Stylesheet" /><link type="text/css" href="/resources/secondary.css" rel="Stylesheet" /><link type="text/css" href="/resources/reportforms.css" rel="stylesheet" /><link type="text/css" href="/resources/print.css" rel="Stylesheet" media="print" /><link type="text/css" href="/resources/print_reportforms.css" rel="Stylesheet" media="print" />
+
+   <script language="JavaScript" type="text/javascript" src="/resources/exit_new.js"></script>
+   <script language="JavaScript" type="text/javascript" src="/resources/swfLink.js"></script>    
+
+    <style type="text/css">
+        .secondaryContentLeftNav  li.menuHighlightRF a { color: #336633; text-decoration: none; }
+    </style> 
+
+    
+    <script type="text/javascript">
+        function lbtn_GetForm_Click(v) {
+            document.getElementById('HiddenField1').value = v;
+        }
+</script>
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+   <noscript><p>This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</p></noscript>
+   <span class="globalskip">
+      <a href="#mainNav">skip to main navigation</a>
+      <a href="#secondNav">skip to secondary navigation</a>
+      <a href="#content">skip to content</a>
+   </span>
+   <!-- HEADER STARTS -->
+   <table id="headerTopLinks" cellpadding="0" cellspacing="0">
+      <tr>
+         <td class="headerTopLinksLeft">
+            <a href="/whatsnew.htm">What's New</a> &middot; 
+            <a href="/whatsnext.htm">What's Next</a> &middot; 
+            <a href="/sitemap.htm">Site Map</a> &middot; 
+            <a href="/azindex.htm">A-Z Index</a> &middot; 
+            <a href="/careers/default.htm">Careers</a> &middot; 
+            <a href="/feeds/default.htm">RSS</a> &middot; 
+            <a href="/mediacenter/media.htm">All Videos</a> &middot; 
+            <a href="/faqs/faq.htm">Current FAQs</a>  &middot;
+            <a href="/aboutthefed/contact-us-topics.htm">Contact Us</a>
+         </td>
+         <td class="curve1"></td>
+        <td class="headerTopLinksRight">
+            <form method="GET" action="http://search.newyorkfed.org/board_public/search"><label for="searchbox"></label><div id="skip2">Search</div><input type="text" id="searchbox" maxlength="100" 
+            size="12" name="text">&nbsp;<input border="0" type="image" alt="Search" name="Search" src="/gifjpg/searchbutton.gif" id="headerTopLinksSearchFormSubmit">&nbsp;<a class="search" 
+            href="http://search.newyorkfed.org/board_public"><a class="search" href="http://search.newyorkfed.org/board_public">Advanced Search</a></a></form>
+        </td> 
+         <td class="curve2"></td>
+      </tr>
+   </table>
+   <div id="top">
+      <div id="headerMasthead">
+         <a href="/default.htm"><img src="/GIFJPG/masthead2.jpg" alt="Board of Governors of the Federal Reserve System" /></a>
+      </div>
+      <a name="mainNav"></a>
+         <div class="navMenuBack">
+            <table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+               <tr>
+                  <td>
+                     <div class="navItem">
+                        <a href="/aboutthefed/default.htm">About<br />the Fed</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/newsevents/default.htm">News<br />&amp; Events</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/monetarypolicy/default.htm">Monetary<br />Policy</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/bankinforeg/default.htm">Banking<br />Information<br />&amp; Regulation</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/paymentsystems/default.htm">Payment<br />Systems</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/econresdata/default.htm">Economic<br />Research<br />&amp; Data</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/consumerinfo/default.htm">Consumer<br /> Information</a>
+                     </div>
+                  </td>
+                  <td>
+                     <div class="navItem">
+                        <a href="/communitydev/default.htm">Community<br />Development</a>
+                     </div>
+                  </td>
+               <td id="selected">
+                  <div class="navItem">
+                     <a href="/apps/reportforms/default.aspx">Reporting<br />Forms</a>
+                  </div>
+               </td>
+               <td>
+                  <div class="navItem">
+                     <a href="/publications/default.htm">Publications</a>
+                  </div>
+               </td>
+            </tr>
+         </table>
+         <!-- HEADER ENDS -->
+      </div>
+   </div>
+   <div id="contentContainer">
+      <span class="globalskip">
+         <a name="secondNav"></a><a href="#content">skip secondary navigation</a>
+      </span>
+      <form method="post" action="./categoryindex.aspx?LKZRcVe8gsY=" id="formSiteMaster">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3NTcxMzk5NzcPZBYCZg9kFgQCAw9kFgYCAw8WAh4LXyFJdGVtQ291bnQCCRYSZg9kFgICAQ8WAh4FY2xhc3NlFgICAQ8PFgQeBFRleHQFFEZpbmFuY2lhbCBzdGF0ZW1lbnRzHgtOYXZpZ2F0ZVVybAUfY2F0ZWdvcnlpbmRleC5hc3B4P3hUZFRhK0ZhU2xJPWRkAgEPZBYCAgEPFgIfAWUWAgIBDw8WBB8CBR1BcHBsaWNhdGlvbnMvc3RydWN0dXJlIGNoYW5nZR8DBR9jYXRlZ29yeWluZGV4LmFzcHg/K1Boa0p3aUJqYkE9ZGQCAg9kFgICAQ8WAh8BZRYCAgEPDxYEHwIFBUZGSUVDHwMFH2NhdGVnb3J5aW5kZXguYXNweD8xL1JJWE8vVWR1ST1kZAIDD2QWAgIBDxYCHwEFD21lbnVIaWdobGlnaHRSRhYCAgEPDxYEHwIFD01vbmV0YXJ5IHBvbGljeR8DBR9jYXRlZ29yeWluZGV4LmFzcHg/TEtaUmNWZThnc1k9ZGQCBA9kFgICAQ8WAh8BZRYCAgEPDxYEHwIFCFJlc2VhcmNoHwMFH2NhdGVnb3J5aW5kZXguYXNweD9kRWFwcTIyZUJJOD1kZAIFD2QWAgIBDxYCHwFlFgICAQ8PFgQfAgUYQnVzaW5lc3MvY29uc3VtZXIgY3JlZGl0HwMFH2NhdGVnb3J5aW5kZXguYXNweD8wWjVTMXBKYlNHZz1kZAIGD2QWAgIBDxYCHwFlFgICAQ8PFgQfAgUfU2VjdXJpdGllcyBFeGNoYW5nZSBBY3Qgb2YgMTkzNB8DBR9jYXRlZ29yeWluZGV4LmFzcHg/bWk0MUx2b3BiOW89ZGQCBw9kFgICAQ8WAh8BZRYCAgEPDxYEHwIFI011bmljaXBhbCBhbmQgZ292ZXJubWVudCBzZWN1cml0aWVzHwMFH2NhdGVnb3J5aW5kZXguYXNweD9MODc3VndFajlTcz1kZAIID2QWAgIBDxYCHwFlFgICAQ8PFgQfAgUVQWN0aXZpdGllcyBtb25pdG9yaW5nHwMFH2NhdGVnb3J5aW5kZXguYXNweD9LWjlNcFA4bUVRWT1kZAIFD2QWAgIBDw8WAh8DBQ1+L3Jldmlldy5hc3B4ZGQCDQ9kFgQCAQ8PFgIfAgUPTW9uZXRhcnkgcG9saWN5ZGQCBQ8WAh8AAhAWIAIBD2QWBgIBDw8WAh8DBSpyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEWTc0UEdkakRjajNnPT1kFgJmDxUBB0ZSIDIwMDZkAgIPFQE0CSAJQW5udWFsIFN1cnZleSBvZiBFbGlnaWJsZSBCYW5rZXJzJyBBY2NlcHRhbmNlcw0KCWQCBQ8VAb0KCSAJVGhlIEFubnVhbCBTdXJ2ZXkgb2YgRWxpZ2libGUgQmFua2VycycgQWNjZXB0YW5jZXMgKEZSIDIwMDY7IE9NQiBOby4gNzEwMC0wMDU1KSBoYXMgYmVlbiBkaXNjb250aW51ZWQsIGVmZmVjdGl2ZSBKdWx5IDMxLCAyMDAxLiAgVGhpcyB2b2x1bnRhcnkgc3VydmV5IHByb3ZpZGVkIGRldGFpbGVkIGluZm9ybWF0aW9uIG9uIGVsaWdpYmxlIFUuUy4gZG9sbGFyLWRlbm9taW5hdGVkIGFjY2VwdGFuY2VzIHBheWFibGUgaW4gdGhlIFVuaXRlZCBTdGF0ZXMuICBUaGUgZGF0YSB3ZXJlIHJlcG9ydGVkIGFzIG9mIFNlcHRlbWJlciAzMCBieSBVLlMuIGNvbW1lcmNpYWwgYmFua3MsIFUuUy4gYnJhbmNoZXMgYW5kIGFnZW5jaWVzIG9mIGZvcmVpZ24gYmFua3MsIGFuZCBFZGdlIGFuZCBhZ3JlZW1lbnQgY29ycG9yYXRpb25zIGhhdmluZyBzaWduaWZpY2FudCBpc3N1YW5jZSBvZiBzdWNoIGFjY2VwdGFuY2VzLiAgVGhlIGluZm9ybWF0aW9uIHdhcyB1c2VkIHRvIGNvbnN0cnVjdCBtb25ldGFyeSBhbmQgY3JlZGl0IGFnZ3JlZ2F0ZXMsIHRvIGNvbnN0cnVjdCB0aGUgZG9tZXN0aWMgbm9uZmluYW5jaWFsIGRlYnQgYWdncmVnYXRlIG1vbml0b3JlZCBieSB0aGUgRmVkZXJhbCBPcGVuIE1hcmtldCBDb21taXR0ZWUsIGFuZCB0byBjYWxjdWxhdGUgc2hvcnQtIGFuZCBpbnRlcm1lZGlhdGUtdGVybSBidXNpbmVzcyBjcmVkaXQuICANCg0KCVRoZSB1c2VmdWxuZXNzIG9mIHRoZSBGUiAyMDA2IHJlcG9ydCBoYWQgZGVjbGluZWQsIGZvciB0aHJlZSByZWFzb25zOiAgKDEpIENhbGN1bGF0aW9uIG9mIEwsIHRoZSBtb25ldGFyeSBhZ2dyZWdhdGUgdGhhdCBjb250YWluZWQgYmFua2VycycgYWNjZXB0YW5jZXMsIGhhZCBiZWVuIGRpc2NvbnRpbnVlZCBpbiBEZWNlbWJlciAxOTk4OyAoMikgdGhlIENhbGwgUmVwb3J0IGhhZCByZXBsYWNlZCB0aGUgRlIgMjAwNiBhcyB0aGUgc291cmNlIG9mIGRhdGEgb24gYmFua2VycycgYWNjZXB0YW5jZXMgZm9yIGNhbGN1bGF0aW5nIHRoZSBkZWJ0IGFnZ3JlZ2F0ZTsgYW5kICgzKSB0aGUgcmVsYXRpdmVseSBzbWFsbCBzaXplIG9mIHRoZSBiYW5rZXJzJyBhY2NlcHRhbmNlcyBtYXJrZXQgY2FsbGVkIGludG8gcXVlc3Rpb24gdGhlIG5lZWQgZm9yIHRoZSBzdXJ2ZXkuICBUaGUgQm9hcmQgc3RhZmYgY29uY2x1ZGVkIHRoYXQgZXN0aW1hdGVkIGRhdGEgZGVyaXZlZCBmcm9tIHRoZSBiYW5rZXJzJyBhY2NlcHRhbmNlcyBpdGVtcyBvbiBTY2hlZHVsZSBSQyBvZiB0aGUgQ2FsbCBSZXBvcnQgY291bGQgYmUgdXNlZCBpbiBjYWxjdWxhdGluZyBzaG9ydC0gYW5kIGludGVybWVkaWF0ZS10ZXJtIGJ1c2luZXNzIGNyZWRpdC4NCg0KZAICD2QWBgIBDw8WAh8DBTJyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEWUl0MytuV0t4OVlYMnJtQkxpTHFiMGQWAmYPFQEIRlIgMjA1MWFkAgIPFQEsCSAJTW9uZXkgTWFya2V0IE11dHVhbCBGdW5kIEFzc2V0cyBSZXBvcnQNCglkAgUPFQG5CAkgCVRoZSBCb2FyZCBvZiBHb3Zlcm5vcnMgb2YgdGhlIEZlZGVyYWwgUmVzZXJ2ZSBkaXNjb250aW51ZWQgdGhlIE1vbmV5IE1hcmtldCBNdXR1YWwgRnVuZCBBc3NldHMgUmVwb3J0IChGUiAyMDUxYTsgT01CIE5vLiA3MTAwLTAwMTIpIGluIEFwcmlsIDIwMTAuICBIb3dldmVyLCB0aGUgSW52ZXN0bWVudCBDb21wYW55IEluc3RpdHV0ZSAoSUNJKSB3aWxsIGNvbnRpbnVlIHRvIGNvbGxlY3QgdGhlIGRhdGEgZm9yIGl0cyBvd24gcHVycG9zZXMgYW5kIHNoYXJlIGl0IHdpdGggdGhlIEZlZGVyYWwgUmVzZXJ2ZS48cD4gIA0KVGhlIElDSSBjb25kdWN0cyBhIHdlZWtseSBzdXJ2ZXkgYW5kIHByb3ZpZGVzIHRoZSBGZWRlcmFsIFJlc2VydmUgd2l0aCB0aGUgbmV0IHZhbHVlIG9mIHRvdGFsIHNoYXJlcyBvdXRzdGFuZGluZyAodG90YWwgYXNzZXRzIGxlc3MgZXhwZW5zZXMgYW5kIG1hbmFnZW1lbnQgZmVlcykgb2YgbW9uZXkgbWFya2V0IG11dHVhbCBmdW5kcyAoTU1NRnMpLjxwPg0KVGhlIEZlZGVyYWwgUmVzZXJ2ZSB1c2VzIHRoZSBNTU1GIGRhdGEgdG8gY29uc3RydWN0IHRoZSBNMiBtb25ldGFyeSBhZ2dyZWdhdGUgYW5kIHRvIGFuYWx5emUgY3VycmVudCBtb25leSBtYXJrZXQgY29uZGl0aW9ucy4gIFRoZSBtb25ldGFyeSBhZ2dyZWdhdGVzIGFyZSBwdWJsaXNoZWQgaW4gdGhlIHdlZWtseSBILjYgPGk+TW9uZXkgU3RvY2sgYW5kIERlYnQgTWVhc3VyZXM8L2k+IHN0YXRpc3RpY2FsIHJlbGVhc2UgKDxhIGhyZWY9Imh0dHA6Ly93d3cuZmVkZXJhbHJlc2VydmUuZ292L2Vjb25yZXNkYXRhL3JlbGVhc2VzL3N0YXRpc3RpY3NkYXRhLmh0bSI+aHR0cDovL3d3dy5mZWRlcmFscmVzZXJ2ZS5nb3YvZWNvbnJlc2RhdGEvcmVsZWFzZXMvc3RhdGlzdGljc2RhdGEuaHRtPC9hPikgYW5kIGluIHRoZSA8aT5GZWRlcmFsIFJlc2VydmUgQnVsbGV0aW48L2k+LiAgUmV0YWlsIGFuZCBpbnN0aXR1dGlvbmFsIE1NTUYgZGF0YSwgYWxvbmcgd2l0aCBJUkEvS2VvZ2ggYmFsYW5jZXMgYXQgTU1NRnMsIGFsc28gYXJlIHB1Ymxpc2hlZCBhcyBzZXBhcmF0ZSBpdGVtcyBvbiB0aGUgSC42IHJlbGVhc2UuDQoJICBkAgMPZBYGAgEPDxYCHwMFKnJlcG9ydGRldGFpbC5hc3B4P3NPb1lKKzVCekRhTkh4REgyZG9uNVE9PWQWAmYPFQEHRlIgMjQxNWQCAg8VAXMJIAlSZXBvcnQgb2YgUmVwdXJjaGFzZSBBZ3JlZW1lbnRzIChSUHMpIG9uIFUuUy4gR292ZXJubWVudCBhbmQgRmVkZXJhbCBBZ2VuY3kgU2VjdXJpdGllcyB3aXRoIFNwZWNpZmllZCBIb2xkZXJzDQoJZAIFDxUBngtUaGUgQm9hcmQgb2YgR292ZXJub3JzIG9mIHRoZSBGZWRlcmFsIFJlc2VydmUgZGlzY29udGludWVkIHRoZSBSZXBvcnQgb2YgUmVwdXJjaGFzZSBBZ3JlZW1lbnRzIChSUHMpIG9uIFUuUy4gR292ZXJubWVudCBhbmQgRmVkZXJhbCBBZ2VuY3kgU2VjdXJpdGllcyB3aXRoIFNwZWNpZmllZCBIb2xkZXJzIChGUiAyNDE1OyBPTUIgTm8uIDcxMDAtMDA3NCkgaW4gTWFyY2ggMjAwNi4gIEluIE5vdmVtYmVyIDIwMDUsIHRoZSBGZWRlcmFsIFJlc2VydmUgZGVjaWRlZCB0byBjZWFzZSBjb2xsZWN0aW5nLCBjb25zdHJ1Y3RpbmcsIGFuZCBwdWJsaXNoaW5nIHRoZSBNMyBtb25ldGFyeSBhZ2dyZWdhdGUsIGVmZmVjdGl2ZSBpbiBNYXJjaCAyMDA2LiAgQXMgYSByZXN1bHQgb2YgdGhlIEZlZGVyYWwgUmVzZXJ2ZSdzIGRlY2lzaW9uIHRvIGNlYXNlIGNvbnN0cnVjdGluZyB0aGUgTTMgbW9uZXRhcnkgYWdncmVnYXRlLCBkYXRhIGNvbGxlY3RlZCBvbiB0aGUgRlIgMjQxNSBhcmUgbm8gbG9uZ2VyIG5lZWRlZC48cD4gIA0KDQoJCQlUaGlzIHZvbHVudGFyeSByZXBvcnQgY29sbGVjdGVkIG9uZSBkYXRhIGl0ZW0sIFJQcywgaW4gZGVub21pbmF0aW9ucyBvZiAkMTAwLDAwMCBvciBtb3JlLCBpbiBpbW1lZGlhdGVseSBhdmFpbGFibGUgZnVuZHMsIG9uIFUuUy4gZ292ZXJubWVudCBhbmQgZmVkZXJhbCBhZ2VuY3kgc2VjdXJpdGllcywgdHJhbnNhY3RlZCB3aXRoIHNwZWNpZmllZCBob2xkZXJzLiAgRGVwb3NpdG9yeSBpbnN0aXR1dGlvbnMgZmlsZWQgdGhlIEZSIDI0MTUgcmVwb3J0IHdlZWtseSwgcXVhcnRlcmx5LCBvciBhbm51YWxseSwgZGVwZW5kaW5nIG9uIHRoZSB2b2x1bWUgb2YgdGhlaXIgUlBzLiAgVGhlIHByaW1hcnkgdXNlIG9mIHRoZSBkYXRhIHdhcyB0byBjb25zdHJ1Y3QgdGhlIFJQIGNvbXBvbmVudCBvZiB0aGUgTTMgbW9uZXRhcnkgYWdncmVnYXRlLiBUaGUgZGF0YSB3ZXJlIGFsc28gdXNlZCBmb3IgYW5hbHlzaXMgb2YgZGVwb3NpdG9yeSBpbnN0aXR1dGlvbnMnIGZ1bmRpbmcgcHJhY3RpY2VzLiA8cD4gIA0KDQoJCQlUaGUgYW5hbHlzaXMgb2YgYmFuayBsaWFiaWxpdHkgbWFuYWdlbWVudCBjYW4gYmUgYWRlcXVhdGVseSBoYW5kbGVkIGJ5IGxpYWJpbGl0aWVzIHJlcG9ydGVkIG9uIHRoZSBXZWVrbHkgUmVwb3J0IG9mIEFzc2V0cyBhbmQgTGlhYmlsaXRpZXMgZm9yIExhcmdlIEJhbmtzIChGUiAyNDE2OyBPTUIgTm8uIDcxMDAtMDA3NSk7IFdlZWtseSBSZXBvcnQgb2YgU2VsZWN0ZWQgQXNzZXRzIChGUiAyNjQ0OyBPTUIgTm8uIDcxMDAtMDA3NSk7IGFuZCBXZWVrbHkgUmVwb3J0IG9mIEFzc2V0cyBhbmQgTGlhYmlsaXRpZXMgZm9yIExhcmdlIFUuUy4gQnJhbmNoZXMgYW5kIEFnZW5jaWVzIG9mIEZvcmVpZ24gQmFua3MgKEZSIDIwNjk7IE9NQiBOby4gNzEwMC0wMDMwKSAoYmFuayBjcmVkaXQgcmVwb3J0cykuZAIED2QWBgIBDw8WAh8DBSpyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEWmljZUovS1Z1TEtRPT1kFgJmDxUBB0ZSIDI0MjBkAgIPFQErCSAJUmVwb3J0IG9mIFNlbGVjdGVkIE1vbmV5IE1hcmtldCBSYXRlcw0KCWQCBQ8VAfwDVGhlIEZSIDI0MjAgaXMgYSB0cmFuc2FjdGlvbi1iYXNlZCByZXBvcnQgdGhhdCBjb2xsZWN0cyBkYWlseSBsaWFiaWxpdHkgZGF0YSBvbiBmZWRlcmFsIGZ1bmRzLCBib3Jyb3dpbmdzIGZyb20gbm9uLWV4ZW1wdCBlbnRpdGllcywgRXVyb2RvbGxhcnMsIGFuZCBjZXJ0aWZpY2F0ZXMgb2YgZGVwb3NpdHMgKENEcykgYW5kIHRpbWUgZGVwb3NpdHMgKFREcykgZnJvbSAoMSkgZG9tZXN0aWNhbGx5IGNoYXJ0ZXJlZCBjb21tZXJjaWFsIGJhbmtzIGFuZCB0aHJpZnRzIHRoYXQgaGF2ZSAkMTggYmlsbGlvbiBvciBtb3JlIGluIHRvdGFsIGFzc2V0cywgb3IgJDUgYmlsbGlvbiBvciBtb3JlIGluIGFzc2V0cyBhbmQgbWVldCBjZXJ0YWluIHVuc2VjdXJlZCBib3Jyb3dpbmcgYWN0aXZpdHkgdGhyZXNob2xkcywgYW5kICgyKSBVLlMuIGJyYW5jaGVzIGFuZCBhZ2VuY2llcyBvZiBmb3JlaWduIGJhbmtzIHdpdGggdG90YWwgdGhpcmQtcGFydHkgYXNzZXRzIG9mICQyLjUgYmlsbGlvbiBvciBtb3JlLmQCBQ9kFgYCAQ8PFgIfAwUycmVwb3J0ZGV0YWlsLmFzcHg/c09vWUorNUJ6RGI3RlQ2ZEkwMDJuMVZBRllBYmxWZ0VkFgJmDxUBH0ZSIDI5MDAgKEJyYW5jaGVzIGFuZCBBZ2VuY2llcylkAgIPFQFDCSAJUmVwb3J0IG9mIFRyYW5zYWN0aW9uIEFjY291bnRzLCBPdGhlciBEZXBvc2l0cyBhbmQgVmF1bHQgQ2FzaA0KCWQCBQ8VAZ8BVGhpcyByZXBvcnQgY29sbGVjdHMgaW5mb3JtYXRpb24gb24gdHJhbnNhY3Rpb24gYWNjb3VudHMsIHRpbWUgYW5kIHNhdmluZ3MgZGVwb3NpdHMsIHZhdWx0IGNhc2gsIGFuZCBvdGhlciByZXNlcnZhYmxlIG9ibGlnYXRpb25zIGZyb20gZGVwb3NpdG9yeSBpbnN0aXR1dGlvbnMuZAIGD2QWBgIBDw8WAh8DBTJyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEYmxJN2cyK3IyMDNTMGdnNk5jVUlqNmQWAmYPFQEaRlIgMjkwMCAoQ29tbWVyY2lhbCBCYW5rcylkAgIPFQFDCSAJUmVwb3J0IG9mIFRyYW5zYWN0aW9uIEFjY291bnRzLCBPdGhlciBEZXBvc2l0cyBhbmQgVmF1bHQgQ2FzaA0KCWQCBQ8VAZ8BVGhpcyByZXBvcnQgY29sbGVjdHMgaW5mb3JtYXRpb24gb24gdHJhbnNhY3Rpb24gYWNjb3VudHMsIHRpbWUgYW5kIHNhdmluZ3MgZGVwb3NpdHMsIHZhdWx0IGNhc2gsIGFuZCBvdGhlciByZXNlcnZhYmxlIG9ibGlnYXRpb25zIGZyb20gZGVwb3NpdG9yeSBpbnN0aXR1dGlvbnMuZAIHD2QWBgIBDw8WAh8DBTJyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEYmxJN2cyK3IyMDNaZ3pTSWZUTzRPcGQWAmYPFQEXRlIgMjkwMCAoQ3JlZGl0IFVuaW9ucylkAgIPFQFDCSAJUmVwb3J0IG9mIFRyYW5zYWN0aW9uIEFjY291bnRzLCBPdGhlciBEZXBvc2l0cyBhbmQgVmF1bHQgQ2FzaA0KCWQCBQ8VAZ8BVGhpcyByZXBvcnQgY29sbGVjdHMgaW5mb3JtYXRpb24gb24gdHJhbnNhY3Rpb24gYWNjb3VudHMsIHRpbWUgYW5kIHNhdmluZ3MgZGVwb3NpdHMsIHZhdWx0IGNhc2gsIGFuZCBvdGhlciByZXNlcnZhYmxlIG9ibGlnYXRpb25zIGZyb20gZGVwb3NpdG9yeSBpbnN0aXR1dGlvbnMuZAIID2QWBgIBDw8WAh8DBTJyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEYmNwaW1sdTJwdXpqTE84VDBrcmJzbWQWAmYPFQEbRlIgMjkwMCAoU2F2aW5ncyBhbmQgTG9hbnMpZAICDxUBQwkgCVJlcG9ydCBvZiBUcmFuc2FjdGlvbiBBY2NvdW50cywgT3RoZXIgRGVwb3NpdHMgYW5kIFZhdWx0IENhc2gNCglkAgUPFQGfAVRoaXMgcmVwb3J0IGNvbGxlY3RzIGluZm9ybWF0aW9uIG9uIHRyYW5zYWN0aW9uIGFjY291bnRzLCB0aW1lIGFuZCBzYXZpbmdzIGRlcG9zaXRzLCB2YXVsdCBjYXNoLCBhbmQgb3RoZXIgcmVzZXJ2YWJsZSBvYmxpZ2F0aW9ucyBmcm9tIGRlcG9zaXRvcnkgaW5zdGl0dXRpb25zLmQCCQ9kFgYCAQ8PFgIfAwUycmVwb3J0ZGV0YWlsLmFzcHg/c09vWUorNUJ6RFpmNW1jNEpFM3cwOCsvWGxDUzV6cUxkFgJmDxUBCEZSIDI5MTBhZAICDxUBOgkgCUFubnVhbCBSZXBvcnQgb2YgRGVwb3NpdHMgYW5kIFJlc2VydmFibGUgTGlhYmlsaXRpZXMNCglkAgUPFQHNBFRoZSBGUiAyOTEwYSBpcyBhbiBhbm51YWwgcmVwb3J0IGdlbmVyYWxseSBmaWxlZCBieSBkZXBvc2l0b3J5IGluc3RpdHV0aW9ucyB0aGF0IGFyZSBleGVtcHQgZnJvbSByZXNlcnZlIHJlcXVpcmVtZW50cyB1bmRlciB0aGUgR2Fybi1TdCBHZXJtYWluIERlcG9zaXRvcnkgSW5zdGl0dXRpb25zIEFjdCBvZiAxOTgyIGFuZCB3aG9zZSB0b3RhbCBkZXBvc2l0cywgbWVhc3VyZWQgZnJvbSBkZXBvc2l0b3J5IGluc3RpdHV0aW9ucycgRGVjZW1iZXIgcXVhcnRlcmx5IGNvbmRpdGlvbiByZXBvcnRzLCBhcmUgZ3JlYXRlciB0aGFuIHRoZSBleGVtcHRpb24gYW1vdW50IGJ1dCBsZXNzIHRoYW4gdGhlIHJlZHVjZWQgcmVwb3J0aW5nIGxpbWl0LiBUaGUgcmVwb3J0IGNvbnRhaW5zIHRocmVlIGRhdGEgaXRlbXMgdGhhdCBhcmUgdG8gYmUgc3VibWl0dGVkIGZvciBhIHNpbmdsZSBkYXksIEp1bmUgMzA6ICgxKSB0b3RhbCB0cmFuc2FjdGlvbiBhY2NvdW50cywgc2F2aW5ncyBkZXBvc2l0cywgYW5kIHNtYWxsIHRpbWUgZGVwb3NpdHM7ICgyKSByZXNlcnZhYmxlIGxpYWJpbGl0aWVzOyBhbmQgKDMpIG5ldCB0cmFuc2FjdGlvbiBhY2NvdW50cy5kAgoPZBYGAgEPDxYCHwMFKnJlcG9ydGRldGFpbC5hc3B4P3NPb1lKKzVCekRZeStZUzdDdGVpQXc9PWQWAmYPFQEHRlIgMjkxNWQCAg8VATJUaGUgUmVwb3J0IG9mIEZvcmVpZ24gKE5vbi1VLlMuKSBDdXJyZW5jeSBEZXBvc2l0c2QCBQ8VAa4CVGhpcyByZXBvcnQgY29sbGVjdHMgdGhlIHdlZWtseSBhdmVyYWdlIGFtb3VudCBvdXRzdGFuZGluZyBvZiBkZXBvc2l0cyBkZW5vbWluYXRlZCBpbiBmb3JlaWduIChub24tVS5TLikgY3VycmVuY2llcywgaGVsZCBhdCBVLlMuIG9mZmljZXMgb2YgZGVwb3NpdG9yeSBpbnN0aXR1dGlvbnMgdGhhdCBhcmUgaW5jbHVkZWQgaW4gdGhlIFJlcG9ydCBvZiBUcmFuc2FjdGlvbiBBY2NvdW50cywgT3RoZXIgRGVwb3NpdHMgYW5kIFZhdWx0IENhc2ggKEZSIDI5MDApLiAgRGVwb3NpdHMgYXJlIHJlcG9ydGVkIGluIFUuUy4gZG9sbGFycy5kAgsPZBYGAgEPDxYCHwMFKnJlcG9ydGRldGFpbC5hc3B4P3NPb1lKKzVCekRZKzRkUzhFMSs0VEE9PWQWAmYPFQEHRlIgMjkzMGQCAg8VAUZBbGxvY2F0aW9uIG9mIExvdyBSZXNlcnZlIFRyYW5jaGUgYW5kIFJlc2VydmFibGUgTGlhYmlsaXRpZXMgRXhlbXB0aW9uZAIFDxUBkAIJIAlUaGlzIHJlcG9ydCBwcm92aWRlcyBpbmZvcm1hdGlvbiBvbiB0aGUgYWxsb2NhdGlvbiBvZiB0aGUgbG93IHJlc2VydmUgdHJhbmNoZSBhbmQgdGhlIHJlc2VydmFibGUgbGlhYmlsaXRpZXMgZXhlbXB0aW9uIGZvciBkZXBvc2l0b3J5IGluc3RpdHV0aW9ucyB3aXRoIG9mZmljZXMgaW4gbW9yZSB0aGFuIG9uZSBzdGF0ZSBvciBGZWRlcmFsIFJlc2VydmUgRGlzdHJpY3Qgb3IgZm9yIHRob3NlIG9wZXJhdGluZyB1bmRlciBvcGVyYXRpb25hbCBjb252ZW5pZW5jZS4NCgkgIGQCDA9kFgYCAQ8PFgIfAwUycmVwb3J0ZGV0YWlsLmFzcHg/c09vWUorNUJ6RFl0d2dmbUdMclZlTHZ4NGZ1M2VhUjJkFgJmDxUBCEZSIDI5MzBhZAICDxUBwwEJIAlBbGxvY2F0aW9uIG9mIExvdyBSZXNlcnZlIFRyYW5jaGUgYW5kIFJlc2VydmFibGUgTGlhYmlsaXRpZXMgRXhlbXB0aW9uIGZvciBEZXBvc2l0b3J5IEluc3RpdHV0aW9ucyBPdGhlciBUaGFuIFUuUy4gQnJhbmNoZXMgYW5kIEFnZW5jaWVzIG9mIEZvcmVpZ24gQmFua3MgYW5kIEVkZ2UgYW5kIEFncmVlbWVudCBDb3Jwb3JhdGlvbnMNCglkAgUPFQHLAVRoZSBGUiAyOTMwYSBhbmQgRlIgMjkzMCBoYXZlIGJlZW4gY29tYmluZWQgaW50byBvbmUgcmVwb3J0aW5nIGZvcm0gYW5kIGluc3RydWN0aW9uLiBGUiAyOTMwYSByZXNwb25kZW50cyB3aWxsIG5vdyBmaWxlIHRoZSBBbGxvY2F0aW9uIG9mIExvdyBSZXNlcnZlIFRyYW5jaGUgYW5kIFJlc2VydmFibGUgTGlhYmlsaXRpZXMgRXhlbXB0aW9uIEZSIDI5MzAuZAIND2QWBgIBDw8WAh8DBTJyZXBvcnRkZXRhaWwuYXNweD9zT29ZSis1QnpEYnoyVmREcjRZOWlZL3BuRzgwQ3J6WmQWAmYPFQEaRlIgMjk1MCAoQ29tbWVyY2lhbCBCYW5rcylkAgIPFQExCSAJUmVwb3J0IG9uIENlcnRhaW4gRXVyb2N1cnJlbmN5IFRyYW5zYWN0aW9ucw0KCWQCBQ8VAaILVGhlIEJvYXJkIG9mIEdvdmVybm9ycyBvZiB0aGUgRmVkZXJhbCBSZXNlcnZlIFN5c3RlbSBkaXNjb250aW51ZWQgVGhlIFJlcG9ydCBvZiBDZXJ0YWluIEV1cm9jdXJyZW5jeSBUcmFuc2FjdGlvbnMgZnJvbSBhbGwgRGVwb3NpdG9yeSBJbnN0aXR1dGlvbnMgT3RoZXIgVGhhbiBVLlMuIEJyYW5jaGVzIGFuZCBBZ2VuY2llcyBvZiBGb3JlaWduIEJhbmtzIChGUiAyOTUwOyBPTUIgTm8uIDcxMDAtMDA4NyksIGVmZmVjdGl2ZSBhZnRlciB0aGUgcmVwb3J0IHdlZWsgZW5kaW5nIEp1bmUgNywgMjAwNC4gIFF1YXJ0ZXJseSByZXBvcnRlcnMgb2YgdGhlIFJlcG9ydCBvZiBUcmFuc2FjdGlvbiBBY2NvdW50cywgT3RoZXIgRGVwb3NpdHMgYW5kIFZhdWx0IENhc2ggKEZSIDI5MDA7IE9NQiBOby4gNzEwMC0wMDg3KSBzdWJtaXR0ZWQgdGhlaXIgbGFzdCBGUiAyOTUwIGZvciB0aGUgcmVwb3J0IHdlZWsgZW5kaW5nIE1hcmNoIDIyLCAyMDA0LiAgVGhlIEZSIDI5NTAgZGF0YSBoYWQgYmVlbiB1c2VkIGluIHRoZSBjYWxjdWxhdGlvbiBvZiByZXNlcnZlIHJlcXVpcmVtZW50cyBvbiBuZXQgRXVyb2N1cnJlbmN5IGxpYWJpbGl0aWVzLiAgQWx0aG91Z2ggdGhlIEJvYXJkIHJlZHVjZWQgdGhlIHJlc2VydmUgcmVxdWlyZW1lbnQgcmF0aW8gb24gbmV0IEV1cm9jdXJyZW5jeSBsaWFiaWxpdGllcyB0byB6ZXJvIGluIDE5OTEsIHRoZSBkYXRhIHdlcmUgc3RpbGwgY29sbGVjdGVkIGp1c3QgaW4gY2FzZSB0aGUgcmF0aW8gd2FzIHJhaXNlZCBhYm92ZSB6ZXJvIGF0IGEgbGF0ZXIgZGF0ZS4gIA0KDQoJUmVjb2duaXppbmcgdGhhdCB0aGVzZSBkYXRhIGFyZSBuZWNlc3Nhcnkgb25seSBmb3IgYW5udWFsIGluZGV4YXRpb24gcHVycG9zZXMgYW5kIG5vdCBmb3IgcHVycG9zZXMgb2YgY2FsY3VsYXRpbmcgcmVzZXJ2ZSByZXF1aXJlbWVudHMgb3IgdGhlIG1vbmV0YXJ5IGFnZ3JlZ2F0ZXMsIHRoZSBGZWRlcmFsIFJlc2VydmUgaGFzIGFkZGVkICJuZXQgRXVyb2N1cnJlbmN5IGxpYWJpbGl0aWVzIiB0byB0aGUgRlIgMjkwMCByZXBvcnRpbmcgZm9ybS4gIENlcnRhaW4gRXVyb2N1cnJlbmN5IGl0ZW1zIHdlcmUgYWRkZWQgdG8gdGhlIGZhbWlseSBvZiBiYW5rIGNyZWRpdCByZXBvcnRzIChXZWVrbHkgUmVwb3J0IG9mIEFzc2V0cyBhbmQgTGlhYmlsaXRpZXMgZm9yIExhcmdlIEJhbmtzOiBGUiAyNDE2OyBPTUIgTm8uIDcxMDAtMDA3NTsgV2Vla2x5IFJlcG9ydCBvZiBTZWxlY3RlZCBBc3NldHM6IEZSIDI2NDQ7IE9NQiBOby4gNzEwMC0wMDc1OyBhbmQgV2Vla2x5IFJlcG9ydCBvZiBBc3NldHMgYW5kIExpYWJpbGl0aWVzIGZvciBMYXJnZSBVLlMgQnJhbmNoZXMgYW5kIEFnZW5jaWVzIG9mIEZvcmVpZ24gQmFua3M6IEZSIDIwNjk7IE9NQiBOby4gNzEwMC0wMDMwKSwgZWZmZWN0aXZlIHdpdGggdGhlIEp1bmUgMiwgMjAwNCwgcmVwb3J0IGRhdGUuDQpkAg4PZBYGAgEPDxYCHwMFMnJlcG9ydGRldGFpbC5hc3B4P3NPb1lKKzVCekRaUGkyUnR4Q25CbnB1T1VWNE1PRDQzZBYCZg8VARdGUiAyOTUwIChDcmVkaXQgVW5pb25zKWQCAg8VATEJIAlSZXBvcnQgb2YgQ2VydGFpbiBFdXJvY3VycmVuY3kgVHJhbnNhY3Rpb25zDQoJZAIFDxUBogtUaGUgQm9hcmQgb2YgR292ZXJub3JzIG9mIHRoZSBGZWRlcmFsIFJlc2VydmUgU3lzdGVtIGRpc2NvbnRpbnVlZCBUaGUgUmVwb3J0IG9mIENlcnRhaW4gRXVyb2N1cnJlbmN5IFRyYW5zYWN0aW9ucyBmcm9tIGFsbCBEZXBvc2l0b3J5IEluc3RpdHV0aW9ucyBPdGhlciBUaGFuIFUuUy4gQnJhbmNoZXMgYW5kIEFnZW5jaWVzIG9mIEZvcmVpZ24gQmFua3MgKEZSIDI5NTA7IE9NQiBOby4gNzEwMC0wMDg3KSwgZWZmZWN0aXZlIGFmdGVyIHRoZSByZXBvcnQgd2VlayBlbmRpbmcgSnVuZSA3LCAyMDA0LiAgUXVhcnRlcmx5IHJlcG9ydGVycyBvZiB0aGUgUmVwb3J0IG9mIFRyYW5zYWN0aW9uIEFjY291bnRzLCBPdGhlciBEZXBvc2l0cyBhbmQgVmF1bHQgQ2FzaCAoRlIgMjkwMDsgT01CIE5vLiA3MTAwLTAwODcpIHN1Ym1pdHRlZCB0aGVpciBsYXN0IEZSIDI5NTAgZm9yIHRoZSByZXBvcnQgd2VlayBlbmRpbmcgTWFyY2ggMjIsIDIwMDQuICBUaGUgRlIgMjk1MCBkYXRhIGhhZCBiZWVuIHVzZWQgaW4gdGhlIGNhbGN1bGF0aW9uIG9mIHJlc2VydmUgcmVxdWlyZW1lbnRzIG9uIG5ldCBFdXJvY3VycmVuY3kgbGlhYmlsaXRpZXMuICBBbHRob3VnaCB0aGUgQm9hcmQgcmVkdWNlZCB0aGUgcmVzZXJ2ZSByZXF1aXJlbWVudCByYXRpbyBvbiBuZXQgRXVyb2N1cnJlbmN5IGxpYWJpbGl0aWVzIHRvIHplcm8gaW4gMTk5MSwgdGhlIGRhdGEgd2VyZSBzdGlsbCBjb2xsZWN0ZWQganVzdCBpbiBjYXNlIHRoZSByYXRpbyB3YXMgcmFpc2VkIGFib3ZlIHplcm8gYXQgYSBsYXRlciBkYXRlLiAgDQoNCglSZWNvZ25pemluZyB0aGF0IHRoZXNlIGRhdGEgYXJlIG5lY2Vzc2FyeSBvbmx5IGZvciBhbm51YWwgaW5kZXhhdGlvbiBwdXJwb3NlcyBhbmQgbm90IGZvciBwdXJwb3NlcyBvZiBjYWxjdWxhdGluZyByZXNlcnZlIHJlcXVpcmVtZW50cyBvciB0aGUgbW9uZXRhcnkgYWdncmVnYXRlcywgdGhlIEZlZGVyYWwgUmVzZXJ2ZSBoYXMgYWRkZWQgIm5ldCBFdXJvY3VycmVuY3kgbGlhYmlsaXRpZXMiIHRvIHRoZSBGUiAyOTAwIHJlcG9ydGluZyBmb3JtLiAgQ2VydGFpbiBFdXJvY3VycmVuY3kgaXRlbXMgd2VyZSBhZGRlZCB0byB0aGUgZmFtaWx5IG9mIGJhbmsgY3JlZGl0IHJlcG9ydHMgKFdlZWtseSBSZXBvcnQgb2YgQXNzZXRzIGFuZCBMaWFiaWxpdGllcyBmb3IgTGFyZ2UgQmFua3M6IEZSIDI0MTY7IE9NQiBOby4gNzEwMC0wMDc1OyBXZWVrbHkgUmVwb3J0IG9mIFNlbGVjdGVkIEFzc2V0czogRlIgMjY0NDsgT01CIE5vLiA3MTAwLTAwNzU7IGFuZCBXZWVrbHkgUmVwb3J0IG9mIEFzc2V0cyBhbmQgTGlhYmlsaXRpZXMgZm9yIExhcmdlIFUuUyBCcmFuY2hlcyBhbmQgQWdlbmNpZXMgb2YgRm9yZWlnbiBCYW5rczogRlIgMjA2OTsgT01CIE5vLiA3MTAwLTAwMzApLCBlZmZlY3RpdmUgd2l0aCB0aGUgSnVuZSAyLCAyMDA0LCByZXBvcnQgZGF0ZS4NCmQCDw9kFgYCAQ8PFgIfAwUycmVwb3J0ZGV0YWlsLmFzcHg/c09vWUorNUJ6RGFjalZxWWpobXNkczhHd0tyWC8yc29kFgJmDxUBG0ZSIDI5NTAgKFNhdmluZ3MgYW5kIExvYW5zKWQCAg8VATEJIAlSZXBvcnQgb24gQ2VydGFpbiBFdXJvY3VycmVuY3kgVHJhbnNhY3Rpb25zDQoJZAIFDxUBogtUaGUgQm9hcmQgb2YgR292ZXJub3JzIG9mIHRoZSBGZWRlcmFsIFJlc2VydmUgU3lzdGVtIGRpc2NvbnRpbnVlZCBUaGUgUmVwb3J0IG9mIENlcnRhaW4gRXVyb2N1cnJlbmN5IFRyYW5zYWN0aW9ucyBmcm9tIGFsbCBEZXBvc2l0b3J5IEluc3RpdHV0aW9ucyBPdGhlciBUaGFuIFUuUy4gQnJhbmNoZXMgYW5kIEFnZW5jaWVzIG9mIEZvcmVpZ24gQmFua3MgKEZSIDI5NTA7IE9NQiBOby4gNzEwMC0wMDg3KSwgZWZmZWN0aXZlIGFmdGVyIHRoZSByZXBvcnQgd2VlayBlbmRpbmcgSnVuZSA3LCAyMDA0LiAgUXVhcnRlcmx5IHJlcG9ydGVycyBvZiB0aGUgUmVwb3J0IG9mIFRyYW5zYWN0aW9uIEFjY291bnRzLCBPdGhlciBEZXBvc2l0cyBhbmQgVmF1bHQgQ2FzaCAoRlIgMjkwMDsgT01CIE5vLiA3MTAwLTAwODcpIHN1Ym1pdHRlZCB0aGVpciBsYXN0IEZSIDI5NTAgZm9yIHRoZSByZXBvcnQgd2VlayBlbmRpbmcgTWFyY2ggMjIsIDIwMDQuICBUaGUgRlIgMjk1MCBkYXRhIGhhZCBiZWVuIHVzZWQgaW4gdGhlIGNhbGN1bGF0aW9uIG9mIHJlc2VydmUgcmVxdWlyZW1lbnRzIG9uIG5ldCBFdXJvY3VycmVuY3kgbGlhYmlsaXRpZXMuICBBbHRob3VnaCB0aGUgQm9hcmQgcmVkdWNlZCB0aGUgcmVzZXJ2ZSByZXF1aXJlbWVudCByYXRpbyBvbiBuZXQgRXVyb2N1cnJlbmN5IGxpYWJpbGl0aWVzIHRvIHplcm8gaW4gMTk5MSwgdGhlIGRhdGEgd2VyZSBzdGlsbCBjb2xsZWN0ZWQganVzdCBpbiBjYXNlIHRoZSByYXRpbyB3YXMgcmFpc2VkIGFib3ZlIHplcm8gYXQgYSBsYXRlciBkYXRlLiAgDQoNCglSZWNvZ25pemluZyB0aGF0IHRoZXNlIGRhdGEgYXJlIG5lY2Vzc2FyeSBvbmx5IGZvciBhbm51YWwgaW5kZXhhdGlvbiBwdXJwb3NlcyBhbmQgbm90IGZvciBwdXJwb3NlcyBvZiBjYWxjdWxhdGluZyByZXNlcnZlIHJlcXVpcmVtZW50cyBvciB0aGUgbW9uZXRhcnkgYWdncmVnYXRlcywgdGhlIEZlZGVyYWwgUmVzZXJ2ZSBoYXMgYWRkZWQgIm5ldCBFdXJvY3VycmVuY3kgbGlhYmlsaXRpZXMiIHRvIHRoZSBGUiAyOTAwIHJlcG9ydGluZyBmb3JtLiAgQ2VydGFpbiBFdXJvY3VycmVuY3kgaXRlbXMgd2VyZSBhZGRlZCB0byB0aGUgZmFtaWx5IG9mIGJhbmsgY3JlZGl0IHJlcG9ydHMgKFdlZWtseSBSZXBvcnQgb2YgQXNzZXRzIGFuZCBMaWFiaWxpdGllcyBmb3IgTGFyZ2UgQmFua3M6IEZSIDI0MTY7IE9NQiBOby4gNzEwMC0wMDc1OyBXZWVrbHkgUmVwb3J0IG9mIFNlbGVjdGVkIEFzc2V0czogRlIgMjY0NDsgT01CIE5vLiA3MTAwLTAwNzU7IGFuZCBXZWVrbHkgUmVwb3J0IG9mIEFzc2V0cyBhbmQgTGlhYmlsaXRpZXMgZm9yIExhcmdlIFUuUyBCcmFuY2hlcyBhbmQgQWdlbmNpZXMgb2YgRm9yZWlnbiBCYW5rczogRlIgMjA2OTsgT01CIE5vLiA3MTAwLTAwMzApLCBlZmZlY3RpdmUgd2l0aCB0aGUgSnVuZSAyLCAyMDA0LCByZXBvcnQgZGF0ZS4NCmQCEA9kFgYCAQ8PFgIfAwUqcmVwb3J0ZGV0YWlsLmFzcHg/c09vWUorNUJ6RGFVSDFEV0NqeUg2Zz09ZBYCZg8VAQdGUiAyOTUxZAICDxUBYgkgCVJlcG9ydCBvZiBDZXJ0YWluIEV1cm9jdXJyZW5jeSBUcmFuc2FjdGlvbnMgZnJvbSBVLlMuIEJyYW5jaGVzIGFuZCBBZ2VuY2llcyBvZiBGb3JlaWduIEJhbmtzDQoJZAIFDxUBjwpUaGUgQm9hcmQgb2YgR292ZXJub3JzIG9mIHRoZSBGZWRlcmFsIFJlc2VydmUgU3lzdGVtIGRpc2NvbnRpbnVlZCBUaGUgUmVwb3J0IG9mIENlcnRhaW4gRXVyb2N1cnJlbmN5IFRyYW5zYWN0aW9ucyBmcm9tIFUuUy4gQnJhbmNoZXMgYW5kIEFnZW5jaWVzIG9mIEZvcmVpZ24gQmFua3MgKEZSIDI5NTE7IE9NQiBOby4gNzEwMC0wMDg3KSwgZWZmZWN0aXZlIGFmdGVyIHRoZSByZXBvcnQgd2VlayBlbmRpbmcgSnVuZSA3LCAyMDA0LiAgVGhlIEZSIDI5NTEgZGF0YSBoYWQgYmVlbiB1c2VkIGluIHRoZSBjYWxjdWxhdGlvbiBvZiByZXNlcnZlIHJlcXVpcmVtZW50cyBvbiBuZXQgRXVyb2N1cnJlbmN5IGxpYWJpbGl0aWVzLiAgQWx0aG91Z2ggdGhlIEJvYXJkIHJlZHVjZWQgdGhlIHJlc2VydmUgcmVxdWlyZW1lbnQgcmF0aW8gb24gbmV0IEV1cm9jdXJyZW5jeSBsaWFiaWxpdGllcyB0byB6ZXJvIGluIDE5OTEsIHRoZSBkYXRhIHdlcmUgc3RpbGwgY29sbGVjdGVkIGp1c3QgaW4gY2FzZSB0aGUgcmF0aW8gd2FzIHJhaXNlZCBhYm92ZSB6ZXJvIGF0IGEgbGF0ZXIgZGF0ZS4gIA0KDQoJUmVjb2duaXppbmcgdGhhdCB0aGVzZSBkYXRhIGFyZSBuZWNlc3Nhcnkgb25seSBmb3IgYW5udWFsIGluZGV4YXRpb24gcHVycG9zZXMgYW5kIG5vdCBmb3IgcHVycG9zZXMgb2YgY2FsY3VsYXRpbmcgcmVzZXJ2ZSByZXF1aXJlbWVudHMgb3IgdGhlIG1vbmV0YXJ5IGFnZ3JlZ2F0ZXMsIHRoZSBGZWRlcmFsIFJlc2VydmUgaGFzIGFkZGVkICJuZXQgRXVyb2N1cnJlbmN5IGxpYWJpbGl0aWVzIiB0byB0aGUgUmVwb3J0IG9mIFRyYW5zYWN0aW9uIEFjY291bnRzLCBPdGhlciBEZXBvc2l0cyBhbmQgVmF1bHQgQ2FzaCAoRlIgMjkwMDsgT01CIE5vLiA3MTAwLTAwODcpIHJlcG9ydGluZyBmb3JtLiAgQ2VydGFpbiBFdXJvY3VycmVuY3kgaXRlbXMgd2VyZSBhZGRlZCB0byB0aGUgZmFtaWx5IG9mIGJhbmsgY3JlZGl0IHJlcG9ydHMgKFdlZWtseSBSZXBvcnQgb2YgQXNzZXRzIGFuZCBMaWFiaWxpdGllcyBmb3IgTGFyZ2UgQmFua3M6IEZSIDI0MTY7IE9NQiBOby4gNzEwMC0wMDc1OyBXZWVrbHkgUmVwb3J0IG9mIFNlbGVjdGVkIEFzc2V0czogRlIgMjY0NDsgT01CIE5vLiA3MTAwLTAwNzU7IGFuZCBXZWVrbHkgUmVwb3J0IG9mIEFzc2V0cyBhbmQgTGlhYmlsaXRpZXMgZm9yIExhcmdlIFUuUyBCcmFuY2hlcyBhbmQgQWdlbmNpZXMgb2YgRm9yZWlnbiBCYW5rczogRlIgMjA2OTsgT01CIE5vLiA3MTAwLTAwMzApLCBlZmZlY3RpdmUgd2l0aCB0aGUgSnVuZSAyLCAyMDA0LCByZXBvcnQgZGF0ZS4NCmQCBQ8WAh8CBe0EPGRpdiBjbGFzcz0ic2Vjb25kYXJ5Rm9vdGVyTGlua3NMZWZ0Ij4KICAgICAgICAgICAgICAgPGEgaHJlZj0iL2FjY2Vzc2liaWxpdHkuaHRtIj5BY2Nlc3NpYmlsaXR5PC9hPgogICAgICAgICAgICAgICA8YSBocmVmPSIvYWJvdXR0aGVmZWQvY29udGFjdC11cy10b3BpY3MuaHRtIj5Db250YWN0IHVzPC9hPgogICAgICAgICAgICAgICA8YSBocmVmPSIvZGlzY2xhaW1lci5odG0iPkRpc2NsYWltZXI8L2E+CiAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9wb2xpY2llcy5odG0iPldlYnNpdGUgcG9saWNpZXM8L2E+CiAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9mb2lhL2Fib3V0X2ZvaWEuaHRtIj5GT0lBPC9hPgo8L2Rpdj4KPGRpdiBjbGFzcz0ic2Vjb25kYXJ5Rm9vdGVyTGlua3NSaWdodCI+CiAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHA6Ly93d3cuYWRvYmUuY29tL3Byb2R1Y3RzL2Fjcm9iYXQvcmVhZHN0ZXAyLmh0bWwiPlBERiBSZWFkZXI8L2E+PGltZyBzcmM9Jy9HSUZKUEcvZXhpdEljb24uZ2lmJyBhbHQ9IkxlYXZpbmcgdGhlIEJvYXJkIiBib3JkZXI9IjAiIGNsYXNzPSJleGl0SWNvbiIgLz4KICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2xlYXIiPjwvZGl2Pgo8L2Rpdj4KZGSIgIIQYSUCc8IIiUMTibjXTpmsHY/Kdt8dkcY681AMMw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0482D1E9" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALkudefa+koyGtao6lRVwwdYdYxf6gfAOYEwyV4iVhUgE5lc1nimtHpV7LZKQ8J3z/tEMFAhw+4L3nlHc6GAT66" />
+      <div id="leftnav">
+        <!-- Insert the Left Navigation Begins here -->
+         <div class="secondaryContentLeftNav">
+            <!---->
+            <a id="menuFirstLevelHeading">Forms by Category</a>
+            <ul>
+             
+
+                    <li id="rptr_ReportFormsCategories_li_Style_0" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_0" href="categoryindex.aspx?xTdTa+FaSlI=">Financial statements</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_1" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_1" href="categoryindex.aspx?+PhkJwiBjbA=">Applications/structure change</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_2" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_2" href="categoryindex.aspx?1/RIXO/UduI=">FFIEC</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_3" class="menuHighlightRF">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_3" href="categoryindex.aspx?LKZRcVe8gsY=">Monetary policy</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_4" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_4" href="categoryindex.aspx?dEapq22eBI8=">Research</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_5" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_5" href="categoryindex.aspx?0Z5S1pJbSGg=">Business/consumer credit</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_6" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_6" href="categoryindex.aspx?mi41Lvopb9o=">Securities Exchange Act of 1934</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_7" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_7" href="categoryindex.aspx?L877VwEj9Ss=">Municipal and government securities</a>
+                    </li>
+                
+
+                    <li id="rptr_ReportFormsCategories_li_Style_8" class="">
+                        <a id="rptr_ReportFormsCategories_hlnk_Categories_8" href="categoryindex.aspx?KZ9MpP8mEQY=">Activities monitoring</a>
+                    </li>
+                
+            </ul>
+            <br/>
+            <a id="menuFirstLevelHeading1">Review and Updates</a>
+            <ul>
+                <li id="li_review">
+                    
+                   <a id="lnk_rfreview" href="review.aspx">Information collections under review</a>
+                </li>
+                <li>
+                	<a href="/reportforms/whats-new.htm">Recent Reporting Form Updates</a>
+                </li>
+            </ul>
+            
+            <script language="javascript" type="text/javascript">
+              <!--
+                //buildMenu();
+              -->
+            </script>
+
+         </div>
+         <img src="/GIFJPG/spacer.gif" alt=" " /> 
+      </div>
+      <div id="content">
+         <div id="BreadCrumbContainer">
+            <a href="/default.htm">Home</a>&nbsp;&gt;&nbsp;<a href="default.aspx" id="rfhome">Reporting Forms</a>
+            
+         </div>
+         <div class="generalContentText" id="printThis">
+
+            <a name="content"></a>
+            <img src="/GIFJPG/masthead2.jpg" id="defaultPrintImage" alt="Federal Reserve Board of Governors" />
+
+            <div id="TwoColumns">
+            
+            <a name="content"></a>
+
+            <div id="leftText3">
+               <div class="mainContentContainer">
+                
+    <h1 class="all">
+    <span id="MainContent_lbl_CategoryName">Monetary policy</span>
+</h1>
+      <input type="hidden" name="ctl00$MainContent$HiddenField1" id="HiddenField1" />
+      
+            <div id="TwoColumns">
+            <div id="leftText">
+            <br />
+        
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_0" href="reportdetail.aspx?sOoYJ+5BzDY74PGdjDcj3g==">FR 2006</a></div>
+
+            <br/>
+		    <em>	 	Annual Survey of Eligible Bankers' Acceptances
+	</em><br/>
+                
+			 	 	The Annual Survey of Eligible Bankers' Acceptances (FR 2006; OMB No. 7100-0055) has been discontinued, effective July 31, 2001.  This voluntary survey provided detailed information on eligible U.S. dollar-denominated acceptances payable in the United States.  The data were reported as of September 30 by U.S. commercial banks, U.S. branches and agencies of foreign banks, and Edge and agreement corporations having significant issuance of such acceptances.  The information was used to construct monetary and credit aggregates, to construct the domestic nonfinancial debt aggregate monitored by the Federal Open Market Committee, and to calculate short- and intermediate-term business credit.  
+
+	The usefulness of the FR 2006 report had declined, for three reasons:  (1) Calculation of L, the monetary aggregate that contained bankers' acceptances, had been discontinued in December 1998; (2) the Call Report had replaced the FR 2006 as the source of data on bankers' acceptances for calculating the debt aggregate; and (3) the relatively small size of the bankers' acceptances market called into question the need for the survey.  The Board staff concluded that estimated data derived from the bankers' acceptances items on Schedule RC of the Call Report could be used in calculating short- and intermediate-term business credit.
+
+
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_1" href="reportdetail.aspx?sOoYJ+5BzDYIt3+nWKx9YX2rmBLiLqb0">FR 2051a</a></div>
+
+            <br/>
+		    <em>	 	Money Market Mutual Fund Assets Report
+	</em><br/>
+                
+			 	 	The Board of Governors of the Federal Reserve discontinued the Money Market Mutual Fund Assets Report (FR 2051a; OMB No. 7100-0012) in April 2010.  However, the Investment Company Institute (ICI) will continue to collect the data for its own purposes and share it with the Federal Reserve.<p>  
+The ICI conducts a weekly survey and provides the Federal Reserve with the net value of total shares outstanding (total assets less expenses and management fees) of money market mutual funds (MMMFs).<p>
+The Federal Reserve uses the MMMF data to construct the M2 monetary aggregate and to analyze current money market conditions.  The monetary aggregates are published in the weekly H.6 <i>Money Stock and Debt Measures</i> statistical release (<a href="http://www.federalreserve.gov/econresdata/releases/statisticsdata.htm">http://www.federalreserve.gov/econresdata/releases/statisticsdata.htm</a>) and in the <i>Federal Reserve Bulletin</i>.  Retail and institutional MMMF data, along with IRA/Keogh balances at MMMFs, also are published as separate items on the H.6 release.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_2" href="reportdetail.aspx?sOoYJ+5BzDaNHxDH2don5Q==">FR 2415</a></div>
+
+            <br/>
+		    <em>	 	Report of Repurchase Agreements (RPs) on U.S. Government and Federal Agency Securities with Specified Holders
+	</em><br/>
+                
+			 The Board of Governors of the Federal Reserve discontinued the Report of Repurchase Agreements (RPs) on U.S. Government and Federal Agency Securities with Specified Holders (FR 2415; OMB No. 7100-0074) in March 2006.  In November 2005, the Federal Reserve decided to cease collecting, constructing, and publishing the M3 monetary aggregate, effective in March 2006.  As a result of the Federal Reserve's decision to cease constructing the M3 monetary aggregate, data collected on the FR 2415 are no longer needed.<p>  
+
+			This voluntary report collected one data item, RPs, in denominations of $100,000 or more, in immediately available funds, on U.S. government and federal agency securities, transacted with specified holders.  Depository institutions filed the FR 2415 report weekly, quarterly, or annually, depending on the volume of their RPs.  The primary use of the data was to construct the RP component of the M3 monetary aggregate. The data were also used for analysis of depository institutions' funding practices. <p>  
+
+			The analysis of bank liability management can be adequately handled by liabilities reported on the Weekly Report of Assets and Liabilities for Large Banks (FR 2416; OMB No. 7100-0075); Weekly Report of Selected Assets (FR 2644; OMB No. 7100-0075); and Weekly Report of Assets and Liabilities for Large U.S. Branches and Agencies of Foreign Banks (FR 2069; OMB No. 7100-0030) (bank credit reports).
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_3" href="reportdetail.aspx?sOoYJ+5BzDZiceJ/KVuLKQ==">FR 2420</a></div>
+
+            <br/>
+		    <em>	 	Report of Selected Money Market Rates
+	</em><br/>
+                
+			 The FR 2420 is a transaction-based report that collects daily liability data on federal funds, borrowings from non-exempt entities, Eurodollars, and certificates of deposits (CDs) and time deposits (TDs) from (1) domestically chartered commercial banks and thrifts that have $18 billion or more in total assets, or $5 billion or more in assets and meet certain unsecured borrowing activity thresholds, and (2) U.S. branches and agencies of foreign banks with total third-party assets of $2.5 billion or more.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_4" href="reportdetail.aspx?sOoYJ+5BzDb7FT6dI002n1VAFYAblVgE">FR 2900 (Branches and Agencies)</a></div>
+
+            <br/>
+		    <em>	 	Report of Transaction Accounts, Other Deposits and Vault Cash
+	</em><br/>
+                
+			 This report collects information on transaction accounts, time and savings deposits, vault cash, and other reservable obligations from depository institutions.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_5" href="reportdetail.aspx?sOoYJ+5BzDblI7g2+r203S0gg6NcUIj6">FR 2900 (Commercial Banks)</a></div>
+
+            <br/>
+		    <em>	 	Report of Transaction Accounts, Other Deposits and Vault Cash
+	</em><br/>
+                
+			 This report collects information on transaction accounts, time and savings deposits, vault cash, and other reservable obligations from depository institutions.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_6" href="reportdetail.aspx?sOoYJ+5BzDblI7g2+r203ZgzSIfTO4Op">FR 2900 (Credit Unions)</a></div>
+
+            <br/>
+		    <em>	 	Report of Transaction Accounts, Other Deposits and Vault Cash
+	</em><br/>
+                
+			 This report collects information on transaction accounts, time and savings deposits, vault cash, and other reservable obligations from depository institutions.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_7" href="reportdetail.aspx?sOoYJ+5BzDbcpimlu2puzjLO8T0krbsm">FR 2900 (Savings and Loans)</a></div>
+
+            <br/>
+		    <em>	 	Report of Transaction Accounts, Other Deposits and Vault Cash
+	</em><br/>
+                
+			 This report collects information on transaction accounts, time and savings deposits, vault cash, and other reservable obligations from depository institutions.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_8" href="reportdetail.aspx?sOoYJ+5BzDZf5mc4JE3w08+/XlCS5zqL">FR 2910a</a></div>
+
+            <br/>
+		    <em>	 	Annual Report of Deposits and Reservable Liabilities
+	</em><br/>
+                
+			 The FR 2910a is an annual report generally filed by depository institutions that are exempt from reserve requirements under the Garn-St Germain Depository Institutions Act of 1982 and whose total deposits, measured from depository institutions' December quarterly condition reports, are greater than the exemption amount but less than the reduced reporting limit. The report contains three data items that are to be submitted for a single day, June 30: (1) total transaction accounts, savings deposits, and small time deposits; (2) reservable liabilities; and (3) net transaction accounts.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_9" href="reportdetail.aspx?sOoYJ+5BzDYy+YS7CteiAw==">FR 2915</a></div>
+
+            <br/>
+		    <em>The Report of Foreign (Non-U.S.) Currency Deposits</em><br/>
+                
+			 This report collects the weekly average amount outstanding of deposits denominated in foreign (non-U.S.) currencies, held at U.S. offices of depository institutions that are included in the Report of Transaction Accounts, Other Deposits and Vault Cash (FR 2900).  Deposits are reported in U.S. dollars.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_10" href="reportdetail.aspx?sOoYJ+5BzDY+4dS8E1+4TA==">FR 2930</a></div>
+
+            <br/>
+		    <em>Allocation of Low Reserve Tranche and Reservable Liabilities Exemption</em><br/>
+                
+			 	 	This report provides information on the allocation of the low reserve tranche and the reservable liabilities exemption for depository institutions with offices in more than one state or Federal Reserve District or for those operating under operational convenience.
+	  
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_11" href="reportdetail.aspx?sOoYJ+5BzDYtwgfmGLrVeLvx4fu3eaR2">FR 2930a</a></div>
+
+            <br/>
+		    <em>	 	Allocation of Low Reserve Tranche and Reservable Liabilities Exemption for Depository Institutions Other Than U.S. Branches and Agencies of Foreign Banks and Edge and Agreement Corporations
+	</em><br/>
+                
+			 The FR 2930a and FR 2930 have been combined into one reporting form and instruction. FR 2930a respondents will now file the Allocation of Low Reserve Tranche and Reservable Liabilities Exemption FR 2930.
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_12" href="reportdetail.aspx?sOoYJ+5BzDbz2VdDr4Y9iY/pnG80CrzZ">FR 2950 (Commercial Banks)</a></div>
+
+            <br/>
+		    <em>	 	Report on Certain Eurocurrency Transactions
+	</em><br/>
+                
+			 The Board of Governors of the Federal Reserve System discontinued The Report of Certain Eurocurrency Transactions from all Depository Institutions Other Than U.S. Branches and Agencies of Foreign Banks (FR 2950; OMB No. 7100-0087), effective after the report week ending June 7, 2004.  Quarterly reporters of the Report of Transaction Accounts, Other Deposits and Vault Cash (FR 2900; OMB No. 7100-0087) submitted their last FR 2950 for the report week ending March 22, 2004.  The FR 2950 data had been used in the calculation of reserve requirements on net Eurocurrency liabilities.  Although the Board reduced the reserve requirement ratio on net Eurocurrency liabilities to zero in 1991, the data were still collected just in case the ratio was raised above zero at a later date.  
+
+	Recognizing that these data are necessary only for annual indexation purposes and not for purposes of calculating reserve requirements or the monetary aggregates, the Federal Reserve has added "net Eurocurrency liabilities" to the FR 2900 reporting form.  Certain Eurocurrency items were added to the family of bank credit reports (Weekly Report of Assets and Liabilities for Large Banks: FR 2416; OMB No. 7100-0075; Weekly Report of Selected Assets: FR 2644; OMB No. 7100-0075; and Weekly Report of Assets and Liabilities for Large U.S Branches and Agencies of Foreign Banks: FR 2069; OMB No. 7100-0030), effective with the June 2, 2004, report date.
+
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_13" href="reportdetail.aspx?sOoYJ+5BzDZPi2RtxCnBnpuOUV4MOD43">FR 2950 (Credit Unions)</a></div>
+
+            <br/>
+		    <em>	 	Report of Certain Eurocurrency Transactions
+	</em><br/>
+                
+			 The Board of Governors of the Federal Reserve System discontinued The Report of Certain Eurocurrency Transactions from all Depository Institutions Other Than U.S. Branches and Agencies of Foreign Banks (FR 2950; OMB No. 7100-0087), effective after the report week ending June 7, 2004.  Quarterly reporters of the Report of Transaction Accounts, Other Deposits and Vault Cash (FR 2900; OMB No. 7100-0087) submitted their last FR 2950 for the report week ending March 22, 2004.  The FR 2950 data had been used in the calculation of reserve requirements on net Eurocurrency liabilities.  Although the Board reduced the reserve requirement ratio on net Eurocurrency liabilities to zero in 1991, the data were still collected just in case the ratio was raised above zero at a later date.  
+
+	Recognizing that these data are necessary only for annual indexation purposes and not for purposes of calculating reserve requirements or the monetary aggregates, the Federal Reserve has added "net Eurocurrency liabilities" to the FR 2900 reporting form.  Certain Eurocurrency items were added to the family of bank credit reports (Weekly Report of Assets and Liabilities for Large Banks: FR 2416; OMB No. 7100-0075; Weekly Report of Selected Assets: FR 2644; OMB No. 7100-0075; and Weekly Report of Assets and Liabilities for Large U.S Branches and Agencies of Foreign Banks: FR 2069; OMB No. 7100-0030), effective with the June 2, 2004, report date.
+
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_14" href="reportdetail.aspx?sOoYJ+5BzDacjVqYjhmsds8GwKrX/2so">FR 2950 (Savings and Loans)</a></div>
+
+            <br/>
+		    <em>	 	Report on Certain Eurocurrency Transactions
+	</em><br/>
+                
+			 The Board of Governors of the Federal Reserve System discontinued The Report of Certain Eurocurrency Transactions from all Depository Institutions Other Than U.S. Branches and Agencies of Foreign Banks (FR 2950; OMB No. 7100-0087), effective after the report week ending June 7, 2004.  Quarterly reporters of the Report of Transaction Accounts, Other Deposits and Vault Cash (FR 2900; OMB No. 7100-0087) submitted their last FR 2950 for the report week ending March 22, 2004.  The FR 2950 data had been used in the calculation of reserve requirements on net Eurocurrency liabilities.  Although the Board reduced the reserve requirement ratio on net Eurocurrency liabilities to zero in 1991, the data were still collected just in case the ratio was raised above zero at a later date.  
+
+	Recognizing that these data are necessary only for annual indexation purposes and not for purposes of calculating reserve requirements or the monetary aggregates, the Federal Reserve has added "net Eurocurrency liabilities" to the FR 2900 reporting form.  Certain Eurocurrency items were added to the family of bank credit reports (Weekly Report of Assets and Liabilities for Large Banks: FR 2416; OMB No. 7100-0075; Weekly Report of Selected Assets: FR 2644; OMB No. 7100-0075; and Weekly Report of Assets and Liabilities for Large U.S Branches and Agencies of Foreign Banks: FR 2069; OMB No. 7100-0030), effective with the June 2, 2004, report date.
+
+		    </p>
+       
+
+	        <p>
+            <div class="formTitle"> 
+            <a id="MainContent_rptr_FormsByCategory_hlnk_GetForm_15" href="reportdetail.aspx?sOoYJ+5BzDaUH1DWCjyH6g==">FR 2951</a></div>
+
+            <br/>
+		    <em>	 	Report of Certain Eurocurrency Transactions from U.S. Branches and Agencies of Foreign Banks
+	</em><br/>
+                
+			 The Board of Governors of the Federal Reserve System discontinued The Report of Certain Eurocurrency Transactions from U.S. Branches and Agencies of Foreign Banks (FR 2951; OMB No. 7100-0087), effective after the report week ending June 7, 2004.  The FR 2951 data had been used in the calculation of reserve requirements on net Eurocurrency liabilities.  Although the Board reduced the reserve requirement ratio on net Eurocurrency liabilities to zero in 1991, the data were still collected just in case the ratio was raised above zero at a later date.  
+
+	Recognizing that these data are necessary only for annual indexation purposes and not for purposes of calculating reserve requirements or the monetary aggregates, the Federal Reserve has added "net Eurocurrency liabilities" to the Report of Transaction Accounts, Other Deposits and Vault Cash (FR 2900; OMB No. 7100-0087) reporting form.  Certain Eurocurrency items were added to the family of bank credit reports (Weekly Report of Assets and Liabilities for Large Banks: FR 2416; OMB No. 7100-0075; Weekly Report of Selected Assets: FR 2644; OMB No. 7100-0075; and Weekly Report of Assets and Liabilities for Large U.S Branches and Agencies of Foreign Banks: FR 2069; OMB No. 7100-0030), effective with the June 2, 2004, report date.
+
+		    </p>
+       
+            </div>
+            </div>
+       
+
+
+                </div>
+            </div><!--closes Left-->
+
+            <div id="stayconnectedrightSidebar">
+                
+
+	    		<h4>Related</h4>
+	    		<div class="ulbackground">
+	    		<ul class="stayconnected2">
+	    		<li class="stayconnected2"><a href="/reportforms/whats-new.htm">Recent Reporting Form Updates</a></li>
+	    		</ul>
+
+
+            </div><!--closes Right-->
+
+            </div><!--closes 2 columns-->
+<!-- Changes Made 12-4-12 -->
+         <div class="clear"></div>
+         <!--</div>-->
+<!-- 12-4-12-->
+
+         <div id="lastUpdate">
+            
+Last Update: July 6, 2012
+    </div>
+
+            
+         </div>
+
+        </form>
+
+         <div id="FooterLinks">
+            <a href="/default.htm">Home</a> | <a href="/apps/reportforms/default.aspx">Reporting Forms</a>
+         </div>
+         <!-- CLOSES FooterLinks -->
+         <div id="secondaryFooterLinks">
+            <div class="secondaryFooterLinksLeft">
+               <a href="/accessibility.htm">Accessibility</a>
+               <a href="/aboutthefed/contact-us-topics.htm">Contact us</a>
+               <a href="/disclaimer.htm">Disclaimer</a>
+               <a href="/policies.htm">Website policies</a>
+               <a href="/foia/about_foia.htm">FOIA</a>
+</div>
+<div class="secondaryFooterLinksRight">
+               <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src='/GIFJPG/exitIcon.gif' alt="Leaving the Board" border="0" class="exitIcon" />
+               <div class="clear"></div>
+</div>
+
+
+         </div> 
+         <div class="clear"></div>
+      </div>
+</div>
+
+   </div>
+   
+   <div id="footer">
+      <div id="Footer2"></div>               
+   </div>
+   
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>
+
+
+
+

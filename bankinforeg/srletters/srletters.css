@@ -1,0 +1,95 @@
+/*----------SR LETTER STYLES----------*/
+/*.srletters {font-family: Arial, Helvetica, sans-serif; font-size: 0.8em; color: #000000; margin: .3em 0 0 0; background-color: #FFFFFF; width: 100%;}*/
+/*HEADER STYLES*/
+.srletters .border{border-bottom: 1px solid #999999;}
+.srletters .borderdash{border-bottom: 1px dashed #333333; width:98%;}
+.srletters .bold{font-weight: bold;}
+.srletters .boldnopadding{font-weight: bold; padding-bottom: 0; margin-bottom:0;}
+.srletters .italic{font-style: italic;}
+.srletters .italicbold{font-style: italic; font-weight: bold;}
+.srletters .italicnopadding{padding-bottom: 0; margin-bottom: 0em; font-style:italic;}
+.srletters .italicboldnopadding{padding-bottom: 0; margin-bottom: 0; font-style: italic; font-weight:bold;}
+.srletters .nopadding{margin: 0; padding: 0;}
+.srletters h1{font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 1.7em; padding: 10px 0 5px 0px; margin: 0 0 0 0em; font-weight:normal; margin-bottom: .6em; border-bottom: none;}
+.srletters h2 {font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 1.6em; border: none; font-weight: normal;}
+.srletters h3 {font-size:1.4em; font-weight: normal; font-family: &quot;Times New Roman&quot;, Times, serif;border:none;}
+.srletters h2.bsa {background-color:#d7eeed; font-size:1.7em; color:#3f523e; padding:0.15em;}
+.srletters h3.bsa {background-color:#d7eeed; color:#3f523e; padding:0.15em;}
+.srletters h4 {font-size:1.3em; font-weight: normal; font-family: &quot;Times New Roman&quot;, Times, serif;}
+.srletters h5 {margin-bottom:0; font-size:1.2em; font-weight:normal; font-family: &quot;Times New Roman&quot;, Times, serif;}
+.srletters h6 {margin-bottom:0; font-size:1.1em; font-weight:normal; font-family: &quot;Times New Roman&quot;, Times, serif;}
+.srletters a:link { text-decoration: underline; color: #314732; }
+.srletters a:visited { text-decoration: underline; color: #666600; }
+.srletters img {border: 0;}
+.srletters .clear {clear: both;display: block;height: 1px;margin: 0;padding: 0; overflow: hidden;}
+.srletters #choicecontainer {padding:0 0 0 0; margin:0 0 0 218px;}
+.srletters .return {font-size:0.85em; text-align:right;}
+.srletters img.left {float:left; width:200px; margin-right:1.15em;}
+.srletters #contentwrapper {padding:1em; width:58em;}
+.srletters #contentwrapper a:link {color:#336666;}
+.srletters #contentwrapper a:visited {color:#336666;}
+.srletters dt.sr {margin:0.75em 0 0 0;}
+.srletters #srletterbottom {margin:0 0 0 0.5em; padding:0 1em 0 0; width:60em;}
+.srletters .footnotes {font-size:0.85em;}
+/*
+#FooterLinks{margin: 0px 0px 0px .7em; font-weight: bold;}
+#FooterLinks a{text-decoration: none;}
+#secondaryFooterLinks{font-size: 0.95em; padding: 4px 0px 5px 0px; margin-right: .5em; margin-left: .5em; width: 60em;}
+#secondaryFooterLinks a{font-weight: bold; margin: 0 6px 0 2px; text-decoration: none; font-size: .9em;}
+#lastUpdate{margin: 3em 1em .5em .7em; border-bottom: #999999 1px solid; font-size: .9em; font-weight: bold;}
+.secondaryFooterLinksLeft{float:left; margin-top: .2em;}
+.secondaryFooterLinksRight{float:right;}
+*/
+/*STYLES FROM ELIZABETH'S STYLE SHEET*/
+.srletters .abs_date {font-weight: bold;margin: 0 0 2ex 0;}
+.srletters .abs_links {}
+.srletters .abs_att_section {margin: 3ex 0 0 0;}
+.srletters .abs_att {margin: 1.5ex 0 0 0;}
+.srletters .abs_back {margin: 4ex 0 4ex 0;}
+.srletters .middle {font-size:1em;text-align: center;margin: 0 125px 0 0;}
+.srletters .subject2 {width : 75%;margin: 0 0 3ex 0;}
+.srletters .right {float : right;margin: 2ex 0 2ex 0;}
+.srletters .ltr_number {font-size:1em;font-weight:600;margin:0.5em 0 0 0;font-family: Arial, Helvetica, sans-serif;}
+.srletters .date_text {font-size:1em;font-weight: 600;margin:0 0 0 0;font-family: Arial, Helvetica, sans-serif;}
+.srletters .salutation {clear : right;font-weight:600;width: 67%;margin:0 0 0 0;}
+.srletters .letter_body, td, th {font-family: Arial, Helvetica, sans-serif;font-size : 1em;}
+.srletters .ltrheader {font-size:1em;font-weight: 600;padding: 0 0 0 0;font-family: Arial, Helvetica, sans-serif;}
+.srletters .ltrheadersm {font-size:0.85em;font-weight: 400;padding: 0 0 0 0;margin: 0 0 0 0;font-family: Arial, Helvetica, sans-serif;}
+.srletters .SectionHeader {margin: 2ex 0 1ex 0;font-weight: 600;font-size : 1.15em;color:#314732;}
+.srletters .SectionHeader2 {margin: 1ex 0 1ex 0;font-size : 1.15em;color:#314732;}
+.srletters .SectionHeader3 {margin: 1ex 0 1ex 0;font-size : .9em;font-style:italic;font-weight:600;}
+.srletters li.ds {padding-bottom : 2ex;}
+.srletters .restricted {font-family : helv;font-size : 75%;background-color : cc0022;color : white;font-weight : bold;
+ /* This item creates padding before and after the tag so you don't need non-breaking spaces. */
+ padding : 0 1ex 0 1ex;white-space : nowrap;text-decoration : none;display :inline-block;
+}
+.srletters .left {float: left;width: 125px;}
+.srletters .division_head {font-size: 75%;font-weight: 400;padding: 0 0 0 0;margin: 0 0 0 0;font-family: Arial, Helvetica, sans-serif;}
+.srletters .salutation {clear : right;font-weight:bold;width: 67%;margin:0 0 2ex 0;}
+.srletters .subject_head {
+ /* font-size : .9em; */
+ /* font-family: Arial, Helvetica, sans-serif; */
+}
+.srletters .subject_text {
+ /* font-weight: 600; */
+ /* font-size : 1em; */
+}
+.srletters .attachments div{margin-bottom:1.5ex;}
+.srletters p {margin-bottom:3ex;}
+.srletters li.hs {padding-bottom: .5ex;}
+.srletters li.ms {padding-bottom : 1ex;}
+.srletters li.ts {padding-bottom : 3ex;}
+.srletters .nobullet {list-style-type: none;}
+.srletters .indent {margin: 0 0 0 3ex;}
+.srletters .officer {text-align: center;padding: 2ex 0 3ex 0;}
+.srletters .officers {padding: 1ex 12ex 1ex 12ex;text-align: center;}
+.srletters .officer1 {float: left;padding-right: 2ex;margin: 0 0 0 0;}
+.srletters .officer2 {float: right;padding-left: 2ex;margin: 0 0 0 0;}
+.srletters .attachments {padding : 2ex 0 0 0;}
+.srletters .cross_references {padding : 4ex 0 1ex 0;}
+.srletters .internal {font-family : helv;font-size: 75%;color : cc0022;font-weight : bold;padding-left : .5ex;white-space : nowrap;text-decoration : none;}
+.srletters .footnotes {padding : 2ex 0 0 0;}
+.srletters .halfline {width : 50%;border-top : 1px solid #bbbbbb;}
+.srletters .return {font-family: Arial, Helvetica, sans-serif;}
+.srletters .nobreak {white-space : nowrap;}
+.srletters .size {text-decoration : none;font-family: Arial, Helvetica, sans-serif;}

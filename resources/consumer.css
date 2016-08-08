@@ -1,0 +1,317 @@
+/* CONSUMER STYLES */
+
+.greentext2 {color:#03430d; font-size:0.85em; margin-top:-0.5em;}
+
+/* SAVING RESOURCES PAGE*/
+ul.linklisttop {list-style:none; font-weight:bold; margin-top:3em; margin-left:0; padding-left:0; line-height:1.5em;}
+ul.linklist {list-style:none; margin-left:0; padding-left:0; line-height:1.5em;}
+ul.linklist li {font-weight:bold;}
+ul.secondarylist {list-style:none; padding-bottom:1em;}
+ul.secondarylist li {font-weight:normal;}
+ul.tertiarylist {list-style:none; margin-left:1em; padding-bottom:0.5em;}
+ul.tertiarylist li {font-weight:normal;}
+#right {float:left; margin-right:1em;}
+
+/*FORECLOSURE PAGE*/
+#evenleft{float:left; width:28em; margin:0 2em 0 0; }
+#evenright {float:left; width:23em; margin:0.5em 0 0 0; border-left:1px solid #460661; padding-left:1em; height:50em;}
+#evenleft a {color:#460661;}
+#evenright a {color:#460661;}
+.inner {padding:1em;}
+.inner2 {border-top:1px solid #460661; padding:1em;}
+
+.enlarge {font-size:0.90em;} 
+#closebutton {margin-top:0.5em; float:right;}
+
+/*CONSUMER PAGE*/
+#leftcol {float:left; width:28em; padding:0 0 0 0; margin:0 3em 0 0;}
+#rightcol {float:left; width:23em; margin:0 0 0 0; padding:0 0 0 0;}
+ul.credit {list-style-image:url(../gifjpg/consumercredit_bullet.gif); margin:0.5em 0 0 1.5em; padding:0 0 0 0;} 
+ul.credit li {padding-bottom:0.5em;}
+h4.credit {font-family:Arial, Helvetica, sans-serif; font-size:1.3em; font-weight:bold; color:#36470f; margin-bottom:0.75em;}
+h4.credit2 {font-family:Arial, Helvetica, sans-serif; font-size:1.25em; padding:0.25em; color:#FFF; background-color:#95ad6b; border:2px solid #4f6328; margin-bottom:0.75em;}
+
+
+/*-------EXTERNAL CONSUMER PUBLICATIONS - THESE PAGES UTILIZE PUBWEB.CSS, SECONDARY.CSS, CONSUMER.CSS, PRINT.CSS FROM PUBWEB-----*/
+#consumerpub #contentContainer {background-image:none; margin:0 0 0 0; padding:0 0 0 0;}
+#consumerpub.generalContentText {margin:0 0 0 0; padding:0 0 0 0;}
+#consumerpub #content {margin:0 0 0 0; padding:0 0 0 0;}
+
+/*----------STYLESHEETS FOR NEW CONSUMER PUBLICATIONS AND SERIES-----------*/
+body#consumerpub {margin:0.35em 0 0 0;}
+#consumerpub #consumerpubwrapper {margin:0 0 0 0; width:80.5em; padding:0 0 0 0; font-size:0.95em;}
+#consumerpub .seriestitlebar {margin:1em 0 0 2em;}
+
+/*--------------- WYNTKA STYLES---------------*/
+#consumerpub .seriesleft {float:left; margin:0 0 0 -1em; border-right:1px solid #cf6c06; width:164px; border-bottom:25px solid #cf6c06;}
+#consumerpub .seriesright {float:left; margin:0 0 0 1em; width:43em;}
+#consumerpub .seriesright h2 {font-family:Tahoma, Geneva, sans-serif; color:#4c4c4c;}
+#consumerpub .seriesright a:link {color:#4c4c4c;}
+#consumerpub .seriesright a:visited {color:#4c4c4c;}
+#consumerpub .seriesright ul {list-style-image:url(../gifjpg/wyntk_bullet.gif); margin:0 0 0 1.5em; padding:0 0 0 1em;}
+#consumerpub .seriesright ul li {margin-bottom:1.15em;}
+#consumerpub .seriesright ul.nested {list-style-image:none; list-style:circle; margin:0.25em 0 2em 2.5em; padding:0 0 0 0;}
+#consumerpub .seriesright ul.nested li {margin-bottom:0;}
+#consumerpub .seriesinfobar {float:right; margin:3em 0 0 0; width:21em; padding:0 0 0 0; font-size:0.90em; border-right:3px solid #cf6c06;}
+#consumerpub .seriesinfobar a:link {color:#4c4c4c;}
+#consumerpub .seriesinfobar a:visited {color:#4c4c4c;}
+/*#consumerpub .seriesinfobar p {margin: 0; padding: 0;}*/
+#consumerpub ul.infobar {border-top:1px solid #cf6c06; margin:0 0 4em 0; list-style:none; padding:0.5em 1em 0 1em;}
+#consumerpub ul.infobarnoline {margin:0 0 0 0; list-style:none; padding:0.5em 0 0 1em;}
+#consumerpub ul.infobar li {margin-bottom:0.15em;} 
+#consumerpub ul.infobar li.terms {margin-bottom:1em; margin-right: 1em;}
+#consumerpub ul.infobar li a {margin-bottom:0.15em;}
+#consumerpub table.wyntk {margin:1em 0; padding:0 0 0 0; width:100%;}
+#consumerpub table.wyntk th {color:#4c6135; text-align:center; font-size:1em; padding:0.5em 0.5em; border:1px solid white; text-align:left; background-color:#e6f7d5;}
+#consumerpub table.wyntk td {text-align:left; padding:0.5em 1em; background-color:#e6f7d5; border:1px solid white;}
+#consumerpub .box {border:1px dotted #4c6135; padding:1em; margin:1em 0;}
+#consumerpub .wyntkbutton {background-image:url(../gifjpg/wyntk_pdfbutton.gif); background-position:top left; background-repeat:no-repeat; height:37px; padding:0.75em 0 0 1em; font-weight:bold; font-family:Tahoma, Geneva, sans-serif; margin:0 0 0 0; font-size:1.15em;}#consumerpub .wyntkbutton a:link {color:#4c6135;}
+#consumerpub .wyntkbutton a:visited {color:#4c6135;}
+#consumerpub .push {margin-top:3em;}
+#consumerpub ul.noline {margin:0 0 0 0; list-style:none; padding:0.5em 0 0 1em; border-top:none;}
+#consumerpub ul.noline {margin-bottom:0.15em;}
+#consumerpub ul.noline li{margin-bottom:0.15em; margin-right: 1em;}
+
+/*-------------5 TIPS SERIES-------------------*/
+#consumerpub .seriesleft5 {float:left; border-right:1px solid #21457a; width:164px; border-bottom:25px solid #21457a;}
+#consumerpub .seriesright5 {float:left; margin:0 0 0 0; width:40em;}
+#consumerpub .seriesright5 h2.five {font-family:Tahoma, Geneva, sans-serif; color:#21457a; margin:0 0 0 0; padding:0 0 0 0;}
+#consumerpub .seriesright5 a:link {color:#21457a;}
+#consumerpub .seriesright5 a:visited {color:#21457a;}
+#consumerpub .seriesinfobar5 {float:right; margin:0 0 0 0; width:21em; padding:0 0 0 0; font-size:0.90em; border-right:2px solid #21457a;}
+#consumerpub .seriesinfobar5 a:link {color:#4c4c4c;}
+#consumerpub .seriesinfobar5 a:visited {color:#4c4c4c;}#consumerpub ul.infobar5 {border-top:1px solid #21457a; margin:0 0 4em 0; list-style:none; padding:0.5em 1em 0 1em;}
+#consumerpub ul.infobar5 li {margin-bottom:0.5em;}
+#consumerpub ul.infobar5bullets {border-top:1px solid #21457a; margin:0 0 4em 0; list-style-image:url(../gifjpg/5tips_bullets.jpg); padding:0.5em 1em 0 1.5em;}
+#consumerpub ul.infobar5bullets li {margin-bottom:0.5em;}
+#consumerpub .tipsbutton {background-image:url(../gifjpg/5tips_pdfbutton.jpg); background-position:top left; background-repeat:no-repeat; height:37px; padding:0.75em 0 0 1em; font-weight:bold; font-family:Tahoma, Geneva, sans-serif; margin:0 0 0 0; font-size:1.15em;}
+#consumerpub .tipsbutton a:link {color:#bb7204;}
+#consumerpub .tipsbutton a:visited {color:#bb7204;}
+#consumerpub .number {float:left; margin:0 0.5em 2em 0; display:inline;}
+#consumerpub .sidebarpush {margin-top:5.25em;}
+#consumerpub .sidebarpushspanish {margin-top:12em;}
+#consumerpub .header5 {margin-left:3em;}
+#consumerpub .more {margin-top:2em;}
+#consumerpub p.five {margin:0.5em 0 1.5em 0; padding:0 0 0 3.5em;}
+#consumerpub ul.text5 {margin:2em 0 0 2.5em; list-style-image:url(../gifjpg/5tips_bullets.jpg); padding:0 0 1em 2.5em;}
+#consumerpub ul.text5 {margin-bottom:0.5em;}
+ 
+/*copied over from community.css on friday, 2/17/2012 for use on page 7448*/
+table.agenda {border:1px solid white; margin:0 0 0 0; padding:0 0 0 0; border-collapse:collapse; font-size:0.90em;}
+table.agenda th {text-align:center; font-weight:bold; color:white; background-color:#3F523E; padding:0.55em; border:2px solid white;}
+table.agenda th a:link {color:white;}
+table.agenda th a:visited {color:white;}
+table.agenda td {text-align:center; padding:0.25em; }
+table.agenda td.left3 {text-align:left; background-color:#fdfaec; color:#043502; width:12em; font-weight:bold; padding:0.5em; border:2px solid white; vertical-align:top;}
+table.agenda td.left2 {text-align:left; background-color:#fdfaec; color:#043502; width:15em; font-weight:bold; padding:0.5em; border:2px solid white; vertical-align:top;}
+table.agenda td.left {text-align:left; background-color:#fdfaec; color:#043502; font-weight:bold; padding:0.5em; border:2px solid white; vertical-align:top;}
+
+table.agenda td.data {text-align:center; background-color:#f7fbf7; color:#043502; border:2px solid white;}
+table.agenda td.data2 {text-align:left; padding:0.5em; background-color:#f7fbf7; color:#043502; border:2px solid white; vertical-align:top;}
+table.agenda td.data3 {text-align:right; padding:0.5em; background-color:#f7fbf7; color:#043502; border:2px solid white; vertical-align:top;}
+table.agenda td.shade {text-align:left; padding:0.5em; background-color:#ccc; color:#043502; border:2px solid white; vertical-align:top; }
+
+/*Temp Styles for the Mortgage and Foreclosure Pages*/
+     #main {
+            width: 700px;
+            float: left;
+            margin: 0 0 0 0;
+            padding: 0 15px 0 0; } /*This style wraps the left column of content*/
+
+/*---------- For Featured Items that aren't in a Carousel (but have the same border around them) ----------*/
+        /* Feature Box */
+        #feature-con {
+            margin: 0 0 1em 0;
+            float: left;
+            background-image: url(../gifjpg/box_gradient_bk.png);
+            background-repeat:repeat-x;
+            border: 5px double #dde2e5;
+            background-color: #f1f1f1; 
+            width: 100%;}
+        
+        #feature-con h3{
+            font-size: 20px;
+            font-weight: normal; }
+        
+        #feature-con p{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px; }
+        
+        #feature-con ul {
+            list-style:none;
+            display: block;
+            float: left;
+            padding:0;
+            margin:0;
+            width: 685px; }
+        
+        #feature-con ul li:first-child ul:first-child li:first-child{ 
+            border-right: #CCC .1em solid;
+            padding-right:5px; }
+        
+        #feature-con ul li {
+            float: left;
+            width: 320px;
+            display: block;
+            padding:0; 
+            height: 230px;}
+        
+        #feature-con .carousel li{
+            width:640px; }
+        
+        #feature-con ul li.action{
+            text-align:right;
+            padding:15px 0 15px 0; 
+            height: 30px;}
+            
+        #feature-con ul li.action span.banner{
+            text-align:left;
+            background-image:url(../gifjpg/PuzzlePiece_orange_tiny.png);
+            background-repeat:no-repeat;
+            background-position:7px 12px;
+            background-color:#DDE2E5;
+            border:#FFF solid 1px;
+            padding:10px 0 0 0;
+            margin:0;
+            height:30px;
+            width:315px;
+        }
+        #feature-con ul li.action span.banner a{
+            padding-left:40px;
+        }
+        #feature-con ul li.action.con_banner{
+            height:36px;
+        }
+        .textAlignRight{text-align:right}
+            
+        #feature-con ul li.action input[type="button"]{
+            margin-right:10px;
+            width:40px; }
+        
+        #feature-con ul li ul {
+            width: auto;
+            float:left;
+            padding: 0px; }
+        
+        #feature-con ul li span {
+    width: 60%;
+    float: left;
+    padding:0 1px 0px 0;
+    margin: 0px;
+    display: block;
+    height: 118px;
+}
+            
+        #feature-con ul li span h3{
+    display:block;
+    padding: 20px 0px 10px 10px;
+    margin:0;
+             }
+        
+        #feature-con ul li p {
+    width:auto;
+    margin:10px 0 0 0;
+    padding:0 0 10px 0;
+}
+        
+        
+        #feature-con img.workingPapers {
+            float: left;
+            padding:0 0 0px 0; }
+        
+        
+        #main #feature-con ul .feature {
+            padding: 10px 10px 0px;
+            height: auto; }
+/*---------- For Landing Page Layout ----------*/
+        
+        .alpha {margin: 0; float: left;}
+        
+        .omega {margin: 0; float: right;}
+        
+        #carousel {
+            width: 100%;
+            border: 3px solid #ccc;
+            margin: 10px 0 10px 0; }
+        
+        #features { width: 100%; padding: 0; margin: 0;}
+        
+        #features .column {
+            width: 325px;}
+        
+        #features .column h2 {
+            font-size: 1.6em;
+            font-family: "Times New Roman", Times, serif;
+            border-bottom: 1px solid #666;
+            margin: 0 0 .5em 0;
+            font-weight: normal; }
+        
+        #features .column h3 {
+            font-size: 1.5em;
+            font-family: "Times New Roman", Times, serif;
+            border: none;
+            margin: 1em 0 .5em 0;
+            font-weight: normal; }
+        /*each area in the columns is surrounded by an item class, that way we can add colors, borders, etc. in the future*/
+        #features .column .item {
+            margin: 0 0 1em 0;
+            padding: 0 0 0 0; 
+            width: 100%; }
+            
+        #features .column .item ul li.heading{
+            margin-left: -20px; } /*this was added to adjust the left maring of the callout gray "principal economic indicators titles on the stats landing page*/
+ 
+ 
+         /*--- List styles for lists with larger images and text - ex. All economists page, or DDP and FoF Guide features on Economic Research and Data Landing Page ---*/
+        ul.list3 {
+            list-style: none;
+            margin: 1em 0 1em 0;
+            width: 100%; }
+        
+        ul.list3 li {
+            width: 48%;
+            float: left;
+            padding: .75em 0 0 0; }
+        
+        ul.list3 li h4 {
+            font-family: "Times New Roman", Times, serif;
+            font-size: 1.2em;
+            font-weight: normal; }
+        
+        ul.list3 li h5 {
+            font-family: "Times New Roman", Times, serif;
+            font-size: 1.2em;
+            font-weight: normal; }
+        
+        ul.list3 img { float: left; vertical-align:middle; padding: 5px;}
+
+        ul.list3 img.exitIcon { float: none;}
+        
+        ul.list3 p {
+            font-size: .85em;
+            margin-left: 55px; }
+   
+/*--- For View More or View All Links ---*/
+            .more {
+                text-align:right;
+                font-style: italic;
+                font-size: .9em;
+                padding: 5px 0 0 0; 
+                display: block;}
+
+        .item #relatedInfo {
+            float: right;
+            width:190px;/*width: 170px;*/
+            margin: 0 0 0 0;
+            padding: 3px; 
+            background-image: url(../gifjpg/box_gradient_bk.png);
+            background-repeat:repeat-x;
+            border: 5px double #dde2e5;
+            background-color: #f1f1f1; } /*This style is for the right column of content*/
+            
+            .item #relatedInfo img{
+            float: left; vertical-align: middle;} /*This style is for the right column of content*/
+            
+            .item #relatedInfo h5{margin: 0 0 0 90px; padding: 5px;}
+                
+            ul.nobulletsnopadding li {padding: 5px 0 5px 0;}
